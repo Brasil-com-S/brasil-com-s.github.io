@@ -26,12 +26,11 @@
       2002,
       2003
     ],
-    "logo_url": "assets/logos/gavioes-da-fiel.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "Vou Te Levar Pro Infinito",
-        "compositores": "Araken, Luciano Costa, Renato do Pandeiro",
+        "compositores": "Araken, Luciano Costa",
         "interpretacao": "Ernesto Teixeira"
       }
     ],
@@ -42,6 +41,9 @@
         "posicao": 4,
         "pontos": 269.6
       }
-    ]
+    ],
+    "logo_url": "assets/logos/gavioes-da-fiel.svg",
+    "logo_svg_url": "assets/logos/gavioes-da-fiel.svg",
+    "logo_png_url": "assets/logos/gavioes-da-fiel.png"
   }
 }

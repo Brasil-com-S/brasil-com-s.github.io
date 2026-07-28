@@ -41,36 +41,35 @@
       2016,
       2019
     ],
-    "logo_url": "assets/logos/mangueira.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "A Black Apenas: A Música Que Move a Alma",
-        "compositores": "Lequinho, Junior Fionda, Gabriel Machado",
+        "compositores": "Lequinho, Junior Fionda",
         "interpretacao": "Marquinho Art'Samba"
       },
       {
         "ano": 2019,
         "titulo": "História pra Ninar Gente Grande",
-        "compositores": "Deivid Domênico, Tomaz Miranda, Mama, Luiz Carlos Máximo",
+        "compositores": "Deivid Domênico, Tomaz Miranda",
         "interpretacao": "Marquinho Art'Samba"
       },
       {
         "ano": 2016,
         "titulo": "Maria Bethânia: A Menina dos Olhos de Oyá",
-        "compositores": "Alemão do Cavaco, Almyr Senna, Cadu, Lacyr D'Mangueira",
-        "interpretacao": "Cinnara Leal, Marquinho Art'Samba"
+        "compositores": "Alemão do Cavaco, Almyr Senna",
+        "interpretacao": "Cinnara Leal"
       },
       {
         "ano": 2002,
-        "titulo": "Brazil com 'Z' é pra Gringo de Fechar os Olhos. Brasil com 'S' é pra Você Viu!",
+        "titulo": "Brazil com 'Z' é pra Gringo. Brasil com 'S' é pra Você!",
         "compositores": "Amendoim, Lequinho",
         "interpretacao": "Jamelão"
       },
       {
         "ano": 1984,
         "titulo": "Yes, Nós Temos Braguinha",
-        "compositores": "Hélio Turco, Jurandir, Comprido, Artheme, Jodo",
+        "compositores": "Hélio Turco, Jurandir",
         "interpretacao": "Jamelão"
       }
     ],
@@ -105,6 +104,9 @@
         "posicao": 1,
         "pontos": 269.8
       }
-    ]
+    ],
+    "logo_url": "assets/logos/mangueira.svg",
+    "logo_svg_url": "assets/logos/mangueira.svg",
+    "logo_png_url": "assets/logos/mangueira.png"
   }
 }

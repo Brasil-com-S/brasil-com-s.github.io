@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <linearGradient id="bgGrad_aguia-de-ouro" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1976D2" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+    <filter id="shadow_aguia-de-ouro" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <circle cx="250" cy="250" r="230" fill="url(#bgGrad_aguia-de-ouro)" stroke="#FFD700" stroke-width="12" filter="url(#shadow_aguia-de-ouro)" />
+  <circle cx="250" cy="250" r="195" fill="none" stroke="#FFD700" stroke-width="4" stroke-dasharray="8 6"/>
+  <path d="M 180 170 L 210 220 L 250 160 L 290 220 L 320 170 L 330 250 L 170 250 Z" fill="#FFD700" />
+  <circle cx="180" cy="165" r="8" fill="#FFF"/>
+  <circle cx="250" cy="155" r="10" fill="#FFF"/>
+  <circle cx="320" cy="165" r="8" fill="#FFF"/>
+  <text x="250" y="310" font-family="sans-serif" font-weight="900" font-size="22" fill="#FFFFFF" text-anchor="middle">ÁGUIA DE OURO</text>
+  <text x="250" y="345" font-family="sans-serif" font-weight="700" font-size="18" fill="#FFD700" text-anchor="middle">SÃO PAULO</text>
+  <text x="250" y="380" font-family="sans-serif" font-weight="600" font-size="14" fill="#E0E0E0" text-anchor="middle">FUNDADA EM 1976</text>
+</svg>

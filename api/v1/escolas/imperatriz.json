@@ -33,18 +33,17 @@
       2001,
       2023
     ],
-    "logo_url": "assets/logos/imperatriz.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
-        "titulo": "Com a Sorte Virada pra Lua Segundo o Testamento da Cigana Esmeralda",
-        "compositores": "Meumel, Gabriel Coelho, Luiz Brinco",
+        "titulo": "Com a Sorte Virada pra Lua",
+        "compositores": "Meumel, Gabriel Coelho",
         "interpretacao": "Pitty de Menezes"
       },
       {
         "ano": 2023,
-        "titulo": "O Aperreio do Cabra Que o Excomungado Tratou com Má-Criação e o Santíssimo Com Benevolência",
-        "compositores": "Meumel, Gabriel Coelho, Luiz Brinco",
+        "titulo": "O Aperreio do Cabra Que o Excomungado Tratou com Má-Criação",
+        "compositores": "Meumel, Gabriel Coelho",
         "interpretacao": "Pitty de Menezes"
       }
     ],
@@ -61,6 +60,9 @@
         "posicao": 1,
         "pontos": 269.8
       }
-    ]
+    ],
+    "logo_url": "assets/logos/imperatriz.svg",
+    "logo_svg_url": "assets/logos/imperatriz.svg",
+    "logo_png_url": "assets/logos/imperatriz.png"
   }
 }

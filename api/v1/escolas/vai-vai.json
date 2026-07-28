@@ -36,18 +36,17 @@
       2011,
       2015
     ],
-    "logo_url": "assets/logos/vai-vai.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "Capítulo 4, Versículo 3 – Da Seita ao Princípio",
-        "compositores": "Dinei, Darlan Alves, Rodrigo Atômico",
+        "compositores": "Dinei, Darlan Alves",
         "interpretacao": "Luiz Felipe"
       },
       {
         "ano": 2015,
         "titulo": "Simplesmente Elis - A Fábula de Uma Voz Que Voou",
-        "compositores": "Zeca do Cavaco, Zé Carlinhos, Ronaldinho",
+        "compositores": "Zeca do Cavaco",
         "interpretacao": "Wander Pires"
       }
     ],
@@ -64,6 +63,9 @@
         "posicao": 1,
         "pontos": 269.9
       }
-    ]
+    ],
+    "logo_url": "assets/logos/vai-vai.svg",
+    "logo_svg_url": "assets/logos/vai-vai.svg",
+    "logo_png_url": "assets/logos/vai-vai.png"
   }
 }

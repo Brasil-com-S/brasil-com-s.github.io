@@ -36,18 +36,17 @@
       2023,
       2024
     ],
-    "logo_url": "assets/logos/mocidade-alegre.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
-        "titulo": "Brasiléia Desvairada: A Busca de Mário de Andrade pelo País",
-        "compositores": "Biro Biro, Turko, Rafa Do Cavaco",
+        "titulo": "Brasiléia Desvairada",
+        "compositores": "Biro Biro, Turko",
         "interpretacao": "Igor Sorriso"
       },
       {
         "ano": 2023,
         "titulo": "Yasuke",
-        "compositores": "Márcio André, Aquiles da Vila, Fabiano Sorriso",
+        "compositores": "Márcio André, Aquiles da Vila",
         "interpretacao": "Igor Sorriso"
       }
     ],
@@ -64,6 +63,9 @@
         "posicao": 1,
         "pontos": 270.0
       }
-    ]
+    ],
+    "logo_url": "assets/logos/mocidade-alegre.svg",
+    "logo_svg_url": "assets/logos/mocidade-alegre.svg",
+    "logo_png_url": "assets/logos/mocidade-alegre.png"
   }
 }

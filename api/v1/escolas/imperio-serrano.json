@@ -30,7 +30,6 @@
       1972,
       1982
     ],
-    "logo_url": "assets/logos/imperio-serrano.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
@@ -46,6 +45,9 @@
         "posicao": 2,
         "pontos": 269.8
       }
-    ]
+    ],
+    "logo_url": "assets/logos/imperio-serrano.svg",
+    "logo_svg_url": "assets/logos/imperio-serrano.svg",
+    "logo_png_url": "assets/logos/imperio-serrano.png"
   }
 }

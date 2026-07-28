@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total": 12,
+    "total": 20,
     "grupo": "Grupo Especial"
   },
   "escolas": [
@@ -45,36 +45,35 @@
         2016,
         2019
       ],
-      "logo_url": "assets/logos/mangueira.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "A Black Apenas: A Música Que Move a Alma",
-          "compositores": "Lequinho, Junior Fionda, Gabriel Machado",
+          "compositores": "Lequinho, Junior Fionda",
           "interpretacao": "Marquinho Art'Samba"
         },
         {
           "ano": 2019,
           "titulo": "História pra Ninar Gente Grande",
-          "compositores": "Deivid Domênico, Tomaz Miranda, Mama, Luiz Carlos Máximo",
+          "compositores": "Deivid Domênico, Tomaz Miranda",
           "interpretacao": "Marquinho Art'Samba"
         },
         {
           "ano": 2016,
           "titulo": "Maria Bethânia: A Menina dos Olhos de Oyá",
-          "compositores": "Alemão do Cavaco, Almyr Senna, Cadu, Lacyr D'Mangueira",
-          "interpretacao": "Cinnara Leal, Marquinho Art'Samba"
+          "compositores": "Alemão do Cavaco, Almyr Senna",
+          "interpretacao": "Cinnara Leal"
         },
         {
           "ano": 2002,
-          "titulo": "Brazil com 'Z' é pra Gringo de Fechar os Olhos. Brasil com 'S' é pra Você Viu!",
+          "titulo": "Brazil com 'Z' é pra Gringo. Brasil com 'S' é pra Você!",
           "compositores": "Amendoim, Lequinho",
           "interpretacao": "Jamelão"
         },
         {
           "ano": 1984,
           "titulo": "Yes, Nós Temos Braguinha",
-          "compositores": "Hélio Turco, Jurandir, Comprido, Artheme, Jodo",
+          "compositores": "Hélio Turco, Jurandir",
           "interpretacao": "Jamelão"
         }
       ],
@@ -109,7 +108,10 @@
           "posicao": 1,
           "pontos": 269.8
         }
-      ]
+      ],
+      "logo_url": "assets/logos/mangueira.svg",
+      "logo_svg_url": "assets/logos/mangueira.svg",
+      "logo_png_url": "assets/logos/mangueira.png"
     },
     {
       "id": "portela",
@@ -155,18 +157,17 @@
         1984,
         2017
       ],
-      "logo_url": "assets/logos/portela.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "Um Defeito de Cor",
-          "compositores": "Rafael Gigante, Vinicius Ferreira, Wanderley Monteiro",
+          "compositores": "Rafael Gigante, Vinicius Ferreira",
           "interpretacao": "Gilsinho"
         },
         {
           "ano": 2017,
           "titulo": "Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar?",
-          "compositores": "Samir Trindade, Elson Ramires, Neyzinho do Cavaco",
+          "compositores": "Samir Trindade, Elson Ramires",
           "interpretacao": "Gilsinho"
         },
         {
@@ -195,7 +196,10 @@
           "posicao": 1,
           "pontos": 269.9
         }
-      ]
+      ],
+      "logo_url": "assets/logos/portela.svg",
+      "logo_svg_url": "assets/logos/portela.svg",
+      "logo_png_url": "assets/logos/portela.png"
     },
     {
       "id": "beija-flor",
@@ -232,24 +236,23 @@
         2015,
         2018
       ],
-      "logo_url": "assets/logos/beija-flor.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "Um Delírio de Carnaval na Maceió de Rás Gonguila",
-          "compositores": "Kirizinho, Lucas Guedes, Marquinhos da Hora",
+          "compositores": "Kirizinho, Lucas Guedes",
           "interpretacao": "Nego"
         },
         {
           "ano": 2018,
-          "titulo": "Monstro É Aquele Que Não Sabe Amar. Os Filhos Abandonados da Pátria Que Os Pariu",
-          "compositores": "Di Menor FM, Kirizinho, Diego Oliveira",
-          "interpretacao": "Nego, Samir Trindade"
+          "titulo": "Monstro É Aquele Que Não Sabe Amar",
+          "compositores": "Di Menor FM, Kirizinho",
+          "interpretacao": "Nego"
         },
         {
           "ano": 1989,
           "titulo": "Ratos e Urubus, Comprem Meu Vazio",
-          "compositores": "Glyvis, Betinho, Zé Maria",
+          "compositores": "Glyvis, Betinho",
           "interpretacao": "Nego"
         }
       ],
@@ -266,7 +269,10 @@
           "posicao": 1,
           "pontos": 269.6
         }
-      ]
+      ],
+      "logo_url": "assets/logos/beija-flor.svg",
+      "logo_svg_url": "assets/logos/beija-flor.svg",
+      "logo_png_url": "assets/logos/beija-flor.png"
     },
     {
       "id": "salgueiro",
@@ -299,24 +305,23 @@
         1993,
         2009
       ],
-      "logo_url": "assets/logos/salgueiro.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "Hutukara",
-          "compositores": "Pedrinho da Rocha, Marcelo Adnet, Guilherme Sá",
+          "compositores": "Pedrinho da Rocha, Marcelo Adnet",
           "interpretacao": "Emerson Dias"
         },
         {
           "ano": 2009,
           "titulo": "Tambor",
-          "compositores": "Moisés Santiago, Paulo Shell, Leandro Thompson",
+          "compositores": "Moisés Santiago, Paulo Shell",
           "interpretacao": "Quinho"
         },
         {
           "ano": 1993,
           "titulo": "Peguei Um Ita no Norte",
-          "compositores": "Demá Chagas, Arizão, Celso Trindade, Bala",
+          "compositores": "Demá Chagas, Arizão",
           "interpretacao": "Quinho"
         }
       ],
@@ -333,7 +338,10 @@
           "posicao": 1,
           "pontos": 270.0
         }
-      ]
+      ],
+      "logo_url": "assets/logos/salgueiro.svg",
+      "logo_svg_url": "assets/logos/salgueiro.svg",
+      "logo_png_url": "assets/logos/salgueiro.png"
     },
     {
       "id": "viradouro",
@@ -360,24 +368,23 @@
         2020,
         2024
       ],
-      "logo_url": "assets/logos/viradouro.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "Arroboboi Dangbé",
-          "compositores": "Claudio Mattos, Julio Alves, Thiago Meiners, Manolo",
+          "compositores": "Claudio Mattos, Julio Alves",
           "interpretacao": "Zé Paulo Sierra"
         },
         {
           "ano": 2020,
           "titulo": "Viradouro de Alma Lavada",
-          "compositores": "Claudio Mattos, Yuri Silva, Robinho, Flavinho Avellar",
+          "compositores": "Claudio Mattos, Yuri Silva",
           "interpretacao": "Zé Paulo Sierra"
         },
         {
           "ano": 1997,
           "titulo": "Trevas! Luz! A Explosão do Universo",
-          "compositores": "Dominguinhos do Estácio, Dom Panides, Geraldo",
+          "compositores": "Dominguinhos do Estácio",
           "interpretacao": "Dominguinhos do Estácio"
         }
       ],
@@ -400,7 +407,10 @@
           "posicao": 1,
           "pontos": 269.6
         }
-      ]
+      ],
+      "logo_url": "assets/logos/viradouro.svg",
+      "logo_svg_url": "assets/logos/viradouro.svg",
+      "logo_png_url": "assets/logos/viradouro.png"
     },
     {
       "id": "imperatriz",
@@ -435,18 +445,17 @@
         2001,
         2023
       ],
-      "logo_url": "assets/logos/imperatriz.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
-          "titulo": "Com a Sorte Virada pra Lua Segundo o Testamento da Cigana Esmeralda",
-          "compositores": "Meumel, Gabriel Coelho, Luiz Brinco",
+          "titulo": "Com a Sorte Virada pra Lua",
+          "compositores": "Meumel, Gabriel Coelho",
           "interpretacao": "Pitty de Menezes"
         },
         {
           "ano": 2023,
-          "titulo": "O Aperreio do Cabra Que o Excomungado Tratou com Má-Criação e o Santíssimo Com Benevolência",
-          "compositores": "Meumel, Gabriel Coelho, Luiz Brinco",
+          "titulo": "O Aperreio do Cabra Que o Excomungado Tratou com Má-Criação",
+          "compositores": "Meumel, Gabriel Coelho",
           "interpretacao": "Pitty de Menezes"
         }
       ],
@@ -463,7 +472,10 @@
           "posicao": 1,
           "pontos": 269.8
         }
-      ]
+      ],
+      "logo_url": "assets/logos/imperatriz.svg",
+      "logo_svg_url": "assets/logos/imperatriz.svg",
+      "logo_png_url": "assets/logos/imperatriz.png"
     },
     {
       "id": "grande-rio",
@@ -490,18 +502,17 @@
       "anos_titulos": [
         2022
       ],
-      "logo_url": "assets/logos/grande-rio.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "Nos Nosso Tambores, A Voz de Tupinambá",
-          "compositores": "Derico, Igor Leal, Robson Moratelli",
+          "compositores": "Derico, Igor Leal",
           "interpretacao": "Evandro Malandro"
         },
         {
           "ano": 2022,
           "titulo": "Fala, Majeté! Sete Chaves de Exu",
-          "compositores": "Gustavo Clarão, Arlindinho Cruz, Jr. Fragga, Claudio Mattos",
+          "compositores": "Gustavo Clarão, Arlindinho Cruz",
           "interpretacao": "Evandro Malandro"
         }
       ],
@@ -518,7 +529,10 @@
           "posicao": 1,
           "pontos": 269.9
         }
-      ]
+      ],
+      "logo_url": "assets/logos/grande-rio.svg",
+      "logo_svg_url": "assets/logos/grande-rio.svg",
+      "logo_png_url": "assets/logos/grande-rio.png"
     },
     {
       "id": "vila-isabel",
@@ -545,7 +559,6 @@
         2006,
         2013
       ],
-      "logo_url": "assets/logos/vila-isabel.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
@@ -555,8 +568,8 @@
         },
         {
           "ano": 2013,
-          "titulo": "A Vila Canta o Brasil Celeiro do Mundo - Água no Feijão Que Chegou Mais Um",
-          "compositores": "Martinho da Vila, Arlindo Cruz, André Diniz",
+          "titulo": "A Vila Canta o Brasil Celeiro do Mundo",
+          "compositores": "Martinho da Vila, Arlindo Cruz",
           "interpretacao": "Tingua"
         }
       ],
@@ -573,7 +586,164 @@
           "posicao": 1,
           "pontos": 299.7
         }
-      ]
+      ],
+      "logo_url": "assets/logos/vila-isabel.svg",
+      "logo_svg_url": "assets/logos/vila-isabel.svg",
+      "logo_png_url": "assets/logos/vila-isabel.png"
+    },
+    {
+      "id": "mocidade-independente",
+      "slug": "mocidade-independente",
+      "nome": "Mocidade Independente de Padre Miguel",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Mocidade Independente de Padre Miguel",
+      "fundacao": "1955-11-10",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Padre Miguel",
+      "grupo": "Especial",
+      "cores": [
+        "Verde",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#008000",
+        "#FFFFFF"
+      ],
+      "simbolo": "Estrela Guia",
+      "titulos": 6,
+      "anos_titulos": [
+        1979,
+        1985,
+        1990,
+        1991,
+        1996,
+        2017
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Pede Caju Que Dou... Pé de Caju Que Dá!",
+          "compositores": "Paulinho Mocidade, Diego Nicolau",
+          "interpretacao": "Zé Paulo Sierra"
+        },
+        {
+          "ano": 2017,
+          "titulo": "Elza Deusa Soares",
+          "compositores": "Gonzaguinha, Jefinho Rodrigues",
+          "interpretacao": "Wander Pires"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 10,
+          "pontos": 267.9
+        },
+        {
+          "ano": 2017,
+          "grupo": "Especial",
+          "posicao": 1,
+          "pontos": 269.8
+        }
+      ],
+      "logo_url": "assets/logos/mocidade-independente.svg",
+      "logo_svg_url": "assets/logos/mocidade-independente.svg",
+      "logo_png_url": "assets/logos/mocidade-independente.png"
+    },
+    {
+      "id": "paraiso-do-tuiuti",
+      "slug": "paraiso-do-tuiuti",
+      "nome": "Paraíso do Tuiuti",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Paraíso do Tuiuti",
+      "fundacao": "1952-04-05",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "São Cristóvão",
+      "grupo": "Especial",
+      "cores": [
+        "Azul",
+        "Amarelo"
+      ],
+      "cores_hex": [
+        "#1976D2",
+        "#FFEB3B"
+      ],
+      "simbolo": "Corona e Lira",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Kituco: A Filosofia do Samba",
+          "compositores": "Claudio Russo, Moacyr Luz",
+          "interpretacao": "Pixulé"
+        },
+        {
+          "ano": 2018,
+          "titulo": "Meu Deus, Meu Deus, Está Extinta a Escravidão?",
+          "compositores": "Claudio Russo, Moacyr Luz",
+          "interpretacao": "Canto do Tuiuti"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 9,
+          "pontos": 268.3
+        },
+        {
+          "ano": 2018,
+          "grupo": "Especial",
+          "posicao": 2,
+          "pontos": 269.5
+        }
+      ],
+      "logo_url": "assets/logos/paraiso-do-tuiuti.svg",
+      "logo_svg_url": "assets/logos/paraiso-do-tuiuti.svg",
+      "logo_png_url": "assets/logos/paraiso-do-tuiuti.png"
+    },
+    {
+      "id": "unidos-de-padre-miguel",
+      "slug": "unidos-de-padre-miguel",
+      "nome": "Unidos de Padre Miguel",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Unidos de Padre Miguel",
+      "fundacao": "1957-11-12",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Padre Miguel",
+      "grupo": "Especial",
+      "cores": [
+        "Vermelho",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#D32F2F",
+        "#FFFFFF"
+      ],
+      "simbolo": "Boi Vermelho",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "O Redentor do Sertão",
+          "compositores": "Claudio Russo, Junior Fionda",
+          "interpretacao": "Bruno Ribas"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Série Ouro (Acesso)",
+          "posicao": 1,
+          "pontos": 270.0
+        }
+      ],
+      "logo_url": "assets/logos/unidos-de-padre-miguel.svg",
+      "logo_svg_url": "assets/logos/unidos-de-padre-miguel.svg",
+      "logo_png_url": "assets/logos/unidos-de-padre-miguel.png"
     },
     {
       "id": "vai-vai",
@@ -611,18 +781,17 @@
         2011,
         2015
       ],
-      "logo_url": "assets/logos/vai-vai.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "Capítulo 4, Versículo 3 – Da Seita ao Princípio",
-          "compositores": "Dinei, Darlan Alves, Rodrigo Atômico",
+          "compositores": "Dinei, Darlan Alves",
           "interpretacao": "Luiz Felipe"
         },
         {
           "ano": 2015,
           "titulo": "Simplesmente Elis - A Fábula de Uma Voz Que Voou",
-          "compositores": "Zeca do Cavaco, Zé Carlinhos, Ronaldinho",
+          "compositores": "Zeca do Cavaco",
           "interpretacao": "Wander Pires"
         }
       ],
@@ -639,7 +808,10 @@
           "posicao": 1,
           "pontos": 269.9
         }
-      ]
+      ],
+      "logo_url": "assets/logos/vai-vai.svg",
+      "logo_svg_url": "assets/logos/vai-vai.svg",
+      "logo_png_url": "assets/logos/vai-vai.png"
     },
     {
       "id": "mocidade-alegre",
@@ -677,18 +849,17 @@
         2023,
         2024
       ],
-      "logo_url": "assets/logos/mocidade-alegre.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
-          "titulo": "Brasiléia Desvairada: A Busca de Mário de Andrade pelo País",
-          "compositores": "Biro Biro, Turko, Rafa Do Cavaco",
+          "titulo": "Brasiléia Desvairada",
+          "compositores": "Biro Biro, Turko",
           "interpretacao": "Igor Sorriso"
         },
         {
           "ano": 2023,
           "titulo": "Yasuke",
-          "compositores": "Márcio André, Aquiles da Vila, Fabiano Sorriso",
+          "compositores": "Márcio André, Aquiles da Vila",
           "interpretacao": "Igor Sorriso"
         }
       ],
@@ -705,7 +876,10 @@
           "posicao": 1,
           "pontos": 270.0
         }
-      ]
+      ],
+      "logo_url": "assets/logos/mocidade-alegre.svg",
+      "logo_svg_url": "assets/logos/mocidade-alegre.svg",
+      "logo_png_url": "assets/logos/mocidade-alegre.png"
     },
     {
       "id": "gavioes-da-fiel",
@@ -733,12 +907,11 @@
         2002,
         2003
       ],
-      "logo_url": "assets/logos/gavioes-da-fiel.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "Vou Te Levar Pro Infinito",
-          "compositores": "Araken, Luciano Costa, Renato do Pandeiro",
+          "compositores": "Araken, Luciano Costa",
           "interpretacao": "Ernesto Teixeira"
         }
       ],
@@ -749,7 +922,10 @@
           "posicao": 4,
           "pontos": 269.6
         }
-      ]
+      ],
+      "logo_url": "assets/logos/gavioes-da-fiel.svg",
+      "logo_svg_url": "assets/logos/gavioes-da-fiel.svg",
+      "logo_png_url": "assets/logos/gavioes-da-fiel.png"
     },
     {
       "id": "dragoes-da-real",
@@ -774,7 +950,6 @@
       "simbolo": "Dragão Alado",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/dragoes-da-real.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
@@ -790,7 +965,237 @@
           "posicao": 2,
           "pontos": 269.9
         }
-      ]
+      ],
+      "logo_url": "assets/logos/dragoes-da-real.svg",
+      "logo_svg_url": "assets/logos/dragoes-da-real.svg",
+      "logo_png_url": "assets/logos/dragoes-da-real.png"
+    },
+    {
+      "id": "imperio-de-casa-verde",
+      "slug": "imperio-de-casa-verde",
+      "nome": "Império de Casa Verde",
+      "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Império de Casa Verde",
+      "fundacao": "1994-02-27",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Casa Verde",
+      "grupo": "Especial",
+      "cores": [
+        "Azul",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#0288D1",
+        "#FFFFFF"
+      ],
+      "simbolo": "Tigre de Casa Verde",
+      "titulos": 3,
+      "anos_titulos": [
+        2005,
+        2006,
+        2016
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Fafá de Belém: A Voz que Canta a Amazônia",
+          "compositores": "Turko, Leo Reis",
+          "interpretacao": "Tingua"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 3,
+          "pontos": 269.6
+        }
+      ],
+      "logo_url": "assets/logos/imperio-de-casa-verde.svg",
+      "logo_svg_url": "assets/logos/imperio-de-casa-verde.svg",
+      "logo_png_url": "assets/logos/imperio-de-casa-verde.png"
+    },
+    {
+      "id": "academicos-do-tatuape",
+      "slug": "academicos-do-tatuape",
+      "nome": "Acadêmicos do Tatuapé",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Tatuapé",
+      "fundacao": "1952-10-26",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Tatuapé",
+      "grupo": "Especial",
+      "cores": [
+        "Azul",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#1565C0",
+        "#FFFFFF"
+      ],
+      "simbolo": "Pássaro Azul",
+      "titulos": 2,
+      "anos_titulos": [
+        2017,
+        2018
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Mata Atlântica: O Bioma Mais Rico do Planeta",
+          "compositores": "Fabiano Tennor",
+          "interpretacao": "Celsinho Mody"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 5,
+          "pontos": 269.5
+        }
+      ],
+      "logo_url": "assets/logos/academicos-do-tatuape.svg",
+      "logo_svg_url": "assets/logos/academicos-do-tatuape.svg",
+      "logo_png_url": "assets/logos/academicos-do-tatuape.png"
+    },
+    {
+      "id": "mancha-verde",
+      "slug": "mancha-verde",
+      "nome": "Mancha Verde",
+      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Mancha Verde",
+      "fundacao": "1995-10-18",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Barra Funda",
+      "grupo": "Especial",
+      "cores": [
+        "Verde",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#2E7D32",
+        "#FFFFFF"
+      ],
+      "simbolo": "Mascote Palmeiras",
+      "titulos": 2,
+      "anos_titulos": [
+        2019,
+        2022
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Do Nosso Solo Para o Mundo",
+          "compositores": "Wanderley Monteiro",
+          "interpretacao": "Fredy Vianna"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 6,
+          "pontos": 269.5
+        }
+      ],
+      "logo_url": "assets/logos/mancha-verde.svg",
+      "logo_svg_url": "assets/logos/mancha-verde.svg",
+      "logo_png_url": "assets/logos/mancha-verde.png"
+    },
+    {
+      "id": "rosas-de-ouro",
+      "slug": "rosas-de-ouro",
+      "nome": "Rosas de Ouro",
+      "nome_completo": "Sociedade Rosas de Ouro",
+      "fundacao": "1971-10-18",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Freguesia do Ó",
+      "grupo": "Especial",
+      "cores": [
+        "Azul",
+        "Rosa",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#0288D1",
+        "#FF69B4",
+        "#FFFFFF"
+      ],
+      "simbolo": "Três Rosas Douradas",
+      "titulos": 7,
+      "anos_titulos": [
+        1983,
+        1984,
+        1990,
+        1991,
+        1992,
+        1994,
+        2010
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "IBIRA 70 - A Festa da Vida no Parque de SP",
+          "compositores": "Aquiles da Vila",
+          "interpretacao": "Royce do Cavaco"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 11,
+          "pontos": 269.1
+        }
+      ],
+      "logo_url": "assets/logos/rosas-de-ouro.svg",
+      "logo_svg_url": "assets/logos/rosas-de-ouro.svg",
+      "logo_png_url": "assets/logos/rosas-de-ouro.png"
+    },
+    {
+      "id": "aguia-de-ouro",
+      "slug": "aguia-de-ouro",
+      "nome": "Águia de Ouro",
+      "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Águia de Ouro",
+      "fundacao": "1976-05-09",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Pompeia",
+      "grupo": "Especial",
+      "cores": [
+        "Azul",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#1976D2",
+        "#FFFFFF"
+      ],
+      "simbolo": "Águia Dourada",
+      "titulos": 1,
+      "anos_titulos": [
+        2020
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Águia de Ouro nas Terras de Radioatividade",
+          "compositores": "Márcio Pesi",
+          "interpretacao": "Douglani"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 10,
+          "pontos": 269.1
+        }
+      ],
+      "logo_url": "assets/logos/aguia-de-ouro.svg",
+      "logo_svg_url": "assets/logos/aguia-de-ouro.svg",
+      "logo_png_url": "assets/logos/aguia-de-ouro.png"
     }
   ]
 }

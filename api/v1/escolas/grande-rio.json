@@ -25,18 +25,17 @@
     "anos_titulos": [
       2022
     ],
-    "logo_url": "assets/logos/grande-rio.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "Nos Nosso Tambores, A Voz de Tupinambá",
-        "compositores": "Derico, Igor Leal, Robson Moratelli",
+        "compositores": "Derico, Igor Leal",
         "interpretacao": "Evandro Malandro"
       },
       {
         "ano": 2022,
         "titulo": "Fala, Majeté! Sete Chaves de Exu",
-        "compositores": "Gustavo Clarão, Arlindinho Cruz, Jr. Fragga, Claudio Mattos",
+        "compositores": "Gustavo Clarão, Arlindinho Cruz",
         "interpretacao": "Evandro Malandro"
       }
     ],
@@ -53,6 +52,9 @@
         "posicao": 1,
         "pontos": 269.9
       }
-    ]
+    ],
+    "logo_url": "assets/logos/grande-rio.svg",
+    "logo_svg_url": "assets/logos/grande-rio.svg",
+    "logo_png_url": "assets/logos/grande-rio.png"
   }
 }

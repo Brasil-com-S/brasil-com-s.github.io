@@ -23,7 +23,6 @@
     "simbolo": "Sol e Mar",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/uniao-da-ilha.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
@@ -39,6 +38,9 @@
         "posicao": 4,
         "pontos": 269.4
       }
-    ]
+    ],
+    "logo_url": "assets/logos/uniao-da-ilha.svg",
+    "logo_svg_url": "assets/logos/uniao-da-ilha.svg",
+    "logo_png_url": "assets/logos/uniao-da-ilha.png"
   }
 }

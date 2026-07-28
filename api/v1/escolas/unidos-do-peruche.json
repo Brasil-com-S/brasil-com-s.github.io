@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "data": {
+    "id": "unidos-do-peruche",
+    "slug": "unidos-do-peruche",
+    "nome": "Unidos do Peruche",
+    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Unidos do Peruche",
+    "fundacao": "1956-01-04",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Parque Peruche",
+    "grupo": "Acesso",
+    "cores": [
+      "Verde",
+      "Amarelo",
+      "Preto",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#388E3C",
+      "#FFEB3B",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "simbolo": "Vovó do Peruche",
+    "titulos": 5,
+    "anos_titulos": [
+      1962,
+      1965,
+      1966,
+      1967,
+      1973
+    ],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Peruche 68 Anos de Glória",
+        "compositores": "Toninho Penteado",
+        "interpretacao": "Alex Soares"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Acesso 2",
+        "posicao": 2,
+        "pontos": 269.4
+      }
+    ],
+    "logo_url": "assets/logos/unidos-do-peruche.svg",
+    "logo_svg_url": "assets/logos/unidos-do-peruche.svg",
+    "logo_png_url": "assets/logos/unidos-do-peruche.png"
+  }
+}

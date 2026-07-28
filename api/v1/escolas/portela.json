@@ -44,18 +44,17 @@
       1984,
       2017
     ],
-    "logo_url": "assets/logos/portela.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "Um Defeito de Cor",
-        "compositores": "Rafael Gigante, Vinicius Ferreira, Wanderley Monteiro",
+        "compositores": "Rafael Gigante, Vinicius Ferreira",
         "interpretacao": "Gilsinho"
       },
       {
         "ano": 2017,
         "titulo": "Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar?",
-        "compositores": "Samir Trindade, Elson Ramires, Neyzinho do Cavaco",
+        "compositores": "Samir Trindade, Elson Ramires",
         "interpretacao": "Gilsinho"
       },
       {
@@ -84,6 +83,9 @@
         "posicao": 1,
         "pontos": 269.9
       }
-    ]
+    ],
+    "logo_url": "assets/logos/portela.svg",
+    "logo_svg_url": "assets/logos/portela.svg",
+    "logo_png_url": "assets/logos/portela.png"
   }
 }

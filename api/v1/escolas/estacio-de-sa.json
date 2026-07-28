@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "data": {
+    "id": "estacio-de-sa",
+    "slug": "estacio-de-sa",
+    "nome": "Estácio de Sá",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Estácio de Sá",
+    "fundacao": "1927-08-12",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Estácio",
+    "grupo": "Acesso",
+    "cores": [
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#C62828",
+      "#FFFFFF"
+    ],
+    "simbolo": "Leão",
+    "titulos": 1,
+    "anos_titulos": [
+      1992
+    ],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Chão de Devoção: O Terço dos Pretos Velhos",
+        "compositores": "Julio Alves, Claudio Russo",
+        "interpretacao": "Tシャー"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro (Acesso)",
+        "posicao": 3,
+        "pontos": 269.6
+      }
+    ],
+    "logo_url": "assets/logos/estacio-de-sa.svg",
+    "logo_svg_url": "assets/logos/estacio-de-sa.svg",
+    "logo_png_url": "assets/logos/estacio-de-sa.png"
+  }
+}

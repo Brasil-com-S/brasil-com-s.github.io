@@ -33,12 +33,11 @@
       1985,
       2001
     ],
-    "logo_url": "assets/logos/nene-de-vila-matilde.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "Circo Macabro: O Show Não Pode Parar",
-        "compositores": "Kadu, Nilson, Portuga",
+        "compositores": "Kadu, Nilson",
         "interpretacao": "Agnaldo Amaral"
       }
     ],
@@ -49,6 +48,9 @@
         "posicao": 3,
         "pontos": 269.1
       }
-    ]
+    ],
+    "logo_url": "assets/logos/nene-de-vila-matilde.svg",
+    "logo_svg_url": "assets/logos/nene-de-vila-matilde.svg",
+    "logo_png_url": "assets/logos/nene-de-vila-matilde.png"
   }
 }

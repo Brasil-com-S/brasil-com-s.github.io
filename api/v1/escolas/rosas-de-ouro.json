@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "data": {
+    "id": "rosas-de-ouro",
+    "slug": "rosas-de-ouro",
+    "nome": "Rosas de Ouro",
+    "nome_completo": "Sociedade Rosas de Ouro",
+    "fundacao": "1971-10-18",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Freguesia do Ó",
+    "grupo": "Especial",
+    "cores": [
+      "Azul",
+      "Rosa",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#0288D1",
+      "#FF69B4",
+      "#FFFFFF"
+    ],
+    "simbolo": "Três Rosas Douradas",
+    "titulos": 7,
+    "anos_titulos": [
+      1983,
+      1984,
+      1990,
+      1991,
+      1992,
+      1994,
+      2010
+    ],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "IBIRA 70 - A Festa da Vida no Parque de SP",
+        "compositores": "Aquiles da Vila",
+        "interpretacao": "Royce do Cavaco"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 11,
+        "pontos": 269.1
+      }
+    ],
+    "logo_url": "assets/logos/rosas-de-ouro.svg",
+    "logo_svg_url": "assets/logos/rosas-de-ouro.svg",
+    "logo_png_url": "assets/logos/rosas-de-ouro.png"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "data": {
+    "id": "inocentes-de-belford-roxo",
+    "slug": "inocentes-de-belford-roxo",
+    "nome": "Inocentes de Belford Roxo",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Inocentes de Belford Roxo",
+    "fundacao": "1993-12-12",
+    "estado": "RJ",
+    "cidade": "Belford Roxo",
+    "bairro": "São Vicente",
+    "grupo": "Acesso",
+    "cores": [
+      "Azul",
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#0288D1",
+      "#D32F2F",
+      "#FFFFFF"
+    ],
+    "simbolo": "Pomba da Paz",
+    "titulos": 0,
+    "anos_titulos": [],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Debret Pintou o Brasil",
+        "compositores": "Claudio Russo",
+        "interpretacao": "Nêgo"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro (Acesso)",
+        "posicao": 6,
+        "pontos": 268.7
+      }
+    ],
+    "logo_url": "assets/logos/inocentes-de-belford-roxo.svg",
+    "logo_svg_url": "assets/logos/inocentes-de-belford-roxo.svg",
+    "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png"
+  }
+}

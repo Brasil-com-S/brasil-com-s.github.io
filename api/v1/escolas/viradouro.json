@@ -25,24 +25,23 @@
       2020,
       2024
     ],
-    "logo_url": "assets/logos/viradouro.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "Arroboboi Dangbé",
-        "compositores": "Claudio Mattos, Julio Alves, Thiago Meiners, Manolo",
+        "compositores": "Claudio Mattos, Julio Alves",
         "interpretacao": "Zé Paulo Sierra"
       },
       {
         "ano": 2020,
         "titulo": "Viradouro de Alma Lavada",
-        "compositores": "Claudio Mattos, Yuri Silva, Robinho, Flavinho Avellar",
+        "compositores": "Claudio Mattos, Yuri Silva",
         "interpretacao": "Zé Paulo Sierra"
       },
       {
         "ano": 1997,
         "titulo": "Trevas! Luz! A Explosão do Universo",
-        "compositores": "Dominguinhos do Estácio, Dom Panides, Geraldo",
+        "compositores": "Dominguinhos do Estácio",
         "interpretacao": "Dominguinhos do Estácio"
       }
     ],
@@ -65,6 +64,9 @@
         "posicao": 1,
         "pontos": 269.6
       }
-    ]
+    ],
+    "logo_url": "assets/logos/viradouro.svg",
+    "logo_svg_url": "assets/logos/viradouro.svg",
+    "logo_png_url": "assets/logos/viradouro.png"
   }
 }

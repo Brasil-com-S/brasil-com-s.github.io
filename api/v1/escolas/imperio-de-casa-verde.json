@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "data": {
+    "id": "imperio-de-casa-verde",
+    "slug": "imperio-de-casa-verde",
+    "nome": "Império de Casa Verde",
+    "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Império de Casa Verde",
+    "fundacao": "1994-02-27",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Casa Verde",
+    "grupo": "Especial",
+    "cores": [
+      "Azul",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#0288D1",
+      "#FFFFFF"
+    ],
+    "simbolo": "Tigre de Casa Verde",
+    "titulos": 3,
+    "anos_titulos": [
+      2005,
+      2006,
+      2016
+    ],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Fafá de Belém: A Voz que Canta a Amazônia",
+        "compositores": "Turko, Leo Reis",
+        "interpretacao": "Tingua"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 3,
+        "pontos": 269.6
+      }
+    ],
+    "logo_url": "assets/logos/imperio-de-casa-verde.svg",
+    "logo_svg_url": "assets/logos/imperio-de-casa-verde.svg",
+    "logo_png_url": "assets/logos/imperio-de-casa-verde.png"
+  }
+}

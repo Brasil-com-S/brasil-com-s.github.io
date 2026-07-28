@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "data": {
+    "id": "perola-negra",
+    "slug": "perola-negra",
+    "nome": "Pérola Negra",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Pérola Negra",
+    "fundacao": "1973-08-07",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Vila Madalena",
+    "grupo": "Acesso",
+    "cores": [
+      "Vermelho",
+      "Preto",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#D32F2F",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "simbolo": "Pérola Negra",
+    "titulos": 0,
+    "anos_titulos": [],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Pérola Negra Conta o Folclore",
+        "compositores": "Jairinho",
+        "interpretacao": "Daniel Collete"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Acesso 1",
+        "posicao": 5,
+        "pontos": 268.8
+      }
+    ],
+    "logo_url": "assets/logos/perola-negra.svg",
+    "logo_svg_url": "assets/logos/perola-negra.svg",
+    "logo_png_url": "assets/logos/perola-negra.png"
+  }
+}

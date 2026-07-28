@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "data": {
+    "id": "mocidade-independente",
+    "slug": "mocidade-independente",
+    "nome": "Mocidade Independente de Padre Miguel",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Mocidade Independente de Padre Miguel",
+    "fundacao": "1955-11-10",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Padre Miguel",
+    "grupo": "Especial",
+    "cores": [
+      "Verde",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#008000",
+      "#FFFFFF"
+    ],
+    "simbolo": "Estrela Guia",
+    "titulos": 6,
+    "anos_titulos": [
+      1979,
+      1985,
+      1990,
+      1991,
+      1996,
+      2017
+    ],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Pede Caju Que Dou... Pé de Caju Que Dá!",
+        "compositores": "Paulinho Mocidade, Diego Nicolau",
+        "interpretacao": "Zé Paulo Sierra"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Elza Deusa Soares",
+        "compositores": "Gonzaguinha, Jefinho Rodrigues",
+        "interpretacao": "Wander Pires"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 10,
+        "pontos": 267.9
+      },
+      {
+        "ano": 2017,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 269.8
+      }
+    ],
+    "logo_url": "assets/logos/mocidade-independente.svg",
+    "logo_svg_url": "assets/logos/mocidade-independente.svg",
+    "logo_png_url": "assets/logos/mocidade-independente.png"
+  }
+}

@@ -23,7 +23,6 @@
     "simbolo": "Dragão Alado",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/dragoes-da-real.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
@@ -39,6 +38,9 @@
         "posicao": 2,
         "pontos": 269.9
       }
-    ]
+    ],
+    "logo_url": "assets/logos/dragoes-da-real.svg",
+    "logo_svg_url": "assets/logos/dragoes-da-real.svg",
+    "logo_png_url": "assets/logos/dragoes-da-real.png"
   }
 }

@@ -1,9 +1,52 @@
 {
   "metadata": {
-    "total": 3,
+    "total": 8,
     "grupo": "Grupo de Acesso"
   },
   "escolas": [
+    {
+      "id": "estacio-de-sa",
+      "slug": "estacio-de-sa",
+      "nome": "Estácio de Sá",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Estácio de Sá",
+      "fundacao": "1927-08-12",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Estácio",
+      "grupo": "Acesso",
+      "cores": [
+        "Vermelho",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#C62828",
+        "#FFFFFF"
+      ],
+      "simbolo": "Leão",
+      "titulos": 1,
+      "anos_titulos": [
+        1992
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Chão de Devoção: O Terço dos Pretos Velhos",
+          "compositores": "Julio Alves, Claudio Russo",
+          "interpretacao": "Tシャー"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Série Ouro (Acesso)",
+          "posicao": 3,
+          "pontos": 269.6
+        }
+      ],
+      "logo_url": "assets/logos/estacio-de-sa.svg",
+      "logo_svg_url": "assets/logos/estacio-de-sa.svg",
+      "logo_png_url": "assets/logos/estacio-de-sa.png"
+    },
     {
       "id": "imperio-serrano",
       "slug": "imperio-serrano",
@@ -34,7 +77,6 @@
         1972,
         1982
       ],
-      "logo_url": "assets/logos/imperio-serrano.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
@@ -50,7 +92,10 @@
           "posicao": 2,
           "pontos": 269.8
         }
-      ]
+      ],
+      "logo_url": "assets/logos/imperio-serrano.svg",
+      "logo_svg_url": "assets/logos/imperio-serrano.svg",
+      "logo_png_url": "assets/logos/imperio-serrano.png"
     },
     {
       "id": "uniao-da-ilha",
@@ -75,7 +120,6 @@
       "simbolo": "Sol e Mar",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/uniao-da-ilha.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
@@ -91,7 +135,94 @@
           "posicao": 4,
           "pontos": 269.4
         }
-      ]
+      ],
+      "logo_url": "assets/logos/uniao-da-ilha.svg",
+      "logo_svg_url": "assets/logos/uniao-da-ilha.svg",
+      "logo_png_url": "assets/logos/uniao-da-ilha.png"
+    },
+    {
+      "id": "sao-clemente",
+      "slug": "sao-clemente",
+      "nome": "São Clemente",
+      "nome_completo": "Grêmio Recreativo Escola de Samba São Clemente",
+      "fundacao": "1951-10-25",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Botafogo",
+      "grupo": "Acesso",
+      "cores": [
+        "Preto",
+        "Amarelo"
+      ],
+      "cores_hex": [
+        "#000000",
+        "#FFEB3B"
+      ],
+      "simbolo": "Pássaro de Botafogo",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Que Zé É Esse?",
+          "compositores": "Marcelo Adnet, Claudio Russo",
+          "interpretacao": "Leozinho"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Série Ouro (Acesso)",
+          "posicao": 7,
+          "pontos": 268.2
+        }
+      ],
+      "logo_url": "assets/logos/sao-clemente.svg",
+      "logo_svg_url": "assets/logos/sao-clemente.svg",
+      "logo_png_url": "assets/logos/sao-clemente.png"
+    },
+    {
+      "id": "inocentes-de-belford-roxo",
+      "slug": "inocentes-de-belford-roxo",
+      "nome": "Inocentes de Belford Roxo",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Inocentes de Belford Roxo",
+      "fundacao": "1993-12-12",
+      "estado": "RJ",
+      "cidade": "Belford Roxo",
+      "bairro": "São Vicente",
+      "grupo": "Acesso",
+      "cores": [
+        "Azul",
+        "Vermelho",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#0288D1",
+        "#D32F2F",
+        "#FFFFFF"
+      ],
+      "simbolo": "Pomba da Paz",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Debret Pintou o Brasil",
+          "compositores": "Claudio Russo",
+          "interpretacao": "Nêgo"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Série Ouro (Acesso)",
+          "posicao": 6,
+          "pontos": 268.7
+        }
+      ],
+      "logo_url": "assets/logos/inocentes-de-belford-roxo.svg",
+      "logo_svg_url": "assets/logos/inocentes-de-belford-roxo.svg",
+      "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png"
     },
     {
       "id": "nene-de-vila-matilde",
@@ -126,12 +257,11 @@
         1985,
         2001
       ],
-      "logo_url": "assets/logos/nene-de-vila-matilde.svg",
       "sambas_enredo": [
         {
           "ano": 2024,
           "titulo": "Circo Macabro: O Show Não Pode Parar",
-          "compositores": "Kadu, Nilson, Portuga",
+          "compositores": "Kadu, Nilson",
           "interpretacao": "Agnaldo Amaral"
         }
       ],
@@ -142,7 +272,104 @@
           "posicao": 3,
           "pontos": 269.1
         }
-      ]
+      ],
+      "logo_url": "assets/logos/nene-de-vila-matilde.svg",
+      "logo_svg_url": "assets/logos/nene-de-vila-matilde.svg",
+      "logo_png_url": "assets/logos/nene-de-vila-matilde.png"
+    },
+    {
+      "id": "perola-negra",
+      "slug": "perola-negra",
+      "nome": "Pérola Negra",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Pérola Negra",
+      "fundacao": "1973-08-07",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Vila Madalena",
+      "grupo": "Acesso",
+      "cores": [
+        "Vermelho",
+        "Preto",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#D32F2F",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "simbolo": "Pérola Negra",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Pérola Negra Conta o Folclore",
+          "compositores": "Jairinho",
+          "interpretacao": "Daniel Collete"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Acesso 1",
+          "posicao": 5,
+          "pontos": 268.8
+        }
+      ],
+      "logo_url": "assets/logos/perola-negra.svg",
+      "logo_svg_url": "assets/logos/perola-negra.svg",
+      "logo_png_url": "assets/logos/perola-negra.png"
+    },
+    {
+      "id": "unidos-do-peruche",
+      "slug": "unidos-do-peruche",
+      "nome": "Unidos do Peruche",
+      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Unidos do Peruche",
+      "fundacao": "1956-01-04",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Parque Peruche",
+      "grupo": "Acesso",
+      "cores": [
+        "Verde",
+        "Amarelo",
+        "Preto",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#388E3C",
+        "#FFEB3B",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "simbolo": "Vovó do Peruche",
+      "titulos": 5,
+      "anos_titulos": [
+        1962,
+        1965,
+        1966,
+        1967,
+        1973
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Peruche 68 Anos de Glória",
+          "compositores": "Toninho Penteado",
+          "interpretacao": "Alex Soares"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Acesso 2",
+          "posicao": 2,
+          "pontos": 269.4
+        }
+      ],
+      "logo_url": "assets/logos/unidos-do-peruche.svg",
+      "logo_svg_url": "assets/logos/unidos-do-peruche.svg",
+      "logo_png_url": "assets/logos/unidos-do-peruche.png"
     }
   ]
 }

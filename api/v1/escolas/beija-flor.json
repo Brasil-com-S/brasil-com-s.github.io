@@ -35,24 +35,23 @@
       2015,
       2018
     ],
-    "logo_url": "assets/logos/beija-flor.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "Um Delírio de Carnaval na Maceió de Rás Gonguila",
-        "compositores": "Kirizinho, Lucas Guedes, Marquinhos da Hora",
+        "compositores": "Kirizinho, Lucas Guedes",
         "interpretacao": "Nego"
       },
       {
         "ano": 2018,
-        "titulo": "Monstro É Aquele Que Não Sabe Amar. Os Filhos Abandonados da Pátria Que Os Pariu",
-        "compositores": "Di Menor FM, Kirizinho, Diego Oliveira",
-        "interpretacao": "Nego, Samir Trindade"
+        "titulo": "Monstro É Aquele Que Não Sabe Amar",
+        "compositores": "Di Menor FM, Kirizinho",
+        "interpretacao": "Nego"
       },
       {
         "ano": 1989,
         "titulo": "Ratos e Urubus, Comprem Meu Vazio",
-        "compositores": "Glyvis, Betinho, Zé Maria",
+        "compositores": "Glyvis, Betinho",
         "interpretacao": "Nego"
       }
     ],
@@ -69,6 +68,9 @@
         "posicao": 1,
         "pontos": 269.6
       }
-    ]
+    ],
+    "logo_url": "assets/logos/beija-flor.svg",
+    "logo_svg_url": "assets/logos/beija-flor.svg",
+    "logo_png_url": "assets/logos/beija-flor.png"
   }
 }

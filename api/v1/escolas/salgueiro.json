@@ -31,24 +31,23 @@
       1993,
       2009
     ],
-    "logo_url": "assets/logos/salgueiro.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
         "titulo": "Hutukara",
-        "compositores": "Pedrinho da Rocha, Marcelo Adnet, Guilherme Sá",
+        "compositores": "Pedrinho da Rocha, Marcelo Adnet",
         "interpretacao": "Emerson Dias"
       },
       {
         "ano": 2009,
         "titulo": "Tambor",
-        "compositores": "Moisés Santiago, Paulo Shell, Leandro Thompson",
+        "compositores": "Moisés Santiago, Paulo Shell",
         "interpretacao": "Quinho"
       },
       {
         "ano": 1993,
         "titulo": "Peguei Um Ita no Norte",
-        "compositores": "Demá Chagas, Arizão, Celso Trindade, Bala",
+        "compositores": "Demá Chagas, Arizão",
         "interpretacao": "Quinho"
       }
     ],
@@ -65,6 +64,9 @@
         "posicao": 1,
         "pontos": 270.0
       }
-    ]
+    ],
+    "logo_url": "assets/logos/salgueiro.svg",
+    "logo_svg_url": "assets/logos/salgueiro.svg",
+    "logo_png_url": "assets/logos/salgueiro.png"
   }
 }

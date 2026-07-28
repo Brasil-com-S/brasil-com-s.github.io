@@ -25,7 +25,6 @@
       2006,
       2013
     ],
-    "logo_url": "assets/logos/vila-isabel.svg",
     "sambas_enredo": [
       {
         "ano": 2024,
@@ -35,8 +34,8 @@
       },
       {
         "ano": 2013,
-        "titulo": "A Vila Canta o Brasil Celeiro do Mundo - Água no Feijão Que Chegou Mais Um",
-        "compositores": "Martinho da Vila, Arlindo Cruz, André Diniz",
+        "titulo": "A Vila Canta o Brasil Celeiro do Mundo",
+        "compositores": "Martinho da Vila, Arlindo Cruz",
         "interpretacao": "Tingua"
       }
     ],
@@ -53,6 +52,9 @@
         "posicao": 1,
         "pontos": 299.7
       }
-    ]
+    ],
+    "logo_url": "assets/logos/vila-isabel.svg",
+    "logo_svg_url": "assets/logos/vila-isabel.svg",
+    "logo_png_url": "assets/logos/vila-isabel.png"
   }
 }
