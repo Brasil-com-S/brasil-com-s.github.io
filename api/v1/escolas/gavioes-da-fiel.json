@@ -32,6 +32,30 @@
         "titulo": "Vou Te Levar Pro Infinito",
         "compositores": "Araken, Luciano Costa",
         "interpretacao": "Ernesto Teixeira"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Cinco Quatros de Sol, A Fiel É Tradição",
+        "compositores": "Grego, Magal",
+        "interpretacao": "Ernesto Teixeira"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Xingu - O Templo Sagrado do Sol",
+        "compositores": "Grego, Magal",
+        "interpretacao": "Ernesto Teixeira"
+      },
+      {
+        "ano": 1999,
+        "titulo": "O Sabor da Paixão",
+        "compositores": "Grego, Magal",
+        "interpretacao": "Ernesto Teixeira"
+      },
+      {
+        "ano": 1995,
+        "titulo": "Coisa Boa É Para Sempre",
+        "compositores": "Grego, Magal",
+        "interpretacao": "Ernesto Teixeira"
       }
     ],
     "colocacoes": [
@@ -39,11 +63,45 @@
         "ano": 2024,
         "grupo": "Especial",
         "posicao": 4,
-        "pontos": 269.6
+        "pontos": 269.6,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "CAMPEÃ"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "CAMPEÃ"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "CAMPEÃ"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "CAMPEÃ (1º Título)"
       }
     ],
-    "logo_url": "assets/logos/gavioes-da-fiel.svg",
+    "logo_url": "assets/logos/gavioes-da-fiel.png",
     "logo_svg_url": "assets/logos/gavioes-da-fiel.svg",
-    "logo_png_url": "assets/logos/gavioes-da-fiel.png"
+    "logo_png_url": "assets/logos/gavioes-da-fiel.png",
+    "fundadores": [
+      "Flávio La Selva",
+      "Chico de Paula",
+      "Juca Kfouri (apoiador histórico)"
+    ]
   }
 }
