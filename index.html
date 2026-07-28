@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brasil Com S - API Cultural Aberta & Escolas de Samba</title>
+  <meta name="description" content="API aberta e gratuita de dados da cultura brasileira. Endpoint online com brasões em alta qualidade, histórico de sambas-enredo e colocações das escolas de samba de RJ e SP.">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🇧🇷</text></svg>">
+</head>
+<body>
+
+  <!-- Header / Navigation -->
+  <header class="header">
+    <div class="nav-container">
+      <a href="#" class="brand">
+        <div class="brand-badge">S</div>
+        <div>Brasil <span class="accent">Com S</span></div>
+      </a>
+      <ul class="nav-links">
+        <li><a href="#playground">API Explorer</a></li>
+        <li><a href="#diretorio">Escolas de Samba</a></li>
+        <li><a href="#documentacao">Documentação</a></li>
+        <li>
+          <a href="https://github.com/brasil-com-s" target="_blank" class="btn-github">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+            GitHub Org
+          </a>
+        </li>
+      </ul>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-tag">
+      <span>🇧🇷 Organização Brasil Com S</span> &bull; <span>API v1.0 Disponível</span>
+    </div>
+    <h1>Plataforma de Consulta Aberta da <span class="highlight">Cultura Brasileira</span></h1>
+    <p class="hero-subtitle">
+      Fornecemos APIs simples, públicas e de alta performance servidas diretamente pelo GitHub Pages. Nosso primeiro endpoint reúne brasões em alta qualidade, fundação, colocações e histórico de sambas-enredo das escolas de samba de RJ e SP.
+    </p>
+
+    <div class="hero-actions">
+      <a href="#playground" class="btn-primary">Testar API no Explorer</a>
+      <a href="#diretorio" class="btn-secondary">Explorar Escolas de Samba</a>
+    </div>
+
+    <!-- Live Statistics Counter -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-number" id="statTotal">15</div>
+        <div class="stat-label">Escolas de Samba (RJ & SP)</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="statSambas">30+</div>
+        <div class="stat-label">Sambas-Enredo Cadastrados</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="statTitulos">115+</div>
+        <div class="stat-label">Títulos de Carnaval Registrados</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">100%</div>
+        <div class="stat-label">Gratuito & Código Aberto</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Interactive API Explorer / Playground -->
+  <section class="section" id="playground">
+    <div class="section-title">
+      <h2>Interactive API Explorer</h2>
+      <p>Teste os endpoints estáticos online diretamente no navegador e visualize os dados em tempo real.</p>
+    </div>
+
+    <div class="explorer-card">
+      <div class="explorer-header">
+        <div class="endpoint-selector">
+          <span class="method-tag">GET</span>
+          <select id="endpointSelect" class="endpoint-select">
+            <option value="api/v1/escolas.json">/api/v1/escolas.json (Todas as escolas RJ + SP)</option>
+            <option value="api/v1/escolas/rj.json">/api/v1/escolas/rj.json (Apenas Rio de Janeiro)</option>
+            <option value="api/v1/escolas/sp.json">/api/v1/escolas/sp.json (Apenas São Paulo)</option>
+            <option value="api/v1/escolas/especial.json">/api/v1/escolas/especial.json (Grupo Especial)</option>
+            <option value="api/v1/escolas/acesso.json">/api/v1/escolas/acesso.json (Grupos de Acesso)</option>
+            <option value="api/v1/escolas/mangueira.json">/api/v1/escolas/mangueira.json (Estação Primeira de Mangueira)</option>
+            <option value="api/v1/escolas/portela.json">/api/v1/escolas/portela.json (Portela)</option>
+            <option value="api/v1/escolas/beija-flor.json">/api/v1/escolas/beija-flor.json (Beija-Flor de Nilópolis)</option>
+            <option value="api/v1/escolas/vai-vai.json">/api/v1/escolas/vai-vai.json (Vai-Vai SP)</option>
+            <option value="api/v1/carnavais/2024.json">/api/v1/carnavais/2024.json (Resultados Carnaval 2024)</option>
+          </select>
+        </div>
+        <button id="btnSend" class="btn-send">Executar Requisição</button>
+      </div>
+
+      <div class="explorer-body">
+        <div class="code-container">
+          <button id="btnCopy" class="btn-copy">Copiar JSON</button>
+          <pre id="codeOutput">// Selecione um endpoint acima para visualizar o resultado...</pre>
+        </div>
+        <div class="visual-preview" id="visualPreview">
+          <p style="color: #94A3B8;">Aguardando requisição...</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section: Samba Schools Directory -->
+  <section class="section" id="diretorio">
+    <div class="section-title">
+      <h2>Catálogo de Escolas de Samba</h2>
+      <p>Consulte dados de fundação, brasões em alta resolução, histórico de títulos e colocações.</p>
+    </div>
+
+    <!-- Filter Bar -->
+    <div class="filter-bar">
+      <input type="text" id="searchInput" class="search-input" placeholder="🔍 Buscar por nome, bairro ou cidade...">
+      <div class="filter-buttons">
+        <button class="filter-btn active" data-filter="all">Todas</button>
+        <button class="filter-btn" data-filter="rj">Rio de Janeiro</button>
+        <button class="filter-btn" data-filter="sp">São Paulo</button>
+        <button class="filter-btn" data-filter="especial">Grupo Especial</button>
+        <button class="filter-btn" data-filter="acesso">Grupo de Acesso</button>
+      </div>
+    </div>
+
+    <!-- Cards Grid -->
+    <div class="schools-grid" id="schoolsGrid">
+      <!-- Generated via JS -->
+    </div>
+  </section>
+
+  <!-- Section: Developer Documentation -->
+  <section class="section" id="documentacao">
+    <div class="section-title">
+      <h2>Documentação para Desenvolvedores</h2>
+      <p>Como integrar a API brasil-com-s na sua aplicação Web, Mobile ou projetos acadêmicos.</p>
+    </div>
+
+    <div style="background: var(--bg-card); border: 1px solid var(--border-card); border-radius: var(--radius-lg); padding: 2.5rem;">
+      <h3 style="font-family: var(--font-heading); font-size: 1.5rem; color: var(--primary-gold); margin-bottom: 1rem;">Exemplos de Integração</h3>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
+        <div>
+          <h4 style="margin-bottom: 0.5rem; color: #60A5FA;">JavaScript (Fetch / Node.js)</h4>
+          <pre style="background: var(--code-bg); padding: 1rem; border-radius: var(--radius-sm); font-family: var(--font-code); font-size: 0.82rem; color: #e6edf3; overflow-x: auto;">
+fetch('https://brasil-com-s.github.io/api/v1/escolas/rj.json')
+  .then(res => res.json())
+  .then(data => console.log(data.escolas));
+          </pre>
+        </div>
+
+        <div>
+          <h4 style="margin-bottom: 0.5rem; color: #00A859;">Python (Requests)</h4>
+          <pre style="background: var(--code-bg); padding: 1rem; border-radius: var(--radius-sm); font-family: var(--font-code); font-size: 0.82rem; color: #e6edf3; overflow-x: auto;">
+import requests
+
+url = "https://brasil-com-s.github.io/api/v1/escolas/mangueira.json"
+response = requests.get(url).json()
+print(response['data']['titulos'])
+          </pre>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Modal Component for Details -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-content">
+      <button class="modal-close" id="modalClose">&times;</button>
+      <div id="modalBody">
+        <!-- Rendered via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-logo">Brasil <span style="color: var(--primary-gold);">Com S</span></div>
+    <p style="color: var(--text-muted); max-width: 600px; margin: 0 auto 1.5rem; font-size: 0.95rem;">
+      Ferramentas abertas e gratuitas para tornar a consulta sobre a cultura e a história do Brasil fácil e acessível a todos.
+    </p>
+    <ul class="footer-links">
+      <li><a href="#playground">API Explorer</a></li>
+      <li><a href="#diretorio">Escolas de Samba</a></li>
+      <li><a href="https://github.com/brasil-com-s" target="_blank">Organização GitHub</a></li>
+    </ul>
+    <p class="copyright">&copy; 2026 Brasil Com S. Dados Abertos e Licença MIT.</p>
+  </footer>
+
+  <script src="js/api-explorer.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

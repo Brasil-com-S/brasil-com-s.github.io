@@ -1,0 +1,110 @@
+{
+  "status": "success",
+  "data": {
+    "id": "mangueira",
+    "slug": "mangueira",
+    "nome": "Estação Primeira de Mangueira",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Estação Primeira de Mangueira",
+    "fundacao": "1928-04-28",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Mangueira",
+    "grupo": "Especial",
+    "cores": [
+      "Verde",
+      "Rosa"
+    ],
+    "cores_hex": [
+      "#008000",
+      "#FF69B4"
+    ],
+    "simbolo": "Surdo e Coroa Imperial",
+    "titulos": 20,
+    "anos_titulos": [
+      1932,
+      1933,
+      1934,
+      1940,
+      1949,
+      1950,
+      1954,
+      1960,
+      1961,
+      1967,
+      1968,
+      1973,
+      1984,
+      1986,
+      1987,
+      1998,
+      2002,
+      2016,
+      2019
+    ],
+    "logo_url": "assets/logos/mangueira.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "A Black Apenas: A Música Que Move a Alma",
+        "compositores": "Lequinho, Junior Fionda, Gabriel Machado",
+        "interpretacao": "Marquinho Art'Samba"
+      },
+      {
+        "ano": 2019,
+        "titulo": "História pra Ninar Gente Grande",
+        "compositores": "Deivid Domênico, Tomaz Miranda, Mama, Luiz Carlos Máximo",
+        "interpretacao": "Marquinho Art'Samba"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Maria Bethânia: A Menina dos Olhos de Oyá",
+        "compositores": "Alemão do Cavaco, Almyr Senna, Cadu, Lacyr D'Mangueira",
+        "interpretacao": "Cinnara Leal, Marquinho Art'Samba"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Brazil com 'Z' é pra Gringo de Fechar os Olhos. Brasil com 'S' é pra Você Viu!",
+        "compositores": "Amendoim, Lequinho",
+        "interpretacao": "Jamelão"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Yes, Nós Temos Braguinha",
+        "compositores": "Hélio Turco, Jurandir, Comprido, Artheme, Jodo",
+        "interpretacao": "Jamelão"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 7,
+        "pontos": 268.8
+      },
+      {
+        "ano": 2023,
+        "grupo": "Especial",
+        "posicao": 5,
+        "pontos": 269.1
+      },
+      {
+        "ano": 2020,
+        "grupo": "Especial",
+        "posicao": 6,
+        "pontos": 268.9
+      },
+      {
+        "ano": 2019,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 270.0
+      },
+      {
+        "ano": 2016,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 269.8
+      }
+    ]
+  }
+}

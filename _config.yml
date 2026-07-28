@@ -1,0 +1,16 @@
+title: "Brasil Com S - API Cultural & Escolas de Samba"
+description: "Ferramentas simples e abertas sobre cultura brasileira. Dados completos e logos em alta definição de escolas de samba do Rio de Janeiro e São Paulo."
+url: "https://brasil-com-s.github.io"
+baseurl: ""
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+include:
+  - api
+
+defaults:
+  - scope:
+      path: "api"
+    values:
+      layout: null

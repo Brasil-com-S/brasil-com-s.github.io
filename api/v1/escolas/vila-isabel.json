@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "data": {
+    "id": "vila-isabel",
+    "slug": "vila-isabel",
+    "nome": "Unidos de Vila Isabel",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Unidos de Vila Isabel",
+    "fundacao": "1946-04-04",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Vila Isabel",
+    "grupo": "Especial",
+    "cores": [
+      "Azul",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#0288D1",
+      "#FFFFFF"
+    ],
+    "simbolo": "Partitura Musical e Noel Rosa",
+    "titulos": 3,
+    "anos_titulos": [
+      1988,
+      2006,
+      2013
+    ],
+    "logo_url": "assets/logos/vila-isabel.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Gbala - Viagem ao Temple da Criação",
+        "compositores": "Martinho da Vila",
+        "interpretacao": "Tingua"
+      },
+      {
+        "ano": 2013,
+        "titulo": "A Vila Canta o Brasil Celeiro do Mundo - Água no Feijão Que Chegou Mais Um",
+        "compositores": "Martinho da Vila, Arlindo Cruz, André Diniz",
+        "interpretacao": "Tingua"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 6,
+        "pontos": 268.9
+      },
+      {
+        "ano": 2013,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 299.7
+      }
+    ]
+  }
+}

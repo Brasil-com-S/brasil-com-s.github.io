@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "data": {
+    "id": "beija-flor",
+    "slug": "beija-flor",
+    "nome": "Beija-Flor de Nilópolis",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Beija-Flor de Nilópolis",
+    "fundacao": "1948-12-25",
+    "estado": "RJ",
+    "cidade": "Nilópolis",
+    "bairro": "Centro",
+    "grupo": "Especial",
+    "cores": [
+      "Azul",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#002366",
+      "#FFFFFF"
+    ],
+    "simbolo": "Beija-Flor",
+    "titulos": 14,
+    "anos_titulos": [
+      1976,
+      1977,
+      1978,
+      1983,
+      1998,
+      2003,
+      2004,
+      2005,
+      2007,
+      2008,
+      2011,
+      2015,
+      2018
+    ],
+    "logo_url": "assets/logos/beija-flor.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Um Delírio de Carnaval na Maceió de Rás Gonguila",
+        "compositores": "Kirizinho, Lucas Guedes, Marquinhos da Hora",
+        "interpretacao": "Nego"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Monstro É Aquele Que Não Sabe Amar. Os Filhos Abandonados da Pátria Que Os Pariu",
+        "compositores": "Di Menor FM, Kirizinho, Diego Oliveira",
+        "interpretacao": "Nego, Samir Trindade"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Ratos e Urubus, Comprem Meu Vazio",
+        "compositores": "Glyvis, Betinho, Zé Maria",
+        "interpretacao": "Nego"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 8,
+        "pontos": 268.5
+      },
+      {
+        "ano": 2018,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 269.6
+      }
+    ]
+  }
+}

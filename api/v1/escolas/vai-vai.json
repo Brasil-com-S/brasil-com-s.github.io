@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "data": {
+    "id": "vai-vai",
+    "slug": "vai-vai",
+    "nome": "Vai-Vai",
+    "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Vai-Vai",
+    "fundacao": "1930-01-01",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Bela Vista (Bixiga)",
+    "grupo": "Especial",
+    "cores": [
+      "Preto",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "simbolo": "Harpa e Coroa",
+    "titulos": 15,
+    "anos_titulos": [
+      1978,
+      1981,
+      1982,
+      1986,
+      1987,
+      1988,
+      1993,
+      1996,
+      1998,
+      1999,
+      2000,
+      2008,
+      2011,
+      2015
+    ],
+    "logo_url": "assets/logos/vai-vai.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Capítulo 4, Versículo 3 – Da Seita ao Princípio",
+        "compositores": "Dinei, Darlan Alves, Rodrigo Atômico",
+        "interpretacao": "Luiz Felipe"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Simplesmente Elis - A Fábula de Uma Voz Que Voou",
+        "compositores": "Zeca do Cavaco, Zé Carlinhos, Ronaldinho",
+        "interpretacao": "Wander Pires"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 8,
+        "pontos": 269.4
+      },
+      {
+        "ano": 2015,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 269.9
+      }
+    ]
+  }
+}

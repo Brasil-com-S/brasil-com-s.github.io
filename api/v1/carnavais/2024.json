@@ -1,0 +1,37 @@
+{
+  "ano": 2024,
+  "campeã_rj": "Unidos do Viradouro",
+  "campeã_sp": "Mocidade Alegre",
+  "resultados": [
+    {
+      "escola": "Unidos do Viradouro",
+      "estado": "RJ",
+      "posicao": 1,
+      "pontos": 270.0
+    },
+    {
+      "escola": "Imperatriz Leopoldinense",
+      "estado": "RJ",
+      "posicao": 2,
+      "pontos": 269.8
+    },
+    {
+      "escola": "Acadêmicos do Grande Rio",
+      "estado": "RJ",
+      "posicao": 3,
+      "pontos": 269.3
+    },
+    {
+      "escola": "Mocidade Alegre",
+      "estado": "SP",
+      "posicao": 1,
+      "pontos": 270.0
+    },
+    {
+      "escola": "Dragões da Real",
+      "estado": "SP",
+      "posicao": 2,
+      "pontos": 269.9
+    }
+  ]
+}

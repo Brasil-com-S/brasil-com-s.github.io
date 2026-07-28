@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "data": {
+    "id": "imperio-serrano",
+    "slug": "imperio-serrano",
+    "nome": "Império Serrano",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Império Serrano",
+    "fundacao": "1947-03-23",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Madureira",
+    "grupo": "Acesso",
+    "cores": [
+      "Verde",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#2E7D32",
+      "#FFFFFF"
+    ],
+    "simbolo": "Coroa Imperial",
+    "titulos": 9,
+    "anos_titulos": [
+      1948,
+      1949,
+      1950,
+      1951,
+      1956,
+      1960,
+      1972,
+      1982
+    ],
+    "logo_url": "assets/logos/imperio-serrano.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Ilú-Ọba Ọ̀yọ́: A Gira dos Orixás",
+        "compositores": "Aluizio Machado, Henrique Hoffmann",
+        "interpretacao": "Nêgo"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro (Acesso)",
+        "posicao": 2,
+        "pontos": 269.8
+      }
+    ]
+  }
+}

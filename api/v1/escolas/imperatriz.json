@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "data": {
+    "id": "imperatriz",
+    "slug": "imperatriz",
+    "nome": "Imperatriz Leopoldinense",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Imperatriz Leopoldinense",
+    "fundacao": "1959-03-06",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Ramos",
+    "grupo": "Especial",
+    "cores": [
+      "Verde",
+      "Branco",
+      "Ouro"
+    ],
+    "cores_hex": [
+      "#2E7D32",
+      "#FFFFFF",
+      "#FFD700"
+    ],
+    "simbolo": "Coroa da Imperatriz",
+    "titulos": 9,
+    "anos_titulos": [
+      1980,
+      1981,
+      1989,
+      1994,
+      1995,
+      1999,
+      2000,
+      2001,
+      2023
+    ],
+    "logo_url": "assets/logos/imperatriz.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Com a Sorte Virada pra Lua Segundo o Testamento da Cigana Esmeralda",
+        "compositores": "Meumel, Gabriel Coelho, Luiz Brinco",
+        "interpretacao": "Pitty de Menezes"
+      },
+      {
+        "ano": 2023,
+        "titulo": "O Aperreio do Cabra Que o Excomungado Tratou com Má-Criação e o Santíssimo Com Benevolência",
+        "compositores": "Meumel, Gabriel Coelho, Luiz Brinco",
+        "interpretacao": "Pitty de Menezes"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 2,
+        "pontos": 269.8
+      },
+      {
+        "ano": 2023,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 269.8
+      }
+    ]
+  }
+}

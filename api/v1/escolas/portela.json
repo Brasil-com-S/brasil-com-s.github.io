@@ -1,0 +1,89 @@
+{
+  "status": "success",
+  "data": {
+    "id": "portela",
+    "slug": "portela",
+    "nome": "Portela",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Portela",
+    "fundacao": "1923-04-11",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Madureira",
+    "grupo": "Especial",
+    "cores": [
+      "Azul",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#0047AB",
+      "#FFFFFF"
+    ],
+    "simbolo": "Águia Majestosa",
+    "titulos": 22,
+    "anos_titulos": [
+      1935,
+      1939,
+      1941,
+      1942,
+      1943,
+      1944,
+      1945,
+      1946,
+      1947,
+      1951,
+      1953,
+      1957,
+      1958,
+      1959,
+      1960,
+      1962,
+      1964,
+      1966,
+      1970,
+      1980,
+      1984,
+      2017
+    ],
+    "logo_url": "assets/logos/portela.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Um Defeito de Cor",
+        "compositores": "Rafael Gigante, Vinicius Ferreira, Wanderley Monteiro",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar?",
+        "compositores": "Samir Trindade, Elson Ramires, Neyzinho do Cavaco",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 1980,
+        "titulo": "Hoje Tem Marmelada",
+        "compositores": "David Corrêa, Jorge Macedo",
+        "interpretacao": "Silvinho da Portela"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 5,
+        "pontos": 269.1
+      },
+      {
+        "ano": 2023,
+        "grupo": "Especial",
+        "posicao": 10,
+        "pontos": 267.7
+      },
+      {
+        "ano": 2017,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 269.9
+      }
+    ]
+  }
+}

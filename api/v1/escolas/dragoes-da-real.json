@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "data": {
+    "id": "dragoes-da-real",
+    "slug": "dragoes-da-real",
+    "nome": "Dragões da Real",
+    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Dragões da Real",
+    "fundacao": "2000-03-17",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Vila Anastácio",
+    "grupo": "Especial",
+    "cores": [
+      "Vermelho",
+      "Branco",
+      "Preto"
+    ],
+    "cores_hex": [
+      "#D32F2F",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "simbolo": "Dragão Alado",
+    "titulos": 0,
+    "anos_titulos": [],
+    "logo_url": "assets/logos/dragoes-da-real.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Africa - Uma Constelação de Reis e Rainhas",
+        "compositores": "Igor Pires, Robson Valente",
+        "interpretacao": "Rene Sobral"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 2,
+        "pontos": 269.9
+      }
+    ]
+  }
+}

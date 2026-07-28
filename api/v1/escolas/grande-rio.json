@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "data": {
+    "id": "grande-rio",
+    "slug": "grande-rio",
+    "nome": "Acadêmicos do Grande Rio",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Grande Rio",
+    "fundacao": "1988-09-22",
+    "estado": "RJ",
+    "cidade": "Duque de Caxias",
+    "bairro": "25 de Agosto",
+    "grupo": "Especial",
+    "cores": [
+      "Verde",
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#388E3C",
+      "#D32F2F",
+      "#FFFFFF"
+    ],
+    "simbolo": "Coroa e Brasão de Caxias",
+    "titulos": 1,
+    "anos_titulos": [
+      2022
+    ],
+    "logo_url": "assets/logos/grande-rio.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Nos Nosso Tambores, A Voz de Tupinambá",
+        "compositores": "Derico, Igor Leal, Robson Moratelli",
+        "interpretacao": "Evandro Malandro"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Fala, Majeté! Sete Chaves de Exu",
+        "compositores": "Gustavo Clarão, Arlindinho Cruz, Jr. Fragga, Claudio Mattos",
+        "interpretacao": "Evandro Malandro"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 3,
+        "pontos": 269.3
+      },
+      {
+        "ano": 2022,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 269.9
+      }
+    ]
+  }
+}

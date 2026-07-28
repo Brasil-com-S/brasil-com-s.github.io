@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "data": {
+    "id": "nene-de-vila-matilde",
+    "slug": "nene-de-vila-matilde",
+    "nome": "Nenê de Vila Matilde",
+    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Nenê de Vila Matilde",
+    "fundacao": "1949-05-03",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Vila Matilde",
+    "grupo": "Acesso",
+    "cores": [
+      "Azul",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#1565C0",
+      "#FFFFFF"
+    ],
+    "simbolo": "Águia e Árvore",
+    "titulos": 11,
+    "anos_titulos": [
+      1956,
+      1958,
+      1959,
+      1960,
+      1963,
+      1965,
+      1968,
+      1969,
+      1970,
+      1985,
+      2001
+    ],
+    "logo_url": "assets/logos/nene-de-vila-matilde.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Circo Macabro: O Show Não Pode Parar",
+        "compositores": "Kadu, Nilson, Portuga",
+        "interpretacao": "Agnaldo Amaral"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Acesso 1",
+        "posicao": 3,
+        "pontos": 269.1
+      }
+    ]
+  }
+}

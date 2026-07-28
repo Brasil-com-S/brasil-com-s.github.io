@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "data": {
+    "id": "gavioes-da-fiel",
+    "slug": "gavioes-da-fiel",
+    "nome": "Gaviões da Fiel",
+    "nome_completo": "Grêmio Gaviões da Fiel Torcida",
+    "fundacao": "1969-07-01",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Bom Retiro",
+    "grupo": "Especial",
+    "cores": [
+      "Preto",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "simbolo": "Gavião em Voo",
+    "titulos": 4,
+    "anos_titulos": [
+      1995,
+      1999,
+      2002,
+      2003
+    ],
+    "logo_url": "assets/logos/gavioes-da-fiel.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Vou Te Levar Pro Infinito",
+        "compositores": "Araken, Luciano Costa, Renato do Pandeiro",
+        "interpretacao": "Ernesto Teixeira"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 4,
+        "pontos": 269.6
+      }
+    ]
+  }
+}

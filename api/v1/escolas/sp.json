@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "total": 5,
+    "estado": "SP"
+  },
+  "escolas": [
+    {
+      "id": "vai-vai",
+      "slug": "vai-vai",
+      "nome": "Vai-Vai",
+      "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Vai-Vai",
+      "fundacao": "1930-01-01",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Bela Vista (Bixiga)",
+      "grupo": "Especial",
+      "cores": [
+        "Preto",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "simbolo": "Harpa e Coroa",
+      "titulos": 15,
+      "anos_titulos": [
+        1978,
+        1981,
+        1982,
+        1986,
+        1987,
+        1988,
+        1993,
+        1996,
+        1998,
+        1999,
+        2000,
+        2008,
+        2011,
+        2015
+      ],
+      "logo_url": "assets/logos/vai-vai.svg",
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Capítulo 4, Versículo 3 – Da Seita ao Princípio",
+          "compositores": "Dinei, Darlan Alves, Rodrigo Atômico",
+          "interpretacao": "Luiz Felipe"
+        },
+        {
+          "ano": 2015,
+          "titulo": "Simplesmente Elis - A Fábula de Uma Voz Que Voou",
+          "compositores": "Zeca do Cavaco, Zé Carlinhos, Ronaldinho",
+          "interpretacao": "Wander Pires"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 8,
+          "pontos": 269.4
+        },
+        {
+          "ano": 2015,
+          "grupo": "Especial",
+          "posicao": 1,
+          "pontos": 269.9
+        }
+      ]
+    },
+    {
+      "id": "mocidade-alegre",
+      "slug": "mocidade-alegre",
+      "nome": "Mocidade Alegre",
+      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Mocidade Alegre",
+      "fundacao": "1967-09-24",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Limão",
+      "grupo": "Especial",
+      "cores": [
+        "Vermelho",
+        "Verde",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#D32F2F",
+        "#388E3C",
+        "#FFFFFF"
+      ],
+      "simbolo": "Tambor e Par de Dançarinos",
+      "titulos": 12,
+      "anos_titulos": [
+        1971,
+        1972,
+        1973,
+        1980,
+        2004,
+        2007,
+        2009,
+        2012,
+        2013,
+        2014,
+        2023,
+        2024
+      ],
+      "logo_url": "assets/logos/mocidade-alegre.svg",
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Brasiléia Desvairada: A Busca de Mário de Andrade pelo País",
+          "compositores": "Biro Biro, Turko, Rafa Do Cavaco",
+          "interpretacao": "Igor Sorriso"
+        },
+        {
+          "ano": 2023,
+          "titulo": "Yasuke",
+          "compositores": "Márcio André, Aquiles da Vila, Fabiano Sorriso",
+          "interpretacao": "Igor Sorriso"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 1,
+          "pontos": 270.0
+        },
+        {
+          "ano": 2023,
+          "grupo": "Especial",
+          "posicao": 1,
+          "pontos": 270.0
+        }
+      ]
+    },
+    {
+      "id": "gavioes-da-fiel",
+      "slug": "gavioes-da-fiel",
+      "nome": "Gaviões da Fiel",
+      "nome_completo": "Grêmio Gaviões da Fiel Torcida",
+      "fundacao": "1969-07-01",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Bom Retiro",
+      "grupo": "Especial",
+      "cores": [
+        "Preto",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "simbolo": "Gavião em Voo",
+      "titulos": 4,
+      "anos_titulos": [
+        1995,
+        1999,
+        2002,
+        2003
+      ],
+      "logo_url": "assets/logos/gavioes-da-fiel.svg",
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Vou Te Levar Pro Infinito",
+          "compositores": "Araken, Luciano Costa, Renato do Pandeiro",
+          "interpretacao": "Ernesto Teixeira"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 4,
+          "pontos": 269.6
+        }
+      ]
+    },
+    {
+      "id": "dragoes-da-real",
+      "slug": "dragoes-da-real",
+      "nome": "Dragões da Real",
+      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Dragões da Real",
+      "fundacao": "2000-03-17",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Vila Anastácio",
+      "grupo": "Especial",
+      "cores": [
+        "Vermelho",
+        "Branco",
+        "Preto"
+      ],
+      "cores_hex": [
+        "#D32F2F",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "simbolo": "Dragão Alado",
+      "titulos": 0,
+      "anos_titulos": [],
+      "logo_url": "assets/logos/dragoes-da-real.svg",
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Africa - Uma Constelação de Reis e Rainhas",
+          "compositores": "Igor Pires, Robson Valente",
+          "interpretacao": "Rene Sobral"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 2,
+          "pontos": 269.9
+        }
+      ]
+    },
+    {
+      "id": "nene-de-vila-matilde",
+      "slug": "nene-de-vila-matilde",
+      "nome": "Nenê de Vila Matilde",
+      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Nenê de Vila Matilde",
+      "fundacao": "1949-05-03",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Vila Matilde",
+      "grupo": "Acesso",
+      "cores": [
+        "Azul",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#1565C0",
+        "#FFFFFF"
+      ],
+      "simbolo": "Águia e Árvore",
+      "titulos": 11,
+      "anos_titulos": [
+        1956,
+        1958,
+        1959,
+        1960,
+        1963,
+        1965,
+        1968,
+        1969,
+        1970,
+        1985,
+        2001
+      ],
+      "logo_url": "assets/logos/nene-de-vila-matilde.svg",
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Circo Macabro: O Show Não Pode Parar",
+          "compositores": "Kadu, Nilson, Portuga",
+          "interpretacao": "Agnaldo Amaral"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Acesso 1",
+          "posicao": 3,
+          "pontos": 269.1
+        }
+      ]
+    }
+  ]
+}

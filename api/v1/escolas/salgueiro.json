@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "data": {
+    "id": "salgueiro",
+    "slug": "salgueiro",
+    "nome": "Acadêmicos do Salgueiro",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Salgueiro",
+    "fundacao": "1953-03-05",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Andaraí",
+    "grupo": "Especial",
+    "cores": [
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#D32F2F",
+      "#FFFFFF"
+    ],
+    "simbolo": "Tambor e Tocha",
+    "titulos": 9,
+    "anos_titulos": [
+      1960,
+      1963,
+      1965,
+      1969,
+      1971,
+      1974,
+      1975,
+      1993,
+      2009
+    ],
+    "logo_url": "assets/logos/salgueiro.svg",
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Hutukara",
+        "compositores": "Pedrinho da Rocha, Marcelo Adnet, Guilherme Sá",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Tambor",
+        "compositores": "Moisés Santiago, Paulo Shell, Leandro Thompson",
+        "interpretacao": "Quinho"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Peguei Um Ita no Norte",
+        "compositores": "Demá Chagas, Arizão, Celso Trindade, Bala",
+        "interpretacao": "Quinho"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 4,
+        "pontos": 269.2
+      },
+      {
+        "ano": 2009,
+        "grupo": "Especial",
+        "posicao": 1,
+        "pontos": 270.0
+      }
+    ]
+  }
+}
