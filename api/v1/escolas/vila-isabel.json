@@ -6,6 +6,11 @@
     "nome": "Unidos de Vila Isabel",
     "nome_completo": "Grêmio Recreativo Escola de Samba Unidos de Vila Isabel",
     "fundacao": "1946-04-04",
+    "fundadores": [
+      "Seu China",
+      "Paulo Brazão",
+      "Tião Carreiro"
+    ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Vila Isabel",
@@ -25,24 +30,10 @@
       2006,
       2013
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Gbala - Viagem ao Temple da Criação",
-        "compositores": "Martinho da Vila",
-        "interpretacao": "Tingua"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 6,
-        "pontos": 268.9
-      }
-    ],
-    "logo_url": "assets/logos/vila-isabel.svg",
+    "logo_url": "assets/logos/vila-isabel.png",
+    "logo_png_url": "assets/logos/vila-isabel.png",
     "logo_svg_url": "assets/logos/vila-isabel.svg",
-    "logo_png_url": "assets/logos/vila-isabel.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

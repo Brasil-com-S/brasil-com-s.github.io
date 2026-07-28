@@ -6,6 +6,9 @@
     "nome": "Mocidade Independente de Padre Miguel",
     "nome_completo": "Grêmio Recreativo Escola de Samba Mocidade Independente de Padre Miguel",
     "fundacao": "1955-11-10",
+    "fundadores": [
+      "Tia Chica"
+    ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Padre Miguel",
@@ -28,24 +31,10 @@
       1996,
       2017
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Pede Caju Que Dou... Pé de Caju Que Dá!",
-        "compositores": "Paulinho Mocidade",
-        "interpretacao": "Zé Paulo Sierra"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 10,
-        "pontos": 267.9
-      }
-    ],
-    "logo_url": "assets/logos/mocidade-independente.svg",
+    "logo_url": "assets/logos/mocidade-independente.png",
+    "logo_png_url": "assets/logos/mocidade-independente.png",
     "logo_svg_url": "assets/logos/mocidade-independente.svg",
-    "logo_png_url": "assets/logos/mocidade-independente.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

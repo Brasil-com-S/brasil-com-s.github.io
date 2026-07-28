@@ -5,11 +5,63 @@
   },
   "escolas": [
     {
+      "id": "vai-vai",
+      "slug": "vai-vai",
+      "nome": "Vai-Vai",
+      "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Vai-Vai",
+      "fundacao": "1930-01-01",
+      "fundadores": [
+        "Ananias de Oliveira",
+        "Sebastião Eduardo (Tchê)",
+        "Frederico Rangel (Chiclé)"
+      ],
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Bela Vista",
+      "grupo": "Especial",
+      "cores": [
+        "Preto",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "simbolo": "Harpa e Coroa",
+      "titulos": 15,
+      "anos_titulos": [
+        1978,
+        1981,
+        1982,
+        1986,
+        1987,
+        1988,
+        1993,
+        1996,
+        1998,
+        1999,
+        2000,
+        2008,
+        2011,
+        2015
+      ],
+      "logo_url": "assets/logos/vai-vai.png",
+      "logo_png_url": "assets/logos/vai-vai.png",
+      "logo_svg_url": "assets/logos/vai-vai.svg",
+      "sambas_enredo": [],
+      "colocacoes": []
+    },
+    {
       "id": "mocidade-alegre",
       "slug": "mocidade-alegre",
       "nome": "Mocidade Alegre",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Mocidade Alegre",
       "fundacao": "1967-09-24",
+      "fundadores": [
+        "Juarez da Cruz",
+        "Carlos Augusto da Cruz",
+        "Nadir da Cruz"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Limão",
@@ -40,124 +92,11 @@
         2023,
         2024
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Brasiléia Desvairada",
-          "compositores": "Biro Biro, Turko",
-          "interpretacao": "Igor Sorriso"
-        },
-        {
-          "ano": 2023,
-          "titulo": "Yasuke",
-          "compositores": "Márcio André, Aquiles da Vila",
-          "interpretacao": "Igor Sorriso"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 1,
-          "pontos": 270.0
-        },
-        {
-          "ano": 2023,
-          "grupo": "Especial",
-          "posicao": 1,
-          "pontos": 270.0
-        }
-      ],
-      "logo_url": "assets/logos/mocidade-alegre.svg",
+      "logo_url": "assets/logos/mocidade-alegre.png",
+      "logo_png_url": "assets/logos/mocidade-alegre.png",
       "logo_svg_url": "assets/logos/mocidade-alegre.svg",
-      "logo_png_url": "assets/logos/mocidade-alegre.png"
-    },
-    {
-      "id": "dragoes-da-real",
-      "slug": "dragoes-da-real",
-      "nome": "Dragões da Real",
-      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Dragões da Real",
-      "fundacao": "2000-03-17",
-      "estado": "SP",
-      "cidade": "São Paulo",
-      "bairro": "Vila Anastácio",
-      "grupo": "Especial",
-      "cores": [
-        "Vermelho",
-        "Branco",
-        "Preto"
-      ],
-      "cores_hex": [
-        "#D32F2F",
-        "#FFFFFF",
-        "#000000"
-      ],
-      "simbolo": "Dragão Alado",
-      "titulos": 0,
-      "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Africa - Uma Constelação de Reis e Rainhas",
-          "compositores": "Igor Pires",
-          "interpretacao": "Rene Sobral"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 2,
-          "pontos": 269.9
-        }
-      ],
-      "logo_url": "assets/logos/dragoes-da-real.svg",
-      "logo_svg_url": "assets/logos/dragoes-da-real.svg",
-      "logo_png_url": "assets/logos/dragoes-da-real.png"
-    },
-    {
-      "id": "academicos-do-tatuape",
-      "slug": "academicos-do-tatuape",
-      "nome": "Acadêmicos do Tatuapé",
-      "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Tatuapé",
-      "fundacao": "1952-10-26",
-      "estado": "SP",
-      "cidade": "São Paulo",
-      "bairro": "Tatuapé",
-      "grupo": "Especial",
-      "cores": [
-        "Azul",
-        "Branco"
-      ],
-      "cores_hex": [
-        "#1565C0",
-        "#FFFFFF"
-      ],
-      "simbolo": "Pássaro Azul",
-      "titulos": 2,
-      "anos_titulos": [
-        2017,
-        2018
-      ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Mata Atlântica: O Bioma Mais Rico do Planeta",
-          "compositores": "Fabiano Tennor",
-          "interpretacao": "Celsinho Mody"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 5,
-          "pontos": 269.5
-        }
-      ],
-      "logo_url": "assets/logos/academicos-do-tatuape.svg",
-      "logo_svg_url": "assets/logos/academicos-do-tatuape.svg",
-      "logo_png_url": "assets/logos/academicos-do-tatuape.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "gavioes-da-fiel",
@@ -165,6 +104,10 @@
       "nome": "Gaviões da Fiel",
       "nome_completo": "Grêmio Gaviões da Fiel Torcida",
       "fundacao": "1969-07-01",
+      "fundadores": [
+        "Flávio La Selva",
+        "Chico de Paula"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Bom Retiro",
@@ -185,69 +128,43 @@
         2002,
         2003
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Vou Te Levar Pro Infinito",
-          "compositores": "Araken, Luciano Costa",
-          "interpretacao": "Ernesto Teixeira"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 4,
-          "pontos": 269.6
-        }
-      ],
-      "logo_url": "assets/logos/gavioes-da-fiel.svg",
+      "logo_url": "assets/logos/gavioes-da-fiel.png",
+      "logo_png_url": "assets/logos/gavioes-da-fiel.png",
       "logo_svg_url": "assets/logos/gavioes-da-fiel.svg",
-      "logo_png_url": "assets/logos/gavioes-da-fiel.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
-      "id": "mancha-verde",
-      "slug": "mancha-verde",
-      "nome": "Mancha Verde",
-      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Mancha Verde",
-      "fundacao": "1995-10-18",
+      "id": "dragoes-da-real",
+      "slug": "dragoes-da-real",
+      "nome": "Dragões da Real",
+      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Dragões da Real",
+      "fundacao": "2000-03-17",
+      "fundadores": [
+        "Torcida Dragões da Real"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
-      "bairro": "Barra Funda",
+      "bairro": "Vila Anastácio",
       "grupo": "Especial",
       "cores": [
-        "Verde",
-        "Branco"
+        "Vermelho",
+        "Branco",
+        "Preto"
       ],
       "cores_hex": [
-        "#2E7D32",
-        "#FFFFFF"
+        "#D32F2F",
+        "#FFFFFF",
+        "#000000"
       ],
-      "simbolo": "Mascote Palmeiras",
-      "titulos": 2,
-      "anos_titulos": [
-        2019,
-        2022
-      ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Do Nosso Solo Para o Mundo",
-          "compositores": "Wanderley Monteiro",
-          "interpretacao": "Fredy Vianna"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 6,
-          "pontos": 269.5
-        }
-      ],
-      "logo_url": "assets/logos/mancha-verde.svg",
-      "logo_svg_url": "assets/logos/mancha-verde.svg",
-      "logo_png_url": "assets/logos/mancha-verde.png"
+      "simbolo": "Dragão Alado",
+      "titulos": 0,
+      "anos_titulos": [],
+      "logo_url": "assets/logos/dragoes-da-real.png",
+      "logo_png_url": "assets/logos/dragoes-da-real.png",
+      "logo_svg_url": "assets/logos/dragoes-da-real.svg",
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "imperio-de-casa-verde",
@@ -255,6 +172,9 @@
       "nome": "Império de Casa Verde",
       "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Império de Casa Verde",
       "fundacao": "1994-02-27",
+      "fundadores": [
+        "Comunidade de Casa Verde"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Casa Verde",
@@ -274,81 +194,77 @@
         2006,
         2016
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Fafá de Belém: A Voz que Canta a Amazônia",
-          "compositores": "Turko, Leo Reis",
-          "interpretacao": "Tingua"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 3,
-          "pontos": 269.6
-        }
-      ],
-      "logo_url": "assets/logos/imperio-de-casa-verde.svg",
+      "logo_url": "assets/logos/imperio-de-casa-verde.png",
+      "logo_png_url": "assets/logos/imperio-de-casa-verde.png",
       "logo_svg_url": "assets/logos/imperio-de-casa-verde.svg",
-      "logo_png_url": "assets/logos/imperio-de-casa-verde.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
-      "id": "vai-vai",
-      "slug": "vai-vai",
-      "nome": "Vai-Vai",
-      "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Vai-Vai",
-      "fundacao": "1930-01-01",
+      "id": "academicos-do-tatuape",
+      "slug": "academicos-do-tatuape",
+      "nome": "Acadêmicos do Tatuapé",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Tatuapé",
+      "fundacao": "1952-10-26",
+      "fundadores": [
+        "Oswaldo Vilaça"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
-      "bairro": "Bela Vista (Bixiga)",
+      "bairro": "Tatuapé",
       "grupo": "Especial",
       "cores": [
-        "Preto",
+        "Azul",
         "Branco"
       ],
       "cores_hex": [
-        "#000000",
+        "#1565C0",
         "#FFFFFF"
       ],
-      "simbolo": "Harpa e Coroa",
-      "titulos": 15,
+      "simbolo": "Pássaro Azul",
+      "titulos": 2,
       "anos_titulos": [
-        1978,
-        1981,
-        1982,
-        1986,
-        1987,
-        1988,
-        1993,
-        1996,
-        1998,
-        1999,
-        2000,
-        2008,
-        2011,
-        2015
+        2017,
+        2018
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Capítulo 4, Versículo 3 – Da Seita ao Princípio",
-          "compositores": "Dinei, Darlan Alves",
-          "interpretacao": "Luiz Felipe"
-        }
+      "logo_url": "assets/logos/academicos-do-tatuape.png",
+      "logo_png_url": "assets/logos/academicos-do-tatuape.png",
+      "logo_svg_url": "assets/logos/academicos-do-tatuape.svg",
+      "sambas_enredo": [],
+      "colocacoes": []
+    },
+    {
+      "id": "mancha-verde",
+      "slug": "mancha-verde",
+      "nome": "Mancha Verde",
+      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Mancha Verde",
+      "fundacao": "1995-10-18",
+      "fundadores": [
+        "Paulo Serdan"
       ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 8,
-          "pontos": 269.4
-        }
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Barra Funda",
+      "grupo": "Especial",
+      "cores": [
+        "Verde",
+        "Branco"
       ],
-      "logo_url": "assets/logos/vai-vai.svg",
-      "logo_svg_url": "assets/logos/vai-vai.svg",
-      "logo_png_url": "assets/logos/vai-vai.png"
+      "cores_hex": [
+        "#2E7D32",
+        "#FFFFFF"
+      ],
+      "simbolo": "Mascote Palmeiras",
+      "titulos": 2,
+      "anos_titulos": [
+        2019,
+        2022
+      ],
+      "logo_url": "assets/logos/mancha-verde.png",
+      "logo_png_url": "assets/logos/mancha-verde.png",
+      "logo_svg_url": "assets/logos/mancha-verde.svg",
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "barroca-zona-sul",
@@ -356,6 +272,9 @@
       "nome": "Barroca Zona Sul",
       "nome_completo": "Faculdade do Samba Barroca Zona Sul",
       "fundacao": "1974-08-07",
+      "fundadores": [
+        "Sebastião Eduardo"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Jabaquara",
@@ -371,25 +290,11 @@
       "simbolo": "Coroa e Rosas",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Nós Nascemos Para Cantar e Harmonizar o Mundo",
-          "compositores": "Biro Biro, Sukata",
-          "interpretacao": "Pixulé"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 9,
-          "pontos": 269.2
-        }
-      ],
-      "logo_url": "assets/logos/barroca-zona-sul.svg",
+      "logo_url": "assets/logos/barroca-zona-sul.png",
+      "logo_png_url": "assets/logos/barroca-zona-sul.png",
       "logo_svg_url": "assets/logos/barroca-zona-sul.svg",
-      "logo_png_url": "assets/logos/barroca-zona-sul.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "aguia-de-ouro",
@@ -397,6 +302,9 @@
       "nome": "Águia de Ouro",
       "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Águia de Ouro",
       "fundacao": "1976-05-09",
+      "fundadores": [
+        "José Mário da Silva"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Pompeia",
@@ -414,25 +322,11 @@
       "anos_titulos": [
         2020
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Águia de Ouro nas Terras de Radioatividade",
-          "compositores": "Márcio Pesi",
-          "interpretacao": "Douglani"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 10,
-          "pontos": 269.1
-        }
-      ],
-      "logo_url": "assets/logos/aguia-de-ouro.svg",
+      "logo_url": "assets/logos/aguia-de-ouro.png",
+      "logo_png_url": "assets/logos/aguia-de-ouro.png",
       "logo_svg_url": "assets/logos/aguia-de-ouro.svg",
-      "logo_png_url": "assets/logos/aguia-de-ouro.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "academicos-do-tucuruvi",
@@ -440,6 +334,9 @@
       "nome": "Acadêmicos do Tucuruvi",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Acadêmicos do Tucuruvi",
       "fundacao": "1976-02-01",
+      "fundadores": [
+        "Comunidade do Tucuruvi"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Tucuruvi",
@@ -459,25 +356,11 @@
       "simbolo": "Galo Cantando",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Ifá",
-          "compositores": "Macaco Gordo, Leonardo Bessa",
-          "interpretacao": "Hudson Luiz"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 7,
-          "pontos": 269.4
-        }
-      ],
-      "logo_url": "assets/logos/academicos-do-tucuruvi.svg",
+      "logo_url": "assets/logos/academicos-do-tucuruvi.png",
+      "logo_png_url": "assets/logos/academicos-do-tucuruvi.png",
       "logo_svg_url": "assets/logos/academicos-do-tucuruvi.svg",
-      "logo_png_url": "assets/logos/academicos-do-tucuruvi.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "rosas-de-ouro",
@@ -485,6 +368,9 @@
       "nome": "Rosas de Ouro",
       "nome_completo": "Sociedade Rosas de Ouro",
       "fundacao": "1971-10-18",
+      "fundadores": [
+        "Eduardo Basílio"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Freguesia do Ó",
@@ -510,25 +396,11 @@
         1994,
         2010
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "IBIRA 70",
-          "compositores": "Aquiles da Vila",
-          "interpretacao": "Royce do Cavaco"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 11,
-          "pontos": 269.1
-        }
-      ],
-      "logo_url": "assets/logos/rosas-de-ouro.svg",
+      "logo_url": "assets/logos/rosas-de-ouro.png",
+      "logo_png_url": "assets/logos/rosas-de-ouro.png",
       "logo_svg_url": "assets/logos/rosas-de-ouro.svg",
-      "logo_png_url": "assets/logos/rosas-de-ouro.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "camisa-verde-e-branco",
@@ -536,6 +408,9 @@
       "nome": "Camisa Verde e Branco",
       "nome_completo": "Associação Cultural Recreativa Social Escola de Samba Camisa Verde e Branco",
       "fundacao": "1953-09-04",
+      "fundadores": [
+        "Inocêncio Tobias"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Barra Funda",
@@ -561,25 +436,11 @@
         1992,
         1993
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Adenla - O Imperador Nas Terras do Trevo",
-          "compositores": "Fabiano Tennor",
-          "interpretacao": "Igor Vianna"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 12,
-          "pontos": 269.0
-        }
-      ],
-      "logo_url": "assets/logos/camisa-verde-e-branco.svg",
+      "logo_url": "assets/logos/camisa-verde-e-branco.png",
+      "logo_png_url": "assets/logos/camisa-verde-e-branco.png",
       "logo_svg_url": "assets/logos/camisa-verde-e-branco.svg",
-      "logo_png_url": "assets/logos/camisa-verde-e-branco.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "tom-maior",
@@ -587,6 +448,9 @@
       "nome": "Tom Maior",
       "nome_completo": "Grêmio Recreativo Escola de Samba Tom Maior",
       "fundacao": "1973-02-14",
+      "fundadores": [
+        "Mestre Hélio"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Sumaré",
@@ -604,25 +468,11 @@
       "simbolo": "Batuta e Clave de Sol",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Aysú - Uma História de Amor",
-          "compositores": "Urubatan das Kretas",
-          "interpretacao": "Gilsinho"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 13,
-          "pontos": 268.7
-        }
-      ],
-      "logo_url": "assets/logos/tom-maior.svg",
+      "logo_url": "assets/logos/tom-maior.png",
+      "logo_png_url": "assets/logos/tom-maior.png",
       "logo_svg_url": "assets/logos/tom-maior.svg",
-      "logo_png_url": "assets/logos/tom-maior.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "estrela-do-terceiro-milenio",
@@ -630,6 +480,9 @@
       "nome": "Estrela do Terceiro Milênio",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Estrela do Terceiro Milênio",
       "fundacao": "1998-05-05",
+      "fundadores": [
+        "Silvão"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Grajaú",
@@ -649,25 +502,11 @@
       "simbolo": "Estrela Guia de Ouro",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Vovó Cuca e a Arte de Rir",
-          "compositores": "Turko, Sukata",
-          "interpretacao": "Grazzi Brasil"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 1",
-          "posicao": 1,
-          "pontos": 270.0
-        }
-      ],
-      "logo_url": "assets/logos/estrela-do-terceiro-milenio.svg",
+      "logo_url": "assets/logos/estrela-do-terceiro-milenio.png",
+      "logo_png_url": "assets/logos/estrela-do-terceiro-milenio.png",
       "logo_svg_url": "assets/logos/estrela-do-terceiro-milenio.svg",
-      "logo_png_url": "assets/logos/estrela-do-terceiro-milenio.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "nene-de-vila-matilde",
@@ -675,6 +514,9 @@
       "nome": "Nenê de Vila Matilde",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Nenê de Vila Matilde",
       "fundacao": "1949-05-03",
+      "fundadores": [
+        "Nenê (Alberto Alves da Silva)"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Vila Matilde",
@@ -702,25 +544,11 @@
         1985,
         2001
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Circo Macabro",
-          "compositores": "Kadu, Nilson",
-          "interpretacao": "Agnaldo Amaral"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 1",
-          "posicao": 3,
-          "pontos": 269.1
-        }
-      ],
-      "logo_url": "assets/logos/nene-de-vila-matilde.svg",
+      "logo_url": "assets/logos/nene-de-vila-matilde.png",
+      "logo_png_url": "assets/logos/nene-de-vila-matilde.png",
       "logo_svg_url": "assets/logos/nene-de-vila-matilde.svg",
-      "logo_png_url": "assets/logos/nene-de-vila-matilde.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "colorado-do-bras",
@@ -728,6 +556,9 @@
       "nome": "Colorado do Brás",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Colorado do Brás",
       "fundacao": "1975-10-01",
+      "fundadores": [
+        "Comunidade do Brás"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Brás",
@@ -743,25 +574,11 @@
       "simbolo": "Urso Vermelho",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Os Mandamentos da Quebrada",
-          "compositores": "Cacá Camargo",
-          "interpretacao": "Léo do Cavaco"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 1",
-          "posicao": 2,
-          "pontos": 269.8
-        }
-      ],
-      "logo_url": "assets/logos/colorado-do-bras.svg",
+      "logo_url": "assets/logos/colorado-do-bras.png",
+      "logo_png_url": "assets/logos/colorado-do-bras.png",
       "logo_svg_url": "assets/logos/colorado-do-bras.svg",
-      "logo_png_url": "assets/logos/colorado-do-bras.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "perola-negra",
@@ -769,6 +586,9 @@
       "nome": "Pérola Negra",
       "nome_completo": "Grêmio Recreativo Escola de Samba Pérola Negra",
       "fundacao": "1973-08-07",
+      "fundadores": [
+        "Comunidade da Vila Madalena"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Vila Madalena",
@@ -786,25 +606,11 @@
       "simbolo": "Pérola Negra",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Pérola Negra Conta o Folclore",
-          "compositores": "Jairinho",
-          "interpretacao": "Daniel Collete"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 1",
-          "posicao": 5,
-          "pontos": 268.8
-        }
-      ],
-      "logo_url": "assets/logos/perola-negra.svg",
+      "logo_url": "assets/logos/perola-negra.png",
+      "logo_png_url": "assets/logos/perola-negra.png",
       "logo_svg_url": "assets/logos/perola-negra.svg",
-      "logo_png_url": "assets/logos/perola-negra.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "unidos-do-peruche",
@@ -812,6 +618,10 @@
       "nome": "Unidos do Peruche",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Unidos do Peruche",
       "fundacao": "1956-01-04",
+      "fundadores": [
+        "Seu Carlão do Peruche",
+        "Biguá"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Parque Peruche",
@@ -837,25 +647,11 @@
         1967,
         1973
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Peruche 68 Anos de Glória",
-          "compositores": "Toninho Penteado",
-          "interpretacao": "Alex Soares"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 2",
-          "posicao": 2,
-          "pontos": 269.4
-        }
-      ],
-      "logo_url": "assets/logos/unidos-do-peruche.svg",
+      "logo_url": "assets/logos/unidos-do-peruche.png",
+      "logo_png_url": "assets/logos/unidos-do-peruche.png",
       "logo_svg_url": "assets/logos/unidos-do-peruche.svg",
-      "logo_png_url": "assets/logos/unidos-do-peruche.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "x-9-paulistana",
@@ -863,6 +659,9 @@
       "nome": "X-9 Paulistana",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba X-9 Paulistana",
       "fundacao": "1975-03-01",
+      "fundadores": [
+        "Comunidade da Parada Inglesa"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Parada Inglesa",
@@ -883,25 +682,11 @@
         1997,
         2000
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Nordeste: A Força de Um Povo",
-          "compositores": "Jairinho",
-          "interpretacao": "Darlan Alves"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 2",
-          "posicao": 1,
-          "pontos": 269.9
-        }
-      ],
-      "logo_url": "assets/logos/x-9-paulistana.svg",
+      "logo_url": "assets/logos/x-9-paulistana.png",
+      "logo_png_url": "assets/logos/x-9-paulistana.png",
       "logo_svg_url": "assets/logos/x-9-paulistana.svg",
-      "logo_png_url": "assets/logos/x-9-paulistana.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     }
   ]
 }

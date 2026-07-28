@@ -6,6 +6,9 @@
     "nome": "Unidos do Viradouro",
     "nome_completo": "Grêmio Recreativo Escola de Samba Unidos do Viradouro",
     "fundacao": "1946-06-24",
+    "fundadores": [
+      "Nelson dos Santos"
+    ],
     "estado": "RJ",
     "cidade": "Niterói",
     "bairro": "Barreto",
@@ -25,48 +28,10 @@
       2020,
       2024
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Arroboboi Dangbé",
-        "compositores": "Claudio Mattos, Julio Alves",
-        "interpretacao": "Zé Paulo Sierra"
-      },
-      {
-        "ano": 2020,
-        "titulo": "Viradouro de Alma Lavada",
-        "compositores": "Claudio Mattos, Yuri Silva",
-        "interpretacao": "Zé Paulo Sierra"
-      },
-      {
-        "ano": 1997,
-        "titulo": "Trevas! Luz! A Explosão do Universo",
-        "compositores": "Dominguinhos do Estácio",
-        "interpretacao": "Dominguinhos do Estácio"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 270.0
-      },
-      {
-        "ano": 2023,
-        "grupo": "Especial",
-        "posicao": 2,
-        "pontos": 269.7
-      },
-      {
-        "ano": 2020,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 269.6
-      }
-    ],
-    "logo_url": "assets/logos/viradouro.svg",
+    "logo_url": "assets/logos/viradouro.png",
+    "logo_png_url": "assets/logos/viradouro.png",
     "logo_svg_url": "assets/logos/viradouro.svg",
-    "logo_png_url": "assets/logos/viradouro.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

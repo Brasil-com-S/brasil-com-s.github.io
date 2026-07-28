@@ -6,6 +6,12 @@
     "nome": "Estácio de Sá",
     "nome_completo": "Grêmio Recreativo Escola de Samba Estácio de Sá",
     "fundacao": "1927-08-12",
+    "fundadores": [
+      "Ismael Silva",
+      "Bide",
+      "Marçal",
+      "Nilton Bastos"
+    ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Estácio",
@@ -23,24 +29,10 @@
     "anos_titulos": [
       1992
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Chão de Devoção: O Terço dos Pretos Velhos",
-        "compositores": "Julio Alves",
-        "interpretacao": "Tシャー"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Série Ouro (Acesso)",
-        "posicao": 3,
-        "pontos": 269.6
-      }
-    ],
-    "logo_url": "assets/logos/estacio-de-sa.svg",
+    "logo_url": "assets/logos/estacio-de-sa.png",
+    "logo_png_url": "assets/logos/estacio-de-sa.png",
     "logo_svg_url": "assets/logos/estacio-de-sa.svg",
-    "logo_png_url": "assets/logos/estacio-de-sa.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

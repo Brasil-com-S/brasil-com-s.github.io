@@ -6,6 +6,9 @@
     "nome": "X-9 Paulistana",
     "nome_completo": "Grêmio Recreativo Cultural Escola de Samba X-9 Paulistana",
     "fundacao": "1975-03-01",
+    "fundadores": [
+      "Comunidade da Parada Inglesa"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Parada Inglesa",
@@ -26,24 +29,10 @@
       1997,
       2000
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Nordeste: A Força de Um Povo",
-        "compositores": "Jairinho",
-        "interpretacao": "Darlan Alves"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Acesso 2",
-        "posicao": 1,
-        "pontos": 269.9
-      }
-    ],
-    "logo_url": "assets/logos/x-9-paulistana.svg",
+    "logo_url": "assets/logos/x-9-paulistana.png",
+    "logo_png_url": "assets/logos/x-9-paulistana.png",
     "logo_svg_url": "assets/logos/x-9-paulistana.svg",
-    "logo_png_url": "assets/logos/x-9-paulistana.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

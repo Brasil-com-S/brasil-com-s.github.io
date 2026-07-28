@@ -6,6 +6,9 @@
     "nome": "Rosas de Ouro",
     "nome_completo": "Sociedade Rosas de Ouro",
     "fundacao": "1971-10-18",
+    "fundadores": [
+      "Eduardo Basílio"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Freguesia do Ó",
@@ -31,24 +34,10 @@
       1994,
       2010
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "IBIRA 70",
-        "compositores": "Aquiles da Vila",
-        "interpretacao": "Royce do Cavaco"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 11,
-        "pontos": 269.1
-      }
-    ],
-    "logo_url": "assets/logos/rosas-de-ouro.svg",
+    "logo_url": "assets/logos/rosas-de-ouro.png",
+    "logo_png_url": "assets/logos/rosas-de-ouro.png",
     "logo_svg_url": "assets/logos/rosas-de-ouro.svg",
-    "logo_png_url": "assets/logos/rosas-de-ouro.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

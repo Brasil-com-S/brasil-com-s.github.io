@@ -6,6 +6,9 @@
     "nome": "Mancha Verde",
     "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Mancha Verde",
     "fundacao": "1995-10-18",
+    "fundadores": [
+      "Paulo Serdan"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Barra Funda",
@@ -24,24 +27,10 @@
       2019,
       2022
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Do Nosso Solo Para o Mundo",
-        "compositores": "Wanderley Monteiro",
-        "interpretacao": "Fredy Vianna"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 6,
-        "pontos": 269.5
-      }
-    ],
-    "logo_url": "assets/logos/mancha-verde.svg",
+    "logo_url": "assets/logos/mancha-verde.png",
+    "logo_png_url": "assets/logos/mancha-verde.png",
     "logo_svg_url": "assets/logos/mancha-verde.svg",
-    "logo_png_url": "assets/logos/mancha-verde.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

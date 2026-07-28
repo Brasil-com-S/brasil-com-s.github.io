@@ -6,6 +6,11 @@
     "nome": "Imperatriz Leopoldinense",
     "nome_completo": "Grêmio Recreativo Escola de Samba Imperatriz Leopoldinense",
     "fundacao": "1959-03-06",
+    "fundadores": [
+      "Amaury Jório",
+      "Oswaldo Pereira",
+      "Nazaré"
+    ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Ramos",
@@ -33,36 +38,10 @@
       2001,
       2023
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Com a Sorte Virada pra Lua",
-        "compositores": "Meumel, Gabriel Coelho",
-        "interpretacao": "Pitty de Menezes"
-      },
-      {
-        "ano": 2023,
-        "titulo": "O Aperreio do Cabra Que o Excomungado Tratou com Má-Criação",
-        "compositores": "Meumel, Gabriel Coelho",
-        "interpretacao": "Pitty de Menezes"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 2,
-        "pontos": 269.8
-      },
-      {
-        "ano": 2023,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 269.8
-      }
-    ],
-    "logo_url": "assets/logos/imperatriz.svg",
+    "logo_url": "assets/logos/imperatriz.png",
+    "logo_png_url": "assets/logos/imperatriz.png",
     "logo_svg_url": "assets/logos/imperatriz.svg",
-    "logo_png_url": "assets/logos/imperatriz.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

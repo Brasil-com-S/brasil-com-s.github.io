@@ -6,6 +6,9 @@
     "nome": "Barroca Zona Sul",
     "nome_completo": "Faculdade do Samba Barroca Zona Sul",
     "fundacao": "1974-08-07",
+    "fundadores": [
+      "Sebastião Eduardo"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Jabaquara",
@@ -21,24 +24,10 @@
     "simbolo": "Coroa e Rosas",
     "titulos": 0,
     "anos_titulos": [],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Nós Nascemos Para Cantar e Harmonizar o Mundo",
-        "compositores": "Biro Biro, Sukata",
-        "interpretacao": "Pixulé"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 9,
-        "pontos": 269.2
-      }
-    ],
-    "logo_url": "assets/logos/barroca-zona-sul.svg",
+    "logo_url": "assets/logos/barroca-zona-sul.png",
+    "logo_png_url": "assets/logos/barroca-zona-sul.png",
     "logo_svg_url": "assets/logos/barroca-zona-sul.svg",
-    "logo_png_url": "assets/logos/barroca-zona-sul.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

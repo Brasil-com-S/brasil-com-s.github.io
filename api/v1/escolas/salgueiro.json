@@ -6,6 +6,11 @@
     "nome": "Acadêmicos do Salgueiro",
     "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Salgueiro",
     "fundacao": "1953-03-05",
+    "fundadores": [
+      "Jorge de Oliveira",
+      "Nelson de Andrade",
+      "Joaquim Casemiro"
+    ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Andaraí",
@@ -31,36 +36,10 @@
       1993,
       2009
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Hutukara",
-        "compositores": "Pedrinho da Rocha, Marcelo Adnet",
-        "interpretacao": "Emerson Dias"
-      },
-      {
-        "ano": 2009,
-        "titulo": "Tambor",
-        "compositores": "Moisés Santiago, Paulo Shell",
-        "interpretacao": "Quinho"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 4,
-        "pontos": 269.2
-      },
-      {
-        "ano": 2009,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 270.0
-      }
-    ],
-    "logo_url": "assets/logos/salgueiro.svg",
+    "logo_url": "assets/logos/salgueiro.png",
+    "logo_png_url": "assets/logos/salgueiro.png",
     "logo_svg_url": "assets/logos/salgueiro.svg",
-    "logo_png_url": "assets/logos/salgueiro.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

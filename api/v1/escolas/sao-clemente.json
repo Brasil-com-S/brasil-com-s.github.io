@@ -6,6 +6,9 @@
     "nome": "São Clemente",
     "nome_completo": "Grêmio Recreativo Escola de Samba São Clemente",
     "fundacao": "1951-10-25",
+    "fundadores": [
+      "Ivo da Rocha"
+    ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Botafogo",
@@ -21,24 +24,10 @@
     "simbolo": "Pássaro de Botafogo",
     "titulos": 0,
     "anos_titulos": [],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Que Zé É Esse?",
-        "compositores": "Marcelo Adnet",
-        "interpretacao": "Leozinho"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Série Ouro (Acesso)",
-        "posicao": 7,
-        "pontos": 268.2
-      }
-    ],
-    "logo_url": "assets/logos/sao-clemente.svg",
+    "logo_url": "assets/logos/sao-clemente.png",
+    "logo_png_url": "assets/logos/sao-clemente.png",
     "logo_svg_url": "assets/logos/sao-clemente.svg",
-    "logo_png_url": "assets/logos/sao-clemente.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

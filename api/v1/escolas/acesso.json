@@ -10,6 +10,12 @@
       "nome": "Estácio de Sá",
       "nome_completo": "Grêmio Recreativo Escola de Samba Estácio de Sá",
       "fundacao": "1927-08-12",
+      "fundadores": [
+        "Ismael Silva",
+        "Bide",
+        "Marçal",
+        "Nilton Bastos"
+      ],
       "estado": "RJ",
       "cidade": "Rio de Janeiro",
       "bairro": "Estácio",
@@ -27,25 +33,11 @@
       "anos_titulos": [
         1992
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Chão de Devoção: O Terço dos Pretos Velhos",
-          "compositores": "Julio Alves",
-          "interpretacao": "Tシャー"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 3,
-          "pontos": 269.6
-        }
-      ],
-      "logo_url": "assets/logos/estacio-de-sa.svg",
+      "logo_url": "assets/logos/estacio-de-sa.png",
+      "logo_png_url": "assets/logos/estacio-de-sa.png",
       "logo_svg_url": "assets/logos/estacio-de-sa.svg",
-      "logo_png_url": "assets/logos/estacio-de-sa.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "imperio-serrano",
@@ -53,6 +45,12 @@
       "nome": "Império Serrano",
       "nome_completo": "Grêmio Recreativo Escola de Samba Império Serrano",
       "fundacao": "1947-03-23",
+      "fundadores": [
+        "Mano Décio da Viola",
+        "Silas de Oliveira",
+        "Aniceto do Império",
+        "Molequinho"
+      ],
       "estado": "RJ",
       "cidade": "Rio de Janeiro",
       "bairro": "Madureira",
@@ -77,25 +75,11 @@
         1972,
         1982
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Ilú-Ọba Ọ̀yọ́: A Gira dos Orixás",
-          "compositores": "Aluizio Machado",
-          "interpretacao": "Nêgo"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 2,
-          "pontos": 269.8
-        }
-      ],
-      "logo_url": "assets/logos/imperio-serrano.svg",
+      "logo_url": "assets/logos/imperio-serrano.png",
+      "logo_png_url": "assets/logos/imperio-serrano.png",
       "logo_svg_url": "assets/logos/imperio-serrano.svg",
-      "logo_png_url": "assets/logos/imperio-serrano.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "uniao-da-ilha",
@@ -103,6 +87,9 @@
       "nome": "União da Ilha do Governador",
       "nome_completo": "Grêmio Recreativo Escola de Samba União da Ilha do Governador",
       "fundacao": "1953-03-07",
+      "fundadores": [
+        "Maurício Gazelle"
+      ],
       "estado": "RJ",
       "cidade": "Rio de Janeiro",
       "bairro": "Cacuia",
@@ -120,25 +107,11 @@
       "simbolo": "Sol e Mar",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Doum e Amelinha: Crianças de Axé",
-          "compositores": "André de Raça",
-          "interpretacao": "Nêgo"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 4,
-          "pontos": 269.4
-        }
-      ],
-      "logo_url": "assets/logos/uniao-da-ilha.svg",
+      "logo_url": "assets/logos/uniao-da-ilha.png",
+      "logo_png_url": "assets/logos/uniao-da-ilha.png",
       "logo_svg_url": "assets/logos/uniao-da-ilha.svg",
-      "logo_png_url": "assets/logos/uniao-da-ilha.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "sao-clemente",
@@ -146,6 +119,9 @@
       "nome": "São Clemente",
       "nome_completo": "Grêmio Recreativo Escola de Samba São Clemente",
       "fundacao": "1951-10-25",
+      "fundadores": [
+        "Ivo da Rocha"
+      ],
       "estado": "RJ",
       "cidade": "Rio de Janeiro",
       "bairro": "Botafogo",
@@ -161,25 +137,11 @@
       "simbolo": "Pássaro de Botafogo",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Que Zé É Esse?",
-          "compositores": "Marcelo Adnet",
-          "interpretacao": "Leozinho"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 7,
-          "pontos": 268.2
-        }
-      ],
-      "logo_url": "assets/logos/sao-clemente.svg",
+      "logo_url": "assets/logos/sao-clemente.png",
+      "logo_png_url": "assets/logos/sao-clemente.png",
       "logo_svg_url": "assets/logos/sao-clemente.svg",
-      "logo_png_url": "assets/logos/sao-clemente.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "inocentes-de-belford-roxo",
@@ -187,6 +149,9 @@
       "nome": "Inocentes de Belford Roxo",
       "nome_completo": "Grêmio Recreativo Escola de Samba Inocentes de Belford Roxo",
       "fundacao": "1993-12-12",
+      "fundadores": [
+        "Reginaldo Gomes"
+      ],
       "estado": "RJ",
       "cidade": "Belford Roxo",
       "bairro": "São Vicente",
@@ -204,25 +169,11 @@
       "simbolo": "Pomba da Paz",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Debret Pintou o Brasil",
-          "compositores": "Claudio Russo",
-          "interpretacao": "Nêgo"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 6,
-          "pontos": 268.7
-        }
-      ],
-      "logo_url": "assets/logos/inocentes-de-belford-roxo.svg",
+      "logo_url": "assets/logos/inocentes-de-belford-roxo.png",
+      "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png",
       "logo_svg_url": "assets/logos/inocentes-de-belford-roxo.svg",
-      "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "academicos-de-niteroi",
@@ -230,6 +181,9 @@
       "nome": "Acadêmicos de Niterói",
       "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos de Niterói",
       "fundacao": "2022-09-07",
+      "fundadores": [
+        "Comunidade de Niterói"
+      ],
       "estado": "RJ",
       "cidade": "Niterói",
       "bairro": "Centro",
@@ -245,25 +199,11 @@
       "simbolo": "Ponte Rio-Niterói",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "O Brasil de Catulo da Paixão Cearense",
-          "compositores": "Junior Fionda",
-          "interpretacao": "Danilo Cezar"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 9,
-          "pontos": 268.1
-        }
-      ],
-      "logo_url": "assets/logos/academicos-de-niteroi.svg",
+      "logo_url": "assets/logos/academicos-de-niteroi.png",
+      "logo_png_url": "assets/logos/academicos-de-niteroi.png",
       "logo_svg_url": "assets/logos/academicos-de-niteroi.svg",
-      "logo_png_url": "assets/logos/academicos-de-niteroi.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "unidos-de-bangu",
@@ -271,6 +211,9 @@
       "nome": "Unidos de Bangu",
       "nome_completo": "Grêmio Recreativo Escola de Samba Unidos de Bangu",
       "fundacao": "1937-11-15",
+      "fundadores": [
+        "Comunidade de Bangu"
+      ],
       "estado": "RJ",
       "cidade": "Rio de Janeiro",
       "bairro": "Bangu",
@@ -286,25 +229,11 @@
       "simbolo": "Castelo de Bangu",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Jorge da Capadócia",
-          "compositores": "Claudio Russo",
-          "interpretacao": "Igor Vianna"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 10,
-          "pontos": 267.8
-        }
-      ],
-      "logo_url": "assets/logos/unidos-de-bangu.svg",
+      "logo_url": "assets/logos/unidos-de-bangu.png",
+      "logo_png_url": "assets/logos/unidos-de-bangu.png",
       "logo_svg_url": "assets/logos/unidos-de-bangu.svg",
-      "logo_png_url": "assets/logos/unidos-de-bangu.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "uniao-de-marica",
@@ -312,6 +241,9 @@
       "nome": "União de Maricá",
       "nome_completo": "Grêmio Recreativo Escola de Samba União de Maricá",
       "fundacao": "2015-05-26",
+      "fundadores": [
+        "Comunidade de Maricá"
+      ],
       "estado": "RJ",
       "cidade": "Maricá",
       "bairro": "Centro",
@@ -327,25 +259,11 @@
       "simbolo": "Faraó e Sol",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "O Sapo Cururu de Maricá",
-          "compositores": "Junior Fionda",
-          "interpretacao": "Nino do Milênio"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 5,
-          "pontos": 268.9
-        }
-      ],
-      "logo_url": "assets/logos/uniao-de-marica.svg",
+      "logo_url": "assets/logos/uniao-de-marica.png",
+      "logo_png_url": "assets/logos/uniao-de-marica.png",
       "logo_svg_url": "assets/logos/uniao-de-marica.svg",
-      "logo_png_url": "assets/logos/uniao-de-marica.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "academicos-de-vigario-geral",
@@ -353,6 +271,9 @@
       "nome": "Acadêmicos de Vigário Geral",
       "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos de Vigário Geral",
       "fundacao": "1966-03-21",
+      "fundadores": [
+        "Comunidade de Vigário Geral"
+      ],
       "estado": "RJ",
       "cidade": "Rio de Janeiro",
       "bairro": "Vigário Geral",
@@ -370,25 +291,11 @@
       "simbolo": "Cavalo alado",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Maracatu Atômico",
-          "compositores": "Junior Fionda",
-          "interpretacao": "Bira Silva"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Série Ouro (Acesso)",
-          "posicao": 11,
-          "pontos": 267.5
-        }
-      ],
-      "logo_url": "assets/logos/academicos-de-vigario-geral.svg",
+      "logo_url": "assets/logos/academicos-de-vigario-geral.png",
+      "logo_png_url": "assets/logos/academicos-de-vigario-geral.png",
       "logo_svg_url": "assets/logos/academicos-de-vigario-geral.svg",
-      "logo_png_url": "assets/logos/academicos-de-vigario-geral.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "tom-maior",
@@ -396,6 +303,9 @@
       "nome": "Tom Maior",
       "nome_completo": "Grêmio Recreativo Escola de Samba Tom Maior",
       "fundacao": "1973-02-14",
+      "fundadores": [
+        "Mestre Hélio"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Sumaré",
@@ -413,25 +323,11 @@
       "simbolo": "Batuta e Clave de Sol",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Aysú - Uma História de Amor",
-          "compositores": "Urubatan das Kretas",
-          "interpretacao": "Gilsinho"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Especial",
-          "posicao": 13,
-          "pontos": 268.7
-        }
-      ],
-      "logo_url": "assets/logos/tom-maior.svg",
+      "logo_url": "assets/logos/tom-maior.png",
+      "logo_png_url": "assets/logos/tom-maior.png",
       "logo_svg_url": "assets/logos/tom-maior.svg",
-      "logo_png_url": "assets/logos/tom-maior.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "nene-de-vila-matilde",
@@ -439,6 +335,9 @@
       "nome": "Nenê de Vila Matilde",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Nenê de Vila Matilde",
       "fundacao": "1949-05-03",
+      "fundadores": [
+        "Nenê (Alberto Alves da Silva)"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Vila Matilde",
@@ -466,25 +365,11 @@
         1985,
         2001
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Circo Macabro",
-          "compositores": "Kadu, Nilson",
-          "interpretacao": "Agnaldo Amaral"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 1",
-          "posicao": 3,
-          "pontos": 269.1
-        }
-      ],
-      "logo_url": "assets/logos/nene-de-vila-matilde.svg",
+      "logo_url": "assets/logos/nene-de-vila-matilde.png",
+      "logo_png_url": "assets/logos/nene-de-vila-matilde.png",
       "logo_svg_url": "assets/logos/nene-de-vila-matilde.svg",
-      "logo_png_url": "assets/logos/nene-de-vila-matilde.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "perola-negra",
@@ -492,6 +377,9 @@
       "nome": "Pérola Negra",
       "nome_completo": "Grêmio Recreativo Escola de Samba Pérola Negra",
       "fundacao": "1973-08-07",
+      "fundadores": [
+        "Comunidade da Vila Madalena"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Vila Madalena",
@@ -509,25 +397,11 @@
       "simbolo": "Pérola Negra",
       "titulos": 0,
       "anos_titulos": [],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Pérola Negra Conta o Folclore",
-          "compositores": "Jairinho",
-          "interpretacao": "Daniel Collete"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 1",
-          "posicao": 5,
-          "pontos": 268.8
-        }
-      ],
-      "logo_url": "assets/logos/perola-negra.svg",
+      "logo_url": "assets/logos/perola-negra.png",
+      "logo_png_url": "assets/logos/perola-negra.png",
       "logo_svg_url": "assets/logos/perola-negra.svg",
-      "logo_png_url": "assets/logos/perola-negra.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "unidos-do-peruche",
@@ -535,6 +409,10 @@
       "nome": "Unidos do Peruche",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Unidos do Peruche",
       "fundacao": "1956-01-04",
+      "fundadores": [
+        "Seu Carlão do Peruche",
+        "Biguá"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Parque Peruche",
@@ -560,25 +438,11 @@
         1967,
         1973
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Peruche 68 Anos de Glória",
-          "compositores": "Toninho Penteado",
-          "interpretacao": "Alex Soares"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 2",
-          "posicao": 2,
-          "pontos": 269.4
-        }
-      ],
-      "logo_url": "assets/logos/unidos-do-peruche.svg",
+      "logo_url": "assets/logos/unidos-do-peruche.png",
+      "logo_png_url": "assets/logos/unidos-do-peruche.png",
       "logo_svg_url": "assets/logos/unidos-do-peruche.svg",
-      "logo_png_url": "assets/logos/unidos-do-peruche.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     },
     {
       "id": "x-9-paulistana",
@@ -586,6 +450,9 @@
       "nome": "X-9 Paulistana",
       "nome_completo": "Grêmio Recreativo Cultural Escola de Samba X-9 Paulistana",
       "fundacao": "1975-03-01",
+      "fundadores": [
+        "Comunidade da Parada Inglesa"
+      ],
       "estado": "SP",
       "cidade": "São Paulo",
       "bairro": "Parada Inglesa",
@@ -606,25 +473,11 @@
         1997,
         2000
       ],
-      "sambas_enredo": [
-        {
-          "ano": 2024,
-          "titulo": "Nordeste: A Força de Um Povo",
-          "compositores": "Jairinho",
-          "interpretacao": "Darlan Alves"
-        }
-      ],
-      "colocacoes": [
-        {
-          "ano": 2024,
-          "grupo": "Acesso 2",
-          "posicao": 1,
-          "pontos": 269.9
-        }
-      ],
-      "logo_url": "assets/logos/x-9-paulistana.svg",
+      "logo_url": "assets/logos/x-9-paulistana.png",
+      "logo_png_url": "assets/logos/x-9-paulistana.png",
       "logo_svg_url": "assets/logos/x-9-paulistana.svg",
-      "logo_png_url": "assets/logos/x-9-paulistana.png"
+      "sambas_enredo": [],
+      "colocacoes": []
     }
   ]
 }

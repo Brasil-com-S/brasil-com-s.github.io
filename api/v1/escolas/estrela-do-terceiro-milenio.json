@@ -6,6 +6,9 @@
     "nome": "Estrela do Terceiro Milênio",
     "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Estrela do Terceiro Milênio",
     "fundacao": "1998-05-05",
+    "fundadores": [
+      "Silvão"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Grajaú",
@@ -25,24 +28,10 @@
     "simbolo": "Estrela Guia de Ouro",
     "titulos": 0,
     "anos_titulos": [],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Vovó Cuca e a Arte de Rir",
-        "compositores": "Turko, Sukata",
-        "interpretacao": "Grazzi Brasil"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Acesso 1",
-        "posicao": 1,
-        "pontos": 270.0
-      }
-    ],
-    "logo_url": "assets/logos/estrela-do-terceiro-milenio.svg",
+    "logo_url": "assets/logos/estrela-do-terceiro-milenio.png",
+    "logo_png_url": "assets/logos/estrela-do-terceiro-milenio.png",
     "logo_svg_url": "assets/logos/estrela-do-terceiro-milenio.svg",
-    "logo_png_url": "assets/logos/estrela-do-terceiro-milenio.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

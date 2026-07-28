@@ -6,6 +6,10 @@
     "nome": "Unidos do Peruche",
     "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Unidos do Peruche",
     "fundacao": "1956-01-04",
+    "fundadores": [
+      "Seu Carlão do Peruche",
+      "Biguá"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Parque Peruche",
@@ -31,24 +35,10 @@
       1967,
       1973
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Peruche 68 Anos de Glória",
-        "compositores": "Toninho Penteado",
-        "interpretacao": "Alex Soares"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Acesso 2",
-        "posicao": 2,
-        "pontos": 269.4
-      }
-    ],
-    "logo_url": "assets/logos/unidos-do-peruche.svg",
+    "logo_url": "assets/logos/unidos-do-peruche.png",
+    "logo_png_url": "assets/logos/unidos-do-peruche.png",
     "logo_svg_url": "assets/logos/unidos-do-peruche.svg",
-    "logo_png_url": "assets/logos/unidos-do-peruche.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

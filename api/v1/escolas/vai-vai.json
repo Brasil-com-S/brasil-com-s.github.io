@@ -6,9 +6,14 @@
     "nome": "Vai-Vai",
     "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Vai-Vai",
     "fundacao": "1930-01-01",
+    "fundadores": [
+      "Ananias de Oliveira",
+      "Sebastião Eduardo (Tchê)",
+      "Frederico Rangel (Chiclé)"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
-    "bairro": "Bela Vista (Bixiga)",
+    "bairro": "Bela Vista",
     "grupo": "Especial",
     "cores": [
       "Preto",
@@ -36,24 +41,10 @@
       2011,
       2015
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Capítulo 4, Versículo 3 – Da Seita ao Princípio",
-        "compositores": "Dinei, Darlan Alves",
-        "interpretacao": "Luiz Felipe"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 8,
-        "pontos": 269.4
-      }
-    ],
-    "logo_url": "assets/logos/vai-vai.svg",
+    "logo_url": "assets/logos/vai-vai.png",
+    "logo_png_url": "assets/logos/vai-vai.png",
     "logo_svg_url": "assets/logos/vai-vai.svg",
-    "logo_png_url": "assets/logos/vai-vai.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

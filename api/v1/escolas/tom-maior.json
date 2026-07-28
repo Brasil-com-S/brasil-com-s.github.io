@@ -6,6 +6,9 @@
     "nome": "Tom Maior",
     "nome_completo": "Grêmio Recreativo Escola de Samba Tom Maior",
     "fundacao": "1973-02-14",
+    "fundadores": [
+      "Mestre Hélio"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Sumaré",
@@ -23,24 +26,10 @@
     "simbolo": "Batuta e Clave de Sol",
     "titulos": 0,
     "anos_titulos": [],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Aysú - Uma História de Amor",
-        "compositores": "Urubatan das Kretas",
-        "interpretacao": "Gilsinho"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 13,
-        "pontos": 268.7
-      }
-    ],
-    "logo_url": "assets/logos/tom-maior.svg",
+    "logo_url": "assets/logos/tom-maior.png",
+    "logo_png_url": "assets/logos/tom-maior.png",
     "logo_svg_url": "assets/logos/tom-maior.svg",
-    "logo_png_url": "assets/logos/tom-maior.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

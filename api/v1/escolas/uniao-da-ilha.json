@@ -6,6 +6,9 @@
     "nome": "União da Ilha do Governador",
     "nome_completo": "Grêmio Recreativo Escola de Samba União da Ilha do Governador",
     "fundacao": "1953-03-07",
+    "fundadores": [
+      "Maurício Gazelle"
+    ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Cacuia",
@@ -23,24 +26,10 @@
     "simbolo": "Sol e Mar",
     "titulos": 0,
     "anos_titulos": [],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Doum e Amelinha: Crianças de Axé",
-        "compositores": "André de Raça",
-        "interpretacao": "Nêgo"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Série Ouro (Acesso)",
-        "posicao": 4,
-        "pontos": 269.4
-      }
-    ],
-    "logo_url": "assets/logos/uniao-da-ilha.svg",
+    "logo_url": "assets/logos/uniao-da-ilha.png",
+    "logo_png_url": "assets/logos/uniao-da-ilha.png",
     "logo_svg_url": "assets/logos/uniao-da-ilha.svg",
-    "logo_png_url": "assets/logos/uniao-da-ilha.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

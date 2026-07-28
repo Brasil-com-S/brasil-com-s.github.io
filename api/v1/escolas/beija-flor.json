@@ -6,6 +6,11 @@
     "nome": "Beija-Flor de Nilópolis",
     "nome_completo": "Grêmio Recreativo Escola de Samba Beija-Flor de Nilópolis",
     "fundacao": "1948-12-25",
+    "fundadores": [
+      "Milton de Oliveira",
+      "Edson Menezes",
+      "Neguinho da Beija-Flor"
+    ],
     "estado": "RJ",
     "cidade": "Nilópolis",
     "bairro": "Centro",
@@ -18,7 +23,7 @@
       "#002366",
       "#FFFFFF"
     ],
-    "simbolo": "Beija-Flor",
+    "simbolo": "Beija-Flor em Voo",
     "titulos": 14,
     "anos_titulos": [
       1976,
@@ -35,24 +40,10 @@
       2015,
       2018
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Um Delírio de Carnaval na Maceió de Rás Gonguila",
-        "compositores": "Kirizinho",
-        "interpretacao": "Nego"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 8,
-        "pontos": 268.5
-      }
-    ],
-    "logo_url": "assets/logos/beija-flor.svg",
+    "logo_url": "assets/logos/beija-flor.png",
+    "logo_png_url": "assets/logos/beija-flor.png",
     "logo_svg_url": "assets/logos/beija-flor.svg",
-    "logo_png_url": "assets/logos/beija-flor.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

@@ -6,6 +6,10 @@
     "nome": "Acadêmicos do Grande Rio",
     "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Grande Rio",
     "fundacao": "1988-09-22",
+    "fundadores": [
+      "Milton Perácio",
+      "Helinho de Oliveira"
+    ],
     "estado": "RJ",
     "cidade": "Duque de Caxias",
     "bairro": "25 de Agosto",
@@ -25,36 +29,10 @@
     "anos_titulos": [
       2022
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Nos Nosso Tambores, A Voz de Tupinambá",
-        "compositores": "Derico, Igor Leal",
-        "interpretacao": "Evandro Malandro"
-      },
-      {
-        "ano": 2022,
-        "titulo": "Fala, Majeté! Sete Chaves de Exu",
-        "compositores": "Gustavo Clarão, Arlindinho Cruz",
-        "interpretacao": "Evandro Malandro"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 3,
-        "pontos": 269.3
-      },
-      {
-        "ano": 2022,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 269.9
-      }
-    ],
-    "logo_url": "assets/logos/grande-rio.svg",
+    "logo_url": "assets/logos/grande-rio.png",
+    "logo_png_url": "assets/logos/grande-rio.png",
     "logo_svg_url": "assets/logos/grande-rio.svg",
-    "logo_png_url": "assets/logos/grande-rio.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

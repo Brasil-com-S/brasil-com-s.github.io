@@ -6,6 +6,9 @@
     "nome": "Camisa Verde e Branco",
     "nome_completo": "Associação Cultural Recreativa Social Escola de Samba Camisa Verde e Branco",
     "fundacao": "1953-09-04",
+    "fundadores": [
+      "Inocêncio Tobias"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Barra Funda",
@@ -31,24 +34,10 @@
       1992,
       1993
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Adenla - O Imperador Nas Terras do Trevo",
-        "compositores": "Fabiano Tennor",
-        "interpretacao": "Igor Vianna"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 12,
-        "pontos": 269.0
-      }
-    ],
-    "logo_url": "assets/logos/camisa-verde-e-branco.svg",
+    "logo_url": "assets/logos/camisa-verde-e-branco.png",
+    "logo_png_url": "assets/logos/camisa-verde-e-branco.png",
     "logo_svg_url": "assets/logos/camisa-verde-e-branco.svg",
-    "logo_png_url": "assets/logos/camisa-verde-e-branco.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

@@ -6,6 +6,9 @@
     "nome": "Águia de Ouro",
     "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Águia de Ouro",
     "fundacao": "1976-05-09",
+    "fundadores": [
+      "José Mário da Silva"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Pompeia",
@@ -23,24 +26,10 @@
     "anos_titulos": [
       2020
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Águia de Ouro nas Terras de Radioatividade",
-        "compositores": "Márcio Pesi",
-        "interpretacao": "Douglani"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 10,
-        "pontos": 269.1
-      }
-    ],
-    "logo_url": "assets/logos/aguia-de-ouro.svg",
+    "logo_url": "assets/logos/aguia-de-ouro.png",
+    "logo_png_url": "assets/logos/aguia-de-ouro.png",
     "logo_svg_url": "assets/logos/aguia-de-ouro.svg",
-    "logo_png_url": "assets/logos/aguia-de-ouro.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

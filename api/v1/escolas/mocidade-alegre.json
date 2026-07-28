@@ -6,6 +6,11 @@
     "nome": "Mocidade Alegre",
     "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Mocidade Alegre",
     "fundacao": "1967-09-24",
+    "fundadores": [
+      "Juarez da Cruz",
+      "Carlos Augusto da Cruz",
+      "Nadir da Cruz"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Limão",
@@ -36,36 +41,10 @@
       2023,
       2024
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Brasiléia Desvairada",
-        "compositores": "Biro Biro, Turko",
-        "interpretacao": "Igor Sorriso"
-      },
-      {
-        "ano": 2023,
-        "titulo": "Yasuke",
-        "compositores": "Márcio André, Aquiles da Vila",
-        "interpretacao": "Igor Sorriso"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 270.0
-      },
-      {
-        "ano": 2023,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 270.0
-      }
-    ],
-    "logo_url": "assets/logos/mocidade-alegre.svg",
+    "logo_url": "assets/logos/mocidade-alegre.png",
+    "logo_png_url": "assets/logos/mocidade-alegre.png",
     "logo_svg_url": "assets/logos/mocidade-alegre.svg",
-    "logo_png_url": "assets/logos/mocidade-alegre.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

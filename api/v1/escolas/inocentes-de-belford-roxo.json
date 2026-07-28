@@ -6,6 +6,9 @@
     "nome": "Inocentes de Belford Roxo",
     "nome_completo": "Grêmio Recreativo Escola de Samba Inocentes de Belford Roxo",
     "fundacao": "1993-12-12",
+    "fundadores": [
+      "Reginaldo Gomes"
+    ],
     "estado": "RJ",
     "cidade": "Belford Roxo",
     "bairro": "São Vicente",
@@ -23,24 +26,10 @@
     "simbolo": "Pomba da Paz",
     "titulos": 0,
     "anos_titulos": [],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Debret Pintou o Brasil",
-        "compositores": "Claudio Russo",
-        "interpretacao": "Nêgo"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Série Ouro (Acesso)",
-        "posicao": 6,
-        "pontos": 268.7
-      }
-    ],
-    "logo_url": "assets/logos/inocentes-de-belford-roxo.svg",
+    "logo_url": "assets/logos/inocentes-de-belford-roxo.png",
+    "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png",
     "logo_svg_url": "assets/logos/inocentes-de-belford-roxo.svg",
-    "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

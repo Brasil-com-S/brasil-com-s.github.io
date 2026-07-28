@@ -6,6 +6,9 @@
     "nome": "Dragões da Real",
     "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Dragões da Real",
     "fundacao": "2000-03-17",
+    "fundadores": [
+      "Torcida Dragões da Real"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Vila Anastácio",
@@ -23,24 +26,10 @@
     "simbolo": "Dragão Alado",
     "titulos": 0,
     "anos_titulos": [],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Africa - Uma Constelação de Reis e Rainhas",
-        "compositores": "Igor Pires",
-        "interpretacao": "Rene Sobral"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 2,
-        "pontos": 269.9
-      }
-    ],
-    "logo_url": "assets/logos/dragoes-da-real.svg",
+    "logo_url": "assets/logos/dragoes-da-real.png",
+    "logo_png_url": "assets/logos/dragoes-da-real.png",
     "logo_svg_url": "assets/logos/dragoes-da-real.svg",
-    "logo_png_url": "assets/logos/dragoes-da-real.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

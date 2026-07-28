@@ -6,6 +6,12 @@
     "nome": "Império Serrano",
     "nome_completo": "Grêmio Recreativo Escola de Samba Império Serrano",
     "fundacao": "1947-03-23",
+    "fundadores": [
+      "Mano Décio da Viola",
+      "Silas de Oliveira",
+      "Aniceto do Império",
+      "Molequinho"
+    ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Madureira",
@@ -30,24 +36,10 @@
       1972,
       1982
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Ilú-Ọba Ọ̀yọ́: A Gira dos Orixás",
-        "compositores": "Aluizio Machado",
-        "interpretacao": "Nêgo"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Série Ouro (Acesso)",
-        "posicao": 2,
-        "pontos": 269.8
-      }
-    ],
-    "logo_url": "assets/logos/imperio-serrano.svg",
+    "logo_url": "assets/logos/imperio-serrano.png",
+    "logo_png_url": "assets/logos/imperio-serrano.png",
     "logo_svg_url": "assets/logos/imperio-serrano.svg",
-    "logo_png_url": "assets/logos/imperio-serrano.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }

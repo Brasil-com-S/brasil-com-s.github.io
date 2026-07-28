@@ -6,6 +6,9 @@
     "nome": "Acadêmicos do Tatuapé",
     "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Tatuapé",
     "fundacao": "1952-10-26",
+    "fundadores": [
+      "Oswaldo Vilaça"
+    ],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Tatuapé",
@@ -24,24 +27,10 @@
       2017,
       2018
     ],
-    "sambas_enredo": [
-      {
-        "ano": 2024,
-        "titulo": "Mata Atlântica: O Bioma Mais Rico do Planeta",
-        "compositores": "Fabiano Tennor",
-        "interpretacao": "Celsinho Mody"
-      }
-    ],
-    "colocacoes": [
-      {
-        "ano": 2024,
-        "grupo": "Especial",
-        "posicao": 5,
-        "pontos": 269.5
-      }
-    ],
-    "logo_url": "assets/logos/academicos-do-tatuape.svg",
+    "logo_url": "assets/logos/academicos-do-tatuape.png",
+    "logo_png_url": "assets/logos/academicos-do-tatuape.png",
     "logo_svg_url": "assets/logos/academicos-do-tatuape.svg",
-    "logo_png_url": "assets/logos/academicos-do-tatuape.png"
+    "sambas_enredo": [],
+    "colocacoes": []
   }
 }
