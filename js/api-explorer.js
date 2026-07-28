@@ -27,8 +27,10 @@ document.addEventListener('DOMContentLoaded', () => {
     if (data.data) {
       // Single school object
       const e = data.data;
+      const logoPng = e.logo_png_url || e.logo_url;
+
       visualPreview.innerHTML = `
-        <img src="${e.logo_url}" alt="${e.nome}" class="preview-logo" />
+        <img src="${logoPng}" alt="Arte Brasão ${e.nome}" class="preview-logo" style="background: #000;" />
         <h3 class="preview-title">${e.nome}</h3>
         <div class="preview-meta">
           <span class="badge ${e.grupo.toLowerCase().includes('especial') ? 'especial' : 'acesso'}">${e.grupo}</span>
@@ -45,17 +47,17 @@ document.addEventListener('DOMContentLoaded', () => {
     } else if (data.escolas) {
       // List of schools
       const total = data.metadata ? data.metadata.total : data.escolas.length;
-      const firstThreeLogos = data.escolas.slice(0, 4).map(e => 
-        `<img src="${e.logo_url}" style="width: 50px; height: 50px; border-radius: 50%; border: 2px solid #FFCC00; object-fit: cover;" />`
+      const firstLogos = data.escolas.slice(0, 4).map(e => 
+        `<img src="${e.logo_png_url || e.logo_url}" style="width: 50px; height: 50px; border-radius: 50%; border: 2px solid #FFCC00; object-fit: cover; background: #000;" />`
       ).join('');
 
       visualPreview.innerHTML = `
         <div style="display: flex; gap: 0.5rem; margin-bottom: 1.2rem;">
-          ${firstThreeLogos}
+          ${firstLogos}
         </div>
         <h3 class="preview-title">${total} Escolas Encontradas</h3>
         <p style="color: #94A3B8; font-size: 0.95rem; margin-top: 0.4rem;">
-          Coleção completa de brasões, histórico e sambas-enredo retornado em JSON.
+          Coleção completa de artes PNG, histórico e sambas-enredo retornado em JSON.
         </p>
       `;
     } else if (data.anos_disponiveis) {
@@ -84,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btnCopy.addEventListener('click', () => {
       navigator.clipboard.writeText(codeOutput.textContent);
       const originalText = btnCopy.textContent;
-      btnCopy.textContent = 'Copiat!';
+      btnCopy.textContent = 'Copiado!';
       setTimeout(() => { btnCopy.textContent = originalText; }, 2000);
     });
   }

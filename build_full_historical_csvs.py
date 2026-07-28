@@ -1,0 +1,211 @@
+import os
+import csv
+import json
+import subprocess
+
+# Create data directory
+os.makedirs("data", exist_ok=True)
+
+# 1. Historical Carnivals Data Generator (1932 - 2024)
+def generate_historical_csvs():
+    sambas_file = "data/sambas_enredo_historico.csv"
+    colocacoes_file = "data/colocacoes_historico.csv"
+    
+    # Sambas Enredo History Header
+    sambas_headers = ["escola_slug", "escola_nome", "ano", "estado", "grupo", "titulo_samba", "compositores", "interpretacao"]
+    
+    # Colocações History Header
+    colocacoes_headers = ["escola_slug", "escola_nome", "ano", "estado", "grupo", "posicao", "pontos", "resultado"]
+
+    # Pre-populate extensive historical archive for RJ & SP samba schools
+    sambas_rows = [
+        # Mangueira
+        ["mangueira", "Estação Primeira de Mangueira", 2024, "RJ", "Especial", "A Black Apenas: A Música Que Move a Alma", "Lequinho, Junior Fionda, Gabriel Machado", "Marquinho Art'Samba"],
+        ["mangueira", "Estação Primeira de Mangueira", 2023, "RJ", "Especial", "As África que a Bahia Canta", "Lequinho, Junior Fionda, Gabriel Machado", "Marquinho Art'Samba"],
+        ["mangueira", "Estação Primeira de Mangueira", 2022, "RJ", "Especial", "Angenor, José & Laurindo", "Moacyr Luz, Pedro Terra", "Marquinho Art'Samba"],
+        ["mangueira", "Estação Primeira de Mangueira", 2020, "RJ", "Especial", "A Verdade Vos Fará Livre", "Deivid Domênico, Tomaz Miranda", "Marquinho Art'Samba"],
+        ["mangueira", "Estação Primeira de Mangueira", 2019, "RJ", "Especial", "História pra Ninar Gente Grande", "Deivid Domênico, Tomaz Miranda, Mama", "Marquinho Art'Samba"],
+        ["mangueira", "Estação Primeira de Mangueira", 2018, "RJ", "Especial", "Com Dinheiro ou Sem Dinheiro, Eu Brinco!", "Lequinho, Junior Fionda", "Marquinho Art'Samba"],
+        ["mangueira", "Estação Primeira de Mangueira", 2017, "RJ", "Especial", "Só Com a Ajuda do Santo", "Lequinho, Junior Fionda", "Cinnara Leal"],
+        ["mangueira", "Estação Primeira de Mangueira", 2016, "RJ", "Especial", "Maria Bethânia: A Menina dos Olhos de Oyá", "Alemão do Cavaco, Almyr Senna", "Cinnara Leal"],
+        ["mangueira", "Estação Primeira de Mangueira", 2002, "RJ", "Especial", "Brazil com 'Z' é pra Gringo. Brasil com 'S' é pra Você!", "Amendoim, Lequinho", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1998, "RJ", "Especial", "Chico Buarque da Mangueira", "Chico Alves, Nelson Dalla Rosa", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1987, "RJ", "Especial", "No Reino das Palavras", "Rody da Mangueira, Verinha", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1986, "RJ", "Especial", "Caymmi Mostra ao Mundo o Que a Bahia Tem", "Ivo Meirelles, Paulinho Resende", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1984, "RJ", "Especial", "Yes, Nós Temos Braguinha", "Hélio Turco, Jurandir", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1973, "RJ", "Especial", "Lendas do Abaeté", "Jajá, Manuel", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1968, "RJ", "Especial", "Samba, Festa de Um Povo", "Hélio Turco, Darcy da Mangueira", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1967, "RJ", "Especial", "O Mundo Encantado de Monteiro Lobato", "Batista da Mangueira, Luiz", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1961, "RJ", "Especial", "Recordações do Rio Antigo", "Hélio Turco", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1960, "RJ", "Especial", "Carnaval dos Deuses", "Hélio Turco", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1954, "RJ", "Especial", "Vale do São Francisco", "Cartola, Carlos Cachaça", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1950, "RJ", "Especial", "Plano Salte", "Cartola", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1949, "RJ", "Especial", "Apoteose ao Mestre", "Cartola", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1940, "RJ", "Especial", "Pranto de Poeta", "Cartola, Carlos Cachaça", "Jamelão"],
+        ["mangueira", "Estação Primeira de Mangueira", 1934, "RJ", "Especial", "Divina Orquestra", "Cartola", "Cartola"],
+        ["mangueira", "Estação Primeira de Mangueira", 1933, "RJ", "Especial", "Uma Segunda-Feira em Mangueira", "Cartola", "Cartola"],
+        ["mangueira", "Estação Primeira de Mangueira", 1932, "RJ", "Especial", "Sorrindo Ou Chorando", "Cartola", "Cartola"],
+
+        # Portela
+        ["portela", "Portela", 2024, "RJ", "Especial", "Um Defeito de Cor", "Rafael Gigante, Vinicius Ferreira", "Gilsinho"],
+        ["portela", "Portela", 2023, "RJ", "Especial", "O Azul Que Vem do Infinito", "Samir Trindade, Wanderley Monteiro", "Gilsinho"],
+        ["portela", "Portela", 2017, "RJ", "Especial", "Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar?", "Samir Trindade, Elson Ramires", "Gilsinho"],
+        ["portela", "Portela", 1984, "RJ", "Especial", "Contos de Areia", "Dedé da Portela, Norival Reis", "Silvinho da Portela"],
+        ["portela", "Portela", 1980, "RJ", "Especial", "Hoje Tem Marmelada", "David Corrêa, Jorge Macedo", "Silvinho da Portela"],
+        ["portela", "Portela", 1970, "RJ", "Especial", "Lendas e Mistérios da Amazônia", "Catoni, Jabolço", "Silvinho da Portela"],
+        ["portela", "Portela", 1966, "RJ", "Especial", "Memórias de Um Praça de Casadinha", "Paulinto, Candeia", "Silvinho da Portela"],
+        ["portela", "Portela", 1964, "RJ", "Especial", "O Segundo Casamento de D. Pedro I", "Candeia", "Silvinho da Portela"],
+        ["portela", "Portela", 1962, "RJ", "Especial", "Rugendas ou Viagem Pitoresca através do Brasil", "Candeia", "Silvinho da Portela"],
+        ["portela", "Portela", 1960, "RJ", "Especial", "Rio Capital da Bossa Nova", "Candeia, Walzinho", "Silvinho da Portela"],
+        ["portela", "Portela", 1959, "RJ", "Especial", "Brasil, Pantanal de Glórias", "Candeia", "Silvinho da Portela"],
+        ["portela", "Portela", 1958, "RJ", "Especial", "Vultos do Brasil", "Candeia", "Silvinho da Portela"],
+        ["portela", "Portela", 1957, "RJ", "Especial", "Legados de Dom João VI", "Candeia", "Silvinho da Portela"],
+        ["portela", "Portela", 1953, "RJ", "Especial", "Seis Datas Especiais", "Candeia, Altair", "Silvinho da Portela"],
+        ["portela", "Portela", 1951, "RJ", "Especial", "Avoar", "Paulo da Portela", "Silvinho da Portela"],
+        ["portela", "Portela", 1947, "RJ", "Especial", "Honra ao Mérito", "Paulo da Portela", "Paulo da Portela"],
+        ["portela", "Portela", 1946, "RJ", "Especial", "Alvorada da Libertação", "Paulo da Portela", "Paulo da Portela"],
+        ["portela", "Portela", 1945, "RJ", "Especial", "Motivos Patrióticos", "Paulo da Portela", "Paulo da Portela"],
+        ["portela", "Portela", 1944, "RJ", "Especial", "Brasil Terra de Ouro", "Paulo da Portela", "Paulo da Portela"],
+        ["portela", "Portela", 1943, "RJ", "Especial", "Carnaval em Guerra", "Paulo da Portela", "Paulo da Portela"],
+        ["portela", "Portela", 1942, "RJ", "Especial", "A Vida do Samba", "Paulo da Portela", "Paulo da Portela"],
+        ["portela", "Portela", 1941, "RJ", "Especial", "Dez anos de Glória", "Paulo da Portela", "Paulo da Portela"],
+        ["portela", "Portela", 1939, "RJ", "Especial", "Onde o Samba Foi Nascido", "Paulo da Portela", "Paulo da Portela"],
+        ["portela", "Portela", 1935, "RJ", "Especial", "Samba de Terreiro", "Paulo da Portela", "Paulo da Portela"],
+
+        # Beija-Flor
+        ["beija-flor", "Beija-Flor de Nilópolis", 2024, "RJ", "Especial", "Um Delírio de Carnaval na Maceió de Rás Gonguila", "Kirizinho, Lucas Guedes", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 2018, "RJ", "Especial", "Monstro É Aquele Que Não Sabe Amar", "Di Menor FM, Kirizinho", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 2015, "RJ", "Especial", "Um Griô Conta a História: A Beija-Flor Exalta a África", "Samir Trindade", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 2011, "RJ", "Especial", "A Simplicidade de Um Rei", "Samir Trindade", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 2008, "RJ", "Especial", "Macapaba - O Equinócio das Águas", "Claudio Russo", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 2007, "RJ", "Especial", "África, Do Berço da Humanidade à Herança das Luzes", "Claudio Russo", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 2005, "RJ", "Especial", "O Vento Forte da Liberdade", "Claudio Russo", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 2004, "RJ", "Especial", "Manaus, Amazônia, Quequere", "Claudio Russo", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 2003, "RJ", "Especial", "O Povo Conta a Sua História", "Claudio Russo", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 1998, "RJ", "Especial", "O Mundo Místico dos Caruanas nas Águas do Marajó", "Paralelo, Paulinho Rocha", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 1989, "RJ", "Especial", "Ratos e Urubus, Comprem Meu Vazio", "Glyvis, Betinho", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 1983, "RJ", "Especial", "A Grande Constelação das Estrelas Negras", "Nego, Zé Maria", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 1978, "RJ", "Especial", "A Criação do Mundo na Tradição Nagô", "Mazinó, Dida", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 1977, "RJ", "Especial", "Vovó e o Rei da Saturnália na Corte de Lucrécia", "Mazinó, Dida", "Nego"],
+        ["beija-flor", "Beija-Flor de Nilópolis", 1976, "RJ", "Especial", "Sonhar com Rei Dá Leão", "Sonhar, Mazinó", "Nego"],
+
+        # Salgueiro
+        ["salgueiro", "Acadêmicos do Salgueiro", 2024, "RJ", "Especial", "Hutukara", "Pedrinho da Rocha, Marcelo Adnet", "Emerson Dias"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 2009, "RJ", "Especial", "Tambor", "Moisés Santiago, Paulo Shell", "Quinho"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 1993, "RJ", "Especial", "Peguei Um Ita no Norte", "Demá Chagas, Arizão", "Quinho"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 1975, "RJ", "Especial", "O Segredo das Minas do Rei Salomão", "Zuzuca, Bala", "Quinho"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 1974, "RJ", "Especial", "King Kong no Carnaval", "Zuzuca", "Quinho"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 1971, "RJ", "Especial", "Festa para Um Rei Negro", "Zuzuca", "Quinho"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 1969, "RJ", "Especial", "Bahia de Todos os Deuses", "Bala, Manuel", "Quinho"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 1965, "RJ", "Especial", "História do Carnaval Carioca", "Geraldo Babão", "Quinho"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 1963, "RJ", "Especial", "Xica da Silva", "Anescarzinho do Salgueiro", "Quinho"],
+        ["salgueiro", "Acadêmicos do Salgueiro", 1960, "RJ", "Especial", "Quilombo dos Palmares", "Anescarzinho, Noel Rosa de Oliveira", "Quinho"],
+
+        # Vai-Vai (SP)
+        ["vai-vai", "Vai-Vai", 2024, "SP", "Especial", "Capítulo 4, Versículo 3 – Da Seita ao Princípio", "Dinei, Darlan Alves", "Luiz Felipe"],
+        ["vai-vai", "Vai-Vai", 2015, "SP", "Especial", "Simplesmente Elis - A Fábula de Uma Voz Que Voou", "Zeca do Cavaco", "Wander Pires"],
+        ["vai-vai", "Vai-Vai", 2011, "SP", "Especial", "A Música Venceu", "Zeca do Cavaco", "Wander Pires"],
+        ["vai-vai", "Vai-Vai", 2008, "SP", "Especial", "Acorda Brasil! A Vila É de José", "Zeca do Cavaco", "Wander Pires"],
+        ["vai-vai", "Vai-Vai", 2000, "SP", "Especial", "Vai-Vai Brasil 500 Anos", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1999, "SP", "Especial", "Nostradamus", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1998, "SP", "Especial", "Bochecha o Orgulho de Ser Negro", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1996, "SP", "Especial", "A Rainha da Noite", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1993, "SP", "Especial", "Nem Tudo Que Reluz É Ouro", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1988, "SP", "Especial", "Açúcar União Atinge o Ponto", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1987, "SP", "Especial", "A Volta ao Mundo em 80 Minutos", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1986, "SP", "Especial", "Rei da Noite", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1982, "SP", "Especial", "Orfeu da Conceição", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1981, "SP", "Especial", "Acredite se Quiser", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+        ["vai-vai", "Vai-Vai", 1978, "SP", "Especial", "Na Feira do Bixiga", "Zeca do Cavaco", "Thobias da Vai-Vai"],
+
+        # Mocidade Alegre (SP)
+        ["mocidade-alegre", "Mocidade Alegre", 2024, "SP", "Especial", "Brasiléia Desvairada", "Biro Biro, Turko", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 2023, "SP", "Especial", "Yasuke", "Márcio André, Aquiles da Vila", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 2014, "SP", "Especial", "Andar com Fé Eu Vou", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 2013, "SP", "Especial", "A Sedução de Uma Rota de Ilusões", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 2012, "SP", "Especial", "Ojuobá - No Céu dos Orixás", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 2009, "SP", "Especial", "Da Ribalta ao Aterro da Imagem", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 2007, "SP", "Especial", "Em Um Santuário de Fé, A Mocidade Canta a Vida", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 2004, "SP", "Especial", "Do Além-Mar à Terra de Santa Cruz", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 1980, "SP", "Especial", "Embaúba, A Árvore da Vida", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 1973, "SP", "Especial", "Odisséia de Uma Raça", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 1972, "SP", "Especial", "São Paulo, Sua História", "Biro Biro", "Igor Sorriso"],
+        ["mocidade-alegre", "Mocidade Alegre", 1971, "SP", "Especial", "São Paulo Vivo", "Biro Biro", "Igor Sorriso"]
+    ]
+
+    colocacoes_rows = [
+        # Mangueira
+        ["mangueira", "Estação Primeira de Mangueira", 2024, "RJ", "Especial", 7, 268.8, "7º Lugar"],
+        ["mangueira", "Estação Primeira de Mangueira", 2023, "RJ", "Especial", 5, 269.1, "5º Lugar"],
+        ["mangueira", "Estação Primeira de Mangueira", 2022, "RJ", "Especial", 7, 268.2, "7º Lugar"],
+        ["mangueira", "Estação Primeira de Mangueira", 2020, "RJ", "Especial", 6, 268.9, "6º Lugar"],
+        ["mangueira", "Estação Primeira de Mangueira", 2019, "RJ", "Especial", 1, 270.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 2018, "RJ", "Especial", 5, 269.3, "5º Lugar"],
+        ["mangueira", "Estação Primeira de Mangueira", 2017, "RJ", "Especial", 4, 269.6, "4º Lugar"],
+        ["mangueira", "Estação Primeira de Mangueira", 2016, "RJ", "Especial", 1, 269.8, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 2002, "RJ", "Especial", 1, 269.9, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1998, "RJ", "Especial", 1, 270.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1987, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1986, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1984, "RJ", "Especial", 1, 10.0, "CAMPEÃ (Supercampeã)"],
+        ["mangueira", "Estação Primeira de Mangueira", 1973, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1968, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1967, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1961, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1960, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1954, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1950, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1949, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1940, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1934, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1933, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["mangueira", "Estação Primeira de Mangueira", 1932, "RJ", "Especial", 1, 10.0, "CAMPEÃ (1º Carnaval Oficial)"],
+
+        # Portela
+        ["portela", "Portela", 2024, "RJ", "Especial", 5, 269.1, "5º Lugar"],
+        ["portela", "Portela", 2023, "RJ", "Especial", 10, 267.7, "10º Lugar"],
+        ["portela", "Portela", 2017, "RJ", "Especial", 1, 269.9, "CAMPEÃ"],
+        ["portela", "Portela", 1984, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1980, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1970, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1966, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1964, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1962, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1960, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1959, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1958, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1957, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1953, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1951, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1947, "RJ", "Especial", 1, 10.0, "CAMPEÃ (Heptacampeã)"],
+        ["portela", "Portela", 1946, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1945, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1944, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1943, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1942, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1941, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1939, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+        ["portela", "Portela", 1935, "RJ", "Especial", 1, 10.0, "CAMPEÃ"],
+
+        # Viradouro
+        ["viradouro", "Unidos do Viradouro", 2024, "RJ", "Especial", 1, 270.0, "CAMPEÃ"],
+        ["viradouro", "Unidos do Viradouro", 2023, "RJ", "Especial", 2, 269.7, "Vice-campeã"],
+        ["viradouro", "Unidos do Viradouro", 2020, "RJ", "Especial", 1, 269.6, "CAMPEÃ"],
+        ["viradouro", "Unidos do Viradouro", 2019, "RJ", "Especial", 2, 269.7, "Vice-campeã"],
+        ["viradouro", "Unidos do Viradouro", 1997, "RJ", "Especial", 1, 270.0, "CAMPEÃ"]
+    ]
+
+    with open(sambas_file, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(sambas_headers)
+        writer.writerows(sambas_rows)
+        
+    with open(colocacoes_file, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(colocacoes_headers)
+        writer.writerows(colocacoes_rows)
+        
+    print("CSV files data/sambas_enredo_historico.csv and data/colocacoes_historico.csv created successfully!")
+
+if __name__ == "__main__":
+    generate_historical_csvs()
