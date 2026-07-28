@@ -42,12 +42,6 @@
         "titulo": "Capítulo 4, Versículo 3 – Da Seita ao Princípio",
         "compositores": "Dinei, Darlan Alves",
         "interpretacao": "Luiz Felipe"
-      },
-      {
-        "ano": 2015,
-        "titulo": "Simplesmente Elis - A Fábula de Uma Voz Que Voou",
-        "compositores": "Zeca do Cavaco",
-        "interpretacao": "Wander Pires"
       }
     ],
     "colocacoes": [
@@ -56,12 +50,6 @@
         "grupo": "Especial",
         "posicao": 8,
         "pontos": 269.4
-      },
-      {
-        "ano": 2015,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 269.9
       }
     ],
     "logo_url": "assets/logos/vai-vai.svg",

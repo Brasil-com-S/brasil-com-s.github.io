@@ -31,12 +31,6 @@
         "titulo": "Gbala - Viagem ao Temple da Criação",
         "compositores": "Martinho da Vila",
         "interpretacao": "Tingua"
-      },
-      {
-        "ano": 2013,
-        "titulo": "A Vila Canta o Brasil Celeiro do Mundo",
-        "compositores": "Martinho da Vila, Arlindo Cruz",
-        "interpretacao": "Tingua"
       }
     ],
     "colocacoes": [
@@ -45,12 +39,6 @@
         "grupo": "Especial",
         "posicao": 6,
         "pontos": 268.9
-      },
-      {
-        "ano": 2013,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 299.7
       }
     ],
     "logo_url": "assets/logos/vila-isabel.svg",

@@ -39,19 +39,7 @@
       {
         "ano": 2024,
         "titulo": "Um Delírio de Carnaval na Maceió de Rás Gonguila",
-        "compositores": "Kirizinho, Lucas Guedes",
-        "interpretacao": "Nego"
-      },
-      {
-        "ano": 2018,
-        "titulo": "Monstro É Aquele Que Não Sabe Amar",
-        "compositores": "Di Menor FM, Kirizinho",
-        "interpretacao": "Nego"
-      },
-      {
-        "ano": 1989,
-        "titulo": "Ratos e Urubus, Comprem Meu Vazio",
-        "compositores": "Glyvis, Betinho",
+        "compositores": "Kirizinho",
         "interpretacao": "Nego"
       }
     ],
@@ -61,12 +49,6 @@
         "grupo": "Especial",
         "posicao": 8,
         "pontos": 268.5
-      },
-      {
-        "ano": 2018,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 269.6
       }
     ],
     "logo_url": "assets/logos/beija-flor.svg",

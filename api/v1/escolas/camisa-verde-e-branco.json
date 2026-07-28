@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "data": {
+    "id": "camisa-verde-e-branco",
+    "slug": "camisa-verde-e-branco",
+    "nome": "Camisa Verde e Branco",
+    "nome_completo": "Associação Cultural Recreativa Social Escola de Samba Camisa Verde e Branco",
+    "fundacao": "1953-09-04",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Barra Funda",
+    "grupo": "Especial",
+    "cores": [
+      "Verde",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#008000",
+      "#FFFFFF"
+    ],
+    "simbolo": "Trevo de Quatro Folhas",
+    "titulos": 9,
+    "anos_titulos": [
+      1974,
+      1975,
+      1976,
+      1977,
+      1979,
+      1989,
+      1991,
+      1992,
+      1993
+    ],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Adenla - O Imperador Nas Terras do Trevo",
+        "compositores": "Fabiano Tennor",
+        "interpretacao": "Igor Vianna"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 12,
+        "pontos": 269.0
+      }
+    ],
+    "logo_url": "assets/logos/camisa-verde-e-branco.svg",
+    "logo_svg_url": "assets/logos/camisa-verde-e-branco.svg",
+    "logo_png_url": "assets/logos/camisa-verde-e-branco.png"
+  }
+}

@@ -54,14 +54,8 @@
       {
         "ano": 2017,
         "titulo": "Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar?",
-        "compositores": "Samir Trindade, Elson Ramires",
+        "compositores": "Samir Trindade",
         "interpretacao": "Gilsinho"
-      },
-      {
-        "ano": 1980,
-        "titulo": "Hoje Tem Marmelada",
-        "compositores": "David Corrêa, Jorge Macedo",
-        "interpretacao": "Silvinho da Portela"
       }
     ],
     "colocacoes": [
@@ -70,12 +64,6 @@
         "grupo": "Especial",
         "posicao": 5,
         "pontos": 269.1
-      },
-      {
-        "ano": 2023,
-        "grupo": "Especial",
-        "posicao": 10,
-        "pontos": 267.7
       },
       {
         "ano": 2017,

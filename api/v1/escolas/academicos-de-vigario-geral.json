@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "data": {
+    "id": "academicos-de-vigario-geral",
+    "slug": "academicos-de-vigario-geral",
+    "nome": "Acadêmicos de Vigário Geral",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos de Vigário Geral",
+    "fundacao": "1966-03-21",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Vigário Geral",
+    "grupo": "Acesso",
+    "cores": [
+      "Azul",
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#1565C0",
+      "#D32F2F",
+      "#FFFFFF"
+    ],
+    "simbolo": "Cavalo alado",
+    "titulos": 0,
+    "anos_titulos": [],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Maracatu Atômico",
+        "compositores": "Junior Fionda",
+        "interpretacao": "Bira Silva"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro (Acesso)",
+        "posicao": 11,
+        "pontos": 267.5
+      }
+    ],
+    "logo_url": "assets/logos/academicos-de-vigario-geral.svg",
+    "logo_svg_url": "assets/logos/academicos-de-vigario-geral.svg",
+    "logo_png_url": "assets/logos/academicos-de-vigario-geral.png"
+  }
+}

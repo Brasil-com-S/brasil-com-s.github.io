@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "data": {
+    "id": "unidos-de-bangu",
+    "slug": "unidos-de-bangu",
+    "nome": "Unidos de Bangu",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Unidos de Bangu",
+    "fundacao": "1937-11-15",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "bairro": "Bangu",
+    "grupo": "Acesso",
+    "cores": [
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#D32F2F",
+      "#FFFFFF"
+    ],
+    "simbolo": "Castelo de Bangu",
+    "titulos": 0,
+    "anos_titulos": [],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Jorge da Capadócia",
+        "compositores": "Claudio Russo",
+        "interpretacao": "Igor Vianna"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro (Acesso)",
+        "posicao": 10,
+        "pontos": 267.8
+      }
+    ],
+    "logo_url": "assets/logos/unidos-de-bangu.svg",
+    "logo_svg_url": "assets/logos/unidos-de-bangu.svg",
+    "logo_png_url": "assets/logos/unidos-de-bangu.png"
+  }
+}

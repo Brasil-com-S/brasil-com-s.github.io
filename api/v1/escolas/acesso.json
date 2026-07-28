@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total": 8,
+    "total": 14,
     "grupo": "Grupo de Acesso"
   },
   "escolas": [
@@ -31,7 +31,7 @@
         {
           "ano": 2024,
           "titulo": "Chão de Devoção: O Terço dos Pretos Velhos",
-          "compositores": "Julio Alves, Claudio Russo",
+          "compositores": "Julio Alves",
           "interpretacao": "Tシャー"
         }
       ],
@@ -81,7 +81,7 @@
         {
           "ano": 2024,
           "titulo": "Ilú-Ọba Ọ̀yọ́: A Gira dos Orixás",
-          "compositores": "Aluizio Machado, Henrique Hoffmann",
+          "compositores": "Aluizio Machado",
           "interpretacao": "Nêgo"
         }
       ],
@@ -124,7 +124,7 @@
         {
           "ano": 2024,
           "titulo": "Doum e Amelinha: Crianças de Axé",
-          "compositores": "André de Raça, Bruno Revelação",
+          "compositores": "André de Raça",
           "interpretacao": "Nêgo"
         }
       ],
@@ -165,7 +165,7 @@
         {
           "ano": 2024,
           "titulo": "Que Zé É Esse?",
-          "compositores": "Marcelo Adnet, Claudio Russo",
+          "compositores": "Marcelo Adnet",
           "interpretacao": "Leozinho"
         }
       ],
@@ -225,6 +225,215 @@
       "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png"
     },
     {
+      "id": "academicos-de-niteroi",
+      "slug": "academicos-de-niteroi",
+      "nome": "Acadêmicos de Niterói",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos de Niterói",
+      "fundacao": "2022-09-07",
+      "estado": "RJ",
+      "cidade": "Niterói",
+      "bairro": "Centro",
+      "grupo": "Acesso",
+      "cores": [
+        "Azul",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#0288D1",
+        "#FFFFFF"
+      ],
+      "simbolo": "Ponte Rio-Niterói",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "O Brasil de Catulo da Paixão Cearense",
+          "compositores": "Junior Fionda",
+          "interpretacao": "Danilo Cezar"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Série Ouro (Acesso)",
+          "posicao": 9,
+          "pontos": 268.1
+        }
+      ],
+      "logo_url": "assets/logos/academicos-de-niteroi.svg",
+      "logo_svg_url": "assets/logos/academicos-de-niteroi.svg",
+      "logo_png_url": "assets/logos/academicos-de-niteroi.png"
+    },
+    {
+      "id": "unidos-de-bangu",
+      "slug": "unidos-de-bangu",
+      "nome": "Unidos de Bangu",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Unidos de Bangu",
+      "fundacao": "1937-11-15",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Bangu",
+      "grupo": "Acesso",
+      "cores": [
+        "Vermelho",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#D32F2F",
+        "#FFFFFF"
+      ],
+      "simbolo": "Castelo de Bangu",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Jorge da Capadócia",
+          "compositores": "Claudio Russo",
+          "interpretacao": "Igor Vianna"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Série Ouro (Acesso)",
+          "posicao": 10,
+          "pontos": 267.8
+        }
+      ],
+      "logo_url": "assets/logos/unidos-de-bangu.svg",
+      "logo_svg_url": "assets/logos/unidos-de-bangu.svg",
+      "logo_png_url": "assets/logos/unidos-de-bangu.png"
+    },
+    {
+      "id": "uniao-de-marica",
+      "slug": "uniao-de-marica",
+      "nome": "União de Maricá",
+      "nome_completo": "Grêmio Recreativo Escola de Samba União de Maricá",
+      "fundacao": "2015-05-26",
+      "estado": "RJ",
+      "cidade": "Maricá",
+      "bairro": "Centro",
+      "grupo": "Acesso",
+      "cores": [
+        "Vermelho",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#C62828",
+        "#FFFFFF"
+      ],
+      "simbolo": "Faraó e Sol",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "O Sapo Cururu de Maricá",
+          "compositores": "Junior Fionda",
+          "interpretacao": "Nino do Milênio"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Série Ouro (Acesso)",
+          "posicao": 5,
+          "pontos": 268.9
+        }
+      ],
+      "logo_url": "assets/logos/uniao-de-marica.svg",
+      "logo_svg_url": "assets/logos/uniao-de-marica.svg",
+      "logo_png_url": "assets/logos/uniao-de-marica.png"
+    },
+    {
+      "id": "academicos-de-vigario-geral",
+      "slug": "academicos-de-vigario-geral",
+      "nome": "Acadêmicos de Vigário Geral",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos de Vigário Geral",
+      "fundacao": "1966-03-21",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Vigário Geral",
+      "grupo": "Acesso",
+      "cores": [
+        "Azul",
+        "Vermelho",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#1565C0",
+        "#D32F2F",
+        "#FFFFFF"
+      ],
+      "simbolo": "Cavalo alado",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Maracatu Atômico",
+          "compositores": "Junior Fionda",
+          "interpretacao": "Bira Silva"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Série Ouro (Acesso)",
+          "posicao": 11,
+          "pontos": 267.5
+        }
+      ],
+      "logo_url": "assets/logos/academicos-de-vigario-geral.svg",
+      "logo_svg_url": "assets/logos/academicos-de-vigario-geral.svg",
+      "logo_png_url": "assets/logos/academicos-de-vigario-geral.png"
+    },
+    {
+      "id": "tom-maior",
+      "slug": "tom-maior",
+      "nome": "Tom Maior",
+      "nome_completo": "Grêmio Recreativo Escola de Samba Tom Maior",
+      "fundacao": "1973-02-14",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Sumaré",
+      "grupo": "Acesso",
+      "cores": [
+        "Vermelho",
+        "Amarelo",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#D32F2F",
+        "#FFEB3B",
+        "#FFFFFF"
+      ],
+      "simbolo": "Batuta e Clave de Sol",
+      "titulos": 0,
+      "anos_titulos": [],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Aysú - Uma História de Amor",
+          "compositores": "Urubatan das Kretas",
+          "interpretacao": "Gilsinho"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Especial",
+          "posicao": 13,
+          "pontos": 268.7
+        }
+      ],
+      "logo_url": "assets/logos/tom-maior.svg",
+      "logo_svg_url": "assets/logos/tom-maior.svg",
+      "logo_png_url": "assets/logos/tom-maior.png"
+    },
+    {
       "id": "nene-de-vila-matilde",
       "slug": "nene-de-vila-matilde",
       "nome": "Nenê de Vila Matilde",
@@ -260,7 +469,7 @@
       "sambas_enredo": [
         {
           "ano": 2024,
-          "titulo": "Circo Macabro: O Show Não Pode Parar",
+          "titulo": "Circo Macabro",
           "compositores": "Kadu, Nilson",
           "interpretacao": "Agnaldo Amaral"
         }
@@ -370,6 +579,52 @@
       "logo_url": "assets/logos/unidos-do-peruche.svg",
       "logo_svg_url": "assets/logos/unidos-do-peruche.svg",
       "logo_png_url": "assets/logos/unidos-do-peruche.png"
+    },
+    {
+      "id": "x-9-paulistana",
+      "slug": "x-9-paulistana",
+      "nome": "X-9 Paulistana",
+      "nome_completo": "Grêmio Recreativo Cultural Escola de Samba X-9 Paulistana",
+      "fundacao": "1975-03-01",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Parada Inglesa",
+      "grupo": "Acesso",
+      "cores": [
+        "Verde",
+        "Vermelho",
+        "Branco"
+      ],
+      "cores_hex": [
+        "#388E3C",
+        "#D32F2F",
+        "#FFFFFF"
+      ],
+      "simbolo": "X-9 com Águia",
+      "titulos": 2,
+      "anos_titulos": [
+        1997,
+        2000
+      ],
+      "sambas_enredo": [
+        {
+          "ano": 2024,
+          "titulo": "Nordeste: A Força de Um Povo",
+          "compositores": "Jairinho",
+          "interpretacao": "Darlan Alves"
+        }
+      ],
+      "colocacoes": [
+        {
+          "ano": 2024,
+          "grupo": "Acesso 2",
+          "posicao": 1,
+          "pontos": 269.9
+        }
+      ],
+      "logo_url": "assets/logos/x-9-paulistana.svg",
+      "logo_svg_url": "assets/logos/x-9-paulistana.svg",
+      "logo_png_url": "assets/logos/x-9-paulistana.png"
     }
   ]
 }

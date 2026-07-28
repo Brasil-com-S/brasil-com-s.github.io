@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "data": {
+    "id": "academicos-de-niteroi",
+    "slug": "academicos-de-niteroi",
+    "nome": "Acadêmicos de Niterói",
+    "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos de Niterói",
+    "fundacao": "2022-09-07",
+    "estado": "RJ",
+    "cidade": "Niterói",
+    "bairro": "Centro",
+    "grupo": "Acesso",
+    "cores": [
+      "Azul",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#0288D1",
+      "#FFFFFF"
+    ],
+    "simbolo": "Ponte Rio-Niterói",
+    "titulos": 0,
+    "anos_titulos": [],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "O Brasil de Catulo da Paixão Cearense",
+        "compositores": "Junior Fionda",
+        "interpretacao": "Danilo Cezar"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro (Acesso)",
+        "posicao": 9,
+        "pontos": 268.1
+      }
+    ],
+    "logo_url": "assets/logos/academicos-de-niteroi.svg",
+    "logo_svg_url": "assets/logos/academicos-de-niteroi.svg",
+    "logo_png_url": "assets/logos/academicos-de-niteroi.png"
+  }
+}

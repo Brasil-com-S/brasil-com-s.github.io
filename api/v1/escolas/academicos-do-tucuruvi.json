@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "data": {
+    "id": "academicos-do-tucuruvi",
+    "slug": "academicos-do-tucuruvi",
+    "nome": "Acadêmicos do Tucuruvi",
+    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Acadêmicos do Tucuruvi",
+    "fundacao": "1976-02-01",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Tucuruvi",
+    "grupo": "Especial",
+    "cores": [
+      "Azul",
+      "Amarelo",
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#1976D2",
+      "#FFEB3B",
+      "#D32F2F",
+      "#FFFFFF"
+    ],
+    "simbolo": "Galo Cantando",
+    "titulos": 0,
+    "anos_titulos": [],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Ifá",
+        "compositores": "Macaco Gordo, Leonardo Bessa",
+        "interpretacao": "Hudson Luiz"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Especial",
+        "posicao": 7,
+        "pontos": 269.4
+      }
+    ],
+    "logo_url": "assets/logos/academicos-do-tucuruvi.svg",
+    "logo_svg_url": "assets/logos/academicos-do-tucuruvi.svg",
+    "logo_png_url": "assets/logos/academicos-do-tucuruvi.png"
+  }
+}

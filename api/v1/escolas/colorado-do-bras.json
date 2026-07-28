@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "data": {
+    "id": "colorado-do-bras",
+    "slug": "colorado-do-bras",
+    "nome": "Colorado do Brás",
+    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Colorado do Brás",
+    "fundacao": "1975-10-01",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "bairro": "Brás",
+    "grupo": "Especial",
+    "cores": [
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#D32F2F",
+      "#FFFFFF"
+    ],
+    "simbolo": "Urso Vermelho",
+    "titulos": 0,
+    "anos_titulos": [],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "Os Mandamentos da Quebrada",
+        "compositores": "Cacá Camargo",
+        "interpretacao": "Léo do Cavaco"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Acesso 1",
+        "posicao": 2,
+        "pontos": 269.8
+      }
+    ],
+    "logo_url": "assets/logos/colorado-do-bras.svg",
+    "logo_svg_url": "assets/logos/colorado-do-bras.svg",
+    "logo_png_url": "assets/logos/colorado-do-bras.png"
+  }
+}

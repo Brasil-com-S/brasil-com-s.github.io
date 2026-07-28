@@ -51,26 +51,8 @@
       {
         "ano": 2019,
         "titulo": "História pra Ninar Gente Grande",
-        "compositores": "Deivid Domênico, Tomaz Miranda",
+        "compositores": "Deivid Domênico",
         "interpretacao": "Marquinho Art'Samba"
-      },
-      {
-        "ano": 2016,
-        "titulo": "Maria Bethânia: A Menina dos Olhos de Oyá",
-        "compositores": "Alemão do Cavaco, Almyr Senna",
-        "interpretacao": "Cinnara Leal"
-      },
-      {
-        "ano": 2002,
-        "titulo": "Brazil com 'Z' é pra Gringo. Brasil com 'S' é pra Você!",
-        "compositores": "Amendoim, Lequinho",
-        "interpretacao": "Jamelão"
-      },
-      {
-        "ano": 1984,
-        "titulo": "Yes, Nós Temos Braguinha",
-        "compositores": "Hélio Turco, Jurandir",
-        "interpretacao": "Jamelão"
       }
     ],
     "colocacoes": [
@@ -81,28 +63,10 @@
         "pontos": 268.8
       },
       {
-        "ano": 2023,
-        "grupo": "Especial",
-        "posicao": 5,
-        "pontos": 269.1
-      },
-      {
-        "ano": 2020,
-        "grupo": "Especial",
-        "posicao": 6,
-        "pontos": 268.9
-      },
-      {
         "ano": 2019,
         "grupo": "Especial",
         "posicao": 1,
         "pontos": 270.0
-      },
-      {
-        "ano": 2016,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 269.8
       }
     ],
     "logo_url": "assets/logos/mangueira.svg",

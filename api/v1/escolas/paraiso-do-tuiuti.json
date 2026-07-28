@@ -25,14 +25,8 @@
       {
         "ano": 2024,
         "titulo": "Kituco: A Filosofia do Samba",
-        "compositores": "Claudio Russo, Moacyr Luz",
+        "compositores": "Claudio Russo",
         "interpretacao": "Pixulé"
-      },
-      {
-        "ano": 2018,
-        "titulo": "Meu Deus, Meu Deus, Está Extinta a Escravidão?",
-        "compositores": "Claudio Russo, Moacyr Luz",
-        "interpretacao": "Canto do Tuiuti"
       }
     ],
     "colocacoes": [
@@ -41,12 +35,6 @@
         "grupo": "Especial",
         "posicao": 9,
         "pontos": 268.3
-      },
-      {
-        "ano": 2018,
-        "grupo": "Especial",
-        "posicao": 2,
-        "pontos": 269.5
       }
     ],
     "logo_url": "assets/logos/paraiso-do-tuiuti.svg",

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "data": {
+    "id": "uniao-de-marica",
+    "slug": "uniao-de-marica",
+    "nome": "União de Maricá",
+    "nome_completo": "Grêmio Recreativo Escola de Samba União de Maricá",
+    "fundacao": "2015-05-26",
+    "estado": "RJ",
+    "cidade": "Maricá",
+    "bairro": "Centro",
+    "grupo": "Acesso",
+    "cores": [
+      "Vermelho",
+      "Branco"
+    ],
+    "cores_hex": [
+      "#C62828",
+      "#FFFFFF"
+    ],
+    "simbolo": "Faraó e Sol",
+    "titulos": 0,
+    "anos_titulos": [],
+    "sambas_enredo": [
+      {
+        "ano": 2024,
+        "titulo": "O Sapo Cururu de Maricá",
+        "compositores": "Junior Fionda",
+        "interpretacao": "Nino do Milênio"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro (Acesso)",
+        "posicao": 5,
+        "pontos": 268.9
+      }
+    ],
+    "logo_url": "assets/logos/uniao-de-marica.svg",
+    "logo_svg_url": "assets/logos/uniao-de-marica.svg",
+    "logo_png_url": "assets/logos/uniao-de-marica.png"
+  }
+}

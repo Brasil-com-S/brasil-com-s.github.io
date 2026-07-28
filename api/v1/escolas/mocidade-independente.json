@@ -32,14 +32,8 @@
       {
         "ano": 2024,
         "titulo": "Pede Caju Que Dou... Pé de Caju Que Dá!",
-        "compositores": "Paulinho Mocidade, Diego Nicolau",
+        "compositores": "Paulinho Mocidade",
         "interpretacao": "Zé Paulo Sierra"
-      },
-      {
-        "ano": 2017,
-        "titulo": "Elza Deusa Soares",
-        "compositores": "Gonzaguinha, Jefinho Rodrigues",
-        "interpretacao": "Wander Pires"
       }
     ],
     "colocacoes": [
@@ -48,12 +42,6 @@
         "grupo": "Especial",
         "posicao": 10,
         "pontos": 267.9
-      },
-      {
-        "ano": 2017,
-        "grupo": "Especial",
-        "posicao": 1,
-        "pontos": 269.8
       }
     ],
     "logo_url": "assets/logos/mocidade-independente.svg",
