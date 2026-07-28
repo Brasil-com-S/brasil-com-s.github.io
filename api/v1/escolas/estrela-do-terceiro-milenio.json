@@ -28,9 +28,10 @@
     "simbolo": "Estrela Guia de Ouro",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/estrela-do-terceiro-milenio.png",
-    "logo_png_url": "assets/logos/estrela-do-terceiro-milenio.png",
-    "logo_svg_url": "assets/logos/estrela-do-terceiro-milenio.svg",
+    "logo_url": "assets/logos/original/estrela-do-terceiro-milenio.png",
+    "logo_original_url": "assets/logos/original/estrela-do-terceiro-milenio.png",
+    "logo_gemini_png_url": "assets/logos/gemini/estrela-do-terceiro-milenio.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/estrela-do-terceiro-milenio.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

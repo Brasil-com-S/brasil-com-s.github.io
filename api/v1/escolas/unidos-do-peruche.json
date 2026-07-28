@@ -35,9 +35,10 @@
       1967,
       1973
     ],
-    "logo_url": "assets/logos/unidos-do-peruche.png",
-    "logo_png_url": "assets/logos/unidos-do-peruche.png",
-    "logo_svg_url": "assets/logos/unidos-do-peruche.svg",
+    "logo_url": "assets/logos/original/unidos-do-peruche.png",
+    "logo_original_url": "assets/logos/original/unidos-do-peruche.png",
+    "logo_gemini_png_url": "assets/logos/gemini/unidos-do-peruche.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/unidos-do-peruche.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

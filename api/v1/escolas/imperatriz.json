@@ -38,9 +38,10 @@
       2001,
       2023
     ],
-    "logo_url": "assets/logos/imperatriz.png",
-    "logo_png_url": "assets/logos/imperatriz.png",
-    "logo_svg_url": "assets/logos/imperatriz.svg",
+    "logo_url": "assets/logos/original/imperatriz.png",
+    "logo_original_url": "assets/logos/original/imperatriz.png",
+    "logo_gemini_png_url": "assets/logos/gemini/imperatriz.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/imperatriz.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

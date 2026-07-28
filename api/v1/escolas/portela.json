@@ -7,7 +7,7 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Portela",
     "fundacao": "1923-04-11",
     "fundadores": [
-      "Paulo da Portela",
+      "Paulo da Portela (Paulo Benjamin de Oliveira)",
       "Caetano Gonçalves",
       "Antônio Rufino"
     ],
@@ -49,9 +49,10 @@
       1984,
       2017
     ],
-    "logo_url": "assets/logos/portela.png",
-    "logo_png_url": "assets/logos/portela.png",
-    "logo_svg_url": "assets/logos/portela.svg",
+    "logo_url": "assets/logos/original/portela.png",
+    "logo_original_url": "assets/logos/original/portela.png",
+    "logo_gemini_png_url": "assets/logos/gemini/portela.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/portela.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

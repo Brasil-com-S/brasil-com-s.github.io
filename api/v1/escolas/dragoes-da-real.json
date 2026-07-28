@@ -26,9 +26,10 @@
     "simbolo": "Dragão Alado",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/dragoes-da-real.png",
-    "logo_png_url": "assets/logos/dragoes-da-real.png",
-    "logo_svg_url": "assets/logos/dragoes-da-real.svg",
+    "logo_url": "assets/logos/original/dragoes-da-real.png",
+    "logo_original_url": "assets/logos/original/dragoes-da-real.png",
+    "logo_gemini_png_url": "assets/logos/gemini/dragoes-da-real.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/dragoes-da-real.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

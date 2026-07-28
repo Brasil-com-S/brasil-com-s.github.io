@@ -28,9 +28,10 @@
       2006,
       2016
     ],
-    "logo_url": "assets/logos/imperio-de-casa-verde.png",
-    "logo_png_url": "assets/logos/imperio-de-casa-verde.png",
-    "logo_svg_url": "assets/logos/imperio-de-casa-verde.svg",
+    "logo_url": "assets/logos/original/imperio-de-casa-verde.png",
+    "logo_original_url": "assets/logos/original/imperio-de-casa-verde.png",
+    "logo_gemini_png_url": "assets/logos/gemini/imperio-de-casa-verde.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/imperio-de-casa-verde.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

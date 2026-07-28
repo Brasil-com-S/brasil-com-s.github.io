@@ -29,9 +29,10 @@
       1997,
       2000
     ],
-    "logo_url": "assets/logos/x-9-paulistana.png",
-    "logo_png_url": "assets/logos/x-9-paulistana.png",
-    "logo_svg_url": "assets/logos/x-9-paulistana.svg",
+    "logo_url": "assets/logos/original/x-9-paulistana.png",
+    "logo_original_url": "assets/logos/original/x-9-paulistana.png",
+    "logo_gemini_png_url": "assets/logos/gemini/x-9-paulistana.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/x-9-paulistana.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

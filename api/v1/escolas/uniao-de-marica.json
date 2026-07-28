@@ -24,9 +24,10 @@
     "simbolo": "Faraó e Sol",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/uniao-de-marica.png",
-    "logo_png_url": "assets/logos/uniao-de-marica.png",
-    "logo_svg_url": "assets/logos/uniao-de-marica.svg",
+    "logo_url": "assets/logos/original/uniao-de-marica.png",
+    "logo_original_url": "assets/logos/original/uniao-de-marica.png",
+    "logo_gemini_png_url": "assets/logos/gemini/uniao-de-marica.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/uniao-de-marica.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

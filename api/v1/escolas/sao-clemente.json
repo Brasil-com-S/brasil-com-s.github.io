@@ -24,9 +24,10 @@
     "simbolo": "Pássaro de Botafogo",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/sao-clemente.png",
-    "logo_png_url": "assets/logos/sao-clemente.png",
-    "logo_svg_url": "assets/logos/sao-clemente.svg",
+    "logo_url": "assets/logos/original/sao-clemente.png",
+    "logo_original_url": "assets/logos/original/sao-clemente.png",
+    "logo_gemini_png_url": "assets/logos/gemini/sao-clemente.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/sao-clemente.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

@@ -11,11 +11,11 @@
       "nome_completo": "Grêmio Recreativo Escola de Samba Estação Primeira de Mangueira",
       "fundacao": "1928-04-28",
       "fundadores": [
-        "Cartola",
+        "Cartola (Angenor de Oliveira)",
         "Carlos Cachaça",
         "Zé Espinguela",
         "Saturnino Gonçalves",
-        "Euclides da Silva",
+        "Euclides da Silva (Lica)",
         "Pedro Caim"
       ],
       "estado": "RJ",
@@ -53,9 +53,10 @@
         2016,
         2019
       ],
-      "logo_url": "assets/logos/mangueira.png",
-      "logo_png_url": "assets/logos/mangueira.png",
-      "logo_svg_url": "assets/logos/mangueira.svg",
+      "logo_url": "assets/logos/original/mangueira.png",
+      "logo_original_url": "assets/logos/original/mangueira.png",
+      "logo_gemini_png_url": "assets/logos/gemini/mangueira.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/mangueira.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -66,7 +67,7 @@
       "nome_completo": "Grêmio Recreativo Escola de Samba Portela",
       "fundacao": "1923-04-11",
       "fundadores": [
-        "Paulo da Portela",
+        "Paulo da Portela (Paulo Benjamin de Oliveira)",
         "Caetano Gonçalves",
         "Antônio Rufino"
       ],
@@ -108,9 +109,10 @@
         1984,
         2017
       ],
-      "logo_url": "assets/logos/portela.png",
-      "logo_png_url": "assets/logos/portela.png",
-      "logo_svg_url": "assets/logos/portela.svg",
+      "logo_url": "assets/logos/original/portela.png",
+      "logo_original_url": "assets/logos/original/portela.png",
+      "logo_gemini_png_url": "assets/logos/gemini/portela.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/portela.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -121,7 +123,7 @@
       "nome_completo": "Grêmio Recreativo Escola de Samba Beija-Flor de Nilópolis",
       "fundacao": "1948-12-25",
       "fundadores": [
-        "Milton de Oliveira",
+        "Milton de Oliveira (Mazingola)",
         "Edson Menezes",
         "Neguinho da Beija-Flor"
       ],
@@ -154,9 +156,10 @@
         2015,
         2018
       ],
-      "logo_url": "assets/logos/beija-flor.png",
-      "logo_png_url": "assets/logos/beija-flor.png",
-      "logo_svg_url": "assets/logos/beija-flor.svg",
+      "logo_url": "assets/logos/original/beija-flor.png",
+      "logo_original_url": "assets/logos/original/beija-flor.png",
+      "logo_gemini_png_url": "assets/logos/gemini/beija-flor.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/beija-flor.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -167,7 +170,7 @@
       "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Salgueiro",
       "fundacao": "1953-03-05",
       "fundadores": [
-        "Jorge de Oliveira",
+        "Jorge de Oliveira (Seu Neném)",
         "Nelson de Andrade",
         "Joaquim Casemiro"
       ],
@@ -196,9 +199,10 @@
         1993,
         2009
       ],
-      "logo_url": "assets/logos/salgueiro.png",
-      "logo_png_url": "assets/logos/salgueiro.png",
-      "logo_svg_url": "assets/logos/salgueiro.svg",
+      "logo_url": "assets/logos/original/salgueiro.png",
+      "logo_original_url": "assets/logos/original/salgueiro.png",
+      "logo_gemini_png_url": "assets/logos/gemini/salgueiro.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/salgueiro.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -209,7 +213,7 @@
       "nome_completo": "Grêmio Recreativo Escola de Samba Unidos do Viradouro",
       "fundacao": "1946-06-24",
       "fundadores": [
-        "Nelson dos Santos"
+        "Nelson dos Santos (Jangada)"
       ],
       "estado": "RJ",
       "cidade": "Niterói",
@@ -230,9 +234,10 @@
         2020,
         2024
       ],
-      "logo_url": "assets/logos/viradouro.png",
-      "logo_png_url": "assets/logos/viradouro.png",
-      "logo_svg_url": "assets/logos/viradouro.svg",
+      "logo_url": "assets/logos/original/viradouro.png",
+      "logo_original_url": "assets/logos/original/viradouro.png",
+      "logo_gemini_png_url": "assets/logos/gemini/viradouro.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/viradouro.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -274,9 +279,10 @@
         2001,
         2023
       ],
-      "logo_url": "assets/logos/imperatriz.png",
-      "logo_png_url": "assets/logos/imperatriz.png",
-      "logo_svg_url": "assets/logos/imperatriz.svg",
+      "logo_url": "assets/logos/original/imperatriz.png",
+      "logo_original_url": "assets/logos/original/imperatriz.png",
+      "logo_gemini_png_url": "assets/logos/gemini/imperatriz.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/imperatriz.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -309,9 +315,10 @@
       "anos_titulos": [
         2022
       ],
-      "logo_url": "assets/logos/grande-rio.png",
-      "logo_png_url": "assets/logos/grande-rio.png",
-      "logo_svg_url": "assets/logos/grande-rio.svg",
+      "logo_url": "assets/logos/original/grande-rio.png",
+      "logo_original_url": "assets/logos/original/grande-rio.png",
+      "logo_gemini_png_url": "assets/logos/gemini/grande-rio.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/grande-rio.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -345,9 +352,10 @@
         2006,
         2013
       ],
-      "logo_url": "assets/logos/vila-isabel.png",
-      "logo_png_url": "assets/logos/vila-isabel.png",
-      "logo_svg_url": "assets/logos/vila-isabel.svg",
+      "logo_url": "assets/logos/original/vila-isabel.png",
+      "logo_original_url": "assets/logos/original/vila-isabel.png",
+      "logo_gemini_png_url": "assets/logos/gemini/vila-isabel.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/vila-isabel.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -382,9 +390,10 @@
         1996,
         2017
       ],
-      "logo_url": "assets/logos/mocidade-independente.png",
-      "logo_png_url": "assets/logos/mocidade-independente.png",
-      "logo_svg_url": "assets/logos/mocidade-independente.svg",
+      "logo_url": "assets/logos/original/mocidade-independente.png",
+      "logo_original_url": "assets/logos/original/mocidade-independente.png",
+      "logo_gemini_png_url": "assets/logos/gemini/mocidade-independente.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/mocidade-independente.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -412,9 +421,10 @@
       "simbolo": "Corona e Lira",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/paraiso-do-tuiuti.png",
-      "logo_png_url": "assets/logos/paraiso-do-tuiuti.png",
-      "logo_svg_url": "assets/logos/paraiso-do-tuiuti.svg",
+      "logo_url": "assets/logos/original/paraiso-do-tuiuti.png",
+      "logo_original_url": "assets/logos/original/paraiso-do-tuiuti.png",
+      "logo_gemini_png_url": "assets/logos/gemini/paraiso-do-tuiuti.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/paraiso-do-tuiuti.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -442,9 +452,10 @@
       "simbolo": "Boi Vermelho",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/unidos-de-padre-miguel.png",
-      "logo_png_url": "assets/logos/unidos-de-padre-miguel.png",
-      "logo_svg_url": "assets/logos/unidos-de-padre-miguel.svg",
+      "logo_url": "assets/logos/original/unidos-de-padre-miguel.png",
+      "logo_original_url": "assets/logos/original/unidos-de-padre-miguel.png",
+      "logo_gemini_png_url": "assets/logos/gemini/unidos-de-padre-miguel.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/unidos-de-padre-miguel.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -477,9 +488,10 @@
       "anos_titulos": [
         1992
       ],
-      "logo_url": "assets/logos/estacio-de-sa.png",
-      "logo_png_url": "assets/logos/estacio-de-sa.png",
-      "logo_svg_url": "assets/logos/estacio-de-sa.svg",
+      "logo_url": "assets/logos/original/estacio-de-sa.png",
+      "logo_original_url": "assets/logos/original/estacio-de-sa.png",
+      "logo_gemini_png_url": "assets/logos/gemini/estacio-de-sa.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/estacio-de-sa.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -519,9 +531,10 @@
         1972,
         1982
       ],
-      "logo_url": "assets/logos/imperio-serrano.png",
-      "logo_png_url": "assets/logos/imperio-serrano.png",
-      "logo_svg_url": "assets/logos/imperio-serrano.svg",
+      "logo_url": "assets/logos/original/imperio-serrano.png",
+      "logo_original_url": "assets/logos/original/imperio-serrano.png",
+      "logo_gemini_png_url": "assets/logos/gemini/imperio-serrano.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/imperio-serrano.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -551,9 +564,10 @@
       "simbolo": "Sol e Mar",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/uniao-da-ilha.png",
-      "logo_png_url": "assets/logos/uniao-da-ilha.png",
-      "logo_svg_url": "assets/logos/uniao-da-ilha.svg",
+      "logo_url": "assets/logos/original/uniao-da-ilha.png",
+      "logo_original_url": "assets/logos/original/uniao-da-ilha.png",
+      "logo_gemini_png_url": "assets/logos/gemini/uniao-da-ilha.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/uniao-da-ilha.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -581,9 +595,10 @@
       "simbolo": "Pássaro de Botafogo",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/sao-clemente.png",
-      "logo_png_url": "assets/logos/sao-clemente.png",
-      "logo_svg_url": "assets/logos/sao-clemente.svg",
+      "logo_url": "assets/logos/original/sao-clemente.png",
+      "logo_original_url": "assets/logos/original/sao-clemente.png",
+      "logo_gemini_png_url": "assets/logos/gemini/sao-clemente.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/sao-clemente.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -613,9 +628,10 @@
       "simbolo": "Pomba da Paz",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/inocentes-de-belford-roxo.png",
-      "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png",
-      "logo_svg_url": "assets/logos/inocentes-de-belford-roxo.svg",
+      "logo_url": "assets/logos/original/inocentes-de-belford-roxo.png",
+      "logo_original_url": "assets/logos/original/inocentes-de-belford-roxo.png",
+      "logo_gemini_png_url": "assets/logos/gemini/inocentes-de-belford-roxo.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/inocentes-de-belford-roxo.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -643,9 +659,10 @@
       "simbolo": "Ponte Rio-Niterói",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/academicos-de-niteroi.png",
-      "logo_png_url": "assets/logos/academicos-de-niteroi.png",
-      "logo_svg_url": "assets/logos/academicos-de-niteroi.svg",
+      "logo_url": "assets/logos/original/academicos-de-niteroi.png",
+      "logo_original_url": "assets/logos/original/academicos-de-niteroi.png",
+      "logo_gemini_png_url": "assets/logos/gemini/academicos-de-niteroi.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/academicos-de-niteroi.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -673,9 +690,10 @@
       "simbolo": "Castelo de Bangu",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/unidos-de-bangu.png",
-      "logo_png_url": "assets/logos/unidos-de-bangu.png",
-      "logo_svg_url": "assets/logos/unidos-de-bangu.svg",
+      "logo_url": "assets/logos/original/unidos-de-bangu.png",
+      "logo_original_url": "assets/logos/original/unidos-de-bangu.png",
+      "logo_gemini_png_url": "assets/logos/gemini/unidos-de-bangu.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/unidos-de-bangu.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -703,9 +721,10 @@
       "simbolo": "Faraó e Sol",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/uniao-de-marica.png",
-      "logo_png_url": "assets/logos/uniao-de-marica.png",
-      "logo_svg_url": "assets/logos/uniao-de-marica.svg",
+      "logo_url": "assets/logos/original/uniao-de-marica.png",
+      "logo_original_url": "assets/logos/original/uniao-de-marica.png",
+      "logo_gemini_png_url": "assets/logos/gemini/uniao-de-marica.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/uniao-de-marica.svg",
       "sambas_enredo": [],
       "colocacoes": []
     },
@@ -735,9 +754,10 @@
       "simbolo": "Cavalo alado",
       "titulos": 0,
       "anos_titulos": [],
-      "logo_url": "assets/logos/academicos-de-vigario-geral.png",
-      "logo_png_url": "assets/logos/academicos-de-vigario-geral.png",
-      "logo_svg_url": "assets/logos/academicos-de-vigario-geral.svg",
+      "logo_url": "assets/logos/original/academicos-de-vigario-geral.png",
+      "logo_original_url": "assets/logos/original/academicos-de-vigario-geral.png",
+      "logo_gemini_png_url": "assets/logos/gemini/academicos-de-vigario-geral.png",
+      "logo_gemini_svg_url": "assets/logos/gemini/academicos-de-vigario-geral.svg",
       "sambas_enredo": [],
       "colocacoes": []
     }

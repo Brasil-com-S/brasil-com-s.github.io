@@ -80,9 +80,10 @@ def build_api():
                 "simbolo": row["simbolo"],
                 "titulos": int(row["titulos"]) if row["titulos"] else 0,
                 "anos_titulos": parse_int_list(row["anos_titulos"]),
-                "logo_url": f"assets/logos/{slug}.png",
-                "logo_png_url": f"assets/logos/{slug}.png",
-                "logo_svg_url": f"assets/logos/{slug}.svg",
+                "logo_url": row.get("logo_original_url") or f"assets/logos/gemini/{slug}.png",
+                "logo_original_url": row.get("logo_original_url") or f"assets/logos/original/{slug}.png",
+                "logo_gemini_png_url": row.get("logo_gemini_png_url") or f"assets/logos/gemini/{slug}.png",
+                "logo_gemini_svg_url": row.get("logo_gemini_svg_url") or f"assets/logos/gemini/{slug}.svg",
                 "sambas_enredo": sorted(sambas_by_slug.get(slug, []), key=lambda x: x["ano"], reverse=True),
                 "colocacoes": sorted(colocacoes_by_slug.get(slug, []), key=lambda x: x["ano"], reverse=True)
             }

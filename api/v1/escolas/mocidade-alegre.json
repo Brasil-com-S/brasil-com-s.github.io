@@ -41,9 +41,10 @@
       2023,
       2024
     ],
-    "logo_url": "assets/logos/mocidade-alegre.png",
-    "logo_png_url": "assets/logos/mocidade-alegre.png",
-    "logo_svg_url": "assets/logos/mocidade-alegre.svg",
+    "logo_url": "assets/logos/original/mocidade-alegre.png",
+    "logo_original_url": "assets/logos/original/mocidade-alegre.png",
+    "logo_gemini_png_url": "assets/logos/gemini/mocidade-alegre.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/mocidade-alegre.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

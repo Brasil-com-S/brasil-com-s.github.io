@@ -7,11 +7,11 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Estação Primeira de Mangueira",
     "fundacao": "1928-04-28",
     "fundadores": [
-      "Cartola",
+      "Cartola (Angenor de Oliveira)",
       "Carlos Cachaça",
       "Zé Espinguela",
       "Saturnino Gonçalves",
-      "Euclides da Silva",
+      "Euclides da Silva (Lica)",
       "Pedro Caim"
     ],
     "estado": "RJ",
@@ -49,9 +49,10 @@
       2016,
       2019
     ],
-    "logo_url": "assets/logos/mangueira.png",
-    "logo_png_url": "assets/logos/mangueira.png",
-    "logo_svg_url": "assets/logos/mangueira.svg",
+    "logo_url": "assets/logos/original/mangueira.png",
+    "logo_original_url": "assets/logos/original/mangueira.png",
+    "logo_gemini_png_url": "assets/logos/gemini/mangueira.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/mangueira.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

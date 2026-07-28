@@ -36,9 +36,10 @@
       1985,
       2001
     ],
-    "logo_url": "assets/logos/nene-de-vila-matilde.png",
-    "logo_png_url": "assets/logos/nene-de-vila-matilde.png",
-    "logo_svg_url": "assets/logos/nene-de-vila-matilde.svg",
+    "logo_url": "assets/logos/original/nene-de-vila-matilde.png",
+    "logo_original_url": "assets/logos/original/nene-de-vila-matilde.png",
+    "logo_gemini_png_url": "assets/logos/gemini/nene-de-vila-matilde.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/nene-de-vila-matilde.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

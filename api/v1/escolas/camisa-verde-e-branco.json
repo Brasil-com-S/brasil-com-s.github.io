@@ -34,9 +34,10 @@
       1992,
       1993
     ],
-    "logo_url": "assets/logos/camisa-verde-e-branco.png",
-    "logo_png_url": "assets/logos/camisa-verde-e-branco.png",
-    "logo_svg_url": "assets/logos/camisa-verde-e-branco.svg",
+    "logo_url": "assets/logos/original/camisa-verde-e-branco.png",
+    "logo_original_url": "assets/logos/original/camisa-verde-e-branco.png",
+    "logo_gemini_png_url": "assets/logos/gemini/camisa-verde-e-branco.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/camisa-verde-e-branco.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

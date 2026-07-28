@@ -26,9 +26,10 @@
     "simbolo": "Sol e Mar",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/uniao-da-ilha.png",
-    "logo_png_url": "assets/logos/uniao-da-ilha.png",
-    "logo_svg_url": "assets/logos/uniao-da-ilha.svg",
+    "logo_url": "assets/logos/original/uniao-da-ilha.png",
+    "logo_original_url": "assets/logos/original/uniao-da-ilha.png",
+    "logo_gemini_png_url": "assets/logos/gemini/uniao-da-ilha.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/uniao-da-ilha.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

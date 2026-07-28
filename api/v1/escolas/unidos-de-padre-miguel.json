@@ -24,9 +24,10 @@
     "simbolo": "Boi Vermelho",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/unidos-de-padre-miguel.png",
-    "logo_png_url": "assets/logos/unidos-de-padre-miguel.png",
-    "logo_svg_url": "assets/logos/unidos-de-padre-miguel.svg",
+    "logo_url": "assets/logos/original/unidos-de-padre-miguel.png",
+    "logo_original_url": "assets/logos/original/unidos-de-padre-miguel.png",
+    "logo_gemini_png_url": "assets/logos/gemini/unidos-de-padre-miguel.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/unidos-de-padre-miguel.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

@@ -24,9 +24,10 @@
     "simbolo": "Corona e Lira",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/paraiso-do-tuiuti.png",
-    "logo_png_url": "assets/logos/paraiso-do-tuiuti.png",
-    "logo_svg_url": "assets/logos/paraiso-do-tuiuti.svg",
+    "logo_url": "assets/logos/original/paraiso-do-tuiuti.png",
+    "logo_original_url": "assets/logos/original/paraiso-do-tuiuti.png",
+    "logo_gemini_png_url": "assets/logos/gemini/paraiso-do-tuiuti.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/paraiso-do-tuiuti.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

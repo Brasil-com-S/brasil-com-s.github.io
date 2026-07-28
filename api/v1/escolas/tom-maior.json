@@ -26,9 +26,10 @@
     "simbolo": "Batuta e Clave de Sol",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/tom-maior.png",
-    "logo_png_url": "assets/logos/tom-maior.png",
-    "logo_svg_url": "assets/logos/tom-maior.svg",
+    "logo_url": "assets/logos/original/tom-maior.png",
+    "logo_original_url": "assets/logos/original/tom-maior.png",
+    "logo_gemini_png_url": "assets/logos/gemini/tom-maior.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/tom-maior.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

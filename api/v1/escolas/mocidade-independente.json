@@ -31,9 +31,10 @@
       1996,
       2017
     ],
-    "logo_url": "assets/logos/mocidade-independente.png",
-    "logo_png_url": "assets/logos/mocidade-independente.png",
-    "logo_svg_url": "assets/logos/mocidade-independente.svg",
+    "logo_url": "assets/logos/original/mocidade-independente.png",
+    "logo_original_url": "assets/logos/original/mocidade-independente.png",
+    "logo_gemini_png_url": "assets/logos/gemini/mocidade-independente.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/mocidade-independente.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

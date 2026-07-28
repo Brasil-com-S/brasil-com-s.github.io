@@ -24,9 +24,10 @@
     "simbolo": "Ponte Rio-Niterói",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/academicos-de-niteroi.png",
-    "logo_png_url": "assets/logos/academicos-de-niteroi.png",
-    "logo_svg_url": "assets/logos/academicos-de-niteroi.svg",
+    "logo_url": "assets/logos/original/academicos-de-niteroi.png",
+    "logo_original_url": "assets/logos/original/academicos-de-niteroi.png",
+    "logo_gemini_png_url": "assets/logos/gemini/academicos-de-niteroi.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/academicos-de-niteroi.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

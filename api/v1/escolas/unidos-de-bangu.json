@@ -24,9 +24,10 @@
     "simbolo": "Castelo de Bangu",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/unidos-de-bangu.png",
-    "logo_png_url": "assets/logos/unidos-de-bangu.png",
-    "logo_svg_url": "assets/logos/unidos-de-bangu.svg",
+    "logo_url": "assets/logos/original/unidos-de-bangu.png",
+    "logo_original_url": "assets/logos/original/unidos-de-bangu.png",
+    "logo_gemini_png_url": "assets/logos/gemini/unidos-de-bangu.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/unidos-de-bangu.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

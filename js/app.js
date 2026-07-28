@@ -185,7 +185,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   function openSchoolModal(school) {
     if (!modalOverlay || !modalBody) return;
 
-    const logoPng = school.logo_png_url || school.logo_url;
+    const logoOriginal = school.logo_original_url || school.logo_url;
+    const logoGeminiPng = school.logo_gemini_png_url || school.logo_url;
+    const logoGeminiSvg = school.logo_gemini_svg_url || school.logo_url;
 
     const sambasHtml = school.sambas_enredo ? school.sambas_enredo.map(s => `
       <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); padding: 0.8rem 1rem; border-radius: 8px; margin-bottom: 0.6rem;">
@@ -203,17 +205,30 @@ document.addEventListener('DOMContentLoaded', async () => {
       </tr>
     `).join('') : '<tr><td colspan="4">Sem registros.</td></tr>';
 
+    const fundadoresHtml = school.fundadores && school.fundadores.length ? school.fundadores.join(', ') : 'Fundadores históricos registrados na Liga';
+
     modalBody.innerHTML = `
-      <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1.5rem;">
-        <img src="${logoPng}" alt="Arte Brasão ${school.nome}" style="width: 110px; height: 110px; border-radius: 50%; border: 3px solid #FFCC00; object-fit: cover; background: #000;" />
-        <div>
+      <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1.5rem; flex-wrap: wrap;">
+        <img id="modalSchoolLogoImg" src="${logoGeminiPng}" alt="Brasão ${school.nome}" style="width: 110px; height: 110px; border-radius: 50%; border: 3px solid #FFCC00; object-fit: cover; background: #000;" />
+        <div style="flex: 1; min-width: 250px;">
           <h2 style="font-family: 'Outfit', sans-serif; font-size: 2rem; font-weight: 800; color: #F1F5F9; line-height: 1.1;">${school.nome_completo}</h2>
           <p style="color: #94A3B8; font-size: 0.95rem; margin-top: 0.4rem;">
             Fundada em <strong>${new Date(school.fundacao).toLocaleDateString('pt-BR')}</strong> &bull; ${school.bairro}, ${school.cidade} - ${school.estado}
           </p>
-          <div style="display: flex; gap: 0.6rem; margin-top: 0.8rem;">
+          <p style="color: #CBD5E1; font-size: 0.85rem; margin-top: 0.3rem;">
+            <strong>Fundadores:</strong> ${fundadoresHtml}
+          </p>
+          <div style="display: flex; gap: 0.6rem; margin-top: 0.8rem; flex-wrap: wrap;">
             <span class="badge ${school.grupo.toLowerCase().includes('especial') ? 'especial' : 'acesso'}">${school.grupo}</span>
             <span class="badge" style="background: rgba(0, 168, 89, 0.2); color: #00A859; border-color: #00A859;">${school.titulos} Títulos Conquistados</span>
+          </div>
+          
+          <!-- Select Visualizacao de Logos -->
+          <div style="margin-top: 1rem; display: flex; align-items: center; gap: 0.5rem; background: rgba(255,255,255,0.05); padding: 0.5rem 0.8rem; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
+            <span style="font-size: 0.8rem; color: #FFCC00; font-weight: 600;">🖼️ Formato do Brasão:</span>
+            <button class="logo-toggle-btn active" data-url="${logoGeminiPng}" style="font-size: 0.75rem; padding: 0.2rem 0.6rem; border-radius: 4rem; background: #FFCC00; color: #000; font-weight: 700; border: none; cursor: pointer;">Gemini PNG</button>
+            <button class="logo-toggle-btn" data-url="${logoGeminiSvg}" style="font-size: 0.75rem; padding: 0.2rem 0.6rem; border-radius: 4rem; background: rgba(255,255,255,0.1); color: #FFF; font-weight: 700; border: none; cursor: pointer;">Gemini SVG</button>
+            <button class="logo-toggle-btn" data-url="${logoOriginal}" style="font-size: 0.75rem; padding: 0.2rem 0.6rem; border-radius: 4rem; background: rgba(255,255,255,0.1); color: #FFF; font-weight: 700; border: none; cursor: pointer;">Original</button>
           </div>
         </div>
       </div>
@@ -246,6 +261,21 @@ document.addEventListener('DOMContentLoaded', async () => {
     `;
 
     modalOverlay.classList.add('active');
+
+    // Add Logo Toggle Click Event
+    const toggleBtns = modalBody.querySelectorAll('.logo-toggle-btn');
+    const logoImg = modalBody.querySelector('#modalSchoolLogoImg');
+    toggleBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        toggleBtns.forEach(b => {
+          b.style.background = 'rgba(255,255,255,0.1)';
+          b.style.color = '#FFF';
+        });
+        btn.style.background = '#FFCC00';
+        btn.style.color = '#000';
+        logoImg.src = btn.dataset.url;
+      });
+    });
   }
 
   if (modalClose && modalOverlay) {

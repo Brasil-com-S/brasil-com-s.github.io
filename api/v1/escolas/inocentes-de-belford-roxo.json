@@ -26,9 +26,10 @@
     "simbolo": "Pomba da Paz",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/inocentes-de-belford-roxo.png",
-    "logo_png_url": "assets/logos/inocentes-de-belford-roxo.png",
-    "logo_svg_url": "assets/logos/inocentes-de-belford-roxo.svg",
+    "logo_url": "assets/logos/original/inocentes-de-belford-roxo.png",
+    "logo_original_url": "assets/logos/original/inocentes-de-belford-roxo.png",
+    "logo_gemini_png_url": "assets/logos/gemini/inocentes-de-belford-roxo.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/inocentes-de-belford-roxo.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

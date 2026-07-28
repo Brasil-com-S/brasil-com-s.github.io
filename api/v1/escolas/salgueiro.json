@@ -7,7 +7,7 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Salgueiro",
     "fundacao": "1953-03-05",
     "fundadores": [
-      "Jorge de Oliveira",
+      "Jorge de Oliveira (Seu Neném)",
       "Nelson de Andrade",
       "Joaquim Casemiro"
     ],
@@ -36,9 +36,10 @@
       1993,
       2009
     ],
-    "logo_url": "assets/logos/salgueiro.png",
-    "logo_png_url": "assets/logos/salgueiro.png",
-    "logo_svg_url": "assets/logos/salgueiro.svg",
+    "logo_url": "assets/logos/original/salgueiro.png",
+    "logo_original_url": "assets/logos/original/salgueiro.png",
+    "logo_gemini_png_url": "assets/logos/gemini/salgueiro.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/salgueiro.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

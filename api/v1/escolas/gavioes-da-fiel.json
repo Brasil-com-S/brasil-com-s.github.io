@@ -30,9 +30,10 @@
       2002,
       2003
     ],
-    "logo_url": "assets/logos/gavioes-da-fiel.png",
-    "logo_png_url": "assets/logos/gavioes-da-fiel.png",
-    "logo_svg_url": "assets/logos/gavioes-da-fiel.svg",
+    "logo_url": "assets/logos/original/gavioes-da-fiel.png",
+    "logo_original_url": "assets/logos/original/gavioes-da-fiel.png",
+    "logo_gemini_png_url": "assets/logos/gemini/gavioes-da-fiel.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/gavioes-da-fiel.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

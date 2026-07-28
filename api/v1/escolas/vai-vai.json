@@ -41,9 +41,10 @@
       2011,
       2015
     ],
-    "logo_url": "assets/logos/vai-vai.png",
-    "logo_png_url": "assets/logos/vai-vai.png",
-    "logo_svg_url": "assets/logos/vai-vai.svg",
+    "logo_url": "assets/logos/original/vai-vai.png",
+    "logo_original_url": "assets/logos/original/vai-vai.png",
+    "logo_gemini_png_url": "assets/logos/gemini/vai-vai.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/vai-vai.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

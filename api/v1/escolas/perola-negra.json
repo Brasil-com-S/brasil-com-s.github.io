@@ -26,9 +26,10 @@
     "simbolo": "Pérola Negra",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/perola-negra.png",
-    "logo_png_url": "assets/logos/perola-negra.png",
-    "logo_svg_url": "assets/logos/perola-negra.svg",
+    "logo_url": "assets/logos/original/perola-negra.png",
+    "logo_original_url": "assets/logos/original/perola-negra.png",
+    "logo_gemini_png_url": "assets/logos/gemini/perola-negra.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/perola-negra.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

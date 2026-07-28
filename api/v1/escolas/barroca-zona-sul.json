@@ -24,9 +24,10 @@
     "simbolo": "Coroa e Rosas",
     "titulos": 0,
     "anos_titulos": [],
-    "logo_url": "assets/logos/barroca-zona-sul.png",
-    "logo_png_url": "assets/logos/barroca-zona-sul.png",
-    "logo_svg_url": "assets/logos/barroca-zona-sul.svg",
+    "logo_url": "assets/logos/original/barroca-zona-sul.png",
+    "logo_original_url": "assets/logos/original/barroca-zona-sul.png",
+    "logo_gemini_png_url": "assets/logos/gemini/barroca-zona-sul.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/barroca-zona-sul.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

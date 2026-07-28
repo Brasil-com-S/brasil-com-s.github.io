@@ -29,9 +29,10 @@
     "anos_titulos": [
       2022
     ],
-    "logo_url": "assets/logos/grande-rio.png",
-    "logo_png_url": "assets/logos/grande-rio.png",
-    "logo_svg_url": "assets/logos/grande-rio.svg",
+    "logo_url": "assets/logos/original/grande-rio.png",
+    "logo_original_url": "assets/logos/original/grande-rio.png",
+    "logo_gemini_png_url": "assets/logos/gemini/grande-rio.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/grande-rio.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

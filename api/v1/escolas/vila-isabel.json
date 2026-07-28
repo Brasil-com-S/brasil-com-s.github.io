@@ -30,9 +30,10 @@
       2006,
       2013
     ],
-    "logo_url": "assets/logos/vila-isabel.png",
-    "logo_png_url": "assets/logos/vila-isabel.png",
-    "logo_svg_url": "assets/logos/vila-isabel.svg",
+    "logo_url": "assets/logos/original/vila-isabel.png",
+    "logo_original_url": "assets/logos/original/vila-isabel.png",
+    "logo_gemini_png_url": "assets/logos/gemini/vila-isabel.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/vila-isabel.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

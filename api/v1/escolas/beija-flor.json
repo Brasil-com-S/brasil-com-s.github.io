@@ -7,7 +7,7 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Beija-Flor de Nilópolis",
     "fundacao": "1948-12-25",
     "fundadores": [
-      "Milton de Oliveira",
+      "Milton de Oliveira (Mazingola)",
       "Edson Menezes",
       "Neguinho da Beija-Flor"
     ],
@@ -40,9 +40,10 @@
       2015,
       2018
     ],
-    "logo_url": "assets/logos/beija-flor.png",
-    "logo_png_url": "assets/logos/beija-flor.png",
-    "logo_svg_url": "assets/logos/beija-flor.svg",
+    "logo_url": "assets/logos/original/beija-flor.png",
+    "logo_original_url": "assets/logos/original/beija-flor.png",
+    "logo_gemini_png_url": "assets/logos/gemini/beija-flor.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/beija-flor.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

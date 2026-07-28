@@ -36,9 +36,10 @@
       1972,
       1982
     ],
-    "logo_url": "assets/logos/imperio-serrano.png",
-    "logo_png_url": "assets/logos/imperio-serrano.png",
-    "logo_svg_url": "assets/logos/imperio-serrano.svg",
+    "logo_url": "assets/logos/original/imperio-serrano.png",
+    "logo_original_url": "assets/logos/original/imperio-serrano.png",
+    "logo_gemini_png_url": "assets/logos/gemini/imperio-serrano.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/imperio-serrano.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }

@@ -27,9 +27,10 @@
       2017,
       2018
     ],
-    "logo_url": "assets/logos/academicos-do-tatuape.png",
-    "logo_png_url": "assets/logos/academicos-do-tatuape.png",
-    "logo_svg_url": "assets/logos/academicos-do-tatuape.svg",
+    "logo_url": "assets/logos/original/academicos-do-tatuape.png",
+    "logo_original_url": "assets/logos/original/academicos-do-tatuape.png",
+    "logo_gemini_png_url": "assets/logos/gemini/academicos-do-tatuape.png",
+    "logo_gemini_svg_url": "assets/logos/gemini/academicos-do-tatuape.svg",
     "sambas_enredo": [],
     "colocacoes": []
   }
