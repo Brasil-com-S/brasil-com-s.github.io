@@ -32,7 +32,14 @@
     "logo_original_url": "assets/logos/original/imperio-de-casa-verde.png",
     "logo_gemini_png_url": "assets/logos/gemini/imperio-de-casa-verde.png",
     "logo_gemini_svg_url": "assets/logos/gemini/imperio-de-casa-verde.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Sob o Céu do Interior Brilha o Sonho Caipira: Jaguariúna, a Capital Country do Brasil",
+        "compositores": "Fabio Ricardo Rangel da Costa (Carnavalesco)",
+        "interpretacao": "Tinga"
+      }
+    ],
     "colocacoes": []
   }
 }

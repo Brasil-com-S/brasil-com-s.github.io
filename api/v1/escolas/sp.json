@@ -97,7 +97,14 @@
       "logo_original_url": "assets/logos/original/mocidade-alegre.png",
       "logo_gemini_png_url": "assets/logos/gemini/mocidade-alegre.png",
       "logo_gemini_svg_url": "assets/logos/gemini/mocidade-alegre.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Sete Anos de Mar, Sete Léguas de Encanto: A Nau que Venceu o Diabo sob a Benção do Sagrado Manto",
+          "compositores": "Comissão de Carnaval / Caio Araújo (Carnavalesco)",
+          "interpretacao": "Igor Sorriso"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -167,7 +174,14 @@
       "logo_original_url": "assets/logos/original/dragoes-da-real.png",
       "logo_gemini_png_url": "assets/logos/gemini/dragoes-da-real.png",
       "logo_gemini_svg_url": "assets/logos/gemini/dragoes-da-real.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Sob as Bênçãos de Xangô, a Coroação do Príncipe Reinaldo",
+          "compositores": "Jorge Marcos Freitas (Carnavalesco)",
+          "interpretacao": "Renê Sobral"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -202,7 +216,14 @@
       "logo_original_url": "assets/logos/original/imperio-de-casa-verde.png",
       "logo_gemini_png_url": "assets/logos/gemini/imperio-de-casa-verde.png",
       "logo_gemini_svg_url": "assets/logos/gemini/imperio-de-casa-verde.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Sob o Céu do Interior Brilha o Sonho Caipira: Jaguariúna, a Capital Country do Brasil",
+          "compositores": "Fabio Ricardo Rangel da Costa (Carnavalesco)",
+          "interpretacao": "Tinga"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -236,7 +257,14 @@
       "logo_original_url": "assets/logos/original/academicos-do-tatuape.png",
       "logo_gemini_png_url": "assets/logos/gemini/academicos-do-tatuape.png",
       "logo_gemini_svg_url": "assets/logos/gemini/academicos-do-tatuape.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Congo Kinshasa: O Coração da África, a Herança Viva de um Povo que Resiste ao Tempo",
+          "compositores": "Wagner Santos (Carnavalesco)",
+          "interpretacao": "Cordan"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -270,7 +298,14 @@
       "logo_original_url": "assets/logos/original/mancha-verde.png",
       "logo_gemini_png_url": "assets/logos/gemini/mancha-verde.png",
       "logo_gemini_svg_url": "assets/logos/gemini/mancha-verde.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Ruth Rocha: a Palavra que Ensina a Criança a Voar",
+          "compositores": "André Machado (Carnavalesco)",
+          "interpretacao": "Fredy Vianna"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -301,7 +336,14 @@
       "logo_original_url": "assets/logos/original/barroca-zona-sul.png",
       "logo_gemini_png_url": "assets/logos/gemini/barroca-zona-sul.png",
       "logo_gemini_svg_url": "assets/logos/gemini/barroca-zona-sul.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Elekô Obá Xirê — A Força da Mulher que Não se Curva",
+          "compositores": "Pedro Alexandre Alves de Lacerda / Magoo (Carnavalesco)",
+          "interpretacao": "Pixulé"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -334,7 +376,14 @@
       "logo_original_url": "assets/logos/original/aguia-de-ouro.png",
       "logo_gemini_png_url": "assets/logos/gemini/aguia-de-ouro.png",
       "logo_gemini_svg_url": "assets/logos/gemini/aguia-de-ouro.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Águia na Encantaria de Fés, Folguedos e Milagres que Deságuam no Sertão",
+          "compositores": "Leandro Barboza (Carnavalesco)",
+          "interpretacao": "Douglani"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -369,7 +418,14 @@
       "logo_original_url": "assets/logos/original/academicos-do-tucuruvi.png",
       "logo_gemini_png_url": "assets/logos/gemini/academicos-do-tucuruvi.png",
       "logo_gemini_svg_url": "assets/logos/gemini/academicos-do-tucuruvi.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Ogbódirin, Ògbóni",
+          "compositores": "Nícolas Gonçalves (Carnavalesco)",
+          "interpretacao": "Hudson Luiz"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -410,7 +466,14 @@
       "logo_original_url": "assets/logos/original/rosas-de-ouro.png",
       "logo_gemini_png_url": "assets/logos/gemini/rosas-de-ouro.png",
       "logo_gemini_svg_url": "assets/logos/gemini/rosas-de-ouro.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Mar de Rosas",
+          "compositores": "Bruno de Oliveira e Yago Duarte (Carnavalescos)",
+          "interpretacao": "Royce do Cavaco"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -484,7 +547,14 @@
       "logo_original_url": "assets/logos/original/tom-maior.png",
       "logo_gemini_png_url": "assets/logos/gemini/tom-maior.png",
       "logo_gemini_svg_url": "assets/logos/gemini/tom-maior.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Eu Sou o Pão da Vida",
+          "compositores": "Flávio Campello (Carnavalesco)",
+          "interpretacao": "Gilsinho"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -519,7 +589,14 @@
       "logo_original_url": "assets/logos/original/estrela-do-terceiro-milenio.png",
       "logo_gemini_png_url": "assets/logos/gemini/estrela-do-terceiro-milenio.png",
       "logo_gemini_svg_url": "assets/logos/gemini/estrela-do-terceiro-milenio.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Incrível, Fantástico, Extraordinário",
+          "compositores": "Murilo Lobo (Carnavalesco)",
+          "interpretacao": "Grazzi Brasil"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -562,7 +639,14 @@
       "logo_original_url": "assets/logos/original/nene-de-vila-matilde.png",
       "logo_gemini_png_url": "assets/logos/gemini/nene-de-vila-matilde.png",
       "logo_gemini_svg_url": "assets/logos/gemini/nene-de-vila-matilde.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Mulheres de Palmares — A Liberdade tem Rosto de Mulher",
+          "compositores": "Chico Ângelo (Carnavalesco)",
+          "interpretacao": "Agnaldo Amaral"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -593,7 +677,14 @@
       "logo_original_url": "assets/logos/original/colorado-do-bras.png",
       "logo_gemini_png_url": "assets/logos/gemini/colorado-do-bras.png",
       "logo_gemini_svg_url": "assets/logos/gemini/colorado-do-bras.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Ojuara — O Homem que Desafiou o Diabo",
+          "compositores": "David Eslavick (Carnavalesco)",
+          "interpretacao": "Léo Reis"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -626,7 +717,14 @@
       "logo_original_url": "assets/logos/original/perola-negra.png",
       "logo_gemini_png_url": "assets/logos/gemini/perola-negra.png",
       "logo_gemini_svg_url": "assets/logos/gemini/perola-negra.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Sem Vacilar, Sem me Exibir: Sou Jovelina, a Pérola Negra",
+          "compositores": "André Machado (Carnavalesco)",
+          "interpretacao": "Daniel Collete"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -668,7 +766,14 @@
       "logo_original_url": "assets/logos/original/unidos-do-peruche.png",
       "logo_gemini_png_url": "assets/logos/gemini/unidos-do-peruche.png",
       "logo_gemini_svg_url": "assets/logos/gemini/unidos-do-peruche.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Filhos de Mãe Preta",
+          "compositores": "Mauro Pegoraro / Xuxa (Carnavalesco)",
+          "interpretacao": "Toninho Penteado"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -704,7 +809,14 @@
       "logo_original_url": "assets/logos/original/x-9-paulistana.png",
       "logo_gemini_png_url": "assets/logos/gemini/x-9-paulistana.png",
       "logo_gemini_svg_url": "assets/logos/gemini/x-9-paulistana.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Se o Rio Muda de Curso Poderá Mudar o Curso da História",
+          "compositores": "Amauri Santos (Carnavalesco)",
+          "interpretacao": "Darlan Alves"
+        }
+      ],
       "colocacoes": []
     }
   ]

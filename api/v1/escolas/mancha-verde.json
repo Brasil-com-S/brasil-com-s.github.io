@@ -31,7 +31,14 @@
     "logo_original_url": "assets/logos/original/mancha-verde.png",
     "logo_gemini_png_url": "assets/logos/gemini/mancha-verde.png",
     "logo_gemini_svg_url": "assets/logos/gemini/mancha-verde.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Ruth Rocha: a Palavra que Ensina a Criança a Voar",
+        "compositores": "André Machado (Carnavalesco)",
+        "interpretacao": "Fredy Vianna"
+      }
+    ],
     "colocacoes": []
   }
 }

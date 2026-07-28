@@ -336,7 +336,14 @@
       "logo_original_url": "assets/logos/original/tom-maior.png",
       "logo_gemini_png_url": "assets/logos/gemini/tom-maior.png",
       "logo_gemini_svg_url": "assets/logos/gemini/tom-maior.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Eu Sou o Pão da Vida",
+          "compositores": "Flávio Campello (Carnavalesco)",
+          "interpretacao": "Gilsinho"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -379,7 +386,14 @@
       "logo_original_url": "assets/logos/original/nene-de-vila-matilde.png",
       "logo_gemini_png_url": "assets/logos/gemini/nene-de-vila-matilde.png",
       "logo_gemini_svg_url": "assets/logos/gemini/nene-de-vila-matilde.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Mulheres de Palmares — A Liberdade tem Rosto de Mulher",
+          "compositores": "Chico Ângelo (Carnavalesco)",
+          "interpretacao": "Agnaldo Amaral"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -412,7 +426,14 @@
       "logo_original_url": "assets/logos/original/perola-negra.png",
       "logo_gemini_png_url": "assets/logos/gemini/perola-negra.png",
       "logo_gemini_svg_url": "assets/logos/gemini/perola-negra.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Sem Vacilar, Sem me Exibir: Sou Jovelina, a Pérola Negra",
+          "compositores": "André Machado (Carnavalesco)",
+          "interpretacao": "Daniel Collete"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -454,7 +475,14 @@
       "logo_original_url": "assets/logos/original/unidos-do-peruche.png",
       "logo_gemini_png_url": "assets/logos/gemini/unidos-do-peruche.png",
       "logo_gemini_svg_url": "assets/logos/gemini/unidos-do-peruche.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Filhos de Mãe Preta",
+          "compositores": "Mauro Pegoraro / Xuxa (Carnavalesco)",
+          "interpretacao": "Toninho Penteado"
+        }
+      ],
       "colocacoes": []
     },
     {
@@ -490,7 +518,14 @@
       "logo_original_url": "assets/logos/original/x-9-paulistana.png",
       "logo_gemini_png_url": "assets/logos/gemini/x-9-paulistana.png",
       "logo_gemini_svg_url": "assets/logos/gemini/x-9-paulistana.svg",
-      "sambas_enredo": [],
+      "sambas_enredo": [
+        {
+          "ano": 2027,
+          "titulo": "Se o Rio Muda de Curso Poderá Mudar o Curso da História",
+          "compositores": "Amauri Santos (Carnavalesco)",
+          "interpretacao": "Darlan Alves"
+        }
+      ],
       "colocacoes": []
     }
   ]

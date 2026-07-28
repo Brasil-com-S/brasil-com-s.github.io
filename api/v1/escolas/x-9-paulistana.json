@@ -33,7 +33,14 @@
     "logo_original_url": "assets/logos/original/x-9-paulistana.png",
     "logo_gemini_png_url": "assets/logos/gemini/x-9-paulistana.png",
     "logo_gemini_svg_url": "assets/logos/gemini/x-9-paulistana.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Se o Rio Muda de Curso Poderá Mudar o Curso da História",
+        "compositores": "Amauri Santos (Carnavalesco)",
+        "interpretacao": "Darlan Alves"
+      }
+    ],
     "colocacoes": []
   }
 }

@@ -40,7 +40,14 @@
     "logo_original_url": "assets/logos/original/nene-de-vila-matilde.png",
     "logo_gemini_png_url": "assets/logos/gemini/nene-de-vila-matilde.png",
     "logo_gemini_svg_url": "assets/logos/gemini/nene-de-vila-matilde.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Mulheres de Palmares — A Liberdade tem Rosto de Mulher",
+        "compositores": "Chico Ângelo (Carnavalesco)",
+        "interpretacao": "Agnaldo Amaral"
+      }
+    ],
     "colocacoes": []
   }
 }

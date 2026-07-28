@@ -30,7 +30,14 @@
     "logo_original_url": "assets/logos/original/perola-negra.png",
     "logo_gemini_png_url": "assets/logos/gemini/perola-negra.png",
     "logo_gemini_svg_url": "assets/logos/gemini/perola-negra.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Sem Vacilar, Sem me Exibir: Sou Jovelina, a Pérola Negra",
+        "compositores": "André Machado (Carnavalesco)",
+        "interpretacao": "Daniel Collete"
+      }
+    ],
     "colocacoes": []
   }
 }

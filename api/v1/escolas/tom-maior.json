@@ -30,7 +30,14 @@
     "logo_original_url": "assets/logos/original/tom-maior.png",
     "logo_gemini_png_url": "assets/logos/gemini/tom-maior.png",
     "logo_gemini_svg_url": "assets/logos/gemini/tom-maior.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Eu Sou o Pão da Vida",
+        "compositores": "Flávio Campello (Carnavalesco)",
+        "interpretacao": "Gilsinho"
+      }
+    ],
     "colocacoes": []
   }
 }

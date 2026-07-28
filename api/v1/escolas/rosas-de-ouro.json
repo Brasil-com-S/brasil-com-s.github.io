@@ -38,7 +38,14 @@
     "logo_original_url": "assets/logos/original/rosas-de-ouro.png",
     "logo_gemini_png_url": "assets/logos/gemini/rosas-de-ouro.png",
     "logo_gemini_svg_url": "assets/logos/gemini/rosas-de-ouro.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Mar de Rosas",
+        "compositores": "Bruno de Oliveira e Yago Duarte (Carnavalescos)",
+        "interpretacao": "Royce do Cavaco"
+      }
+    ],
     "colocacoes": []
   }
 }

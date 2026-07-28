@@ -32,7 +32,14 @@
     "logo_original_url": "assets/logos/original/estrela-do-terceiro-milenio.png",
     "logo_gemini_png_url": "assets/logos/gemini/estrela-do-terceiro-milenio.png",
     "logo_gemini_svg_url": "assets/logos/gemini/estrela-do-terceiro-milenio.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Incrível, Fantástico, Extraordinário",
+        "compositores": "Murilo Lobo (Carnavalesco)",
+        "interpretacao": "Grazzi Brasil"
+      }
+    ],
     "colocacoes": []
   }
 }

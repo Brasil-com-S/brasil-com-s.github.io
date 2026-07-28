@@ -30,7 +30,14 @@
     "logo_original_url": "assets/logos/original/aguia-de-ouro.png",
     "logo_gemini_png_url": "assets/logos/gemini/aguia-de-ouro.png",
     "logo_gemini_svg_url": "assets/logos/gemini/aguia-de-ouro.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Águia na Encantaria de Fés, Folguedos e Milagres que Deságuam no Sertão",
+        "compositores": "Leandro Barboza (Carnavalesco)",
+        "interpretacao": "Douglani"
+      }
+    ],
     "colocacoes": []
   }
 }

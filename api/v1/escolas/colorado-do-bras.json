@@ -28,7 +28,14 @@
     "logo_original_url": "assets/logos/original/colorado-do-bras.png",
     "logo_gemini_png_url": "assets/logos/gemini/colorado-do-bras.png",
     "logo_gemini_svg_url": "assets/logos/gemini/colorado-do-bras.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Ojuara — O Homem que Desafiou o Diabo",
+        "compositores": "David Eslavick (Carnavalesco)",
+        "interpretacao": "Léo Reis"
+      }
+    ],
     "colocacoes": []
   }
 }

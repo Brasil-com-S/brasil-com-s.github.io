@@ -31,7 +31,14 @@
     "logo_original_url": "assets/logos/original/academicos-do-tatuape.png",
     "logo_gemini_png_url": "assets/logos/gemini/academicos-do-tatuape.png",
     "logo_gemini_svg_url": "assets/logos/gemini/academicos-do-tatuape.svg",
-    "sambas_enredo": [],
+    "sambas_enredo": [
+      {
+        "ano": 2027,
+        "titulo": "Congo Kinshasa: O Coração da África, a Herança Viva de um Povo que Resiste ao Tempo",
+        "compositores": "Wagner Santos (Carnavalesco)",
+        "interpretacao": "Cordan"
+      }
+    ],
     "colocacoes": []
   }
 }
