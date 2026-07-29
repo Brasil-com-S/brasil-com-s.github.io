@@ -7,23 +7,24 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Portela",
     "fundacao": "1923-04-11",
     "fundadores": [
-      "Paulo da Portela (Paulo Benjamin de Oliveira)",
-      "Caetano Gonçalves",
-      "Antônio Rufino"
+      "Galdino Marcelino dos Santos",
+      "Antônio Rufino dos Reis",
+      "Antônio da Silva Caetano",
+      "Paulo Benjamim de Oliveira (Paulo da Portela)"
     ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
-    "bairro": "Madureira",
+    "bairro": "Oswaldo Cruz Madureira",
     "grupo": "Especial",
     "cores": [
       "Azul",
       "Branco"
     ],
     "cores_hex": [
-      "#0047AB",
-      "#FFFFFF"
+      "#0000CD",
+      "#FFF"
     ],
-    "simbolo": "Águia Majestosa com Asas Abertas",
+    "simbolo": "Águia",
     "titulos": 22,
     "anos_titulos": [
       1935,
@@ -51,9 +52,1176 @@
     ],
     "logo_url": "assets/logos/original/portela.png",
     "logo_original_url": "assets/logos/original/portela.png",
-    "logo_gemini_png_url": "assets/logos/gemini/portela.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/portela.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "O Mistério do Príncipe do Bará - A Oração do Negrinho e a Ressurreição de Sua Coroa Sob o Céu Aberto do Rio Grande",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Cantar Será Buscar o Caminho que Vai Dar no Sol - Uma Homenagem a Milton Nascimento",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Um Defeito de Cor",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "O Azul que Vem do Infinito",
+        "compositores": "Vinicius Ferreira, Rafael Gigante, Edmar Jr, Bira, Marcelão e André do Posto 7",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Igi Osè Baobá",
+        "compositores": "Wanderley Monteiro, Vinicius Ferreira, Rafael Gigante, Bira, Edmar Jr, Paulo Borges e André do Posto 7",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Igi Osè Baobá",
+        "compositores": "",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Guajupiá, Terra Sem Males",
+        "compositores": "Valtinho Botafogo, Rogério Lobo, José Carlos, Zé Miranda, Beto Aquino, Pecê Ribeiro, D´Sousa e Araguaci",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Na Madureira Moderníssima, Hei Sempre de Ouvir Cantar Uma Sabiá",
+        "compositores": "Jorge do Batuke, Valtinho Botafogo, Rogério Lobo, Beto Aquino, Claudinho Oliveira, José Carlos, Zé Miranda, D’Dousa e Araguaci",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2018,
+        "titulo": "De Repente de Lá pra Cá e \"Dirrepente\" Daqui pra Lá",
+        "compositores": "Samir Trindade, Elson Ramires, Neyzinho do Cavaco, Paulo Lopita 77, Beto Rocha, J. Salles e Girão",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar...",
+        "compositores": "Samir Trindade, Elson Ramires, Neyzinho do Cavaco, Paulo Lopita 77, Beto Rocha, Girão e J.Sales",
+        "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2016,
+        "titulo": "No Voo da Águia, uma Viagem sem Fim...",
+        "compositores": "Wanderley Monteiro, Samir Trindade, Elson Ramires, Lopita 77, Dimenor e Edimar Jr.",
+        "interpretacao": "Gilsinho e Wantuir"
+      },
+      {
+        "ano": 2015,
+        "titulo": "ImagináRIO, 450 Janeiros de Uma Cidade Surreal",
+        "compositores": "Noca da Portela, Celso Lopes, Charlles André, Vinicius Ferreira e Xandy Azevedo",
+        "interpretacao": "Wantuir, Richahs, Rogerinho e Cremilson"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Um Rio de Mar a Mar: Do Valongo à Glória de São Sebastião",
+        "compositores": "Toninho Nascimento, Luiz Carlos Máximo, Waguinho, Edson Alves e J. Amaral",
+        "interpretacao": "Wantuir, Richahs, Rogerinho e Cremilson"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Madureira ... Onde o Meu Coração Se Deixou Levar",
+        "compositores": "Wanderley Monteiro, Luiz Carlos Máximo, Toninho Nascimento e André do Posto 7",
+        "interpretacao": "Gilson da Conceição (Gilsinho)"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Bahia: E o Povo na Rua Cantando... É Feito Uma Reza, Um Ritual",
+        "compositores": "Wanderley Monteiro, Luiz Carlos Máximo, Toninho Nascimento e Naldo",
+        "interpretacao": "Gilson da Conceição (Gilsinho)"
+      },
+      {
+        "ano": 2011,
+        "titulo": "Rio, azul da cor do mar",
+        "compositores": "Wanderley Monteiro, Gilsinho, Luiz Carlos Máximo, Jr. Scafura e Naldo",
+        "interpretacao": "Gilson da Conceição (Gilsinho)"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Derrubando Fronteiras, Conquistando a Liberdade... Rio de Paz, em Estado de Graça!",
+        "compositores": "Ciraninho, Rafael dos Santos, Diogo Nogueira, Naldo e Jr Scafura",
+        "interpretacao": "Gilson da Conceição (Gilsinho)"
+      },
+      {
+        "ano": 2009,
+        "titulo": "E por Falar em Amor , Onde Anda Você?",
+        "compositores": "Ciraninho, Diogo Nogueira, Júnior Escafura, Wanderley Monteiro e L.C. Máximo",
+        "interpretacao": "Gilson da Conceição (Gilsinho)"
+      },
+      {
+        "ano": 2008,
+        "titulo": "Reconstruindo a Natureza, Recriando a Vida: o Sonho Vira Realidade",
+        "compositores": "Diogo Nogueira, Ciraninho, Celsinho de Andrade, Junior Scafura e Ari do Cavaco",
+        "interpretacao": "Gilson da Conceição (Gilsinho)"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Os Deuses do Olimpo na Terra do Carnaval: Uma Festa dos Esportes, da Saúde e da Beleza",
+        "compositores": "Diogo Nogueira, Ciraninho e Celsinho de Andrade",
+        "interpretacao": "Gilsinho e Pixulé"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Brasil Marca a Tua Cara e Mostra para o Mundo",
+        "compositores": "Mauro Diniz, Ary do Chapéu, Junior Escafura, Marquinhos de Oswaldo Cruz e Naldo",
+        "interpretacao": "Gilsinho e Pixulé"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Nós Podemos: Oito Idéias para Mudar o Mundo!",
+        "compositores": "Noca da Portela, Darcy Maravilha, J. Rocha e Noquinha",
+        "interpretacao": "Bruno Ribas"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Lendas e Mistérios da Amazônia",
+        "compositores": "Catoni, Jabolo e Waltenir",
+        "interpretacao": "Gera"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Ontem, Hoje e Sempre Cinelândia - O Samba Entra em Cena na Broadway Brasileira",
+        "compositores": "Caixa Dágua, Alexandre Fernandes, Lílian Martins e Júlio Alves",
+        "interpretacao": "Gera"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Amazonas, Esse Desconhecido. Delírios e Verdades do Eldorado Verde",
+        "compositores": "Davi Corrêa, Grillo e Naldo",
+        "interpretacao": "Gera"
+      },
+      {
+        "ano": 2001,
+        "titulo": "Querer É Poder",
+        "compositores": "Flavio Bororó, Zeca Sereno, Wagner e Paulo Aparício",
+        "interpretacao": "Gera"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Trabalhadores do Brasil, a Época de Getúlio Vargas",
+        "compositores": "Amilton Damião, Ailton Damião, Edynel, Zezé do Pandeiro e Edinho Leal",
+        "interpretacao": "Gera e Anderson"
+      },
+      {
+        "ano": 1999,
+        "titulo": "De Volta aos Caminhos de Minas Gerais",
+        "compositores": "Noca da Portela, Colombo, J.Rocha e Darcy Maravilha",
+        "interpretacao": "Rogerinho"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Os Olhos da Noite",
+        "compositores": "Noca da Portela, Colombo, J. Rocha, Darcy Maravilha e Celino Dias",
+        "interpretacao": "Rogerinho"
+      },
+      {
+        "ano": 1997,
+        "titulo": "Linda, Eternamente Olinda",
+        "compositores": "Doutor, Renato Vale, Tonico da Portela e Eli Penteado",
+        "interpretacao": "Antônio Ricardo de Souza (Rixxa)"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Essa Gente Bronzeada Mostra o Seu Valor",
+        "compositores": "Jorginho Don, Picolé da Portela, Renatinho do Sambola e Carlinhos Careca",
+        "interpretacao": "Antônio Ricardo de Souza (Rixxa)"
+      },
+      {
+        "ano": 1995,
+        "titulo": "Gosto que Me Enrosco",
+        "compositores": "Noca da Portela, Colombo e Gelson",
+        "interpretacao": "Rixxa e Carlinhos de Pilares"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Quando o Samba Era Samba",
+        "compositores": "Wilson Cruz, Cláudio Russo e Zé Luiz",
+        "interpretacao": "Edson Fagundes (Dedé da Portela)"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Cerimônia de Casamento",
+        "compositores": "Wilson Cruz, Cláudio Russo e Jorginho Estrela Negra",
+        "interpretacao": "Edson Fagundes (Dedé da Portela)"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Todo o Azul que o Azul Tem",
+        "compositores": "Carlinhos Madureira, Café da Portela e Ary do Cavaco",
+        "interpretacao": "Edson Fagundes (Dedé da Portela)"
+      },
+      {
+        "ano": 1991,
+        "titulo": "Tributo à Vaidade",
+        "compositores": "Carlinhos Madureira, Café da Portela e Iran Silva",
+        "interpretacao": "Edson Fagundes (Dedé da Portela)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "É de Ouro e Prata Esse Chão",
+        "compositores": "Espanhol, Sylvio Paulo e Cila da Portela",
+        "interpretacao": "Edson Fagundes (Dedé da Portela)"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Achado Não É Roubado",
+        "compositores": "Neném, Mauro Silva e Carlinhos Madureira",
+        "interpretacao": "Edson Fagundes (Dedé da Portela)"
+      },
+      {
+        "ano": 1988,
+        "titulo": "Na Lenda Carioca, os Sonhos do Vice-rei",
+        "compositores": "Nenem, Mauro Silva, Isaac, Luizinho e Carlinhos Madureira",
+        "interpretacao": "Edson Fagundes (Dedé da Portela)"
+      },
+      {
+        "ano": 1987,
+        "titulo": "Adelaide, a pomba da paz",
+        "compositores": "Neném, Mauro Silva, Isaac, Arizão, Carlinhos Madureira",
+        "interpretacao": "Edson Fagundes (Dedé da Portela)"
+      },
+      {
+        "ano": 1986,
+        "titulo": "Morfeu no Carnaval, a Utopia Brasileira",
+        "compositores": "Ary do Cavaco, Carlito Cavalcante, Vanderlei, Nilson Melodia e Paulinho",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Recordar É Viver",
+        "compositores": "Noca da Portela e Parceiros",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Contos de Areia",
+        "compositores": "Dedé da Portela e Norival Reis",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1983,
+        "titulo": "A Ressurreição das Coroas - Reisado, Reino e Reinado",
+        "compositores": "Hilton Veneno e Mazinho da Piedade",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1982,
+        "titulo": "Meu Brasil Brasileiro",
+        "compositores": "David Corrêa e Jorge Macedo",
+        "interpretacao": "David Corrêa"
+      },
+      {
+        "ano": 1981,
+        "titulo": "Das Maravilhas do Mar, Fez-se o Esplendor de Uma Noite",
+        "compositores": "David Corrêa e Jorge Macedo",
+        "interpretacao": "David Corrêa"
+      },
+      {
+        "ano": 1980,
+        "titulo": "Hoje tem marmelada",
+        "compositores": "David Correa, Norival Reis e Jorge Macedo",
+        "interpretacao": "Silvinho da Portela e David Correa"
+      },
+      {
+        "ano": 1979,
+        "titulo": "Incrível, Fantástico, Extraordinário",
+        "compositores": "David Correa, Tião Nascimento e J. Rodrigues",
+        "interpretacao": "Silvinho, David Correa e Abílio Martins"
+      },
+      {
+        "ano": 1978,
+        "titulo": "Mulher à Brasileira",
+        "compositores": "Jair Amorim e Evaldo Gouveia",
+        "interpretacao": "Silvinho da Portela e Abílio Martins"
+      },
+      {
+        "ano": 1977,
+        "titulo": "Festa da Aclamação",
+        "compositores": "Dedé da Portela, Catoni, Jabolô e Waltenir",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1976,
+        "titulo": "O Homem do Pacoval",
+        "compositores": "Noca, Colombo e Edir Gomes",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1975,
+        "titulo": "Macunaíma, Herói de Nossa Gente",
+        "compositores": "David Correa e Norival Reis",
+        "interpretacao": "Clara Nunes, Silvinho da Portela e Candeia"
+      },
+      {
+        "ano": 1974,
+        "titulo": "O Mundo Melhor de Pixinguinha",
+        "compositores": "Jair Amorim, Evaldo Gouveia e Velha",
+        "interpretacao": "Silvinho da Portela, Candeia e Clara Nunes"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Pasárgada, o Amigo do Rei",
+        "compositores": "Davi Correa",
+        "interpretacao": "Davi Correa"
+      },
+      {
+        "ano": 1972,
+        "titulo": "Ilu Ayê, a Terra da Vida",
+        "compositores": "Cabana e Norival Reis",
+        "interpretacao": "Clara Nunes e Silvinho da Portela"
+      },
+      {
+        "ano": 1971,
+        "titulo": "Lapa em Três Tempos",
+        "compositores": "Ary do Cavaco e Rubens",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1970,
+        "titulo": "Lendas e Mistérios da Amazônia",
+        "compositores": "Catoni, Jabolo e Waltenir",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1969,
+        "titulo": "Treze Naus",
+        "compositores": "Ari do Cavaco",
+        "interpretacao": "Sílvio Pereira da Silva (Silvinho da Portela)"
+      },
+      {
+        "ano": 1968,
+        "titulo": "O Tronco do Ipê",
+        "compositores": "Cabana",
+        "interpretacao": "Catoni"
+      },
+      {
+        "ano": 1967,
+        "titulo": "Tal Dia É o Batizado",
+        "compositores": "Catoni, Jabolo e Waltenir",
+        "interpretacao": "Catoni"
+      },
+      {
+        "ano": 1966,
+        "titulo": "Memórias de Um Sargento de Milícias",
+        "compositores": "Paulinho da Viola",
+        "interpretacao": "Catoni, Tia Surica e Mazinho"
+      },
+      {
+        "ano": 1965,
+        "titulo": "Histórias e Tradições do Rio Quatrocentão, do Morro Cara de Cão à Praça Onze",
+        "compositores": "Waldir 59 e Candeia",
+        "interpretacao": "Abílio Martins"
+      },
+      {
+        "ano": 1964,
+        "titulo": "O Segundo Casamento de D. Pedro I",
+        "compositores": "Marques Balbino e Antônio Alves",
+        "interpretacao": "Abílio Martins e Dilson"
+      },
+      {
+        "ano": 1963,
+        "titulo": "Barão de Mauá e Suas Realizações ou Barão de Mauá e Sua Época",
+        "compositores": "Valter Rosa e Antonio Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1962,
+        "titulo": "Rugendas ou Viagens Pitorescas Através do Brasil",
+        "compositores": "Ze Kéti, Batatinha, Carlos Elias e Marques Balbino",
+        "interpretacao": "Zé Keti e Marques Balbino"
+      },
+      {
+        "ano": 1961,
+        "titulo": "Jóias das Lendas Brasileiras",
+        "compositores": "Walter Rosa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1960,
+        "titulo": "Rio, Capital Eterna do Samba ou Rio, Cidade Eterna",
+        "compositores": "Walter Rosa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1959,
+        "titulo": "Brasil, Panteon de Glórias",
+        "compositores": "Casquinha, Bubu, Candeia, Waldir 59 e Picolino",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1958,
+        "titulo": "Vultos e Efemérides do Brasil",
+        "compositores": "Simeão e Jorge Porqueiro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1957,
+        "titulo": "Legados de D. João VI",
+        "compositores": "Candeia, Waldir 59 e Picolino",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1956,
+        "titulo": "Gigante pela Própria Natureza",
+        "compositores": "Candeia e Waldir 59",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1955,
+        "titulo": "Uma Festa Junina no Mês de Fevereiro",
+        "compositores": "Candeia e Waldir 59",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1954,
+        "titulo": "São Paulo Quatrocentão (O Despertar do Gigante)",
+        "compositores": "Picolino e Waldir 59",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1953,
+        "titulo": "Seis Datas Magnas",
+        "compositores": "Candeia e Altair Prego",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1952,
+        "titulo": "Brasil de ontem",
+        "compositores": "Manacéa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1951,
+        "titulo": "A Volta do Filho Pródigo",
+        "compositores": "Josias e Chatim",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1950,
+        "titulo": "Riquezas do Brasil",
+        "compositores": "Manacéa e Aniceto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1949,
+        "titulo": "O Despertar de Um Gigante",
+        "compositores": "Manacéa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1948,
+        "titulo": "Exaltação à Redentora",
+        "compositores": "Manacéa e Nilson",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1947,
+        "titulo": "Honra ao Mérito",
+        "compositores": "Alvaiade e Ventura",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1946,
+        "titulo": "Alvorada do Novo Mundo",
+        "compositores": "Ventura",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1945,
+        "titulo": "Brasil Glorioso [ nota 1 ]",
+        "compositores": "Zé Barriga Dura e Nilton Batatinha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1944,
+        "titulo": "Motivos Patrióticos [ nota 1 ]",
+        "compositores": "Ventura",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1943,
+        "titulo": "Carnaval de Guerra",
+        "compositores": "Nilson e Alvaiade",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1942,
+        "titulo": "A Vida do Samba",
+        "compositores": "Alvaiade e Chatim",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1941,
+        "titulo": "Dez Anos de Glórias",
+        "compositores": "Bibi e Chatim",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1940,
+        "titulo": "Homenagem à Justiça",
+        "compositores": "Paulo da Portela",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1939,
+        "titulo": "Teste ao Samba",
+        "compositores": "Paulo da Portela",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1938,
+        "titulo": "Democracia no samba",
+        "compositores": "Paulo da Portela",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1937,
+        "titulo": "O Carnaval",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1936,
+        "titulo": "*",
+        "compositores": "Paulo da Portela",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1935,
+        "titulo": "O Samba Dominando o Mundo",
+        "compositores": "Paulo da Portela",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1934,
+        "titulo": "Academia do Samba",
+        "compositores": "",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 267.9,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.4,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 268.9,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 267.7,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.2,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.8,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.3,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.4,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.9,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.7,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 299.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 296.6,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 297.2,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 295.2,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 397.9,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 396.8,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 394.8,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 393.2,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 383.9,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 384.9,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 390.4,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 388.9,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 280.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 276.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 256.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 264.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 174.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 291.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 290.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 280.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 292.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 290.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 546.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 206.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 211.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-A",
+        "posicao": 4,
+        "pontos": 207.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 4,
+        "pontos": 206.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Desfile de domingo",
+        "posicao": 1,
+        "pontos": 203.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-A",
+        "posicao": 2,
+        "pontos": 201.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1-A",
+        "posicao": 2,
+        "pontos": 185.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1-A",
+        "posicao": 3,
+        "pontos": 158.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1-A",
+        "posicao": 3,
+        "pontos": 160.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 148.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 85.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 108.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 103.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 93.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 53.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 63.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 116.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 88.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 118.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 103.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 83.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 130.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 122.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 59.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 80.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 126.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Supercampeonato",
+        "posicao": 3,
+        "pontos": 95.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1960,
+        "grupo": "Supercampeonato",
+        "posicao": 1,
+        "pontos": 100.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1959,
+        "grupo": "Supercampeonato",
+        "posicao": 1,
+        "pontos": 102.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1958,
+        "grupo": "Supercampeonato",
+        "posicao": 1,
+        "pontos": 106.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1957,
+        "grupo": "Supercampeonato",
+        "posicao": 1,
+        "pontos": 103.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1956,
+        "grupo": "Supercampeonato",
+        "posicao": 2,
+        "pontos": 96.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1955,
+        "grupo": "Supercampeonato",
+        "posicao": 3,
+        "pontos": 163.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1954,
+        "grupo": "Supercampeonato",
+        "posicao": 4,
+        "pontos": 161.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1953,
+        "grupo": "Supercampeonato",
+        "posicao": 1,
+        "pontos": 400.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1951,
+        "grupo": "União Geral das Escolas de Samba do Brasil",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1950,
+        "grupo": "União Cívica de Escolas de Samba",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1949,
+        "grupo": "União Geral das Escolas de Samba do Brasil",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1948,
+        "grupo": "Escolas de samba",
+        "posicao": 3,
+        "pontos": 126.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1947,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": 39.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1946,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": 80.6,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1945,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1944,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1943,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1942,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": 178.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1941,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": 410.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1940,
+        "grupo": "Escolas de samba",
+        "posicao": 5,
+        "pontos": 83.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1939,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1937,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": 175.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1936,
+        "grupo": "Escolas de samba",
+        "posicao": 3,
+        "pontos": 37.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1935,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": 158.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1934,
+        "grupo": "Desfile organizado pelo Jornal O País",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      }
+    ]
   }
 }

@@ -1,0 +1,212 @@
+{
+  "ano": 1983,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1-A": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 204.0,
+        "enredo": "A Grande Constelação das Estrelas Negras"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 201.0,
+        "enredo": "A Ressurreição das Coroas - Reisado, Reino e Reinado"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 200.0,
+        "enredo": "Mãe Baiana Mãe"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 198.0,
+        "enredo": "O Rei da Costa do Marfim Visita Chica da Silva em Diamantina"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 193.0,
+        "enredo": "Verde que Te Quero Rosa, Semente Viva do Samba"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 193.0,
+        "enredo": "Como Era Verde Meu Xingu"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 190.0,
+        "enredo": "Toma Lá, Dá Cá"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 188.0,
+        "enredo": "Traços e Troças"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 183.0,
+        "enredo": "Os Imortais"
+      }
+    ],
+    "RJ - Grupo 1-B": [
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 193.0,
+        "enredo": "Obrigado, Brasil"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 189.0,
+        "enredo": "Vamos Falar de Amor"
+      }
+    ],
+    "RJ - Grupo 2-A": [
+      {
+        "posicao": 2,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 193.0,
+        "enredo": "A Criação da Noite"
+      }
+    ],
+    "RJ - Grupo 2-B": [
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 184.0,
+        "enredo": "Festa da Mãe d`Água"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 150.0,
+        "enredo": "Alegria, Tristeza, Alegria, Lágrimas"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 287.0,
+        "enredo": "Nostalgia"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 286.0,
+        "enredo": "Se a Moda Pega"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 284.0,
+        "enredo": "Gosto é Gosto e Não se Discute"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 277.0,
+        "enredo": "Ilusão do Fantástico Eldorado"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 275.0,
+        "enredo": "Verde Que Te Quero Verde"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 272.0,
+        "enredo": "75 anos de Imigração Japonesa ou Reino do Sol Nascente"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 250.0,
+        "enredo": "O Criador de Ilusões"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 233.0,
+        "enredo": "Português, Papagaio e Cia"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Na Ilusão da Fantasia à Fantasia da Ilusão"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Bahia de Encantos e Magia"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Conversa de Botequim"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 86.0,
+        "enredo": "Salve o Rei do Carnaval da Bahia"
+      }
+    ],
+    "SP - Grupo 4": [
+      {
+        "posicao": 10,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 59.0,
+        "enredo": "Amurê - o Casamento Malê"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

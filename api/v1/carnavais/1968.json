@@ -1,0 +1,104 @@
+{
+  "ano": 1968,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 125.0,
+        "enredo": "Samba, Festa de Um Povo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 119.0,
+        "enredo": "Pernambuco, Leão do Norte"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 112.0,
+        "enredo": "Dona Beja, a Feiticeira de Araxá"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 103.0,
+        "enredo": "O Tronco do Ipê"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 82.0,
+        "enredo": "Viagem Pitoresca Através do Brasil"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 76.0,
+        "enredo": "Quatro Séculos de Modas e Costumes"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 100.0,
+        "enredo": "Bahia em Festa"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 75.0,
+        "enredo": "Vultos da Cultura Imperial"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 73.0,
+        "enredo": "Salões e Damas do Segundo Império"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 65.0,
+        "enredo": "Exaltação a José de Alencar"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 1,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 108.0,
+        "enredo": "São Cristóvão, Bairro Imperial"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 69.0,
+        "enredo": "Vida e História de Vitor Meirelles de Lima"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 66.0,
+        "enredo": "Revolução dos Alfaiates"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

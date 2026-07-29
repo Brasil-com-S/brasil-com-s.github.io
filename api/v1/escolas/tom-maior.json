@@ -4,11 +4,9 @@
     "id": "tom-maior",
     "slug": "tom-maior",
     "nome": "Tom Maior",
-    "nome_completo": "Grêmio Recreativo Escola de Samba Tom Maior",
+    "nome_completo": "O Grêmio Recreativo Escola de Samba Tom Maior",
     "fundacao": "1973-02-14",
-    "fundadores": [
-      "Mestre Hélio"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Sumaré",
@@ -19,25 +17,700 @@
       "Branco"
     ],
     "cores_hex": [
-      "#D32F2F",
-      "#FFEB3B",
+      "#FF0000",
+      "#FFFF00",
       "#FFFFFF"
     ],
-    "simbolo": "Batuta e Clave de Sol",
+    "simbolo": "Pauta Musical envolvida por uma Rosa dos Ventos, estilizando os 4 cantos da cidade cantando em Tom Maior",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/tom-maior.png",
     "logo_original_url": "assets/logos/original/tom-maior.png",
-    "logo_gemini_png_url": "assets/logos/gemini/tom-maior.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/tom-maior.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Eu Sou o Pão da Vida",
         "compositores": "Flávio Campello (Carnavalesco)",
         "interpretacao": "Gilsinho"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Chico Xavier — Nas entrelinhas da alma, as raízes do céu em Uberaba",
+        "compositores": "Maradona, Didi Pinheiro, Darlan Alves, Celsinho Mody, PH e Felipe Karanova",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Uma nova Angola se abre para o mundo! Em nome da paz, Martinho da Vila canta a liberdade!",
+        "compositores": "Maradona, Claudinei, Amós, Ferracini, Ricardo e Tinga",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Aysú – Uma História de Amor",
+        "compositores": "Gui Cruz, TURKO, Portuga, Rafa Do Cavaco, Imperial, Fábio Souza, Anderson, William Tadeu e Vitor Gabriel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Um culto às mães pretas ancestrais",
+        "compositores": "Gui Cruz, Turko, Portuga, Rafa do Cavaco, Vitor Gabriel, Fabio Souza, Imperial, Junior Fionda, Willian Tadeu e Anderson",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "O Pequeno Príncipe no Sertão",
+        "compositores": "Jairo Roizen, Morganti, Sukata, Valêncio, Nelson Valentim, Tubino, Jadson Fraga, Luan, Alexandre Gordão, Beto Savanna, Claudinho, Meiners e Victor Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "É coisa de preto",
+        "compositores": "Gui Cruz, Rafael Falanga, Vitor Gabriel, Portuga, Imperial, Elias Aracati, Luciano Rosa, Reinaldo Marques, Marçal e Willian Tadeu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Penso... logo existo – As interrogações do nosso imaginário em busca do inimaginável",
+        "compositores": "Marcos Vinicius, Carlos Babu, Lucas Donato, Wellington Nascimento, Claudinei Pinheiro, Gabriel Santos, Fabiano Ambrósio, Carlos Santos, Paulo Miranda",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "O Brasil de duas Imperatrizes: De Viena para o novo mundo, Carolina Josefa Leopoldina; De Ramos, Imperatriz Leopoldinense",
+        "compositores": "Turko, Maradona, Celsinho Mody, Rafa do Cavaco, Ricardo Mandú e Léo Reis",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Elba Ramalho canta em oração o folclore do Nordeste. Toque sanfoneiro: forró, frevo e xaxado...",
+        "compositores": "Maradona, Turko, Ricardo Neto, Paulinho Miranda, Rafa do Cavaco, Celsinho Mody e Léo Reis",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Travessias de Milton Nascimento . Todo artista tem de ir aonde o povo está...",
+        "compositores": "Maradona, Turko, Paulinho Miranda, Ricardo Neto, Celsinho Mody e Léo Reis",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Adrenalina",
+        "compositores": "André Ricardo, Biel, Carlos Dorea, Marquinhos, Douglas Chocolate, Xande Wenner, Rafa do Cavaco, Imperial, Tião, Lucas Donato, Gabriel Sorriso e Rafael Santos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Foz do Iguaçu : Destino do mundo, sinfonia das águas em Tom Maior.",
+        "compositores": "Maradona, Turko, Rafa do Cavaco, Celsinho Mody, Ricardo Neto e Igor Leal",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Parque dos desejos - O seu passaporte para o prazer!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Paz na terra, aos homens de boa vontade",
+        "compositores": "Darlan Alves, Carlos Dorea, Vinicius Faria, Pedro Barnabé, André Nascimento, Bruno Tomageski, Tonn Queiroz, Marquinhos Godin e Emerson Bernardes",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Salve Salve São Bernardo, pedaço do meu Brasil, terra mãe dos paulistas",
+        "compositores": "Chiquinho LS, César Ramos, Dico Tom 30, Ricardo e J. Osasco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Brasilia, Do Sonho à Realidade... Uma Homenagem de São Paulo aos 50 Anos da Capital Coração do Brasil",
+        "compositores": "Maradona, Amós TK, Claudinei, Ricardo, Luis Tinga, Darlan, Vinicius, Bruno Tomageski e Vinicius Cruz",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Uma nova Angola se abre para o Mundo! Em nome da paz, Martinho da Vila canta a liberdade!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Glória Paulistana - São Paulo na vanguarda da economia brasileira",
+        "compositores": "Maradona, Claudinei, Amós, Tinga, Ricardo Ailton",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Com licença, eu vou à luta!",
+        "compositores": "Maradona, Didi, Turko e Diego Poesia",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Em grandes sertões veredas, o elo perdido se achou... Piauí a terra do sol me encanto u, com Frank Aguiar o rei do forró eu vou",
+        "compositores": "Bola, Oberdan, Bará, Césinha e Wellington",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Sabendo Usar... Não Vai Faltar!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Deus Ajuda Quem Cedo Madruga Nesta Cidade que Nunca Para",
+        "compositores": "Darlan Alves, Bará, Fabinho, Marcelo Pires, Xandinho e Pena",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Uma História Sem Fim... Pois o Mundo Não Se Acabou",
+        "compositores": "Darlan Alves, Bará, Fabinho LS e Oberdan",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Automóvel \"A Máquina do Tempo\"",
+        "compositores": "Darlan Alves, Maradona, Turko, Didi, Armênio Poesia, Diego Poesia e Kadu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Quem Teve um Rei Jamais Perde a Majestade - Santos",
+        "compositores": "Armênio Poesia, Diego Poesia, Freddy Vianna e Kadu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Brasil... Amor à Primeira Vista",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Nosso Jardim de Cada Dia",
+        "compositores": "Ideval e Pindaia",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Sem Medo Serei Feliz",
+        "compositores": "Darlan Alves, Oberdan, Bará, Mingau, Biriba e Cris Vianna",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "O Céu é o Limite no Caminho das Estrelas",
+        "compositores": "Ideval Anselmo, Carlinhos e Gafanhoto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "A Vida Por um Fio",
+        "compositores": "Ideval Anselmo, Washington e Gafanhoto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Made in China - o Papel do Papel",
+        "compositores": "Ideval Anselmo, Walmir, Washington, Carlinhos e Marcelo Viohl",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Trânsito... Sinal de Alerta",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Meio-dia, Barriga Vazia",
+        "compositores": "Maradona, Oberdan, Bará, Cajú, Andó e Paulinho Senna",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Caixinha de Surpresas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Luz, a Sedução do Olhar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Magia da Vila - Ruas de Vila Madalena",
+        "compositores": "Grupo Folha Seca",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Em Busca da Fonte da Juventude",
+        "compositores": "Carlinhos, Quinzinho, Douglinhas, Juquinha e Silvinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "Balança Brasil - O Ágio da CAchaça",
+        "compositores": "Zelão, Carlinhos, Walmir e Carica",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "De Sambista e de Louco Todo Mundo Tem um Pouco",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Esta Noite Sonhamos",
+        "compositores": "Black e Celso",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Abram Alas à Chiquinha Gonzaga",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "A Festa do Tropeiro em Sorocaba",
+        "compositores": "Black, Nelson Dalla Rosa e Pery",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Salve o Rei do Carnaval da Bahia",
+        "compositores": "Ideval e Talismã",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Titulares do Ritmo - 30 Anos de União",
+        "compositores": "Claudinho Cajú e Lídio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "No País do Carnaval, um Carnaval de Fantasias",
+        "compositores": "Claudinho Cajú e Lídio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Brasil, Sua Moda, Seu Costume em Quatro Séculos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "A Lavagem do Bonfim - a Maior Festa Baiana",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Um Dia na Praça",
+        "compositores": "Fernando da Cuíca e Álvaro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Cordões e Gafieiras (homenagem a Pato N'Água",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "A Feira",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Pirulito que bate-bate na cabeça de um sonhador",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "Sonho de Um Poeta - Chão de Estrelas",
+        "compositores": "Ideval, Zelão e Miro",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 269.4,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": null,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": null,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.8,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 267.7,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 159.3,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 267.75,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 259.5,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 349.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 89.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 294.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 289.25,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 279.5,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 199.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": 198.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo de Acesso",
+        "posicao": 5,
+        "pontos": 290.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo de Acesso",
+        "posicao": 5,
+        "pontos": 290.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 190.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 289.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 287.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 273.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 99.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 99.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": 90.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 190.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": 92.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 96.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 91.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 3",
+        "posicao": 5,
+        "pontos": 82.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 3",
+        "posicao": 6,
+        "pontos": 160.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 3",
+        "posicao": 4,
+        "pontos": 166.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 86.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 2",
+        "posicao": 9,
+        "pontos": 63.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 78.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 69.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": 72.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 11,
+        "pontos": 42.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 61.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 86.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 52.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 3",
+        "posicao": 2,
+        "pontos": 46.0,
+        "resultado": "2º Lugar"
+      }
+    ]
   }
 }

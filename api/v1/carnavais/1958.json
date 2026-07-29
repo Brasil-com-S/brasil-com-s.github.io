@@ -1,0 +1,74 @@
+{
+  "ano": 1958,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Campeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 70.0,
+        "enredo": "Apoteose do Samba"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 51.0,
+        "enredo": "Homenagem às Forças Armadas"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 47.0,
+        "enredo": "Riquezas do Brasil"
+      }
+    ],
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 106.5,
+        "enredo": "Vultos e Efemérides do Brasil"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 106.0,
+        "enredo": "Exaltação à Bárbara Heliodora"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 102.5,
+        "enredo": "Poema Inolvidável ou Canção do Exílio"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 99.0,
+        "enredo": "Um Século e Meio de Progresso a Serviço do Brasil - Homenagem ao Corpo de Fuzileiros Navais"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 80.5,
+        "enredo": "Tomada de Monte Castelo ou Exaltação às Forças Armadas"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 80.0,
+        "enredo": "Proclamação da República"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

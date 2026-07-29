@@ -1,37 +1,301 @@
 {
   "ano": 2024,
-  "campea_rj": "Unidos do Viradouro",
-  "campea_sp": "Mocidade Alegre",
-  "resultados": [
-    {
-      "escola": "Unidos do Viradouro",
-      "estado": "RJ",
-      "posicao": 1,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "viradouro",
+      "escola_nome": "Unidos do Viradouro",
       "pontos": 270.0
     },
-    {
-      "escola": "Imperatriz Leopoldinense",
-      "estado": "RJ",
-      "posicao": 2,
-      "pontos": 269.8
-    },
-    {
-      "escola": "Acadêmicos do Grande Rio",
-      "estado": "RJ",
-      "posicao": 3,
-      "pontos": 269.3
-    },
-    {
-      "escola": "Mocidade Alegre",
-      "estado": "SP",
-      "posicao": 1,
-      "pontos": 270.0
-    },
-    {
-      "escola": "Dragões da Real",
-      "estado": "SP",
-      "posicao": 2,
-      "pontos": 269.9
+    "SP": {
+      "escola_slug": "mocidade-alegre",
+      "escola_nome": "Mocidade Alegre",
+      "pontos": null
     }
-  ]
+  },
+  "grupos": {
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 270.0,
+        "enredo": "Arroboboi, Dangbé"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 269.3,
+        "enredo": "Com a Sorte Virada Pra Lua, Segundo o Testamento da Cigana Esmeralda"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 269.2,
+        "enredo": "Nosso Destino É Ser Onça"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 269.0,
+        "enredo": "Hutukara"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 268.9,
+        "enredo": "Um Defeito de Cor"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 268.8,
+        "enredo": "Gbalá - Viagem ao Templo da Criação"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 268.8,
+        "enredo": "A Negra Voz do Amanhã"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 268.5,
+        "enredo": "Um Delírio de Carnaval na Maceió de Rás Gonguila"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 268.3,
+        "enredo": "Glória ao Almirante Negro !"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 267.2,
+        "enredo": "Pede Caju Que Dou... Pé de Caju Que Dá!"
+      }
+    ],
+    "RJ - Série Ouro": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 270.0,
+        "enredo": "O Redentor do Sertão"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 269.8,
+        "enredo": "Ilú-Ọba Ọ̀yọ́ : A Gira dos Ancestrais"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 269.6,
+        "enredo": "Chão de Devoção: Orgulho Ancestral"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-de-marica",
+        "escola_nome": "União de Maricá",
+        "pontos": 269.5,
+        "enredo": "O Esperançar do Poeta"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 269.4,
+        "enredo": "Que Grande Destino Reservaram pra Você"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 269.4,
+        "enredo": "Debret Pintou, Camelô Gritou: \"Compre 2, Leve 3!\". Tudo Para Agradar o Freguês"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 269.3,
+        "enredo": "Doum e Amora - Crianças Para Transformar o Mundo"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-de-niteroi",
+        "escola_nome": "Acadêmicos de Niterói",
+        "pontos": 269.2,
+        "enredo": "Catopês - Um Céu de Fitas"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 269.0,
+        "enredo": "Maracanaú - Bem-Vindos ao Maior São João do Planeta"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 269.0,
+        "enredo": "Jorge da Capadócia"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": null,
+        "enredo": "Brasiléia Desvairada: a busca de Mário de Andrade por um país"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": null,
+        "enredo": "África - Uma constelação de reis e rainhas"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": null,
+        "enredo": "Uma Joia da Bahia - Símbolo de Preservação! Entre Contos e Tambores, Viva a Mata de São João!"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": null,
+        "enredo": "Vou Te Levar Pro Infinito"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": null,
+        "enredo": "Do Nosso Solo Para o Mundo: o Campo Que Preserva, o Campo Que Produz, o Campo Que Alimenta"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": null,
+        "enredo": "Fafá - A Cabocla Mística em Rituais da Floresta"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Ifá"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": null,
+        "enredo": "Capítulo 4, Versículo 3 – Da Rua e do Povo, o Hip Hop: Um Manifesto Paulistano"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": null,
+        "enredo": "Nós Nascemos e Crescemos no Meio de Gente Bamba. Por isso, que Somos a Faculdade do Samba. 50 Anos de Barroca Zona Sul"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Águia de Ouro nas Ondas do Rádio"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": null,
+        "enredo": "Ibira 70"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": null,
+        "enredo": "Andela - O Imperador nas Terras do Rei"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "Aysú – Uma História de Amor"
+      }
+    ],
+    "SP - Grupo de Acesso 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": null,
+        "enredo": "Vovó Cici Conta e o Grajaú Canta: O Mito da Criação"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Os Encantos da Raiz do Mandacaru"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "Cirandando a Vida pra Lá e pra Cá. Sou Lia, Sou Nenê, Sou de Itamaracá"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Pérola no Encanto dos Balaios das Quebradeiras"
+      }
+    ],
+    "SP - Grupo de Acesso 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Nordestino sim, Nordestinado jamais!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": null,
+        "enredo": "Da Cultura do Reino de Ifê ao Legado da Rainha Ronke"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
 }

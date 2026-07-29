@@ -4,10 +4,10 @@
     "id": "dragoes-da-real",
     "slug": "dragoes-da-real",
     "nome": "Dragões da Real",
-    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Dragões da Real",
+    "nome_completo": "O Grêmio Recreativo Cultural Escola de Samba Dragões da Real",
     "fundacao": "2000-03-17",
     "fundadores": [
-      "Torcida Dragões da Real"
+      "membros da torcida organizada do São Paulo Futebol Clube"
     ],
     "estado": "SP",
     "cidade": "São Paulo",
@@ -19,25 +19,349 @@
       "Preto"
     ],
     "cores_hex": [
-      "#D32F2F",
+      "#FF0000",
       "#FFFFFF",
       "#000000"
     ],
-    "simbolo": "Dragão Alado",
+    "simbolo": "Dragão",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/dragoes-da-real.png",
     "logo_original_url": "assets/logos/original/dragoes-da-real.png",
-    "logo_gemini_png_url": "assets/logos/gemini/dragoes-da-real.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/dragoes-da-real.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Sob as Bênçãos de Xangô, a Coroação do Príncipe Reinaldo",
         "compositores": "Jorge Marcos Freitas (Carnavalesco)",
         "interpretacao": "Renê Sobral"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Guerreiras Icamiabas - Uma lendária história de força e resistência",
+        "compositores": "Renne Campos, Márcio Bijú e Alemão do Pandeiro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "A vida é um sonho pintado em aquarela!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "África - Uma constelação de reis e rainhas",
+        "compositores": "Igor Federal, Vaguinho, Mike Candido, Afonsinho BV, Luizinho Ramos, Helber Medeiros, Thiago SP, Renne Campos, Rodrigo Atração, Darlan Alves, Jairo Cruz, Marcelo Adnet e Tigrão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Paraíso Paraibano - João Pessoa, A Porta do Sol das Américas",
+        "compositores": "Thiago SP, Renne Campos, Léo do Cavaco, Marcelo Adnet, Darlan Alves, Rodrigo Atração, Jairo Cruz, André Carvalho, Paulo Senna e Tigrão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Adoniran",
+        "compositores": "Thiago SP, Léo do Cavaco, Renne Campos, Marcelo Adnet, Darlan Alves, Rodrigo Atração, Alemão do Pandeiro, Wanderley Monteiro, Paulo Senna, André Carvalho e Tigrão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "A Revolução do Riso: A arte de subverter o mundo pelo divino poder da alegria",
+        "compositores": "Aquiles da Vila, Rapha Sp, Marcus Boldrini, Leandro Flecha, Ítalo Pires e Salgado Luz",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "A invenção do Tempo - Uma Odisseia em 65 minutos",
+        "compositores": "Armênio Poesia, Xandinho Nocera, Léo do Cavaco, Galo, Ronaldo Maransaldi, Renne Campos, Paulo Senna, Alemão do Pandeiro, Fábio Brazza, CG e Wagner Rodrigues",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Minha música, Minha raiz! Abram a porteira para essa gente caipira e feliz!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Desfile das Campeãs de 2017",
+        "compositores": "Thiago SP, Turko, Leo, R. Malva, Rodrigo Atração, Renne Campos, Alemão da Ilha, Paulinho Miranda e Tigrão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Surpresa ! Adivinha o que eu trouxe pra você?",
+        "compositores": "Armênio Poesia, Derico, Maurinho da Mazzei, Tuca Maia, Wagner Rodrigues e Xandinho Nocera",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Acredite se puder!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Um museu de grandes novidades",
+        "compositores": "Armênio Poesia, Dico, Wagner Rodrigues, Derico, Maurinho da Mazzei e Xandinho Nocera",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Dragão , guardião real, mostra seu poder e soberania na corte do Carnaval!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Mães, ventre da vida essência do amor",
+        "compositores": "Dico Baloeiro, Eduardo Leão, Ricardo \"Rigolon\", Rico e Wagner Rodrigues",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "A Felicidade se conta em contos!",
+        "compositores": "Dom Marcos, Xina, Beto Goés, Ronny, Raphael, Cesinha, Helinho PDF e Luciano Capadócia",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Renovação... Assim Caminha a Humanidade",
+        "compositores": "Helinho PDF, Luciano Capadócia, Cesinha Santos, Dom Marcos, Ronny, Betto Goís, Raphael e Xina",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Bem-vindos a Idade Mídia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Fé, Ciência e Compromisso Social: a Dragões se veste de luz neste Carnaval",
+        "compositores": "Fabio Bonfim, Tico, Daniel Collête, Beto Zona Sul e Silvio Negão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Aportei nesta avenida em busca do nosso seguro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "O Homem Há de Voar - Um Sonho Que Virou Realidade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "O Misterioso mundo marinho com suas lendas, Encantos e Riquezas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "São Paulo Cosmopolita – A Cidade do Mundo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "O Brilho de Todas as Estrelas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Uni-Dune-Tê Um Sorvete Colorê",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Circo Criança, Uma Grande Esperança",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.6,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 269.6,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.1,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 268.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 159.3,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 269.25,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 268.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 350.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo de Acesso",
+        "posicao": 5,
+        "pontos": 87.25,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo de Acesso",
+        "posicao": 5,
+        "pontos": 288.25,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo de Acesso",
+        "posicao": 5,
+        "pontos": 285.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 297.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 197.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo 3 - Oeste",
+        "posicao": 1,
+        "pontos": 99.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo 3 Oeste",
+        "posicao": 5,
+        "pontos": 97.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo de Espera",
+        "posicao": 1,
+        "pontos": 100.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

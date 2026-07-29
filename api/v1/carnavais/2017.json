@@ -1,0 +1,298 @@
+{
+  "ano": 2017,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "mocidade-independente",
+      "escola_nome": "Mocidade Independente de Padre Miguel",
+      "pontos": 269.8
+    },
+    "SP": {
+      "escola_slug": "academicos-do-tatuape",
+      "escola_nome": "Acadêmicos do Tatuapé",
+      "pontos": null
+    }
+  },
+  "grupos": {
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 269.8,
+        "enredo": "As Mil e Uma Noites de Uma Mocidade Pra Lá de Marrakesh"
+      },
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 269.9,
+        "enredo": "Quem Nunca Sentiu o Corpo Arrepiar ao Ver Esse Rio Passar..."
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 269.7,
+        "enredo": "A Divina Comédia do Carnaval"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 269.6,
+        "enredo": "Só Com a Ajuda do Santo"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 269.4,
+        "enredo": "Ivete do Rio ao Rio"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 269.2,
+        "enredo": "A Virgem dos Lábios de Mel - Iracema"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 268.5,
+        "enredo": "Xingu , o Clamor Que Vem da Floresta"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 267.8,
+        "enredo": "Nzara Ndembu - Glória ao Senhor Tempo"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 267.4,
+        "enredo": "Onisuáquimalipanse"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 267.4,
+        "enredo": "O Som da Cor"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 264.6,
+        "enredo": "Carnavaleidoscópio Tropifágico"
+      }
+    ],
+    "RJ - Série A": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 269.8,
+        "enredo": "Meu Quintal É Maior do que o Mundo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 269.3,
+        "enredo": "E Todo Menino É Um Rei..."
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 269.1,
+        "enredo": "É! O Moleque Desceu o São Carlos , Pegou um Sonho e Partiu com a Estácio!"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 268.9,
+        "enredo": "Ossaim: O Poder da Cura"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 265.2,
+        "enredo": "Os Vilões - O Verso do Inverso"
+      }
+    ],
+    "RJ - Série B": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 269.1,
+        "enredo": "Onde Há Fumaça, Há Fogo!"
+      }
+    ],
+    "RJ - Série C": [
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 269.2,
+        "enredo": "Contos do Vigário - Nasce um Trouxa a Cada Minuto"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "uniao-de-marica",
+        "escola_nome": "União de Maricá",
+        "pontos": 268.5,
+        "enredo": "Mistérios da Meia-Noite"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": null,
+        "enredo": "Da riqueza das águas à multiplicação do amor. A maravilha da pesca"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": null,
+        "enredo": "Mãe África conta a sua história: do berço sagrado da humanidade à abençoada terra do grande Zimbábwe"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": null,
+        "enredo": "Desfile das Campeãs de 2017"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": null,
+        "enredo": "No Xirê do Anhembi, a Oxum mais bonita surgiu... Menininha , mãe da Bahia - Ialorixá do Brasil"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": null,
+        "enredo": "Paz. O Império da Nova Era"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": null,
+        "enredo": "Convivium. Sente-se à mesa e saboreie"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": null,
+        "enredo": "A vitória vem da luta, a luta vem da força, e a força, da união"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Eu sou a Arte: Meu palco é a rua"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": null,
+        "enredo": "Com as mãos e a garra de um povo sonhador, surge o contraste de uma nova metrópole - Sampa, lugar de sonhos, oportunidades e esperança"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": null,
+        "enredo": "Zé do Brasil, um nome e muitas histórias"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": null,
+        "enredo": "A Peruche no maior axé exalta Salvador , cidade da Bahia , caldeirão de raças, cultura, fé e alegria"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "Elba Ramalho canta em oração o folclore do Nordeste. Toque sanfoneiro: forró, frevo e xaxado..."
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Amor com amor se paga. Uma história animal !"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "\" Coré Etuba . A ópera de todos os povos, terra de todas as gentes, Curitiba de todos os sonhos.\""
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Vim, vi e venci! A Saga Artística de um Semideus"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Luz, câmera, ação... a Colorado apresenta: a 'Roliúde' no Sertão"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": null,
+        "enredo": "A Revolta da Chibata. Sonho, Coragem e Bravura. Minha história: João Cândido , Um Sonho de Liberdade"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Pérola Negra levanta as mangas e põe a mão na massa"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": null,
+        "enredo": "Para bom entendedor um pingo é letra e o símbolo uma palavra"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

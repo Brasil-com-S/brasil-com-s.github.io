@@ -1,0 +1,286 @@
+{
+  "ano": 2005,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "beija-flor",
+      "escola_nome": "Beija-Flor de Nilópolis",
+      "pontos": 399.4
+    },
+    "SP": {
+      "escola_slug": "imperio-de-casa-verde",
+      "escola_nome": "Império de Casa Verde",
+      "pontos": 298.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 2,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 178.9,
+        "enredo": "Das Veredas dos Trilhos a Um Sonho de Fé... A Ilha Traz a Conquista do Pináculo, Corcovado Tentação!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 178.4,
+        "enredo": "Velha É a Vovozinha: a São Clemente Enrugadinha e Gostosinha"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 174.8,
+        "enredo": "Cravo de Ouro, Eu Também Sou da Lira e Não Quero Negar"
+      }
+    ],
+    "RJ - Grupo B": [
+      {
+        "posicao": 1,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 179.9,
+        "enredo": "Arte Negra na Legendária Bahia"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 177.8,
+        "enredo": "O Ouro do Lixo - De Onde Vai, para Onde Vem, Reciclando com o Pé no Futuro"
+      }
+    ],
+    "RJ - Grupo D": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 178.8,
+        "enredo": "Abram Alas que Eu Quero Passar. Sou Carnaval Carioca, Sou Unidos de Padre Miguel"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 177.6,
+        "enredo": "Respeitável Público, o Circo Chegou"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 399.4,
+        "enredo": "O Vento Corta as Terras dos Pampas. Em Nome do Pai, do Filho e do Espírito Guarani, Sete Povos na Fé e na Dor... Sete Missões de Amor"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 398.6,
+        "enredo": "Alimentar o Corpo e a Alma Faz Bem!"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 398.5,
+        "enredo": "Uma Delirante Confusão Fabulística"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 397.9,
+        "enredo": "Do Fogo que Ilumina a Vida, Salgueiro É Chama que Não se Apaga"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 393.8,
+        "enredo": "Mangueira Energiza a Avenida. O Carnaval É Pura Energia e a Energia É o Nosso Desafio"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 393.4,
+        "enredo": "A Viradouro É Só Sorriso!"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 388.7,
+        "enredo": "Buon Mangiare, Mocidade! A Arte Está na Mesa"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 386.8,
+        "enredo": "Singrando em Mares Bravios... E Construindo o Futuro"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 384.3,
+        "enredo": "Um Grito que Ecoa no Ar. Homem/Natureza - O Perfeito Equilíbrio"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 383.9,
+        "enredo": "Nós Podemos: Oito Idéias para Mudar o Mundo!"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 2,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 297.0,
+        "enredo": "O Misterioso mundo marinho com suas lendas, Encantos e Riquezas"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 293.5,
+        "enredo": "Xavante! Guerreiro Gigante"
+      }
+    ],
+    "SP - Grupo 3 Oeste": [
+      {
+        "posicao": 10,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 177.0,
+        "enredo": "Ó Pátria Amada, Idolatrada, SOS..."
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 298.0,
+        "enredo": "Brasil: Se Deus é por nós, quem será contra nós?"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 296.5,
+        "enredo": "Nascidos Para Cantar e Também, Sambar"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 296.0,
+        "enredo": "Clara, Claridade... O Canto de Luz no Ylê da Mocidade"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 296.0,
+        "enredo": "Eu Também Sou Imortal"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 295.0,
+        "enredo": "Samba, Sombra e Água Fresca - Cantareira, o Pulmão Verde de São Paulo"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 292.5,
+        "enredo": "Mar de Rosas"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 291.0,
+        "enredo": "Um Voo da Águia Entre Dois Mundos"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 290.0,
+        "enredo": "O Pão Nosso de Cada Dia Nos Dai Hoje"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 289.5,
+        "enredo": "Alô, Disque Camisa"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 286.0,
+        "enredo": "Da pré-história aos transgênicos: Mato Grosso. Uma Mancha Verde no coração do Brasil"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 286.0,
+        "enredo": "Pará, a Heróica História de Nossa História, Berço Cultural de Nosso Povo"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 279.5,
+        "enredo": "Sabendo Usar... Não Vai Faltar!"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 272.5,
+        "enredo": "Participei da Criação, Colaborei Para o Progresso, às Vezes Me Utilizam Para Destruição, Quando Me Uno a Outra, Selo a Paz e a União! Mãos!"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 298.5,
+        "enredo": "Renasce, Sacode a Poeira e dá a Volta por Cima"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 294.0,
+        "enredo": "Na Terra, no Mar, no Infinito, Somos Todos Irmãos"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 291.5,
+        "enredo": "Diamantina, Berço da Mineração"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

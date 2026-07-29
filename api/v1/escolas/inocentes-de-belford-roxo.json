@@ -5,32 +5,406 @@
     "slug": "inocentes-de-belford-roxo",
     "nome": "Inocentes de Belford Roxo",
     "nome_completo": "Grêmio Recreativo Escola de Samba Inocentes de Belford Roxo",
-    "fundacao": "1993-12-12",
-    "fundadores": [
-      "Reginaldo Gomes"
-    ],
+    "fundacao": "1993-07-11",
+    "fundadores": [],
     "estado": "RJ",
     "cidade": "Belford Roxo",
-    "bairro": "São Vicente",
+    "bairro": "Parque São Vicente",
     "grupo": "Acesso",
     "cores": [
       "Azul",
-      "Vermelho",
-      "Branco"
+      "Branco",
+      "Vermelho"
     ],
     "cores_hex": [
-      "#0288D1",
-      "#D32F2F",
-      "#FFFFFF"
+      "#0000FF",
+      "#FFFFFF",
+      "#FF0000"
     ],
-    "simbolo": "Pomba da Paz",
+    "simbolo": "Pomba branca e dois corações",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/inocentes-de-belford-roxo.png",
     "logo_original_url": "assets/logos/original/inocentes-de-belford-roxo.png",
-    "logo_gemini_png_url": "assets/logos/gemini/inocentes-de-belford-roxo.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/inocentes-de-belford-roxo.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "O Sonho de um tal Pagode Russo nos Frevos do Meu Pernambuco",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Ewe, a Cura Vem da Floresta",
+        "compositores": "Claudio Russo, Nino do Milênio, Carlinhos do Cavaco e Tem Tem Júnior",
+        "interpretacao": "Daniel Silva e Thiago Brito"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Debret Pintou, Camelô Gritou: \"Compre 2, Leve 3!\". Tudo Para Agradar o Freguês",
+        "compositores": "",
+        "interpretacao": "Thiago Brito"
+      },
+      {
+        "ano": 2023,
+        "titulo": "Mulheres de Barro",
+        "compositores": "Cláudio Russo, Junior Fionda, Fadico, Lequinho, Hugo Bruno, Leandro Thomaz e Altamiro",
+        "interpretacao": "Thiago Brito"
+      },
+      {
+        "ano": 2022,
+        "titulo": "A Meia-Noite dos Tambores Silenciosos",
+        "compositores": "",
+        "interpretacao": "Pixulé e Tem Tem Sampaio"
+      },
+      {
+        "ano": 2021,
+        "titulo": "A meia-noite dos tambores silenciosos",
+        "compositores": "",
+        "interpretacao": "Pixulé e Tem Tem Sampaio"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Marta do Brasil - Chorar no Começo Para Sorrir no Fim",
+        "compositores": "Claudio Russo, Andre Diniz e Altamiro",
+        "interpretacao": "Pixulé e Tem Tem Sampaio"
+      },
+      {
+        "ano": 2019,
+        "titulo": "O Frasco do Bandoleiro (Baseado Num Causo Com a Boca na Botija)",
+        "compositores": "Cláudio Russo e André Diniz",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Mojú, Magé , Mojubá - Sinfonias e Batuques",
+        "compositores": "Claudio Russo e Andre Diniz",
+        "interpretacao": "Ricardinho Guimarães e Anderson Paz"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Os Vilões - O Verso do Inverso",
+        "compositores": "Samir Trindade, Júnior Trindade, Beto Rocha, Ribeirinho, Gilberto Oliveira, Thiago Alves, Domingos do Peixe, Dilson Marimba, Girão, Elton Babu e Neyzinho do Cavaco",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Cacá Diegues - Retratos de um Brasil em Cena",
+        "compositores": "Tentenzinho, Serginho Castro, Rudá Neto e Marcelo Fernandes",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Nelson Sargento - Samba Inocente, Pé no Chão",
+        "compositores": "André Malheiros, Tico do Gato, Vinicius Ferreira, Juruna Zona Sul, Abilio M&S, Chiquinho do Bar, Altamiro e Sidnei Pinto",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2014,
+        "titulo": "O Triunfo da América - O Canto Lírico de Joaquina Lapinha",
+        "compositores": "Altamiro, Tico do Gato, Vinicius Ferreira, Claudinho, Chiquinho do Bar, Manelão, Abilio Mestre Sala, Paulo, Juruna Zona",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2013,
+        "titulo": "As Sete Confluências do Rio Han - 50 Anos de Imigração da Coreia do Sul no Brasil",
+        "compositores": "Billy Conty, Dominguinhos, Ildo dos Santos, JJ.Santos, Juarez e Marã",
+        "interpretacao": "Wantuir e Thiago Britto"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Corumbá - Ópera Tupi Guaikuru",
+        "compositores": "Cláudio Russo, Zé Glória, Fábio Costa, André Felix, Diego Tavares, Ellen Cristina e Rodrigo Leal",
+        "interpretacao": "Thiago Britto"
+      },
+      {
+        "ano": 2011,
+        "titulo": "De Guarulhos para o Palco da Folia, Sonhos, Irreverência e Alegria. Mamonas para Sempre!",
+        "compositores": "(*) Ver abaixo",
+        "interpretacao": "Celino Dias"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Água para Prover a Vida",
+        "compositores": "Jair PQD, Zé Carlos, Peniche, Gilmar e Estevão",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Do Rio Grande do Sul ao Rio de Janeiro, a Inocentes Canta: Brizola, a Voz do Povo Brasileiro",
+        "compositores": "Billy County, Ediespuma, Abilio Mestre-Sala, Licinho Jr., Marcelinho Santos e Alex Bahia",
+        "interpretacao": "Dominguinhos do Estácio"
+      },
+      {
+        "ano": 2008,
+        "titulo": "Ewe, a Cura Vem da Floresta",
+        "compositores": "Claudio Russo, Carlinhos do Cavaco, Temtemzinho e Nino do Milênio",
+        "interpretacao": "Tem-Tem"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Chatô - A Fanfarra do Homem Mais Sério e Engraçado do Brasil",
+        "compositores": "Douglas, Flavio, Rafael Poesia, Cristiano, Ailton, MC Chumbinho e Jorge Ney",
+        "interpretacao": "Tem-Tem"
+      },
+      {
+        "ano": 2006,
+        "titulo": "A Lenda das Sereias, Rainhas do Mar",
+        "compositores": "Dionel Sampaio, Vicente Matos e Arlindo Veloso",
+        "interpretacao": "Tem-Tem"
+      },
+      {
+        "ano": 2005,
+        "titulo": "O Ouro do Lixo - De Onde Vai, para Onde Vem, Reciclando com o Pé no Futuro",
+        "compositores": "Juninho, Paulinho Pontes, Gilberto Gonçalves e Cassio",
+        "interpretacao": "Tem Tem e Carlinhos da Paz"
+      },
+      {
+        "ano": 2001,
+        "titulo": "Região dos Lagos, a Inocentes É Folia na Terra do Sal e do Sol",
+        "compositores": "Waltinho LP, Dino, Naldo Poeta, PC do Balanço, Tuninho Catuaba e Batista",
+        "interpretacao": "Tem Tem"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Petrópolis, Roxo de Amor por Você",
+        "compositores": "Xande, Luis Carlos, João da Light, Amorim e Abílio",
+        "interpretacao": "Roosevelt Martins Gomes da Cunha (Pixulé)"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Viva a Baixada, Longos Passos do Progresso Rumo ao Terceiro Milênio",
+        "compositores": "João da Light, Bala do Cavaco, Arnaldo Costa, William e Lic",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Candonga, Um Adeus às Baterias",
+        "compositores": "Adir, Xande da Caprichosos, Genival, Manoelzinho Solidão e Zé do Pagode",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Dandara, o Sol da Liberdade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Que Lourinha Gostosa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Grande Otelo, uma vida que se acaba na ribalta - Escola não desfilou",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Alô, Alô, Carnaval, Taí Carmen Miranda",
+        "compositores": "",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Série Ouro",
+        "posicao": 14,
+        "pontos": 267.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Série Ouro",
+        "posicao": 10,
+        "pontos": 267.1,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro",
+        "posicao": 6,
+        "pontos": 269.4,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Série Ouro",
+        "posicao": 3,
+        "pontos": 269.4,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Série Ouro",
+        "posicao": 4,
+        "pontos": 269.4,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Série A",
+        "posicao": 4,
+        "pontos": 268.8,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Série A",
+        "posicao": 9,
+        "pontos": 265.9,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Série A",
+        "posicao": 4,
+        "pontos": 268.2,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Série A",
+        "posicao": 9,
+        "pontos": 265.2,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Série A",
+        "posicao": 9,
+        "pontos": 266.2,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Série A",
+        "posicao": 8,
+        "pontos": 298.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Série A",
+        "posicao": 10,
+        "pontos": 296.2,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 291.1,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo A",
+        "posicao": 1,
+        "pontos": 299.6,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo A",
+        "posicao": 8,
+        "pontos": 297.1,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo A",
+        "posicao": 2,
+        "pontos": 268.7,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo A",
+        "posicao": 9,
+        "pontos": 235.9,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo B",
+        "posicao": 1,
+        "pontos": 239.6,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo B",
+        "posicao": 2,
+        "pontos": 239.7,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo B",
+        "posicao": 3,
+        "pontos": 239.2,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo B",
+        "posicao": 5,
+        "pontos": 177.8,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo A",
+        "posicao": 11,
+        "pontos": 152.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo A",
+        "posicao": 5,
+        "pontos": 194.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo B",
+        "posicao": 2,
+        "pontos": 175.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo C",
+        "posicao": 1,
+        "pontos": 198.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo C",
+        "posicao": 8,
+        "pontos": 180.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo D",
+        "posicao": 2,
+        "pontos": 123.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Desfile de Avaliação",
+        "posicao": 5,
+        "pontos": 113.0,
+        "resultado": "5º Lugar"
+      }
+    ]
   }
 }

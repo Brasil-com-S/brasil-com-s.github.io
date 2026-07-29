@@ -1,0 +1,286 @@
+{
+  "ano": 2008,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "beija-flor",
+      "escola_nome": "Beija-Flor de Nilópolis",
+      "pontos": 399.3
+    },
+    "SP": {
+      "escola_slug": "vai-vai",
+      "escola_nome": "Vai-Vai",
+      "pontos": 90.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 239.8,
+        "enredo": "Taí, Eu Fiz Tudo pra Você Gostar de Mim"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 238.4,
+        "enredo": "É Hoje o Dia!"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 237.7,
+        "enredo": "A História do Futuro"
+      }
+    ],
+    "RJ - Grupo B": [
+      {
+        "posicao": 1,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 239.6,
+        "enredo": "Ewe, a Cura Vem da Floresta"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 239.4,
+        "enredo": "Cartola , Teu Cenário É Uma Beleza"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 239.3,
+        "enredo": "No Reino das Águas de Olocun"
+      }
+    ],
+    "RJ - Grupo C": [
+      {
+        "posicao": 11,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 152.0,
+        "enredo": "Itam - A Saga dos Guerreiros da Terra"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 399.3,
+        "enredo": "Macapaba: Equinócio Solar, Viagens Fantásticas ao Meio do Mundo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 398.0,
+        "enredo": "O Rio de Janeiro Continua Sendo..."
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 396.9,
+        "enredo": "Do Verde de Coarí, Vem Meu Gás, Sapucaí!"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 396.8,
+        "enredo": "Reconstruindo a Natureza, Recriando a Vida: o Sonho Vira Realidade"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 396.5,
+        "enredo": "João e Marias"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 396.0,
+        "enredo": "É de Arrepiar"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 395.1,
+        "enredo": "O Quinto Império: de Portugal ao Brasil, Uma Utopia na História"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 394.6,
+        "enredo": "Trabalhadores do Brasil"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 393.9,
+        "enredo": "100 Anos do Frevo, É de Perder o Sapato. Recife Mandou Me Chamar..."
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 387.5,
+        "enredo": "O Clemente João VI no Rio: A Redescoberta do Brasil..."
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 5,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 291.75,
+        "enredo": "Catopês do milho verde - De escravo à rei da festa"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 199.25,
+        "enredo": "Feijoada, Das Sobras ao Prato Principal"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 90.0,
+        "enredo": "Acorda Brasil! A saída é ter esperança"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 90.0,
+        "enredo": "Bem-vindo a São Paulo. Sabe por que? Porque São Paulo é tudo de bom!!!"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 89.75,
+        "enredo": "Rosaessência - O Eterno aroma"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 89.0,
+        "enredo": "Glória Paulistana - São Paulo na vanguarda da economia brasileira"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 88.75,
+        "enredo": "O Povo da Terra Está Abusando... O Aquecimento Global vem ai - A Vida Boa e Sustentável Pede Passagem"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 88.5,
+        "enredo": "És imortal...Ariano Suassuna, sua vida, sua obra, patrimônio cultural."
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 88.5,
+        "enredo": "Um vôo da águia como nunca se viu! Também somos folclore do nosso Brasil - 110 anos aprendendo com Câmara Cascudo"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 88.25,
+        "enredo": "Sambando, cantando e seguindo a canção. Vem, vamos embora para a festa da MPB"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 87.5,
+        "enredo": "A onça vai beber água. Jaguariúna, desenvolvimento e qualidade de vida nos trilhos do tempo."
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 87.5,
+        "enredo": "Nas asas dos Gaviões, rumo ao portal dos Sertões - Santana de Parnaíba: berço de bandeirantes"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 87.25,
+        "enredo": "Hummm... É tempo de sorvete, do oriente ao ocidente o alimento refrescante e nutritivo"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 87.0,
+        "enredo": "A taça da felicidade, uma viagem pelos sentidos, a delícia do sorvete"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 86.0,
+        "enredo": "Da pré-história ao DNA: A história do cabelo eu vou contar!"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 89.75,
+        "enredo": "Quilombos, Quilombolas, Kizomba, Meu Quilombo é Peruche!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 87.75,
+        "enredo": "Artistas Viajantes num País Romântico"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 87.25,
+        "enredo": "Fé, Ciência e Compromisso Social: a Dragões se veste de luz neste Carnaval"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 86.25,
+        "enredo": "Por Mares Naveguei, Em Águas Claras Eu Cheguei. Tatuapé, de Felicidade, Transbordei!"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

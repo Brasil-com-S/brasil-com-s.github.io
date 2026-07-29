@@ -1,0 +1,60 @@
+{
+  "ano": 1956,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Campeonato": [
+      {
+        "posicao": 2,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 74.0,
+        "enredo": "Três Épocas"
+      }
+    ],
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 102.0,
+        "enredo": "Caçador de Esmeraldas ou Sonho das Esmeraldas"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 96.0,
+        "enredo": "Gigante pela Própria Natureza"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 93.0,
+        "enredo": "Exaltação a Getúlio Vargas - Emancipação Nacional Brasil"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 90.0,
+        "enredo": "Brasil, Fonte das Artes ou A Riqueza das Artes no Brasil"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 56.0,
+        "enredo": "O Circo, a Grande Parada"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 54.0,
+        "enredo": "O Gaúcho"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

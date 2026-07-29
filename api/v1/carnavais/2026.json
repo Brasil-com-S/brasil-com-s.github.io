@@ -1,0 +1,303 @@
+{
+  "ano": 2026,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "viradouro",
+      "escola_nome": "Unidos do Viradouro",
+      "pontos": 270.0
+    },
+    "SP": {
+      "escola_slug": "mocidade-alegre",
+      "escola_nome": "Mocidade Alegre",
+      "pontos": 269.8
+    }
+  },
+  "grupos": {
+    "RJ - Classificação da noite": [
+      {
+        "posicao": 2,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 268.7,
+        "enredo": "Na Tamarineira, é Pagode, é Carioca, é São Clemente"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 270.0,
+        "enredo": "Pra Cima, Ciça!"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 269.9,
+        "enredo": "Bembé"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 269.9,
+        "enredo": "Macumbembê, Samborembá: Sonhei que Um Sambista Sonhou a África!"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 269.7,
+        "enredo": "A Delirante Jornada Carnavalesca da Professora que não Tinha Medo de Bruxa, de Bacalhau e nem do Pirata da Perna-de-pau"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 269.4,
+        "enredo": "Camaleônico"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 269.2,
+        "enredo": "Mestre Sacaca do Encanto Tucuju - O Guardião da Amazônia Negra"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 268.7,
+        "enredo": "A Nação do Mangue"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 268.5,
+        "enredo": "Lonã Ifá Lukumi"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 267.9,
+        "enredo": "O Mistério do Príncipe do Bará - A Oração do Negrinho e a Ressurreição de Sua Coroa Sob o Céu Aberto do Rio Grande"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 267.4,
+        "enredo": "Rita Lee , A Padroeira da Liberdade"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "academicos-de-niteroi",
+        "escola_nome": "Acadêmicos de Niterói",
+        "pontos": 264.6,
+        "enredo": "Do Alto do Mulungu Surge a Esperança: Lula, o Operário do Brasil"
+      }
+    ],
+    "RJ - Série Ouro": [
+      {
+        "posicao": 1,
+        "escola_slug": "uniao-de-marica",
+        "escola_nome": "União de Maricá",
+        "pontos": 269.4,
+        "enredo": "Berenguendéns e Balangandãs"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 269.1,
+        "enredo": "Ponciá Evaristo, Flor do Mulungu"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 269.0,
+        "enredo": "Kunhã-Eté, o Sopro Sagrado da Jurema"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 268.8,
+        "enredo": "Viva o Hoje! O Amanhã? Fica Pra Depois!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 268.6,
+        "enredo": "Tata Tancredo - O Papa Negro no Terreiro do Estácio"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 268.3,
+        "enredo": "Brasil Incógnito - O Que Os Seus Olhos Não Veem, A Minha Imaginação Reinventa"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 268.1,
+        "enredo": "As Coisas que Mamãe me Ensinou"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 267.0,
+        "enredo": "O Sonho de um tal Pagode Russo nos Frevos do Meu Pernambuco"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 269.8,
+        "enredo": "Malunga Léa, Rapsódia de uma Deusa Negra"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 269.7,
+        "enredo": "Vozes Ancestrais para um Novo Amanhã"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 269.6,
+        "enredo": "Guerreiras Icamiabas - Uma lendária história de força e resistência"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 269.5,
+        "enredo": "Plantar para Colher e Alimentar — Tem Muita Terra Sem Gente, Tem Muita Gente Sem Terra!"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 269.4,
+        "enredo": "Oro Mi Maió Oxum"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 269.4,
+        "enredo": "Chico Xavier — Nas entrelinhas da alma, as raízes do céu em Uberaba"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 269.1,
+        "enredo": "Hoje a Poesia vem ao nosso encontro: Paulo César Pinheiro, uma viagem pela vida e obra do poeta das canções"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 269.0,
+        "enredo": "Império dos Balangandãs: Joias negras Afro-Brasileiras"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 268.8,
+        "enredo": "Abre Caminhos"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 268.7,
+        "enredo": "A Bruxa está Solta - Senhoras do Saber Renascem na Colorado"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 268.6,
+        "enredo": "Em cartaz: A saga vencedora de um povo heróico no apogeu da vedete da Paulicéia"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 268.4,
+        "enredo": "Escrito nas Estrelas"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 268.2,
+        "enredo": "Mokum Amsterdã — O voo da Águia à cidade libertária"
+      }
+    ],
+    "SP - Grupo de Acesso 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Anti-Herói Brasil"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Valei-me cangaceira arretada, Maria que abala a gira, valente e bonita que vence demanda"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": null,
+        "enredo": "Pelas mãos do mensageiro do axé, a lição de Odu Obará: a humildade"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "Encruzas - Nenê de corpo e alma no coração de São Paulo"
+      }
+    ],
+    "SP - Grupo de Acesso 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Yvy Marã Ei - A busca pela terra sem mal"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": null,
+        "enredo": "Oi... Esse Peruche Lindo e Trigueiro... Terra de Samba e Pandeiro"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

@@ -4,11 +4,9 @@
     "id": "camisa-verde-e-branco",
     "slug": "camisa-verde-e-branco",
     "nome": "Camisa Verde e Branco",
-    "nome_completo": "Associação Cultural Recreativa Social Escola de Samba Camisa Verde e Branco",
+    "nome_completo": "A Associação Cultural e Social Escola de Samba Mocidade Camisa Verde e Branco",
     "fundacao": "1953-09-04",
-    "fundadores": [
-      "Inocêncio Tobias"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Barra Funda",
@@ -18,10 +16,10 @@
       "Branco"
     ],
     "cores_hex": [
-      "#008000",
-      "#FFFFFF"
+      "#048454",
+      "#FFF"
     ],
-    "simbolo": "Trevo de Quatro Folhas",
+    "simbolo": "Trevo",
     "titulos": 9,
     "anos_titulos": [
       1974,
@@ -30,15 +28,717 @@
       1977,
       1979,
       1989,
+      1990,
       1991,
-      1992,
       1993
     ],
     "logo_url": "assets/logos/original/camisa-verde-e-branco.png",
     "logo_original_url": "assets/logos/original/camisa-verde-e-branco.png",
-    "logo_gemini_png_url": "assets/logos/gemini/camisa-verde-e-branco.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/camisa-verde-e-branco.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Abre Caminhos",
+        "compositores": "Silas Augusto, Claudio Russo, Rafa do cavaco, Turko, Zé Paulo Sierra, Fábio Souza, Luis Jorge, Dr. Elio, Charles Silva e Bruno Giannelli",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "O Tempo Não Para! Cazuza - O Poeta Vive!",
+        "compositores": "Silas Augusto, Claudio Russo, Rafa do Cavaco, Turko, Zé Paulo Sierra, Fábio Souza, Luis Jorge, Dr. Élio e Bruno Giannelli",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Andela - O Imperador nas Terras do Rei",
+        "compositores": "Fabiano Sorriso, Marcos Vinícius, Marcio André, Diogo Corso, Aquiles da Vila, Salgado Luz, Chanel Rigolon, André Cabeça, Tomageski e Biel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Invisíveis",
+        "compositores": "Nikinha, Xuxo do Cavaco, Sandro Simões, Gustavo Santos, Toninho 44, Rodrigo Correia, Diegues, Pablo do Cavaco e Zé Robertto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Rezadeiras: Na Fé do Trevo, Te Benzo! Na Fé do Trevo, Te Curo!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Ajayô: Carlinhos Brown, candombléss, tambores e batuques ancestrais",
+        "compositores": "Turko, Maradona, Zé Paulo Sierra, Rafa do Cavaco, Fabio Souza, Almir Menezes, Bira Moreno, Pedro Carmo, Erasmo Dias, Mário Lúcio e Cunha Bueno",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Orin, Orin - Uma viagem sem fim... Quando os tambores ecoam na floresta, a Barra Funda está em festa",
+        "compositores": "Leonardo Trindade, Marcio Keleque, Thiago de Xangô, Junior Berin, Rafa do Cavaco, Marcos Vinícius, Lucas Donato, Gabriel Sorriso e Biel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "100% Camisa Verde e Branco carnavalizando Mário de Andrade. O berço do samba, o poeta e o herói na Paulicéia Desvairada",
+        "compositores": "Dennis Patolino, Guilherme Garoa e Victor 7",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "A Revolta da Chibata. Sonho, Coragem e Bravura. Minha história: João Cândido , Um Sonho de Liberdade",
+        "compositores": "Carlos Júnior e Didi",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Nas águas sagradas de Oxum , Iemanjá e Oxalá , Camisa Verde dá um banho de alegria",
+        "compositores": "Denny Gomes, Silas Augusto, Chanel, Almir Menezes, Luciano Rosa e Calado",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Eu acredito em previsões, e você?",
+        "compositores": "Marcelo Careca, Mariano Araújo, Moisés Santiago e Nilson Santos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "O Quilombo da Barra Funda está em festa! Camisa Verde e Branco celebra seus 100 anos de histórias, lutas e glórias",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Era uma vez, outra vez!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "É o amor...",
+        "compositores": "Anderson Banana, Rodney Cheto, Fabio Bogalho, Rodrigo CP, Rafinha e Xuxa do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Paulista viva, vista a Camisa. A mais Paulista das avenidas",
+        "compositores": "Ideval Anselmo, Dica, Diego, Fabiano e Sidão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Tô No Jogo, Me Respeite!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Guerreiros! Camisa Verde faz a festa e prega a paz universal",
+        "compositores": "Mumu, Luciano, Xande e Dé",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Da pré-história ao DNA: A história do cabelo eu vou contar!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Das sete curvas de um rio nasce a rua da cultura, religião, comércio e festas populares: 25 de Março, isso é Brasil!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Das Vinhas aos Vinhos - Do Profano ao Sagrado, uma Viagem ao Mundo do Prazer com o Néctar dos Deuses",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Alô, Disque Camisa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "No Reinado da Folia o Povo Quer Ver: Minha História, 50 Anos de Glórias Brindando a São Paulo da Garoa com você",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "A Revolta da Chibata: Luta, Coragem e Bravura! João Cândido um Sonho de Liberdade",
+        "compositores": "Carlos Júnior e Didi",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "4, Vamos Pensar... Isso Vai Dar o Que Falar!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Sertanista e Indigenista Sim, Mas Por Que Não? Orlando Villas Bôas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Mare Liberum, Nas Terras de Ibirapitanga",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Escancarando Corações Verde e Branco, Elymar Mais Popular",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Fotografia: o olho do mundo nas lentes da verde e branco",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Alô Mauês, Taí nosso carnaval",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Loucos da Corte, Muito Além da Inspiração",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Do Palco ao Asfalto, \"O Resumo da Ópera\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Eternamente Jovem",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Talismã",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Banho de Luz Que Me Seduz",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Combustível da Ilusão",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Dos Barões do Café a Sarney , Onde Foi que Errei",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Quem Gasta Tudo Num Dia, No Outro Assovia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Barra Funda Estação Primeira",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Fantasia Sonho Sem Fim",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Ginga Brasil Moreno ou Menino Cor de Canela",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "Os Três Encantos do Rei",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Verde Que Te Quero Verde",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Negros Maravilhosos \"Mutuo Mundo Kitoko\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Amor, Sublime Amor",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Acima de Tudo Mulher",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Almôndegas de Ouro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Semana de Arte Moderna e os Contemporâneos do Futuro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Narainã, a Alvorada dos Passáros",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Atlântida e Suas Chanchadas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Tropicália",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "Uma Certa Nega Fulô",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1973,
+        "titulo": "As quatro Estações do Ano",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "Literatura de Cordel",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "Festa das Flores",
+        "compositores": "",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 268.8,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.7,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo de Acesso",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo de acesso",
+        "posicao": 3,
+        "pontos": 267.7,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo de acesso",
+        "posicao": 4,
+        "pontos": 268.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 156.9,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 267.75,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": 267.25,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": 348.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 86.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 295.75,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 287.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 289.5,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 196.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 197.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 199.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 197.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 198.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 284.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 290.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 296.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 270.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 288.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 282.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 100.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 291.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 266.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 294.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 292.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 281.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 92.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 93.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 197.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 275.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 90.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 97.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 95.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 96.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 84.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 94.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 90.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 88.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 92.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 100.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 95.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Cordões",
+        "posicao": 2,
+        "pontos": 91.0,
+        "resultado": "2º Lugar"
+      }
+    ]
   }
 }

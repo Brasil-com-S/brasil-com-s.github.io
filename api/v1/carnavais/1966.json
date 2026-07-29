@@ -1,0 +1,104 @@
+{
+  "ano": 1966,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 130.0,
+        "enredo": "Memórias de Um Sargento de Milícias"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 129.0,
+        "enredo": "Exaltação a Villa-Lobos"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 126.0,
+        "enredo": "Glória e Graças da Bahia"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 120.0,
+        "enredo": "Três Épocas do Brasil"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 120.0,
+        "enredo": "Os Amores Célebres do Brasil"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 103.0,
+        "enredo": "Exaltação à Academia Brasileira de Letras"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 126.0,
+        "enredo": "Apoteose ao Folclore Brasileiro"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 110.0,
+        "enredo": "Monarquia e Esplendor da História"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": null,
+        "enredo": "Conquista de Araci"
+      },
+      {
+        "posicao": 15,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": null,
+        "enredo": "Sonho de Uma Noite de Carnaval"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 98.0,
+        "enredo": "Fatos que Culminaram com a Independência do Brasil"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": null,
+        "enredo": "A Queda da Monarquia ou Imagens do Brasil"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 65.0,
+        "enredo": "Viagem Pitoresca à História do Brasil"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

@@ -1,0 +1,216 @@
+{
+  "ano": 1988,
+  "campeas_grupo_especial": {
+    "SP": {
+      "escola_slug": "vai-vai",
+      "escola_nome": "Vai-Vai",
+      "pontos": 196.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 224.0,
+        "enredo": "Kizomba, Festa da Raça"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 223.0,
+        "enredo": "100 Anos de Liberdade, Realidade ou Ilusão?"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 222.0,
+        "enredo": "Sou Negro, do Egito à Liberdade"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 219.0,
+        "enredo": "Em Busca do Ouro"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 211.0,
+        "enredo": "Na Lenda Carioca, os Sonhos do Vice-rei"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 210.0,
+        "enredo": "Aquarilha do Brasil"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 208.0,
+        "enredo": "Pára com Isto, Dá Cá o Meu"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 204.0,
+        "enredo": "O Boi Dá Bode"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 197.0,
+        "enredo": "Quem Avisa Amigo É"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 186.0,
+        "enredo": "Conta Outra que Essa Foi Boa"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 6,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 201.0,
+        "enredo": "Filho de Branco É Menino, Filho de Negro É Moleque"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 186.0,
+        "enredo": "Rio que Tem Piranha, Jacaré Nada de Costas"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 176.0,
+        "enredo": "O amigo da Madrugada Contra as Feras Multinacionais"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 84.0,
+        "enredo": "Valongo"
+      }
+    ],
+    "RJ - Grupo 4": [
+      {
+        "posicao": 2,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 208.0,
+        "enredo": "A Contribuição do Negro ao Folclore Brasileiro"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 6,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 185.0,
+        "enredo": "São Saruê"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 108.0,
+        "enredo": "História do Carnaval Através das Marchas"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 96.0,
+        "enredo": "Balança Brasil - O Ágio da CAchaça"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 196.0,
+        "enredo": "Amado Jorge, a História de uma Raça Brasileira"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 193.0,
+        "enredo": "O Cientista Poeta - Paulo Vanzolini"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 192.0,
+        "enredo": "O Poeta Falou Zona Leste Somos Nós"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 190.0,
+        "enredo": "Filhos da Mãe Preta"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 186.0,
+        "enredo": "Carvalho, Madeira de Lei (Paulo Machado de Carvalho)"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 175.0,
+        "enredo": "Nova Mente"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 168.0,
+        "enredo": "No Reino da Fantasia Fui Rei Por Um Dia"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 168.0,
+        "enredo": "Catopes do Milho Verde, de Escravo a Rei da Festa"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 167.0,
+        "enredo": "Menino da Lapa (Sargentelli)"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

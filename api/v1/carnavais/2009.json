@@ -1,0 +1,275 @@
+{
+  "ano": 2009,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "salgueiro",
+      "escola_nome": "Acadêmicos do Salgueiro",
+      "pontos": 399.0
+    },
+    "SP": {
+      "escola_slug": "mocidade-alegre",
+      "escola_nome": "Mocidade Alegre",
+      "pontos": 359.25
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 1,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 239.9,
+        "enredo": "Viajar É Preciso - Viagens Extraordinárias Através de Mundos Conhecidos e Desconhecidos"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 238.5,
+        "enredo": "O Beijo Moleque da São Clemente"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 238.1,
+        "enredo": "Que Chita Bacana"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 236.8,
+        "enredo": "O Cassino da Urca"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 235.9,
+        "enredo": "Do Rio Grande do Sul ao Rio de Janeiro, a Inocentes Canta: Brizola, a Voz do Povo Brasileiro"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 399.0,
+        "enredo": "Tambor"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 398.0,
+        "enredo": "No Chuveiro da Alegria, quem Banha o Corpo Lava a Alma na Folia"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 397.9,
+        "enredo": "E por Falar em Amor , Onde Anda Você?"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 397.6,
+        "enredo": "Neste Palco da Folia, É Minha Vila que Anuncia: Theatro Municipal - A Centenária Maravilha"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 396.9,
+        "enredo": "Voilá , Caxias! Para Sempre Liberté, Egalité, Fraternité. Merci Beaucoup, Brésil! Não Tem de Quê!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 396.8,
+        "enredo": "A Mangueira Traz os Brasis do Brasil Mostrando a Formação do Povo Brasileiro"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 396.4,
+        "enredo": "Imperatriz... Só Quer Mostrar que Faz Samba Também!"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 395.1,
+        "enredo": "Vira-Bahia, Pura Energia"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 391.5,
+        "enredo": "Mocidade Apresenta: Clube Literário Machado de Assis e Guimarães Rosa ... Estrelas em Poesia!"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 390.7,
+        "enredo": "A Lenda das Sereias e os Mistérios do Mar"
+      }
+    ],
+    "RJ - Grupo Rio de Janeiro 2": [
+      {
+        "posicao": 14,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 150.7,
+        "enredo": "Água, Fonte de Vida. Um Grito de Alerta ao Patrimônio da Terra"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 7,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 260.75,
+        "enredo": "1,2,3... Abracadabra! Além da Mágica"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 110.5,
+        "enredo": "De Janeiro a Janeiro, a Colorado faz a festa o ano inteiro."
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 359.25,
+        "enredo": "Da chama da razão ao palco das emoções... Sou máquina, sou vida... Sou coração pulsando forte na avenida"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 358.75,
+        "enredo": "Mens sana et corpore sano – O milênio da superação"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 358.25,
+        "enredo": "Bem-vindos à fábrica dos sonhos"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 358.0,
+        "enredo": "O sonho comanda a vida, quando o homem sonha o mundo avança. A fantástica velocidade da roda para a evolução humana. É pura adrenalina !"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 356.5,
+        "enredo": "É festa, é feriado, é celebração. O Tigre comemora na avenida e exalta seu pavilhão. São 15 anos de paixão!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 355.5,
+        "enredo": "Amazônia ... Conseguimos conquistar com o braço forte... Do esplendor da Havea Brasiliensis à busca pela terra sem males"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 354.75,
+        "enredo": "Ouro Preto - O esplendor barroco de uma Vila Rica, relicário da Pátria, patrimônio da humanidade"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 353.25,
+        "enredo": "Guiado por Surya pelos caminhos da India em busca da Pérola sagrada"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 353.25,
+        "enredo": "Pernambuco: uma nação cultural!"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 349.0,
+        "enredo": "Uma nova Angola se abre para o Mundo! Em nome da paz, Martinho da Vila canta a liberdade!"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 342.0,
+        "enredo": "60 anos – coração guerreiro, a grande refazenda do samba"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 339.0,
+        "enredo": "Do ventre da Terra à indomável cobiça do homem"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 358.5,
+        "enredo": "No Swing da Pompéia, Águia de Ouro Te Convida Pra Dançar"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 350.5,
+        "enredo": "Bem-vindos a Idade Mídia"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 348.0,
+        "enredo": "Guerreiros! Camisa Verde faz a festa e prega a paz universal"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 343.5,
+        "enredo": "Alô São Paulo! Eis a fantástica e fabulosa história desse paraíso do pecado... Um verdadeiro jardim das delícias. A selva de pedra da América Latina que ama Gregos e Troianos... Aqui tudo acontece"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 329.0,
+        "enredo": "Tatuapé Somos Nós!"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

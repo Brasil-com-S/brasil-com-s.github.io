@@ -1,0 +1,16 @@
+{
+  "ano": 1932,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Escolas de samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": null,
+        "enredo": "Sorrindo / Na Floresta / A Floresta"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

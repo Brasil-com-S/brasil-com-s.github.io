@@ -1,0 +1,291 @@
+{
+  "ano": 2018,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "beija-flor",
+      "escola_nome": "Beija-Flor de Nilópolis",
+      "pontos": 269.6
+    },
+    "SP": {
+      "escola_slug": "academicos-do-tatuape",
+      "escola_nome": "Acadêmicos do Tatuapé",
+      "pontos": null
+    }
+  },
+  "grupos": {
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 269.6,
+        "enredo": "Monstro É Aquele que não Sabe Amar. Os Filhos Abandonados da Pátria que os Pariu"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 269.5,
+        "enredo": "Meu Deus, Meu Deus, Está Extinta a Escravidão?"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 269.5,
+        "enredo": "Senhoras do Ventre do Mundo"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 269.4,
+        "enredo": "De Repente de Lá pra Cá e \"Dirrepente\" Daqui pra Lá"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 269.3,
+        "enredo": "Com Dinheiro ou Sem Dinheiro, Eu Brinco!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 269.3,
+        "enredo": "Namastê: a Estrela que Habita em Mim, Saúda a que Existe em Você"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 268.8,
+        "enredo": "Uma Noite Real no Museu Nacional"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 268.1,
+        "enredo": "Corra, Que o Futuro Vem Aí!"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 267.3,
+        "enredo": "Brasil, Bom de Boca"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 266.9,
+        "enredo": "Academicamente Popular"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 266.8,
+        "enredo": "Vai para o Trono ou não Vai?"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 265.6,
+        "enredo": "O Império do Samba na Rota da China !"
+      }
+    ],
+    "RJ - Série A": [
+      {
+        "posicao": 1,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 269.7,
+        "enredo": "Vira a Cabeça, Pira o Coração - Loucos Gênios da Criação"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 269.4,
+        "enredo": "O Eldorado Submerso: Delírio Tupi-Parintintin"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 268.2,
+        "enredo": "Mojú, Magé , Mojubá - Sinfonias e Batuques"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 267.5,
+        "enredo": "No Pregão da Folia, Sou Comerciante da Alegria com a Estácio Boto Banca na Avenida"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 264.3,
+        "enredo": "A Travessia da Calunga Grande e a Nobreza Negra no Brasil"
+      }
+    ],
+    "RJ - Série B": [
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 268.5,
+        "enredo": "Dos Tambores Africanos ao Bandoneón - Tango, Um Sentimento Que Se Dança"
+      }
+    ],
+    "RJ - Série C": [
+      {
+        "posicao": 1,
+        "escola_slug": "uniao-de-marica",
+        "escola_nome": "União de Maricá",
+        "pontos": 269.0,
+        "enredo": "100Sacional! Um Maxixetico e Rebolativo Baile"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": null,
+        "enredo": "Maranhão, os tambores vão ecoar na terra da encantaria"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": null,
+        "enredo": "A voz Marrom que não deixa o samba morrer"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": null,
+        "enredo": "A amizade. A Mancha agradece do fundo do nosso quintal"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "O Brasil de duas Imperatrizes: De Viena para o novo mundo, Carolina Josefa Leopoldina; De Ramos, Imperatriz Leopoldinense"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": null,
+        "enredo": "Minha música, Minha raiz! Abram a porteira para essa gente caipira e feliz!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": null,
+        "enredo": "O povo, a nobreza real"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": null,
+        "enredo": "Guarus – Na aurora da criação, a profecia Tupi…Prosperidade e paz aos mensageiros de Rudá"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": null,
+        "enredo": "Pelas estradas da vida, sonhos e aventuras de um herói brasileiro"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": null,
+        "enredo": "Sambar com fé eu vou"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "A voz do samba é a voz de Deus. Depois da tempestade, vem a bonança!"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": null,
+        "enredo": "Peruche celebra Martinho: 80 anos do Dikamba da Vila"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Mercadores de Sonhos"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Axé! Caminhos que levam à fé"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": null,
+        "enredo": "Carnevale... A Magia da Folia"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "A Epopeia de uma Deusa Africana"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Numa viagem arretada por terras nordestinas, a Joia Rara do Samba embarca no trem do forró rumo ao maior São João do Mundo: Campina Grande"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": null,
+        "enredo": "100% Camisa Verde e Branco carnavalizando Mário de Andrade. O berço do samba, o poeta e o herói na Paulicéia Desvairada"
+      }
+    ],
+    "SP - Grupo de Acesso 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": null,
+        "enredo": "Na força da Coruja. Deixe a lenda te guiar"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

@@ -7,33 +7,733 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Grande Rio",
     "fundacao": "1988-09-22",
     "fundadores": [
-      "Milton Perácio",
-      "Helinho de Oliveira"
+      "Fusão das agremiações GRES Grande Rio e Acadêmicos de Duque de Caxias"
     ],
     "estado": "RJ",
     "cidade": "Duque de Caxias",
-    "bairro": "25 de Agosto",
+    "bairro": "Centro de Duque de Caxias",
     "grupo": "Especial",
     "cores": [
       "Verde",
-      "Vermelho",
-      "Branco"
+      "Branco",
+      "Vermelho"
     ],
     "cores_hex": [
-      "#388E3C",
-      "#D32F2F",
-      "#FFFFFF"
+      "#008000",
+      "#FFFFFF",
+      "#FF0000"
     ],
-    "simbolo": "Coroa e Brasão de Caxias",
+    "simbolo": "Coroa",
     "titulos": 1,
     "anos_titulos": [
       2022
     ],
     "logo_url": "assets/logos/original/grande-rio.png",
     "logo_original_url": "assets/logos/original/grande-rio.png",
-    "logo_gemini_png_url": "assets/logos/gemini/grande-rio.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/grande-rio.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "A Nação do Mangue",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Pororocas Parawaras: As Águas dos Meus Encantos nas Contas dos Curimbós",
+        "compositores": "",
+        "interpretacao": "Evandro Malandri"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Nosso Destino É Ser Onça",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Ô Zeca , o Pagode Onde É que É? Andei Descalço, Carroça e Trem, Procurando por Xerém, Pra Te Ver, Pra Te Abraçar, Pra Beber e Batucar!",
+        "compositores": "Igor Leal, Arlindinho, Diogo Nogueira, Myngal, Mingauzinho e Gustavo Clarão",
+        "interpretacao": "Evandro Malandro"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Fala, Majeté! Sete Chaves de Exu",
+        "compositores": "Gustavo Clarão, Arlindinho Cruz, Jr. Fragga, Claudio Mattos, Thiago Meiners e Igor Leal",
+        "interpretacao": "Evandro Malandro"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Fala, Majeté! Sete chaves de Exu",
+        "compositores": "",
+        "interpretacao": "Evandro Malandro"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Tata Londirá - O Canto do Caboclo no Quilombo de Caxias",
+        "compositores": "Dere, Robson Moratelli, Rafael Ribeiro e Toni Vietnã",
+        "interpretacao": "Evandro Malandro"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Quem Nunca…? Que Atire a Primeira Pedra",
+        "compositores": "Cláudio Russo, André Diniz, Moacyr Luz, Gê Martins, Licinho Júnior e Elias Bililico",
+        "interpretacao": "Evandro Malandro"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Vai para o Trono ou não Vai?",
+        "compositores": "Edispuma, Licinho JR, JL Escafura, Marcelinho Santos, Gylnei Bueno e Hélio Oliveira",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Ivete do Rio ao Rio",
+        "compositores": "Paulo Onça, Kaká, Alan Vasconcelos, Dinho Artigliri, Rubem Gordinho e Marco Moreno",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Fui no Itororó Beber Água, não Achei. Mas Achei a Bela Santos, e por Ela Me Apaixonei...",
+        "compositores": "Márcio das Camisas, Mariano Araújo, Competência, Kaká e Dinho",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2015,
+        "titulo": "A Grande Rio É do Baralho !",
+        "compositores": "Rafael Santos, Lucas Donato, Gabriel Sorriso, Leandro Canavarro e Rodrigo Moreira",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Verdes Olhos de Maysa Sobre o Mar, no Caminho: Maricá",
+        "compositores": "Deré, Robson Moratelli, Rafael Ribeiro, Hugo e Toni Vietnã",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Amo o Rio e Vou à Luta... Ouro Negro sem Disputa!",
+        "compositores": "Mingau, Junior Fraga, Deré, Mingauzinho e Arlindo Neto",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Eu Acredito em Você! E Você?",
+        "compositores": "Edispuma, Licinho Jr., Marcelinho Santos e Foca",
+        "interpretacao": "Wantuir"
+      },
+      {
+        "ano": 2011,
+        "titulo": "Y-Jurerê Mirim - A encantadora ilha das bruxas (Um conto de Cascaes)",
+        "compositores": "Edispuma, Licinho Jr., Marcelinho Santos e Foca",
+        "interpretacao": "Wantuir"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Das Arquibancadas ao Camarote N.º 1. Um \"Grande Rio\" de Emoção na Apoteose do Seu Coração!",
+        "compositores": "G.Martins, Barbeirinho, Levi, Chico, Isaac, Juarez, Mingau, Arlindo Cruz, Da Lua, Rafael Ribeiro, Carlos Senna e Emerson",
+        "interpretacao": "Wantuir"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Voilá , Caxias! Para Sempre Liberté, Egalité, Fraternité. Merci Beaucoup, Brésil! Não Tem de Quê!",
+        "compositores": "Deré, Emerson Dias, Rafael Ribeiro e Mingau",
+        "interpretacao": "Wantuir"
+      },
+      {
+        "ano": 2008,
+        "titulo": "Do Verde de Coarí, Vem Meu Gás, Sapucaí!",
+        "compositores": "Mingau, Emerson Dias, Edu da Penha e Maurição",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Caxias, dos Caminhos de Passagem ao Caminho do Progresso, Um Retrato do Brasil",
+        "compositores": "Márcio das Camisas, Professor Elísio, Mariano Araújo e Robson Moratelli",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Amazonas, o Eldorado É Aqui",
+        "compositores": "Marcio das Camisas, Mariano Araújo, Gilbertinho e Professor Elísio",
+        "interpretacao": "Bruno Ribas"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Alimentar o Corpo e a Alma Faz Bem!",
+        "compositores": "Barberinho, Competência, Bitar, Marcelo, Levi, Licinho, Deré, Mingal, Leleco e Ciro",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Vamos Vestir a Camisinha, Meu Amor!",
+        "compositores": "Derê, Mingal, Marco Moreno e Djalma Falcão",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2003,
+        "titulo": "O Nosso Brasil que Vale...",
+        "compositores": "Mingau, Derê e Marcos Moreno",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Os Papagaios Amarelos nas Terras Encantadas do Maranhão",
+        "compositores": "Alailson Cruz e Agenor Neto",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2001,
+        "titulo": "Gentileza, o Profeta Saído do Fogo",
+        "compositores": "Cláudio Russo, Zé Luiz, Carlos Santos e Ciro",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Carnaval à Vista - Não Fomos Catequizados, Fizemos Carnaval",
+        "compositores": "J. Mendonça, Pedrinho, Messias e Mingau",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Ei, ei, ei, Chateau É Nosso Rei!",
+        "compositores": "Nêgo, Barbeirinho e Derê",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Prestes , o Cavaleiro da Esperança",
+        "compositores": "João Carlos, Carlinhos Fiscal e Quaresma",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 1997,
+        "titulo": "Madeira-Mamoré, a Volta dos que não Foram Lá no Guaporé",
+        "compositores": "Sabará, Muralha, Jarbas da Cuíca e Grajaú",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Na Era dos Felipes o Brasil Era Espanhol",
+        "compositores": "Barbeirinho, Bebeto do Arrastão e Jailson da Grande Rio",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 1995,
+        "titulo": "Estória para Ninar Um Povo Patriota",
+        "compositores": "Paulo Mumunha, Adão Conceição, Marcos do Açougue e Anísio Silva",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Os Santos que a África não Viu",
+        "compositores": "Helinho 107, Rocco Filho, Roxidiê e Mais Velho",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 1993,
+        "titulo": "No Mundo da Lua",
+        "compositores": "Nêgo, Jacy Inspiração, Mais Velho, G. Martins, Dicró, etc.",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Águas Claras para Um Rei Negro",
+        "compositores": "G. Martins, Adão Conceição, Barberinho, Queirós, e Nilson Kanema",
+        "interpretacao": "David do Pandeiro e Wantuir"
+      },
+      {
+        "ano": 1991,
+        "titulo": "Antes, Durante e Depois, o Despertar do Homem",
+        "compositores": "Andrade, Ventura e Léo",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Porque Sou Carioca?",
+        "compositores": "Adão Conceição, G. Martins e Barberinho",
+        "interpretacao": "Wantuir"
+      },
+      {
+        "ano": 1989,
+        "titulo": "O Mito Sagrado de Ifé",
+        "compositores": "Licinho e Nilson Kanema",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "O amigo da Madrugada Contra as Feras Multinacionais",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Flicts, Uma Cor à Procura de Sua Identidade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Ui, que Medo. Crenças e Crendices Brasileiras Através dos Tempos",
+        "compositores": "Didi da Bela Vista, Luiz Caxias e Guinho da Bela Vista",
+        "interpretacao": "Carlinhos Silva e Joel Conceição"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Brasil, Onde o Verde É Mais Verde e o Azul É Mais Azul",
+        "compositores": "Nilton Baiano, Lamy Silva e Barbeirinho",
+        "interpretacao": "Carlinhos Silva"
+      },
+      {
+        "ano": 1984,
+        "titulo": "De Roma Pagã ao Esplendor da Cidade Maravilhosa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Alegria, Tristeza, Alegria, Lágrimas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Apoteose com Flores",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "As Grandes Festas do Rio nas Quatro Estações do Ano",
+        "compositores": "Barbeirinho, José Eduardo, Vadinho e Waldemar Rocha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Místico, Mágico e Divino",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Imagens do Nordeste Místico",
+        "compositores": "",
+        "interpretacao": "Irani Silva"
+      },
+      {
+        "ano": 1978,
+        "titulo": "Devaneios de Um Pierrot",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Os Precursores",
+        "compositores": "Pedro Paulo, Ariel Matias e Jair de Caxias",
+        "interpretacao": "Ariel Matias"
+      },
+      {
+        "ano": 1976,
+        "titulo": "A Princesa Aqualtune do Quilombo dos Palmares",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Ubajara, o Eterno Mistério do Ceará",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "Carnaval, Você Conhece Haroldo Lobo?",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1973,
+        "titulo": "Riquezas do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "A Outra Força do Brasil",
+        "compositores": "Divo, Quinca e Cabral",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.7,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.9,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.2,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 268.6,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.9,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.6,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 267.9,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 266.8,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.4,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.7,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 297.2,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 297.2,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 298.3,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.4,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 396.9,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 396.9,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 397.9,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 397.6,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 398.6,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 380.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 396.6,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 391.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 289.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 284.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 265.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 258.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 169.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 286.5,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 16,
+        "pontos": 268.0,
+        "resultado": "16º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 274.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 286.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 315.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 16,
+        "pontos": 240.5,
+        "resultado": "16º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 222.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 3",
+        "posicao": 2,
+        "pontos": 210.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 3",
+        "posicao": 9,
+        "pontos": 176.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 3",
+        "posicao": 7,
+        "pontos": 202.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 2-B",
+        "posicao": 2,
+        "pontos": 198.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 2-B",
+        "posicao": 3,
+        "pontos": 193.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 2-B",
+        "posicao": 4,
+        "pontos": 169.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 2-B",
+        "posicao": 6,
+        "pontos": 150.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 2-A",
+        "posicao": 12,
+        "pontos": 152.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 2-A",
+        "posicao": 10,
+        "pontos": 73.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 2-A",
+        "posicao": 6,
+        "pontos": 74.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 2-B",
+        "posicao": 3,
+        "pontos": 86.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 3",
+        "posicao": 10,
+        "pontos": 74.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 2",
+        "posicao": 15,
+        "pontos": 38.0,
+        "resultado": "15º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 84.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 3",
+        "posicao": 8,
+        "pontos": 87.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 3",
+        "posicao": 14,
+        "pontos": 50.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 3",
+        "posicao": 9,
+        "pontos": 40.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 2",
+        "posicao": 14,
+        "pontos": 51.0,
+        "resultado": "14º Lugar"
+      }
+    ]
   }
 }

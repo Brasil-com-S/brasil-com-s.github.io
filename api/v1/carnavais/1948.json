@@ -1,0 +1,30 @@
+{
+  "ano": 1948,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Escolas de samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 128.0,
+        "enredo": "Homenagem a Antônio Castro Alves"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 126.0,
+        "enredo": "Exaltação à Redentora"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 125.0,
+        "enredo": "Vale de São Francisco"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

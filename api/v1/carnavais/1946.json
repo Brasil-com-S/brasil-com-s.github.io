@@ -1,0 +1,23 @@
+{
+  "ano": 1946,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Escolas de samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 80.6,
+        "enredo": "Alvorada do Novo Mundo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 72.4,
+        "enredo": "Carnaval da Vitória"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

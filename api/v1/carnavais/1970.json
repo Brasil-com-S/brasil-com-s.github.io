@@ -1,0 +1,152 @@
+{
+  "ano": 1970,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 88.0,
+        "enredo": "Lendas e Mistérios da Amazônia"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 83.0,
+        "enredo": "Praça Onze, Carioca da Gema"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 79.0,
+        "enredo": "Um Cântico à Natureza"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 78.0,
+        "enredo": "O Meu Pé de Laranja Lima"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 77.0,
+        "enredo": "Glórias Gaúchas"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 74.0,
+        "enredo": "Oropa, França e Bahia"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 65.0,
+        "enredo": "Arte em Tom Maior"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 81.0,
+        "enredo": "Homenagem ao Poema ' Primaveras ' de Casimiro de Abreu"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 68.0,
+        "enredo": "Rio, Quatro Séculos de Glórias"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 68.0,
+        "enredo": "Alencar, Patriarca da Literatura Brasileira"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 64.0,
+        "enredo": "Histórias Fantásticas"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 2,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 77.0,
+        "enredo": "Sonho de Um Sambista"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 63.0,
+        "enredo": "Apóstolo da Ciência e Benfeitor da Humanidade - Dr. Vital Brasil"
+      }
+    ],
+    "SP - Cordões": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 111.0,
+        "enredo": "Princesa Leopoldina"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 91.0,
+        "enredo": "Festa das Flores"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 102.0,
+        "enredo": "Paulicéia Desvairada"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 98.0,
+        "enredo": "O Rei Café"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 84.0,
+        "enredo": "A Cama de Gonçalo Pires"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 103.0,
+        "enredo": "Zumbi dos Palmares"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

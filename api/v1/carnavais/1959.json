@@ -1,0 +1,74 @@
+{
+  "ano": 1959,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Campeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 86.0,
+        "enredo": "Lampião"
+      }
+    ],
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 102.5,
+        "enredo": "Brasil, Panteon de Glórias"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 101.0,
+        "enredo": "Viagem Pitoresca Através do Brasil - Debret"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 96.5,
+        "enredo": "Brasil Holandês, Homenagem a João Maurício de Nassau"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 94.5,
+        "enredo": "O Brasil Através dos Tempos"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 93.0,
+        "enredo": "Os Vultos que Ficaram na História"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 82.5,
+        "enredo": "O Último Baile da Corte Imperial"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 82.0,
+        "enredo": "Copa do Mundo"
+      },
+      {
+        "posicao": 15,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 71.5,
+        "enredo": "Batalha do Tuiuti"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

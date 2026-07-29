@@ -4,24 +4,24 @@
     "id": "mancha-verde",
     "slug": "mancha-verde",
     "nome": "Mancha Verde",
-    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Mancha Verde",
+    "nome_completo": "O Grêmio Recreativo e Cultural Escola de Samba Mancha Verde",
     "fundacao": "1995-10-18",
-    "fundadores": [
-      "Paulo Serdan"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Barra Funda",
     "grupo": "Especial",
     "cores": [
       "Verde",
+      "Vermelho",
       "Branco"
     ],
     "cores_hex": [
-      "#2E7D32",
+      "#08381B",
+      "#FF0000",
       "#FFFFFF"
     ],
-    "simbolo": "Mascote Palmeiras",
+    "simbolo": "Manchão",
     "titulos": 2,
     "anos_titulos": [
       2019,
@@ -29,16 +29,353 @@
     ],
     "logo_url": "assets/logos/original/mancha-verde.png",
     "logo_original_url": "assets/logos/original/mancha-verde.png",
-    "logo_gemini_png_url": "assets/logos/gemini/mancha-verde.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/mancha-verde.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Ruth Rocha: a Palavra que Ensina a Criança a Voar",
         "compositores": "André Machado (Carnavalesco)",
         "interpretacao": "Fredy Vianna"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Pelas mãos do mensageiro do axé, a lição de Odu Obará: a humildade",
+        "compositores": "Armênio Poesia, Channel e Freddy Vianna",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Bahia, da Fé ao Profano",
+        "compositores": "Wladi Nascimento, Edinho Gomes, Myngal, Felipe Mussili e Gilson Bernini",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Do Nosso Solo Para o Mundo: o Campo Que Preserva, o Campo Que Produz, o Campo Que Alimenta",
+        "compositores": "Lico Monteiro, Tinga, Marcelo Lepiane, Leandro Thomaz, Richard Valença, Jéferson Oliveira, Telmo Augusto, João Perigo, Lucas Macedo, Ailson Picanço, Rodrigo Peu, David Gonçalves, Tiago Caldeira e Paulo Sérgio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Oxente! Sou xaxado, sou Nordeste, sou Brasil",
+        "compositores": "Edinho Gomes e Gilson Bernini",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Planeta Água",
+        "compositores": "Marcio André Filho, Marcelo Lepiane, Lico Monteiro, Rafael Ribeiro, Richard Valença, João Perigo, Solano Mota, Leandro Thomaz, Telmo JB, Lanza Muniz e Rosália Carvalho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Pai! Perdoai, eles não sabem o que fazem!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Oxalá, salve a princesa! A saga de uma guerreira negra",
+        "compositores": "Sereno, Marcelo Casa Nossa (Chefia), Darlan Alves, Rodrigo Minueto, Gui Cruz, André Ricardo e Rodolfo Minueto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "A amizade. A Mancha agradece do fundo do nosso quintal",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Zé do Brasil, um nome e muitas histórias",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Mato Grosso , Uma Mancha Verde no Coração do Brasil",
+        "compositores": "Turko, Vaguinho, Jaú, Didi, Maradona, Carlos Junior, Darlan, Fabinho LS e Chiquinho LS",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Quando surge o alviverde imponente, 100 anos de lutas e glórias",
+        "compositores": "Silas Augusto, Marcelo Casa Nossa, Aquiles da Vila, Chanel, Bruno Mancha e JC Castilho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Bem aventurados sejam os perseguidos: por causa da justiça dos homens... Porque deles é o reino dos céus.",
+        "compositores": "Vaguinho, Douglinhas e Jaú",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Mário Lago - Um homem do Século XX",
+        "compositores": "Turko, Maradona, Didi, Ferracini, Fabiano Sorriso, Jorginho, Paulinho Miranda e Tucuruvi Mancha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Pelas mãos do mensageiro do axé, a lição de Odu - Obará: a humildade",
+        "compositores": "Armênio Poesia, Channel e Freddy Vianna",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Uma ideia de gênio!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Aos Mestres com Carinho! Mancha Verde Ensina Como Criar Identidade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Pernambuco: uma nação cultural!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "És imortal...Ariano Suassuna, sua vida, sua obra, patrimônio cultural.",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Decifra-me ou Devoro-te. Apocalipse: 4 cavalheiros, 3 profecias e 4 segredos !",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Bem Aventurados Sejam Os Perseguidos, Por Causa Da Justiça Dos Homens... Porque Deles É O Reino Dos Céus",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Da pré-história aos transgênicos: Mato Grosso. Uma Mancha Verde no coração do Brasil",
+        "compositores": "Paulo Serdan e Comissão de Carnaval",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "A Saga Italiana em Terra Paulistana",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Nuances, Maravilhas da Verde Cor, Um Universo de Esplendor",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "De Lutas e Solidariedade - A Força do Trabalhador",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "A Busca da Paz no Axé dos Orixás",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Brasil, Que História é Essa?",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 268.9,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": null,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo de acesso",
+        "posicao": 2,
+        "pontos": 269.2,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 267.6,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 159.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 268.75,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 353.25,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 88.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 287.5,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 296.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 286.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 199.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo 1A",
+        "posicao": 1,
+        "pontos": 295.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 199.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo 3 Oeste",
+        "posicao": 2,
+        "pontos": 98.5,
+        "resultado": "2º Lugar"
+      }
+    ]
   }
 }

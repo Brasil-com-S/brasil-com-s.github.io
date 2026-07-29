@@ -1,0 +1,242 @@
+{
+  "ano": 1991,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "mocidade-independente",
+      "escola_nome": "Mocidade Independente de Padre Miguel",
+      "pontos": 297.0
+    },
+    "SP": {
+      "escola_slug": "camisa-verde-e-branco",
+      "escola_nome": "Camisa Verde e Branco",
+      "pontos": 266.0
+    }
+  },
+  "grupos": {
+    "RJ - Desfile de Avaliação": [
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 109.0,
+        "enredo": "Vamos Dizer não à Destruição"
+      }
+    ],
+    "RJ - Grupo 1": [
+      {
+        "posicao": 11,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 91.0,
+        "enredo": "Asa Branca"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 200.0,
+        "enredo": "Ginga, Palmares e Liberdade"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 297.0,
+        "enredo": "Chuê, Chuá, as Águas Vão Rolar"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 295.5,
+        "enredo": "Me Masso Se não Passo pela Rua do Ouvidor"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 293.5,
+        "enredo": "O quê É que a Banana Tem?"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 290.5,
+        "enredo": "Alice no Brasil das Maravilhas"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 290.5,
+        "enredo": "Brasil, Brega e Kitsch"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 290.5,
+        "enredo": "Tributo à Vaidade"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 290.5,
+        "enredo": "Bravo, Bravíssimo - Dercy , o Retrato de Um Povo"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 281.0,
+        "enredo": "De Bar em Bar, Didi , Um Poeta"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 274.5,
+        "enredo": "Luiz Peixoto : E Tome Polca!"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 269.0,
+        "enredo": "As Três Rendeiras do Universo"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 265.5,
+        "enredo": "Já Vi Este Filme"
+      },
+      {
+        "posicao": 15,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 258.0,
+        "enredo": "É por Aí que Eu Vou"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 240.5,
+        "enredo": "Antes, Durante e Depois, o Despertar do Homem"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": null,
+        "enredo": "A Dança das Horas"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Do Jeito que o Diabo Gosta"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Magias e Travessuras do Número Sete"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Cinco Ases e um Coringa"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Profetas e Profanos"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 4,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 90.0,
+        "enredo": "Luz, a Sedução do Olhar"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 266.0,
+        "enredo": "Combustível da Ilusão"
+      },
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 266.0,
+        "enredo": "De Piloto de Fogão a Chefe da Nação"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 262.0,
+        "enredo": "O Negro em Forma de Arte"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 260.0,
+        "enredo": "Quem não Arrisca não Petisca"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 257.0,
+        "enredo": "A História se Repete"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 251.0,
+        "enredo": "Vestindo a Moda"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 248.0,
+        "enredo": "Tudo Mentira... Será que é"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 229.0,
+        "enredo": "São Paulo, Pátria Mia"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

@@ -7,7 +7,9 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba União da Ilha do Governador",
     "fundacao": "1953-03-07",
     "fundadores": [
-      "Maurício Gazelle"
+      "Maurício Gazelle",
+      "Quincas",
+      "Orphylo"
     ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
@@ -15,22 +17,872 @@
     "grupo": "Acesso",
     "cores": [
       "Azul",
-      "Vermelho",
-      "Branco"
+      "Branco",
+      "Vermelho"
     ],
     "cores_hex": [
-      "#1976D2",
-      "#D32F2F",
-      "#FFFFFF"
+      "#00008B",
+      "#FFFFFF",
+      "#FF0000"
     ],
-    "simbolo": "Sol e Mar",
+    "simbolo": "Lira e Cavalo-marinho",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/uniao-da-ilha.png",
     "logo_original_url": "assets/logos/original/uniao-da-ilha.png",
-    "logo_gemini_png_url": "assets/logos/gemini/uniao-da-ilha.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/uniao-da-ilha.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Viva o Hoje! O Amanhã? Fica Pra Depois!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "BA-DER-NA! Maria do Povo",
+        "compositores": "",
+        "interpretacao": "Nego"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Doum e Amora - Crianças Para Transformar o Mundo",
+        "compositores": "",
+        "interpretacao": "Nego"
+      },
+      {
+        "ano": 2023,
+        "titulo": "O Encontro das Águias no Templo de Momo",
+        "compositores": "Noca da Portela, Almir da Ilha, Diogo Nogueira, Ciraninho, Queiroga, Claudio Gaspar, Milton Carvalho, Emerson Xumbrega e Cesar Resende",
+        "interpretacao": "Igor Vianna"
+      },
+      {
+        "ano": 2022,
+        "titulo": "O Vendedor de Orações",
+        "compositores": "",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Enredo não registrado",
+        "compositores": "",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Nas Encruzilhadas da Vida, Entre Becos, Ruas e Vielas; a Sorte Está Lançada: Salve-se Quem Puder!",
+        "compositores": "Marcio André, Marcio André Filho, Rafael Prates, J Alves, Daniel e Marinho",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2019,
+        "titulo": "A Peleja Poética Entre Rachel e Alencar no Avarandado do Céu",
+        "compositores": "Myngal, Marcelão da Ilha, Roger Linhares, Marinho, Cap. Barreto, Eli Doutor, Fernando Nicola e Marco Morena",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Brasil, Bom de Boca",
+        "compositores": "Ginho, Marcelão da Ilha, Flavinho Queiroga, Júnior, Thiago Caldas, John Bahiense, André de Souza e Prof. Hugo",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Nzara Ndembu - Glória ao Senhor Tempo",
+        "compositores": "Marinho, Lobo Junior, Felipe Mussili, Beto Mascarenhas, Dr. Robson, Rony Sena, Marcelão da Ilha, M.M. e Gusttavo Clarão",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Olímpico por Natureza. Todo Mundo se Encontra no Rio!",
+        "compositores": "Marquinhus do Banjo, Capitão Barreto, Miguel, Roger Linhares, Paulo Guimarães, Dr. Robson, Jamiro Faria e Gugu das Cadonga",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Beleza Pura?",
+        "compositores": "Djalma Falcão, Carlos Caetano, Gugu das Candongas, Beto Mascarenhas, Roger Linhares e Marco Moreno",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2014,
+        "titulo": "É Brinquedo , É Brincadeira . A Ilha Vai Levantar Poeira!",
+        "compositores": "Paulinho Poeta, Régis, Gabriel Fraga, Carlinhos Fuzil, Canindé e Flávio Pires",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Vinicius , no Plural. Paixão, Poesia e Carnaval",
+        "compositores": "Ginho, Júnior, Vinícius do Cavaco, Eduardo Conti, Professor Hugo e Jair Turra",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2012,
+        "titulo": "De Londres ao Rio : Era Uma Vez... Uma Ilha",
+        "compositores": "* compositores listados abaixo",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2011,
+        "titulo": "O mistério da vida",
+        "compositores": "Gugu das Candongas, Marquinhus do Banjo, João Paulo, Márcio André Filho, Arlindo Neto e Ito Melodia",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Dom Quixote de La Mancha , o Cavaleiro dos Sonhos Impossíveis",
+        "compositores": "Grassano, Gabriel, Márcio André, João Bosco, Arlindo Neto, Gugu das Candongas, Marquinho do Banjo, Barbosão, Ito e Léo",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Viajar É Preciso - Viagens Extraordinárias Através de Mundos Conhecidos e Desconhecidos",
+        "compositores": "Gugu das Candongas, Léo da Ilha, Sardinha, Rafael Bronze, Marcinho, Ito Melodia, Marquinhos do Banjo",
+        "interpretacao": "Ito Melodia"
+      },
+      {
+        "ano": 2008,
+        "titulo": "É Hoje o Dia!",
+        "compositores": "Didi e Mestrinho",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Ripa na Tulipa, Ilha!",
+        "compositores": "Alberto Varjão, Carlinhos Fuzil, Jorginho, Mauricio Maia e Niva",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2006,
+        "titulo": "As Minas Del Rei São João",
+        "compositores": "Alberto Varjão, Carlinhos, Muca Adilson , Carlinhos Fuzil e Maurício Maia",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Das Veredas dos Trilhos a Um Sonho de Fé... A Ilha Traz a Conquista do Pináculo, Corcovado Tentação!",
+        "compositores": "Djalma Falcão, Bicudo e Marco Moreno",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Com Pandeiro ou sem Pandeiro... Eu Brinco. Com Dinheiro ou sem Dinheiro... Eu Também Brinco!",
+        "compositores": "Tote, Miguel, Tino Ayres e Carlinhos do Sete",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Chega em Seu Cavalinho Azul Uma Bruxinha Boa. A Ilha Trouxe do Céu Maria Clara Machado",
+        "compositores": "Marcio André, Almir da Ilha, Miguel e Roxinho",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Folias de Caxias: de João a João... É o Carnaval da União",
+        "compositores": "Maurício 100, Fuzil, Ronaldo Maiato, Muca, Ronald, Niva e Régis",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 2001,
+        "titulo": "A União Faz a Força, com Muita Energia",
+        "compositores": "Márcio André, Djalma Falcão, Almir da Ilha e Dito",
+        "interpretacao": "Wander Pires, Roger e Maurício 100"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Pra não Dizer que não Falei das Flores",
+        "compositores": "Franco, Marquinhos do Banjo e Niva",
+        "interpretacao": "Sérgio da Silva (Serginho do Porto)"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Barbosa Lima, 101 Anos do Sobrinho do Brasil",
+        "compositores": "Bicudo, Djalma Falcão, Ditto e Jotta Erre",
+        "interpretacao": "Mauricio 100 e Roger"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Fatumbi , a Ilha de Todos os Santos",
+        "compositores": "Márcio André, Almir da Ilha e Maurício 100",
+        "interpretacao": "Rixxa"
+      },
+      {
+        "ano": 1997,
+        "titulo": "Cidade Maravilhosa, o Sonho de Pereira Passos",
+        "compositores": "Bujão, Carlinhos Fuzil e Wanderlei Novidade",
+        "interpretacao": "Acraílson Forde (Ito Melodia)"
+      },
+      {
+        "ano": 1996,
+        "titulo": "A Viagem da Pintada Encantada",
+        "compositores": "Alberto Varjão e Vicentinho",
+        "interpretacao": "Aroldo Melodia e Ito Melodia"
+      },
+      {
+        "ano": 1995,
+        "titulo": "Todo Dia É Dia de Índio",
+        "compositores": "Almir da Ilha e Franco",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Abracadabra, o Despertar dos Mágicos",
+        "compositores": "Almir da Ilha e Franco",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Os Maiores Espetáculos da Terra",
+        "compositores": "Bicudo, Djalma Falcão e Guará da Empresa",
+        "interpretacao": "Maurício 100"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Sou mais Minha Ilha",
+        "compositores": "Carlinhos Fuzil, Maurício 100 e Marquinhos do Banjo",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1991,
+        "titulo": "De Bar em Bar, Didi , Um Poeta",
+        "compositores": "Franco",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Sonhar com Rei Dá João",
+        "compositores": "J. Brito e  Bujão",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Festa Profana",
+        "compositores": "J. Brito e Bujão",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1988,
+        "titulo": "Aquarilha do Brasil",
+        "compositores": "Robertinho Devagar e Marcio André",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1987,
+        "titulo": "Extra! Extra!",
+        "compositores": "J. Brito e Bujão",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1986,
+        "titulo": "Assombrações",
+        "compositores": "Robertinho Devagar, Márcio André, Armandinho e  Barbicha",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Um Herói, Um Enredo, Uma Canção",
+        "compositores": "Didi, Aurinho da Ilha e Aritana",
+        "interpretacao": "Quinho e Elza Soares"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Quem Pode, Pode, Quem não Pode...",
+        "compositores": "Didi e Aurinho da Ilha",
+        "interpretacao": "Quinzinho"
+      },
+      {
+        "ano": 1983,
+        "titulo": "Toma Lá, Dá Cá",
+        "compositores": "Robertinho e Armandinho",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1982,
+        "titulo": "É Hoje",
+        "compositores": "Didi e Mestrinho",
+        "interpretacao": "Aroldo Melodia e Miguel Júnior"
+      },
+      {
+        "ano": 1981,
+        "titulo": "1910, Burro na Cabeça",
+        "compositores": "Franco, Barbicha, Jangada e Dazinho",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1980,
+        "titulo": "Bom, Bonito e Barato",
+        "compositores": "Robertinho Devagar, Jorge Ferreira, Edinho Capeta",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1979,
+        "titulo": "O que Será?",
+        "compositores": "Didi e Aroldo Melodia",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1978,
+        "titulo": "O Amanhã",
+        "compositores": "João Sérgio",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1977,
+        "titulo": "Domingo",
+        "compositores": "Aurinho da Ilha, Ione do Nascimento, Ademar Vinhaes, Waldir da Vala",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1976,
+        "titulo": "Poemas de Máscaras e Sonhos",
+        "compositores": "Da Vila, L. Barbicha, Wilson Jangada, Dito e Mestrinho",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1975,
+        "titulo": "Nos Confins de Vila Monte",
+        "compositores": "Cezão",
+        "interpretacao": "Pery Ribeiro e Aroldo Melodia"
+      },
+      {
+        "ano": 1974,
+        "titulo": "Lendas e Festas das Yabás",
+        "compositores": "Aroldo Melodia e Leôncio da Silva",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Y-Juca Pirama",
+        "compositores": "Barbicha, Jangada, Juca da Praia e Waldir da Vala",
+        "interpretacao": "Balalaika"
+      },
+      {
+        "ano": 1972,
+        "titulo": "A Festa da Cavalhada",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1971,
+        "titulo": "Ritual Afro-Brasileiro",
+        "compositores": "Aurinho da Ilha",
+        "interpretacao": "Marcinha Seresteira"
+      },
+      {
+        "ano": 1970,
+        "titulo": "Sonho de Um Sambista",
+        "compositores": "Mundinho e Paulinho",
+        "interpretacao": "Marcinha Seresteira"
+      },
+      {
+        "ano": 1969,
+        "titulo": "Cenários de Nossa Terra",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1968,
+        "titulo": "Revolução dos Alfaiates",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1967,
+        "titulo": "Princesa Isabel e Marechal Hermes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1966,
+        "titulo": "A Queda da Monarquia ou Imagens do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1965,
+        "titulo": "De Estácio a Lacerda",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "Riquezas do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1963,
+        "titulo": "Garimpeiros do Araguaia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1962,
+        "titulo": "Homenagem a Catulo da Paixão Cearense",
+        "compositores": "Didi e Aurinho da Ilha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1961,
+        "titulo": "Rio Sempre Rio",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1960,
+        "titulo": "Homenagem às Forças Armadas",
+        "compositores": "Didi e Aurinho da Ilha",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Série Ouro",
+        "posicao": 4,
+        "pontos": 268.8,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Série Ouro",
+        "posicao": 4,
+        "pontos": 268.9,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro",
+        "posicao": 7,
+        "pontos": 269.3,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Série Ouro",
+        "posicao": 6,
+        "pontos": 269.2,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Série Ouro",
+        "posicao": 3,
+        "pontos": 269.4,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 264.2,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 267.7,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 267.3,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 267.8,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 265.8,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 267.2,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 298.4,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 294.9,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 296.2,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 293.8,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo A",
+        "posicao": 1,
+        "pontos": 239.9,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo A",
+        "posicao": 5,
+        "pontos": 238.4,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo A",
+        "posicao": 4,
+        "pontos": 238.8,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo A",
+        "posicao": 3,
+        "pontos": 239.8,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo A",
+        "posicao": 2,
+        "pontos": 178.9,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo A",
+        "posicao": 7,
+        "pontos": 177.9,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo A",
+        "posicao": 2,
+        "pontos": 177.9,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo A",
+        "posicao": 3,
+        "pontos": 197.4,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 274.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 286.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 253.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 255.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 166.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 286.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 288.5,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 292.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 279.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 280.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 281.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 551.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 209.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 210.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 190.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-A",
+        "posicao": 5,
+        "pontos": 205.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 12,
+        "pontos": 176.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Desfile de domingo",
+        "posicao": 5,
+        "pontos": 188.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-A",
+        "posicao": 7,
+        "pontos": 190.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1-A",
+        "posicao": 5,
+        "pontos": 180.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1-A",
+        "posicao": 7,
+        "pontos": 138.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1-A",
+        "posicao": 5,
+        "pontos": 154.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 150.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 85.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 93.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 83.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 95.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 2",
+        "posicao": 9,
+        "pontos": 43.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 2",
+        "posicao": 8,
+        "pontos": 59.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 2",
+        "posicao": 14,
+        "pontos": 92.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 3",
+        "posicao": 2,
+        "pontos": 77.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 3",
+        "posicao": 5,
+        "pontos": 96.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 3",
+        "posicao": 11,
+        "pontos": 66.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 95.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 3",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 3",
+        "posicao": 5,
+        "pontos": 76.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 3",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 3",
+        "posicao": 10,
+        "pontos": 42.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 2",
+        "posicao": 14,
+        "pontos": 73.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Desfile preliminar",
+        "posicao": 2,
+        "pontos": 102.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1960,
+        "grupo": "Campeonato Dep. de Turismo e Certames",
+        "posicao": 3,
+        "pontos": 70.0,
+        "resultado": "3º Lugar"
+      }
+    ]
   }
 }

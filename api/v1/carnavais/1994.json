@@ -1,0 +1,265 @@
+{
+  "ano": 1994,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "imperatriz",
+      "escola_nome": "Imperatriz Leopoldinense",
+      "pontos": 298.5
+    },
+    "SP": {
+      "escola_slug": "rosas-de-ouro",
+      "escola_nome": "Rosas de Ouro",
+      "pontos": 289.0
+    }
+  },
+  "grupos": {
+    "RJ - Desfile de Avaliação": [
+      {
+        "posicao": 5,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 113.0,
+        "enredo": "Alô, Alô, Carnaval, Taí Carmen Miranda"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 104.0,
+        "enredo": "Parabéns pra Quem? Vamos Comemorar o Quê?"
+      }
+    ],
+    "RJ - Grupo 1": [
+      {
+        "posicao": 2,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 344.0,
+        "enredo": "Uma Andorinha Só não Faz Verão ou Aonde Vai a Corda Vai a Caçamba"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 10,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 195.0,
+        "enredo": "Nas Asas do Tuiuti"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 144.0,
+        "enredo": "Ah! Que Saudades que Eu Tenho"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 200.0,
+        "enredo": "Correio Nacional Através dos Tempos"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 298.5,
+        "enredo": "Catarina de Médicis na Corte dos Tupinambôs e Tabajeres"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 295.0,
+        "enredo": "Rio de Lá pra Cá"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 294.5,
+        "enredo": "Tereza de Benguela, Uma Rainha Negra no Pantanal"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 292.5,
+        "enredo": "Abracadabra, o Despertar dos Mágicos"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 291.5,
+        "enredo": "Margareth Mee, a Dama das Bromélias"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 290.5,
+        "enredo": "Quando o Samba Era Samba"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 290.0,
+        "enredo": "Avenida Brasil, Tudo Passa, Quem não Viu?"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 289.0,
+        "enredo": "Muito Prazer! Isabel de Bragança e Drumond Rosa da Silva, mas Pode Me Chamar de Vila"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 287.0,
+        "enredo": "Atrás da Verde e Rosa Só não Vai Quem Já Morreu"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 274.0,
+        "enredo": "Os Santos que a África não Viu"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 274.0,
+        "enredo": "S.A.A.R.A. A Estácio Chegou no iê iê iê de Alalaô"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 258.5,
+        "enredo": "Uma Festa Brasileira"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Confete, A Saudade Colorida"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Quem Viveu Sabe, Quem não Viu, Vai Sonhar"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "Trânsito... Sinal de Alerta"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Sonhos de um Sambista"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Quilombrás"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 2,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 97.0,
+        "enredo": "Eu Te Amo"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 289.0,
+        "enredo": "Sapoti"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 285.0,
+        "enredo": "A Saliva do Santo e o Veneno da Serpente"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 282.0,
+        "enredo": "Eternamente Jovem"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 282.0,
+        "enredo": "Somos Todos Irmãos"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 278.5,
+        "enredo": "Pira-ique, Mistério e Magia"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 272.5,
+        "enredo": "O Reino de Oyó Visto Pelos Olhos de Xangô"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 265.0,
+        "enredo": "Inã Gbe: Pegando Fogo"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 264.5,
+        "enredo": "Nas Ocas da Barroca o Índio Viu Quem Invadiu"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 240.0,
+        "enredo": "Calçadas Musicais"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

@@ -1,0 +1,258 @@
+{
+  "ano": 1993,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "salgueiro",
+      "escola_nome": "Acadêmicos do Salgueiro",
+      "pontos": 299.5
+    },
+    "SP": {
+      "escola_slug": "camisa-verde-e-branco",
+      "escola_nome": "Camisa Verde e Branco",
+      "pontos": 100.0
+    }
+  },
+  "grupos": {
+    "RJ - Desfile de Avaliação": [
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 91.0,
+        "enredo": "Tirei da Mente o que não Tinha no Bolso"
+      }
+    ],
+    "RJ - Grupo 1": [
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 305.0,
+        "enredo": "Império Serrano , Um Ato de Amor"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 285.0,
+        "enredo": "O Pão Nosso de Cada Dia"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 11,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 171.0,
+        "enredo": "Os Anjos"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 2,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 205.0,
+        "enredo": "Respeitável Público, o Circo Chegou"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 188.0,
+        "enredo": "Alerta, Vamos Sambar, aí Vem a Emilinha"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 299.5,
+        "enredo": "Peguei Um Ita no Norte"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 298.0,
+        "enredo": "Marquês Que É Marquês do Sassarico É Freguês"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 296.5,
+        "enredo": "Uni-duni-tê, a Beija-Flor Escolheu: É Você"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 295.5,
+        "enredo": "Marraio Feridô Sou Rei"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 292.5,
+        "enredo": "Dessa Fruta Eu Como até o Caroço"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 289.5,
+        "enredo": "A Dança da Lua"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 289.0,
+        "enredo": "Amor , Sublime Amor"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 287.0,
+        "enredo": "Gbala, Viagem ao Templo da Criação"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 286.0,
+        "enredo": "No Mundo da Lua"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 280.5,
+        "enredo": "Cerimônia de Casamento"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 279.0,
+        "enredo": "Os Maiores Espetáculos da Terra"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 3,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Os Feios que me Desculpem Mas Beleza é Fundamental"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "A Saga do Melaço"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Identidade Brasil (Resgate da Identidade Cultural)"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "Meio-dia, Barriga Vazia"
+      }
+    ],
+    "SP - Grupo 4": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 92.0,
+        "enredo": "O Sonho de Voar"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 100.0,
+        "enredo": "Talismã"
+      },
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 100.0,
+        "enredo": "Nem Tudo que Reluz é Ouro"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 99.0,
+        "enredo": "É hoje... Um Dia de Festa"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 97.0,
+        "enredo": "Marabha \"a Pérola do Oriente\""
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 96.0,
+        "enredo": "Primeiro Desejo"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 95.0,
+        "enredo": "A Chave do Tempo"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 92.0,
+        "enredo": "Da Fruta que Você Gosta"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 89.0,
+        "enredo": "Mercado, Mercador, Mercadoria"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 84.0,
+        "enredo": "O Senhor dos Elementos"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 80.0,
+        "enredo": "Mascaradas, Ilusões da Vida"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

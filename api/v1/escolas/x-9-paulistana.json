@@ -4,11 +4,9 @@
     "id": "x-9-paulistana",
     "slug": "x-9-paulistana",
     "nome": "X-9 Paulistana",
-    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba X-9 Paulistana",
-    "fundacao": "1975-03-01",
-    "fundadores": [
-      "Comunidade da Parada Inglesa"
-    ],
+    "nome_completo": "O Grêmio Recreativo Cultural Escola de Samba X-9 Paulistana",
+    "fundacao": "1975-02-12",
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Parada Inglesa",
@@ -19,11 +17,11 @@
       "Branco"
     ],
     "cores_hex": [
-      "#388E3C",
-      "#D32F2F",
+      "#008000",
+      "#FF0000",
       "#FFFFFF"
     ],
-    "simbolo": "X-9 com Águia",
+    "simbolo": "Letra \"X\" e o número 9",
     "titulos": 2,
     "anos_titulos": [
       1997,
@@ -31,16 +29,522 @@
     ],
     "logo_url": "assets/logos/original/x-9-paulistana.png",
     "logo_original_url": "assets/logos/original/x-9-paulistana.png",
-    "logo_gemini_png_url": "assets/logos/gemini/x-9-paulistana.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/x-9-paulistana.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Se o Rio Muda de Curso Poderá Mudar o Curso da História",
         "compositores": "Amauri Santos (Carnavalesco)",
         "interpretacao": "Darlan Alves"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Yvy Marã Ei - A busca pela terra sem mal",
+        "compositores": "Gui Cruz, Clayton Reis, Portuga, Reinaldo Marques, Imperial, Rogério, Digo Sá, Luciano Rosa, Luizão, Willian Tadeu e Vitor Gabriel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Clareou! Um novo dia sempre vai raiar",
+        "compositores": "Diogo Nogueira, Arlindinho, Inácio Reis, Igor Leal e André Diniz",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Nordestino sim, Nordestinado jamais!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Dona Ivone Lara, mas quem disse que eu te esqueço? A X-9 Paulistana canta o centenário da Dama do Samba!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Arapuca-Tupi: a Reconquista de uma Terra sem Dono",
+        "compositores": "André Diniz, Claudio Russo, Arlindo Neto, Márcio André Filho, Marcelo Valença e Léo Rocha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Batuques para um rei coroado",
+        "compositores": "André Diniz, Arlindinho, Cláudio Russo, Márcio André Filho, Marcelo Rodrigues da Silva e Pê Santana",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "O show tem que continuar! Meu lugar é cercado de luta e suor, esperança num mundo melhor",
+        "compositores": "André Diniz, Arlindinho, Cláudio Russo, Márcio André Filho, Valência e Darlan Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "A voz do samba é a voz de Deus. Depois da tempestade, vem a bonança!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Vim, vi e venci! A Saga Artística de um Semideus",
+        "compositores": "Saulo Mesquita, Turko, Maradona, Fabio X9, Thiago Japa, Rafa do Cavaco, Mixaria, Carlos Alberto, Dom Henrique, MP08 e Nicóla X9",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Açaí guardiã! Do amor de Iaçá ao esplendor de Belém do Pará",
+        "compositores": "Accyoly Filho, Saulo Mesquita, Turko, Maradona, Fabio X9, Thiago Japa, Rafa do Cavaco, Mixaria, Carlos Alberto, Dom Henrique e MP08",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Sambando na chuva, num pé d'água ou na garoa, sou a X9 numa boa!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Insano: Viagem aos confins da imaginação",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Se pra ter diversidade basta viver com alegria: Sorria! Pois São Paulo hoje é só harmonia!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Trazendo para os braços do povo o coração do Brasil, a X-9 Paulistana desbrava os corações desta gente varonil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Da eterna criança ao embaixador da alegria, Renato Aragão, Didi trapalhão!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Do Além Mar, a Herança Lusitana nos Une. Ora Pois... A X-9 é Portuguesa com Certeza!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Amazônia ... Conseguimos conquistar com o braço forte... Do esplendor da Havea Brasiliensis à busca pela terra sem males",
+        "compositores": "Léo do Cavaco, Rogério Morgado e Leonardo Lima",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "O Povo da Terra Está Abusando... O Aquecimento Global vem ai - A Vida Boa e Sustentável Pede Passagem",
+        "compositores": "Didi, Turko e Paulinho Miranda",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Força Brasil - O país que surge da tinta, delira num carnaval de cores",
+        "compositores": "Armenio Poesia, Aquiles da Vila, Chanel, Maurício Paiva e Carlinhos Jeito Moleque",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "X da Questão",
+        "compositores": "Leonardo Rocha, Renne Campos, Tchello Lima, Reinaldo Ferreira, Anderson Salgadinho, Accyoli Filho e Robertinho Capitão Gancho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Nascidos Para Cantar e Também, Sambar",
+        "compositores": "Armênio Poesia, Diego Poesia, Chocolate, Eric Lisboa e Márcio André",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Se Vens a Minha Casa Com Deus no Coração. Senta-te à Mesa e Come do Meu Pão",
+        "compositores": "Armênio Poesia, Diego Poesia e Kadu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Pi, Iê, Rê, Jeribatiba ou Pinheiros, A Deusa dos Rios Clama Pela Preservação: Se Ele Muda o Curso, Pode Mudar Sua História",
+        "compositores": "Edson Dino, Royce do Cavaco e Leo do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Aceito Tudo, Quem Sou Eu?... O Papel",
+        "compositores": "Neco Paulicéia, Luis Ferracini e Pê",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Estive Aqui! Lembrei-me de Você! Me Leva Brasil",
+        "compositores": "Abelha, Zinho do Tempero, Cesar Rodrigues e Primo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Quem é Você Café!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Laços e Abraços no Mundo do Mercosul",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Sonhos de um Cowboy Brasileiro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Amazônia, A Dama do Universo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Paz e Amor... Bicho",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Arco-íris da Ilusão",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Confete, A Saudade Colorida",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "A Saga do Melaço",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "O Beijo, Bem Mais que uma História de Amor",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Profetas e Profanos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Paulinho da Viola",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Sonho de Valsa (Zequinha de Abreu)",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "São Saruê",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Chão de Estrelas",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": null,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": null,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": null,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": null,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 268.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 268.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 159.1,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 267.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 268.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 355.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 88.75,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 290.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 296.75,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 296.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 199.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 199.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 194.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 198.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 199.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 294.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 271.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 299.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 282.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 287.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 187.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 185.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 93.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

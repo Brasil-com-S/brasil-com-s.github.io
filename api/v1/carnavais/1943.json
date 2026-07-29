@@ -1,0 +1,23 @@
+{
+  "ano": 1943,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Escolas de samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": null,
+        "enredo": "Carnaval de Guerra"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": null,
+        "enredo": "Samba no Palácio Itamarati"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

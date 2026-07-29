@@ -1,0 +1,23 @@
+{
+  "ano": 1942,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Escolas de samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 178.0,
+        "enredo": "A Vida do Samba"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 141.0,
+        "enredo": "A Vitória do Samba nas Américas"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

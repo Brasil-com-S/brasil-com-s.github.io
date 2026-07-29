@@ -1,0 +1,287 @@
+{
+  "ano": 2025,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "beija-flor",
+      "escola_nome": "Beija-Flor de Nilópolis",
+      "pontos": 270.0
+    },
+    "SP": {
+      "escola_slug": "rosas-de-ouro",
+      "escola_nome": "Rosas de Ouro",
+      "pontos": 269.8
+    }
+  },
+  "grupos": {
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 270.0,
+        "enredo": "Laíla de Todos os Santos, Laíla de Todos os Sambas"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 269.9,
+        "enredo": "Pororocas Parawaras: As Águas dos Meus Encantos nas Contas dos Curimbós"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 269.8,
+        "enredo": "Ómi Tútú ao Olúfon - Água Fresca para o Senhor de Ifón"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 269.4,
+        "enredo": "Malunguinho : O Mensageiro de Três Mundos"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 269.4,
+        "enredo": "Cantar Será Buscar o Caminho que Vai Dar no Sol - Uma Homenagem a Milton Nascimento"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 269.4,
+        "enredo": "À Flor da Terra - No Rio da Negritude Entre Dores e Paixões"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 269.2,
+        "enredo": "Salgueiro de Corpo Fechado"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 269.1,
+        "enredo": "Quanto mais Eu Rezo, mais Assombração Aparece!"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 268.7,
+        "enredo": "Quem Tem Medo de Xica Manicongo ?"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 267.9,
+        "enredo": "Voltando Para o Futuro - Não Há Limites pra Sonhar"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 266.8,
+        "enredo": "Egbé Iyá Nassô"
+      }
+    ],
+    "RJ - Série Ouro": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-de-niteroi",
+        "escola_nome": "Acadêmicos de Niterói",
+        "pontos": 269.5,
+        "enredo": "Vixe Maria"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 269.3,
+        "enredo": "O Leão Se Engerou em Encantado Amazônico"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 268.9,
+        "enredo": "BA-DER-NA! Maria do Povo"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "uniao-de-marica",
+        "escola_nome": "União de Maricá",
+        "pontos": 268.8,
+        "enredo": "O Cavalo de Santíssimo e a Coroa do Seu 7"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 268.6,
+        "enredo": "Ecos de Um Vagalume"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 267.1,
+        "enredo": "Ewe, a Cura Vem da Floresta"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 266.0,
+        "enredo": "A São Clemente Dá Voz a Quem não Tem"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 269.8,
+        "enredo": "Rosas de Ouro em Uma Grande Jogada"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 269.8,
+        "enredo": "Justiça - A Injustiça num lugar qualquer é uma ameaça à justiça em todo lugar"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 269.7,
+        "enredo": "Irin Ajó Emi Ojisé"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 269.7,
+        "enredo": "Quem não pode com mandinga não carrega patuá"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 269.7,
+        "enredo": "O Tempo Não Para! Cazuza - O Poeta Vive!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 269.6,
+        "enredo": "A vida é um sonho pintado em aquarela!"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 269.5,
+        "enredo": "Em retalhos de cetim, a Águia de Ouro do jeito que a vida quer"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 269.5,
+        "enredo": "Muito Além do Arco-Íris! Tire o preconceito do caminho que nós vamos passar com o amor"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 269.4,
+        "enredo": "O Xamã devorado y a deglutição bacante de quem ousou sonhar desordem"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 269.3,
+        "enredo": "Afoxé Filhos de Gandhy no ritmo da fé"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 269.2,
+        "enredo": "Cantando Contos: Reinos da Literatura"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 269.0,
+        "enredo": "Os Nove Oruns de Iansã"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 269.0,
+        "enredo": "Assojaba - A Busca pelo Manto"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 268.9,
+        "enredo": "Bahia, da Fé ao Profano"
+      }
+    ],
+    "SP - Grupo de Acesso 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "Uma nova Angola se abre para o mundo! Em nome da paz, Martinho da Vila canta a liberdade!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "Um quê de poesia e um tanto de magia, nessa arte de encantar o imaginário popular…"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Clareou! Um novo dia sempre vai raiar"
+      }
+    ],
+    "SP - Grupo de Acesso 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Exu Mulher"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": null,
+        "enredo": "Axé Griô! Carlão do Peruche, o Cardeal Preto do Samba"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

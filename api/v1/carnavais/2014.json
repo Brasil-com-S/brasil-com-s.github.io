@@ -1,0 +1,291 @@
+{
+  "ano": 2014,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "salgueiro",
+      "escola_nome": "Acadêmicos do Salgueiro",
+      "pontos": 299.3
+    },
+    "SP": {
+      "escola_slug": "mocidade-alegre",
+      "escola_nome": "Mocidade Alegre",
+      "pontos": 269.7
+    }
+  },
+  "grupos": {
+    "RJ - Grupo B": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 299.6,
+        "enredo": "Eternamente Bangu"
+      }
+    ],
+    "RJ - Grupo D": [
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 298.3,
+        "enredo": "A Mais Doce Maravilha do Rio: Pão de Açúcar"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 2,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 299.3,
+        "enredo": "Gaia - A Vida em Nossas Mãos"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 299.0,
+        "enredo": "Um Rio de Mar a Mar: Do Valongo à Glória de São Sebastião"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 298.4,
+        "enredo": "É Brinquedo , É Brincadeira . A Ilha Vai Levantar Poeira!"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 297.6,
+        "enredo": "Arthur X - O Reino do Galinho de Ouro na Corte da Imperatriz"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 297.2,
+        "enredo": "Verdes Olhos de Maysa Sobre o Mar, no Caminho: Maricá"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 296.4,
+        "enredo": "O Astro Iluminado da Comunicação Brasileira"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 296.2,
+        "enredo": "A Festança Brasileira Cai no Samba da Mangueira"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 296.0,
+        "enredo": "Pernambucópolis"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 295.9,
+        "enredo": "Retratos de Um Brasil Plural"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 294.3,
+        "enredo": "Favela"
+      }
+    ],
+    "RJ - Série A": [
+      {
+        "posicao": 1,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 299.9,
+        "enredo": "Sou a Terra de Ismael, 'Guanabaran' Eu Vou Cruzar... Pra Você Tiro o Chapéu, Rio Eu Vim Te Abraçar"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 299.4,
+        "enredo": "Um Rio à Beira Mar: Ventos do Passado em Direção ao Futuro!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 298.8,
+        "enredo": "Decifra-me ou Te Devoro: Enigmas - Chaves da Vida"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 298.1,
+        "enredo": "Angra com os Reis"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 297.5,
+        "enredo": "Kizomba, a Festa da Raça"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 296.2,
+        "enredo": "O Triunfo da América - O Canto Lírico de Joaquina Lapinha"
+      }
+    ],
+    "SP - Grupo 2-UESP": [
+      {
+        "posicao": 2,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 179.7,
+        "enredo": "Em um canto de fé e devoção, Barroca celebra as religiões nos seus 40 anos de samba e tradição"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 269.7,
+        "enredo": "Andar com fé eu vou, que a fé não costuma falhar..."
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 269.4,
+        "enredo": "Inesquecível"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 269.3,
+        "enredo": "A Velha Bahia apresenta o centenário do poeta cancioneiro Dorival Caymmi ."
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 269.1,
+        "enredo": "Uma fantástica viagem ao mundo da imaginação infantil"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 269.1,
+        "enredo": "Um museu de grandes novidades"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 268.9,
+        "enredo": "Poder, fé e devoção: São Jorge Guerreiro"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 268.8,
+        "enredo": "Foz do Iguaçu : Destino do mundo, sinfonia das águas em Tom Maior."
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 268.5,
+        "enredo": "Sustentabilidade : construindo um mundo novo!"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 268.2,
+        "enredo": "Nas chamas da Vai-Vai , 50 anos de Paulínia"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 268.0,
+        "enredo": "R9, o voo real do fenômeno"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 268.0,
+        "enredo": "Insano: Viagem aos confins da imaginação"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 267.5,
+        "enredo": "Paixão proibidas e outros amores..."
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 267.1,
+        "enredo": "Caminhos a seguir, lugar encontrei... Pérola Negra, a suprema felicidade"
+      }
+    ],
+    "SP - Grupo de acesso": [
+      {
+        "posicao": 2,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 269.2,
+        "enredo": "Bem aventurados sejam os perseguidos: por causa da justiça dos homens... Porque deles é o reino dos céus."
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 267.7,
+        "enredo": "O Quilombo da Barra Funda está em festa! Camisa Verde e Branco celebra seus 100 anos de histórias, lutas e glórias"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 266.8,
+        "enredo": "De onde vem a alegria dessa gente?"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 266.7,
+        "enredo": "A Beleza é imperfeita, e a loucura é genial"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 264.7,
+        "enredo": "Xirê! Louvação aos orixás"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

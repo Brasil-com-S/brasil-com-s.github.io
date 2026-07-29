@@ -4,11 +4,9 @@
     "id": "academicos-do-tatuape",
     "slug": "academicos-do-tatuape",
     "nome": "Acadêmicos do Tatuapé",
-    "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Tatuapé",
+    "nome_completo": "O Grêmio Recreativo Escola de Samba Acadêmicos do Tatuapé",
     "fundacao": "1952-10-26",
-    "fundadores": [
-      "Oswaldo Vilaça"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Tatuapé",
@@ -18,10 +16,10 @@
       "Branco"
     ],
     "cores_hex": [
-      "#1565C0",
-      "#FFFFFF"
+      "#0E529A",
+      "#FFF"
     ],
-    "simbolo": "Pássaro Azul",
+    "simbolo": "Agogô <small>(oficial)</small> Tatu <small>(Mascote)</small>",
     "titulos": 2,
     "anos_titulos": [
       2017,
@@ -29,16 +27,665 @@
     ],
     "logo_url": "assets/logos/original/academicos-do-tatuape.png",
     "logo_original_url": "assets/logos/original/academicos-do-tatuape.png",
-    "logo_gemini_png_url": "assets/logos/gemini/academicos-do-tatuape.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/academicos-do-tatuape.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Congo Kinshasa: O Coração da África, a Herança Viva de um Povo que Resiste ao Tempo",
         "compositores": "Wagner Santos (Carnavalesco)",
         "interpretacao": "Cordan"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Plantar para Colher e Alimentar — Tem Muita Terra Sem Gente, Tem Muita Gente Sem Terra!",
+        "compositores": "Turko, Zé Paulo Sierra, Silas Augusto, Rafa do Cavaco, Cláudio Russo, Luis Jorge, Fabio Souza, Dr. Élio, Aquiles da Vila, Fabiano Sorriso, Marcos Vinícius, Lucas Donato, Salgado Luz, Daniel Goulart, Fabian Juarez, Fábio Oliveira, Wagner Forte e Chico Maia",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Justiça - A Injustiça num lugar qualquer é uma ameaça à justiça em todo lugar",
+        "compositores": "Turko, Zé Paulo Sierra, Silas Augusto, Rafa do Cavaco, Fábio Sousa e Luis Jorge",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Uma Joia da Bahia - Símbolo de Preservação! Entre Contos e Tambores, Viva a Mata de São João!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Tatuapé Canta Paraty! Do caminho do ouro a economia azul. Patrimônio mundial, cultura e biodiversidade. Paraty, cidade criativa da gastronomia",
+        "compositores": "Celsinho Mody, Fabiano Tenor, Toninho Geraes e Chico Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Preto Velho Conta a Saga do Café num Canto de Fé",
+        "compositores": "Fabiano Tenor, Luiz Ramos, Mike, Dominguinhos do Estácio, Rodolfo Minuetto, Rodrigo Minuetto, Willian Tadeu, Rafael Falanga, Imperial, Gui Cruz, Marçal, Portuga, Luciano Rosa, Reinaldo Marques, Vitor Gabriel, Turko, Rafa do Cavaco, Silas Augusto, Maradona, Claudio Russo, Vitinho Botafogo e Mancha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "O ponteio da viola encanta… Sou fruto da terra, raiz desse chão… Canto Atibaia do meu coração",
+        "compositores": "Turko, Zé Paulo Sierra, Maradona, Silas Augusto, Rafa do Cavaco, Luis Jorge, Léo Reis, Fabiano Sorriso, Márcio André, Daniel Kattar e Bello",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Bravos Guerreiros: Por Deus, pela honra, pela justiça e pelos que precisam de nós",
+        "compositores": "Fabiano Tenor, Mike Candido e Luiz Fernando Ramos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Maranhão, os tambores vão ecoar na terra da encantaria",
+        "compositores": "Fabiano Tenor, Mike Candido e Luiz Fernando Ramos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Mãe África conta a sua história: do berço sagrado da humanidade à abençoada terra do grande Zimbábwe",
+        "compositores": "Fabiano Tenor, Mike Candido e Luiz Fernando Ramos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "É ela, a deusa da passarela - Olha a Beija-Flor aí gente!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Ouro: Símbolo de riqueza e de ambição",
+        "compositores": "Rodrigo Minuetto, Vaguinho, Flavinho Segal e Vitor Gabriel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Poder, fé e devoção: São Jorge Guerreiro",
+        "compositores": "Márcio André, Márcio André Filho e Vaguinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Beth Carvalho , a madrinha do samba",
+        "compositores": "André Ricardo, Luciano e Vaguinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Da arte do samba, nasci para a comunidade, defesa e essência, sou guerreira, sou Leci Brandão!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "O domingo é especial",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "As Quatro Estações",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Tatuapé Somos Nós!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Por Mares Naveguei, Em Águas Claras Eu Cheguei. Tatuapé, de Felicidade, Transbordei!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Uirapuru, Deus do Mundo Alado, Pássaro Encantado",
+        "compositores": "Luiz Verso e Prosa, Guga Mercadante, Michel, Anderson Lagrilinha, André Samambaia, Fernando Minoru, Gigante e Paulinho Colella",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Cooperativismo, União para o Bem Comum. Uma Grande Nação se Faz com Cooperação",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Pará, a Heróica História de Nossa História, Berço Cultural de Nosso Povo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Agradeço ao Índio que Cuidou, a Você que Desbravou e a Todos que Fizeram Crescer - Tatuapé, Minha Vida, Meu Amor",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Abram Alas Para o Rei Abacaxi",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Baiana Guia: Festa, Lenda e Magia. Salvador Capital da Alegria",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Que Rei Sou Eu?",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Vida. E Tudo Começou Assim!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Tatuapé em Quatro Tempos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "A Arte Negra na Bahia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Vicente Matheus - Tudo por Amor",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "São Luis do Maranhão, Sua História, Sua Arte",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Tá Na Mão",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Eu Te Amo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "O Sonho de Voar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Meu Chic Tatuapé, De Brás Cubas ao Pequeno Polegar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Eternas Batucadas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Amurê - o Casamento Malê",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "A Tenda dos Milagres",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Rosalina, \"a Nossa Costureira\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Cidadão Samba",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Embu no Tempo da Assombração",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Juca Mulato",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Noite de Festa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Mamãe Sereia - Nos Braços de Iemanjá",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Viagem à Hiléia brasileira",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "O Negro na Formação do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1973,
+        "titulo": "O Brasil Recebe a África",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "Festas Tradicionais do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1971,
+        "titulo": "Amador Bueno, Rei Por Um Dia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "A Cama de Gonçalo Pires",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1969,
+        "titulo": "Império Tropical",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.8,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 268.9,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 267.7,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 179.3,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": 263.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 270.25,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo de Acesso",
+        "posicao": 8,
+        "pontos": 329.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": 86.25,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": 286.75,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 15,
+        "pontos": 284.5,
+        "resultado": "15º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 286.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 196.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": 290.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo 1A",
+        "posicao": 2,
+        "pontos": 295.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo 1A",
+        "posicao": 5,
+        "pontos": 200.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo 1A",
+        "posicao": 8,
+        "pontos": 279.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo 1A",
+        "posicao": 7,
+        "pontos": 193.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 280.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 196.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo 2",
+        "posicao": 9,
+        "pontos": 256.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 3",
+        "posicao": 2,
+        "pontos": 97.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 4",
+        "posicao": 1,
+        "pontos": 92.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 4",
+        "posicao": 9,
+        "pontos": 68.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Vaga aberta",
+        "posicao": 1,
+        "pontos": 93.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 4",
+        "posicao": 10,
+        "pontos": 59.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 4",
+        "posicao": 5,
+        "pontos": 68.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 3",
+        "posicao": 10,
+        "pontos": 59.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 2",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 2",
+        "posicao": 9,
+        "pontos": 63.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 62.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 12,
+        "pontos": 20.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": 80.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 31.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 23.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 64.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 76.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 67.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 84.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 64.0,
+        "resultado": "3º Lugar"
+      }
+    ]
   }
 }

@@ -4,11 +4,9 @@
     "id": "paraiso-do-tuiuti",
     "slug": "paraiso-do-tuiuti",
     "nome": "Paraíso do Tuiuti",
-    "nome_completo": "Grêmio Recreativo Escola de Samba Paraíso do Tuiuti",
+    "nome_completo": "O Grêmio Recreativo Escola de Samba Paraíso do Tuiuti",
     "fundacao": "1952-04-05",
-    "fundadores": [
-      "Comunidade do Tuiuti"
-    ],
+    "fundadores": [],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "São Cristóvão",
@@ -18,17 +16,906 @@
       "Amarelo"
     ],
     "cores_hex": [
-      "#1976D2",
-      "#FFEB3B"
+      "#0606CF",
+      "#FFD700"
     ],
-    "simbolo": "Corona e Lira",
+    "simbolo": "Uma coroa, com uma lira na ponta de cima, ladeada por ramos de louro.",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/paraiso-do-tuiuti.png",
     "logo_original_url": "assets/logos/original/paraiso-do-tuiuti.png",
-    "logo_gemini_png_url": "assets/logos/gemini/paraiso-do-tuiuti.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/paraiso-do-tuiuti.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Lonã Ifá Lukumi",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Quem Tem Medo de Xica Manicongo ?",
+        "compositores": "Cláudio Russo e Gustavo Clarão",
+        "interpretacao": "Pixulé"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Glória ao Almirante Negro !",
+        "compositores": "",
+        "interpretacao": "Pixulé"
+      },
+      {
+        "ano": 2023,
+        "titulo": "Mogangueiro da Cara Preta",
+        "compositores": "Claudio Russo, Moacyr Luz, Gustavo Clarão, Júlio Alves, Alessandro Falcão, Pier Ubertini e W. Correia",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Ka Ríba Tí Ye – Que Nossos Caminhos Se Abram. O Tuiuti Canta Histórias de Luta, Sabedoria e Resistência Negra",
+        "compositores": "Claudio Russo, Moacyr Luz, Júlio Alves, Chico Alves, Alessandro Falcão, W. Correia e Píer",
+        "interpretacao": "Celsinho Moddy e Carlos Júnior"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Ka ríba tí ÿe – Que nossos caminhos se abram",
+        "compositores": "",
+        "interpretacao": "Celsinho Moddy e Nino do Milênio"
+      },
+      {
+        "ano": 2020,
+        "titulo": "O Santo e o Rei : Encantarias de Sebastião",
+        "compositores": "Moacyr Luz, Cláudio Russo, Aníbal, Júlio Alves, Pier e Tricolor",
+        "interpretacao": "Celsinho Moddy e Nino do Milênio"
+      },
+      {
+        "ano": 2019,
+        "titulo": "O Salvador da Pátria",
+        "compositores": "Moacyr Luz, Cláudio Russo, Dona Zezé, Jurandir e Aníbal",
+        "interpretacao": "Celsinho Moddy"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Meu Deus, Meu Deus, Está Extinta a Escravidão?",
+        "compositores": "Cláudio Russo, Moacyr Luz, Jurandir, Zezé e Aníbal",
+        "interpretacao": "Nino do Milênio, Celsinho Moddy e Grazi Brasil"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Carnavaleidoscópio Tropifágico",
+        "compositores": "Rafael Bernini, Carlinhos Chirrinha, Luis Caxias, Wellington Onirê e Fernandão",
+        "interpretacao": "Wantuir"
+      },
+      {
+        "ano": 2016,
+        "titulo": "A Farra do Boi",
+        "compositores": "Rafael Júnior, Jorge Maia, W. Correia, Dilson Marimba e Claudio Russo",
+        "interpretacao": "Daniel Silva e Leandro Santos"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Curumim Chama Cunhantã que Eu Vou Contar…",
+        "compositores": "Anderson Benson, Leandro Rc, Minueto, Flazil Câmara e Flavinho Segal",
+        "interpretacao": "Daniel Silva"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Kizomba, a Festa da Raça",
+        "compositores": "Rodolpho, Jonas e Luiz Carlos da Vila",
+        "interpretacao": "Daniel Silva"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Ao Mestre do Riso com Carinho: As Caras do Brasil",
+        "compositores": "André Kaballa, Leandro Kfé, Junior Santana, Thiago Meiners e Sônia Cabra",
+        "interpretacao": "Daniel Silva"
+      },
+      {
+        "ano": 2012,
+        "titulo": "A Tal Mineira",
+        "compositores": "Jurandir, Anibal, Adauto Alves, Reza e Pelé",
+        "interpretacao": "Daniel Silva"
+      },
+      {
+        "ano": 2011,
+        "titulo": "O Mais Doce Bárbaro - Caetano Veloso",
+        "compositores": "Eric Souza, Elton Divino, Rodrigo Monteiro, Zezé e Gê Tuiuti",
+        "interpretacao": "Daniel Silva"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Eneida , o Pierrôt Está de Volta!",
+        "compositores": "Anibal, Jr. Fionda, Luiz Caxias, Reza, Marcio de Campos e Ceí",
+        "interpretacao": "Anderson Fernandes da Silva (Anderson Paz)"
+      },
+      {
+        "ano": 2009,
+        "titulo": "O Cassino da Urca",
+        "compositores": "Aníbal, Gilmar Silva, Jurandir, Jerônimo GG, Fábio Malafaia e Jurandir Terra",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2008,
+        "titulo": "Cartola , Teu Cenário É Uma Beleza",
+        "compositores": "Silvão, Aníbal, Jerônimo GG, Betinho do Cavaco e Cássia Novelli",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Vamos Falar de Amor",
+        "compositores": "Beto Xangô",
+        "interpretacao": "Alex Tuiuti"
+      },
+      {
+        "ano": 2006,
+        "titulo": "O Imperador Morava Ali, do Outro Lado do Tuiuti",
+        "compositores": "Du Pagode, Fábio Malafaia, J.Júnior e Marcelo Pagodeiro",
+        "interpretacao": "Serginho Gama"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Cravo de Ouro, Eu Também Sou da Lira e Não Quero Negar",
+        "compositores": "Ceí, Reza, Pelé, Jurandir e Wanderley",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Olha que Coisa Mais Linda, o Poeta Está no Paraíso",
+        "compositores": "Eric e Zezé",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Tuiuti Desfila o Brasil nas Telas de Portinari",
+        "compositores": "Marcos Antunes, Doutor, Silvão, Eli Penteado e Fernando de Lima",
+        "interpretacao": "Clovis Pereira de Azevedo (Clóvis Pê)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Arlindo, Arlequins e Querubins: Um Carnaval no Paraíso",
+        "compositores": "Waltinho, Bahia, Luiz Pinheiro e Catimba",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2001,
+        "titulo": "Um Mouro no Quilombo. Isto a História Registra!",
+        "compositores": "Cesar Som Livre, Kleber Rodrgigues, David Lima e Claudio Martins",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Um Monarca na Fuzarca",
+        "compositores": "César Som Livre, Jurandir, Meia Noite, Gil, Arere, Tunico e Serginha da Ilha",
+        "interpretacao": "Ciganerey e Eliane Faria"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Uma Delícia Glacial no País do Carnaval",
+        "compositores": "Rafael, Humberto e Shabba do Pandeiro",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Oui oui, a França Esteve Aqui!",
+        "compositores": "Sirley, Jurandir, Alceu, Binho e Moreno",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Um Príncipe Negro nas Ruas do Rio",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "A Raça em Movimento",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Recicla Brasil, o Lixo É Um Luxo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Nas Asas do Tuiuti",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Os Anjos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Será que Vai dar Praia?",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Asa Branca",
+        "compositores": "Valéria, Fernanda e Carmen",
+        "interpretacao": "Pedro de Abreu Maciel (Pedrinho da Flor)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Eneida, o Pierrô Está de Volta",
+        "compositores": "Aldir, Parim, Jorge Neguinho e Fernando J.",
+        "interpretacao": "Bidubi"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Folclore, Tradição Popular",
+        "compositores": "Poliba, Jorge Cabeleira, Toninho 70 e Fernando",
+        "interpretacao": "Jair"
+      },
+      {
+        "ano": 1988,
+        "titulo": "Filho de Branco É Menino, Filho de Negro É Moleque",
+        "compositores": "Zé Lôbo, Cocada, Bidubi, Jorge Neguinho e Rodolfo da Bacia",
+        "interpretacao": "Rodolfo da Bacia"
+      },
+      {
+        "ano": 1987,
+        "titulo": "Força Viva do Samba, Pagode",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "A Neta de Chiquita Bacana",
+        "compositores": "Jorge Cabeleira, Oliba, Geraldo Martins e Madeira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Axé Raça Negra",
+        "compositores": "J. Cabeleira e G. Madeira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "1984 - Um Ano de Otimismo",
+        "compositores": "Vicente Arides",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Vamos Falar de Amor",
+        "compositores": "Beto Xangô e Dentinho",
+        "interpretacao": "Paulo César Peçanha"
+      },
+      {
+        "ano": 1982,
+        "titulo": "Alegria",
+        "compositores": "",
+        "interpretacao": "Aldir"
+      },
+      {
+        "ano": 1981,
+        "titulo": "Exaltação a Vinícius de Moraes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "É a Sorte",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Orlando Silva",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Carnaval de Ontem e de Hoje",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Brasil Caboclo",
+        "compositores": "Mauro Rosas, Otolino Lopes e Carlos Martins",
+        "interpretacao": "Mauro Rosas"
+      },
+      {
+        "ano": 1976,
+        "titulo": "Cobra Norato",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Obra e Vida de Cecília Meireles",
+        "compositores": "Noca da Portela e Poliba",
+        "interpretacao": "Léo"
+      },
+      {
+        "ano": 1974,
+        "titulo": "Olimpíadas, Festa de Um Povo",
+        "compositores": "Sirley, Savi e Marçal",
+        "interpretacao": "Sirley"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Os Imortais da Música Brasileira",
+        "compositores": "Noca da Portela e Poliba",
+        "interpretacao": "Noca da Portela"
+      },
+      {
+        "ano": 1972,
+        "titulo": "Sempre Brasil (Brasil de Ponta a Ponta)",
+        "compositores": "Marçal, Savi e Sirley",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1971,
+        "titulo": "Rio, Carnaval e Batucada",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "Alencar, Patriarca da Literatura Brasileira",
+        "compositores": "Vicente Arides",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1969,
+        "titulo": "O Mundo da Poesia de Olavo Bilac",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1968,
+        "titulo": "São Cristóvão, Bairro Imperial",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1966,
+        "titulo": "Sonho de Uma Noite de Carnaval",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1965,
+        "titulo": "Quatro Séculos de Glória",
+        "compositores": "Shirley F. Ramos e W. Marcal",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "Uma Formatura nas Agulhas Negras",
+        "compositores": "Noca e Madeira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1963,
+        "titulo": "Glória a Villa-Lobos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1961,
+        "titulo": "Exaltação a Pedro Américo, Castro Alves e Rui Barbosa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1960,
+        "titulo": "Exaltação a Villa Lobos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1959,
+        "titulo": "Batalha do Tuiuti",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1958,
+        "titulo": "Homenagem às Forças Armadas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1957,
+        "titulo": "Meus Sonhos de Criança",
+        "compositores": "Ala de Compositores",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1956,
+        "titulo": "O Circo, a Grande Parada",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1955,
+        "titulo": "Apoteose a Edgar Roquete Pinto",
+        "compositores": "",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 268.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 268.7,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 268.3,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.3,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 266.4,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 266.2,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 264.6,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Série A",
+        "posicao": 1,
+        "pontos": 269.9,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Série A",
+        "posicao": 5,
+        "pontos": 298.8,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Série A",
+        "posicao": 8,
+        "pontos": 297.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Série A",
+        "posicao": 13,
+        "pontos": 296.7,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo A",
+        "posicao": 9,
+        "pontos": 296.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo B",
+        "posicao": 1,
+        "pontos": 299.4,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo A",
+        "posicao": 12,
+        "pontos": 262.7,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo A",
+        "posicao": 7,
+        "pontos": 236.8,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo B",
+        "posicao": 2,
+        "pontos": 239.4,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo B",
+        "posicao": 3,
+        "pontos": 239.6,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo B",
+        "posicao": 2,
+        "pontos": 239.6,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo A",
+        "posicao": 9,
+        "pontos": 174.8,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo A",
+        "posicao": 8,
+        "pontos": 177.9,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo A",
+        "posicao": 4,
+        "pontos": 175.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo A",
+        "posicao": 4,
+        "pontos": 196.6,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 260.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo A",
+        "posicao": 2,
+        "pontos": 195.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo B",
+        "posicao": 3,
+        "pontos": 169.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo B",
+        "posicao": 4,
+        "pontos": 169.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo C",
+        "posicao": 1,
+        "pontos": 191.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo C",
+        "posicao": 3,
+        "pontos": 213.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo B",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 2",
+        "posicao": 10,
+        "pontos": 195.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 2",
+        "posicao": 11,
+        "pontos": 171.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 2",
+        "posicao": 10,
+        "pontos": 154.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo 1",
+        "posicao": 11,
+        "pontos": 91.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 188.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 186.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 201.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 225.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 2-A",
+        "posicao": 4,
+        "pontos": 196.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 2-A",
+        "posicao": 3,
+        "pontos": 208.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1-B",
+        "posicao": 11,
+        "pontos": 152.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-B",
+        "posicao": 8,
+        "pontos": 189.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 2-A",
+        "posicao": 2,
+        "pontos": 183.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 2-A",
+        "posicao": 9,
+        "pontos": 75.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 2-B",
+        "posicao": 6,
+        "pontos": 76.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 3",
+        "posicao": 6,
+        "pontos": 79.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 2",
+        "posicao": 17,
+        "pontos": 37.0,
+        "resultado": "17º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 2",
+        "posicao": 8,
+        "pontos": 82.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 92.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 2",
+        "posicao": 12,
+        "pontos": 74.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 2",
+        "posicao": 5,
+        "pontos": 48.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 61.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 105.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 68.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 97.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 108.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 2",
+        "posicao": 15,
+        "pontos": null,
+        "resultado": "15º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 2",
+        "posicao": 8,
+        "pontos": 93.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 50.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 3",
+        "posicao": 18,
+        "pontos": 36.0,
+        "resultado": "18º Lugar"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Desfile intermediário",
+        "posicao": 14,
+        "pontos": 59.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1960,
+        "grupo": "Campeonato Câmara do DF",
+        "posicao": 11,
+        "pontos": 65.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1959,
+        "grupo": "Supercampeonato",
+        "posicao": 15,
+        "pontos": 71.5,
+        "resultado": "15º Lugar"
+      },
+      {
+        "ano": 1958,
+        "grupo": "Campeonato",
+        "posicao": 3,
+        "pontos": 51.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1957,
+        "grupo": "Supercampeonato",
+        "posicao": 17,
+        "pontos": 40.0,
+        "resultado": "17º Lugar"
+      },
+      {
+        "ano": 1956,
+        "grupo": "Supercampeonato",
+        "posicao": 11,
+        "pontos": 56.0,
+        "resultado": "11º Lugar"
+      }
+    ]
   }
 }

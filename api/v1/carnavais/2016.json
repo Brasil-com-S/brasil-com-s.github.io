@@ -1,0 +1,300 @@
+{
+  "ano": 2016,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "mangueira",
+      "escola_nome": "Estação Primeira de Mangueira",
+      "pontos": 269.8
+    },
+    "SP": {
+      "escola_slug": "imperio-de-casa-verde",
+      "escola_nome": "Império de Casa Verde",
+      "pontos": null
+    }
+  },
+  "grupos": {
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 269.8,
+        "enredo": "Maria Bethânia: A Menina dos Olhos de Oyá"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 269.7,
+        "enredo": "No Voo da Águia, uma Viagem sem Fim..."
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 269.5,
+        "enredo": "A Ópera dos Malandros"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 269.3,
+        "enredo": "Mineirinho Genial! Nova Lima - Cidade Natal. Marquês de Sapucaí - O Poeta Imortal!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 269.2,
+        "enredo": "É o Amor... Que Mexe com a Minha Cabeça e Me Deixa Assim... - Do Sonho de um Caipira Nascem os Filhos do Brasil"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 268.7,
+        "enredo": "Fui no Itororó Beber Água, não Achei. Mas Achei a Bela Santos, e por Ela Me Apaixonei..."
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 267.9,
+        "enredo": "Memórias do Pai Arraia - Um Sonho Pernambucano, um Legado Brasileiro"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 267.8,
+        "enredo": "Mais de Mil Palhaços no Salão"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 266.5,
+        "enredo": "O Brasil de La Mancha - Sou Miguel, Padre Miguel. Sou Cervantes, Sou Quixote Cavaleiro, Pixote Brasileiro"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 265.8,
+        "enredo": "Olímpico por Natureza. Todo Mundo se Encontra no Rio!"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 265.0,
+        "enredo": "Salve Jorge! O Guerreiro na Fé"
+      }
+    ],
+    "RJ - Série A": [
+      {
+        "posicao": 1,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 269.9,
+        "enredo": "A Farra do Boi"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 269.2,
+        "enredo": "O Quinto dos Infernos"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 268.3,
+        "enredo": "O Alabê de Jerusalém: A Saga de Ogundana"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 268.3,
+        "enredo": "Silas canta Serrinha"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 266.2,
+        "enredo": "Cacá Diegues - Retratos de um Brasil em Cena"
+      }
+    ],
+    "RJ - Série B": [
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 268.7,
+        "enredo": "60 Anos de Glórias. A Estrela Guia Bangu Rumo à Vitória!"
+      }
+    ],
+    "RJ - Série C": [
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-de-marica",
+        "escola_nome": "União de Maricá",
+        "pontos": 268.4,
+        "enredo": "Do Reino das Yabás... As Candaces e as Riqueza Cultural do Brasil!"
+      }
+    ],
+    "RJ - Série D": [
+      {
+        "posicao": 2,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 269.1,
+        "enredo": "Maracanã-Guaçu e o Ninho dos Deuses!"
+      }
+    ],
+    "SP - Grupo 1-UESP": [
+      {
+        "posicao": 1,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": null,
+        "enredo": "Na alegria e na tristeza, na saúde e na doença amando-te e respeitando-te!"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": null,
+        "enredo": "O Império dos Mistérios"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": null,
+        "enredo": "É ela, a deusa da passarela - Olha a Beija-Flor aí gente!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": null,
+        "enredo": "Ayô - A Alma Ancestral do Samba"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": null,
+        "enredo": "Je Suis Vai-Vai - Bem-vindos à França"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": null,
+        "enredo": "Surpresa ! Adivinha o que eu trouxe pra você?"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": null,
+        "enredo": "É Fantástico ! Imagine, admire e sinta!"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Ave Maria cheia de faces"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "Nenê apresenta seu musical: Rainha Raia nas Asas do Carnaval"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Celebrando a religiosidade , Tucuruvi canta as festas de fé"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": null,
+        "enredo": "Arte à flor da pele. A minha história vai marcar você"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": null,
+        "enredo": "Ponha um pouco de amor numa cadência e vai ver que ninguém no mundo vence a beleza que tem o samba ... 100 anos de samba, minha vida, minha raiz"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Do Canindé ao samba no pé. A Vila Madalena nos passos do balé"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Açaí guardiã! Do amor de Iaçá ao esplendor de Belém do Pará"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": null,
+        "enredo": "Mato Grosso , Uma Mancha Verde no Coração do Brasil"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "Travessias de Milton Nascimento . Todo artista tem de ir aonde o povo está..."
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": null,
+        "enredo": "Nas águas sagradas de Oxum , Iemanjá e Oxalá , Camisa Verde dá um banho de alegria"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Transformando a Química Da Vida"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": null,
+        "enredo": "Bakhita"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

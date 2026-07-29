@@ -6,29 +6,165 @@
     "nome": "União de Maricá",
     "nome_completo": "Grêmio Recreativo Escola de Samba União de Maricá",
     "fundacao": "2015-05-26",
-    "fundadores": [
-      "Comunidade de Maricá"
-    ],
+    "fundadores": [],
     "estado": "RJ",
     "cidade": "Maricá",
-    "bairro": "Centro",
+    "bairro": "Flamengo (Maricá)",
     "grupo": "Acesso",
     "cores": [
       "Vermelho",
+      "Ouro",
       "Branco"
     ],
     "cores_hex": [
-      "#C62828",
+      "#FF0000",
+      "#FFD700",
       "#FFFFFF"
     ],
-    "simbolo": "Faraó e Sol",
+    "simbolo": "Coroa",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/uniao-de-marica.png",
     "logo_original_url": "assets/logos/original/uniao-de-marica.png",
-    "logo_gemini_png_url": "assets/logos/gemini/uniao-de-marica.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/uniao-de-marica.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Berenguendéns e Balangandãs",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "O Cavalo de Santíssimo e a Coroa do Seu 7",
+        "compositores": "Wanderley Monteiro, Rafael Gigante, João Vidal, Vinicius Ferreira, Jefferson Oliveira, Miguel Dibo, Hélio Porto e André do Posto 7",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2024,
+        "titulo": "O Esperançar do Poeta",
+        "compositores": "",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2023,
+        "titulo": "Eu Sigo Nordestino",
+        "compositores": "",
+        "interpretacao": "Matheus Gaúcho"
+      },
+      {
+        "ano": 2022,
+        "titulo": "A Revolução pela Alegria... Uma Ópera Popular",
+        "compositores": "",
+        "interpretacao": "Matheus Gaúcho"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Enredo não registrado",
+        "compositores": "",
+        "interpretacao": "Matheus Gaúcho"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Nos Tempos Idos",
+        "compositores": "otapê, Pedro Cassa, João Vidal, Roberto Cardoso, Gilmar Nogueira, Delson Patrício, Natal e Pedrinho",
+        "interpretacao": "Matheus Gaúcho"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Nelson Gonçalves - O Autorretrato do Rei do Rádio",
+        "compositores": "Pedro Cassa, Wagner Mariano, JotaPê, J. Vidal, Roberto Cardoso, Gilmar Nogueira, Natal e Pedrinho",
+        "interpretacao": "Matheus Gaúcho"
+      },
+      {
+        "ano": 2018,
+        "titulo": "100Sacional! Um Maxixetico e Rebolativo Baile",
+        "compositores": "Pedro Cassa, Gilmar Nogueira, Douglas, Diogo Nolasco e Natal",
+        "interpretacao": "Matheus Gaúcho"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Mistérios da Meia-Noite",
+        "compositores": "Wagner Mariano da Costa, João Gabriel",
+        "interpretacao": "Matheus Gaúcho"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Do Reino das Yabás... As Candaces e as Riqueza Cultural do Brasil!",
+        "compositores": "Dominguinhos do Estácio, Gilberto Gomes, Marcinho Clarão, Renatinho da Oficina, Sérgio Joca, Arthur Miguel e Carlão Caranguejo",
+        "interpretacao": "Matheus Gaúcho"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Série Ouro",
+        "posicao": 1,
+        "pontos": 269.4,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Série Ouro",
+        "posicao": 5,
+        "pontos": 268.8,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro",
+        "posicao": 4,
+        "pontos": 269.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Primeira noite",
+        "posicao": 1,
+        "pontos": 269.9,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Segunda noite",
+        "posicao": 4,
+        "pontos": 269.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial da Intendente Magalhães (LIESB)",
+        "posicao": 13,
+        "pontos": 268.2,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Série B",
+        "posicao": 4,
+        "pontos": 269.1,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Série C",
+        "posicao": 1,
+        "pontos": 269.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Série C",
+        "posicao": 9,
+        "pontos": 268.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Série C",
+        "posicao": 4,
+        "pontos": 268.4,
+        "resultado": "4º Lugar"
+      }
+    ]
   }
 }

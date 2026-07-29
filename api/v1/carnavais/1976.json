@@ -1,0 +1,194 @@
+{
+  "ano": 1976,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 122.0,
+        "enredo": "Sonhar com Rei Dá Leão"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 116.0,
+        "enredo": "No Reino da Mãe do Ouro"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 116.0,
+        "enredo": "Mãe Menininha do Gantois"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 108.0,
+        "enredo": "O Homem do Pacoval"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 106.0,
+        "enredo": "Valongo"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 105.0,
+        "enredo": "Invenção de Orfeu"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 105.0,
+        "enredo": "A Lenda das Sereias, Rainhas do Mar"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 93.0,
+        "enredo": "Por Mares Nunca Dantes Navegados"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 93.0,
+        "enredo": "Poemas de Máscaras e Sonhos"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 8,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 82.0,
+        "enredo": "Cobra Norato"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 80.0,
+        "enredo": "Recife, Nosso Amor Distante"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 72.0,
+        "enredo": "Festas e Tradições de Nossa Gente"
+      },
+      {
+        "posicao": 18,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 70.0,
+        "enredo": "Ajuricaba, Um Herói Amazonense"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 84.0,
+        "enredo": "A Princesa Aqualtune do Quilombo dos Palmares"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 90.0,
+        "enredo": "Atlântida e Suas Chanchadas"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 85.0,
+        "enredo": "Solano Trindade - O Menino do Recife"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 85.0,
+        "enredo": "Sete Cidades Encantadas"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 78.0,
+        "enredo": "Tributo de uma Época"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 65.0,
+        "enredo": "Portinari, Pintor do Povo"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 63.0,
+        "enredo": "As Carrancas do Rio São Francisco"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 60.0,
+        "enredo": "Afoxé da Bahia"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 89.0,
+        "enredo": "O Sonho de Palmares"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 86.0,
+        "enredo": "A Feira"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 80.0,
+        "enredo": "Mamãe Sereia - Nos Braços de Iemanjá"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 12,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 53.0,
+        "enredo": "Canudos: Seu Povo, Sua História"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

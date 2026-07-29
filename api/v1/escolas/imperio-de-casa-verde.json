@@ -4,10 +4,10 @@
     "id": "imperio-de-casa-verde",
     "slug": "imperio-de-casa-verde",
     "nome": "Império de Casa Verde",
-    "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Império de Casa Verde",
+    "nome_completo": "O Grêmio Recreativo Cultural Social Escola de Samba Império de Casa Verde",
     "fundacao": "1994-02-27",
     "fundadores": [
-      "Comunidade de Casa Verde"
+      "Dissidentes do Unidos do Peruche"
     ],
     "estado": "SP",
     "cidade": "São Paulo",
@@ -18,10 +18,10 @@
       "Branco"
     ],
     "cores_hex": [
-      "#0288D1",
+      "#0099FF",
       "#FFFFFF"
     ],
-    "simbolo": "Tigre de Casa Verde",
+    "simbolo": "Tigre e coroa",
     "titulos": 3,
     "anos_titulos": [
       2005,
@@ -30,16 +30,405 @@
     ],
     "logo_url": "assets/logos/original/imperio-de-casa-verde.png",
     "logo_original_url": "assets/logos/original/imperio-de-casa-verde.png",
-    "logo_gemini_png_url": "assets/logos/gemini/imperio-de-casa-verde.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/imperio-de-casa-verde.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Sob o Céu do Interior Brilha o Sonho Caipira: Jaguariúna, a Capital Country do Brasil",
         "compositores": "Fabio Ricardo Rangel da Costa (Carnavalesco)",
         "interpretacao": "Tinga"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Império dos Balangandãs: Joias negras Afro-Brasileiras",
+        "compositores": "Diogo Nogueira, Arlindinho Cruz, Evandro Bocão, Darlan Alves, Fabiano Sorriso e André Diniz)",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Cantando Contos: Reinos da Literatura",
+        "compositores": "André Diniz, Gustavo Clarão, Darlan Alves, Fabiano Sorriso, Evandro Bocão e Marcelo Casa Nossa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Fafá - A Cabocla Mística em Rituais da Floresta",
+        "compositores": "André Diniz, Marcelo Casa Nossa, Samir Trindade, Fabiano Sorriso, Evandro Bocão, Darlan Alves, Gustavo Clarão e Tinga",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Império dos Tambores - Um Brasil Afromusical",
+        "compositores": "André Diniz, Marcelo Casa Nossa, Samir Trindade, Fabiano Sorriso, Evandro Bocão, Darlan Alves e Gustavo Clarão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "O Poder da Comunicação - Império, O Mensageiro das Emoções",
+        "compositores": "Samir Trindade, André Diniz, Cláudio Russo, Diego Nicolau, Darlan Alves, Fabiano Sorriso e Marcelo Casa Nossa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Marhaba Lubnãn",
+        "compositores": "Marcelo Casa Nossa, Carlos Jr, Gui Cruz, Armênio Poesia, Darlan Alves, Fredy Vianna, Rodrigo Minuetto, Rodolfo Minuetto e Xandinho Nocera",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "O Império contra-ataca",
+        "compositores": "Acerola de Angola, Almir Mendonça, Luiz Jacaré, Rapha Maslionis, Leandro Rato, Marcelão e Pedro Carmo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "O povo, a nobreza real",
+        "compositores": "Jairo Roizen, Thiago Sukata, Godoi, Luciano Godoi, Claudio Mattos, Tavares, Tubino, William Lima, Meiners e Victor Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Paz. O Império da Nova Era",
+        "compositores": "Turko, Aquiles da Vila, Maradona, Chanel Wagner, Paulinho, JC Castilho, Tinga e Silas Augusto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "O Império dos Mistérios",
+        "compositores": "Carlos Júnior, Fabinho LS e Fabiano Sorriso",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Sonhadores do mundo inteiro: uni-vos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Sustentabilidade : construindo um mundo novo!",
+        "compositores": "Leo Reis, Turko, Celsinho Mody, Fabiano Henrique, Biel, Paulinho B.P. e Marquinhos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Pra todo mal, a cura. Quem canta seus males espanta!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Na ótica do meu Império, o foco é você",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Samba sabor cerveja. Admirada a milênios, a mais nova sensação nacional",
+        "compositores": "Carlos Alberto, Fininho, Marcelinho, Nocera Romagnoli, Sylas, Tadeu Sá, Tião, Walter Jr e Vagner dos Santos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Itu, Fidelíssima Terra de Gigantes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "É festa, é feriado, é celebração. O Tigre comemora na avenida e exalta seu pavilhão. São 15 anos de paixão!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Sambando, cantando e seguindo a canção. Vem, vamos embora para a festa da MPB",
+        "compositores": "Júnior Marques e Raphael do Império",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Glórias e Conquistas - A Força do Império está no salto do Tigre",
+        "compositores": "Raphael do Império, Júnior Marques e Carlos Júnior",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Do Boi Místico ao Boi Real - De Garcia D´Ávila na Bahia ao Nelore - O Boi que come capim - A Saga pecuária no Brasil para o Mundo",
+        "compositores": "Rafael, Junior Marques e Carlos Junior",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Brasil: Se Deus é por nós, quem será contra nós?",
+        "compositores": "Vaguinho, Carlos Júnior e Raphael",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "O Novo Espelho de Narciso. Um Delírio Sobre os Heróis da Mitologia Paulistana",
+        "compositores": "Jeferson Lima, Marco Antonio Santos, Murilo e Peña",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Nhô João, Preto Velho Milagreiro e Profeta de Todos os Deuses, Lá Pelas Bandas do Cafundó",
+        "compositores": "Biro-Biro, Daniel Collête, Raphael, Júnior Marques, L.C. Santos, Turko, Sérgio Biriba, Maradona",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "A Verde Guerrilha da Paz",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Fantástica Máquina dos Sonhos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Descobrimento ou Invasão? Eis a Questão!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Coisa Boa Todo Mundo Gosta",
+        "compositores": "Ademir Sintonia, Levi Sintonia, Marcos Shamilian e Misturinha do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "No Império Reina o Reisado",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "As Maravilhas do Circo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Brasil, Um País com Nome de Tinta",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 269.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 269.2,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": null,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 268.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 159.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 265.75,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 356.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 88.25,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 297.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 298.25,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 298.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 199.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 195.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 296.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": 291.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 197.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo 1A",
+        "posicao": 2,
+        "pontos": 199.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo 4",
+        "posicao": 1,
+        "pontos": 99.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

@@ -1,0 +1,32 @@
+{
+  "ano": 1951,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Federação Brasileira de Escolas de Samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 311.0,
+        "enredo": "Sessenta e Um Anos de República"
+      }
+    ],
+    "RJ - União Geral das Escolas de Samba do Brasil": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": null,
+        "enredo": "A Volta do Filho Pródigo"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": null,
+        "enredo": "Unidade Nacional"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

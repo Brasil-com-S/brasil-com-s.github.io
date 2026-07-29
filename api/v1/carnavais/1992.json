@@ -1,0 +1,251 @@
+{
+  "ano": 1992,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "estacio-de-sa",
+      "escola_nome": "Estácio de Sá",
+      "pontos": 298.5
+    },
+    "SP": {
+      "escola_slug": "rosas-de-ouro",
+      "escola_nome": "Rosas de Ouro",
+      "pontos": 294.0
+    }
+  },
+  "grupos": {
+    "RJ - Desfile de Avaliação": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 117.0,
+        "enredo": "Cem Anos nas Ondas de Copacabana"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 97.0,
+        "enredo": "Brasil Folclórico"
+      }
+    ],
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 315.0,
+        "enredo": "Águas Claras para Um Rei Negro"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 305.0,
+        "enredo": "Fala Serrinha - A Voz do Morro Sou Eu Mesmo sim Senhor"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 291.0,
+        "enredo": "E o Salário, ó!"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 10,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 154.0,
+        "enredo": "Será que Vai dar Praia?"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 4,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 205.0,
+        "enredo": "Troque a Pilha e Aumente o Volume"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 298.5,
+        "enredo": "Paulicéia Desvairada - 70 Anos de Modernismo no Brasil"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 297.0,
+        "enredo": "Sonhar não Custa Nada, ou Quase Nada"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 294.5,
+        "enredo": "Não Existe Pecado do Lado de Baixo do Equador"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 294.0,
+        "enredo": "O Negro que Virou Ouro nas Terras do Salgueiro"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 292.5,
+        "enredo": "Todo o Azul que o Azul Tem"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 292.0,
+        "enredo": "Se Todos Fossem Iguais a Você - Tom Jobim"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 288.5,
+        "enredo": "Há Um Ponto de Luz na Imensidão"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 281.5,
+        "enredo": "E a Magia da Sorte Chegou"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 280.0,
+        "enredo": "Sou mais Minha Ilha"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 270.5,
+        "enredo": "A Vila Vê o Ovo e Põe as Claras"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 2,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "O Samba Pede Passagem"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Felicidade"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Mesmo na Folia o Plantão Vai Funcionar"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "O Beijo, Bem Mais que uma História de Amor"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 99.0,
+        "enredo": "Caixinha de Surpresas"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 294.0,
+        "enredo": "Non Ducor Duco, Qual é a Minha Cara?"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 291.0,
+        "enredo": "Banho de Luz Que Me Seduz"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 291.0,
+        "enredo": "Por Mares Nunca Dantes Navegados"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 289.0,
+        "enredo": "A Espada Dia Liberdade - \"Jornal O Estado de São Paulo\""
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 287.0,
+        "enredo": "O Brasil Mostra Suas Cores"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 287.0,
+        "enredo": "Luz, Divina Luz"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 270.0,
+        "enredo": "Cidade Aquariana"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 264.0,
+        "enredo": "Roma Negra"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 255.0,
+        "enredo": "A Cara do Pai, a Cara da Mãe"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

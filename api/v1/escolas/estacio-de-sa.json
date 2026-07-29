@@ -5,12 +5,9 @@
     "slug": "estacio-de-sa",
     "nome": "Estácio de Sá",
     "nome_completo": "Grêmio Recreativo Escola de Samba Estácio de Sá",
-    "fundacao": "1927-08-12",
+    "fundacao": "1955-02-27",
     "fundadores": [
-      "Ismael Silva",
-      "Bide",
-      "Marçal",
-      "Nilton Bastos"
+      "Originária da Unidos de São Carlos (Morro de São Carlos)"
     ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
@@ -21,8 +18,8 @@
       "Branco"
     ],
     "cores_hex": [
-      "#C62828",
-      "#FFFFFF"
+      "#FF0000",
+      "#FFF"
     ],
     "simbolo": "Leão",
     "titulos": 1,
@@ -31,9 +28,716 @@
     ],
     "logo_url": "assets/logos/original/estacio-de-sa.png",
     "logo_original_url": "assets/logos/original/estacio-de-sa.png",
-    "logo_gemini_png_url": "assets/logos/gemini/estacio-de-sa.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/estacio-de-sa.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Tata Tancredo - O Papa Negro no Terreiro do Estácio",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "O Leão Se Engerou em Encantado Amazônico",
+        "compositores": "Julio Alves, Cláudio Russo, Magrão do Estácio, Thiago Daniel, Filipe Medrado, HB, Serginho Do Porto, Diego Nicolau, Tinga, Adolfo Konder, Dilson Marimba e Marquinhos Beija-Flor",
+        "interpretacao": "Alessandro Tiganá e Serginho do Porto"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Chão de Devoção: Orgulho Ancestral",
+        "compositores": "",
+        "interpretacao": "Alessandro Tiganá e Charles Silva"
+      },
+      {
+        "ano": 2023,
+        "titulo": "São João, São Luís, Maranhão! Acende a Fogueira do Meu Coração!",
+        "compositores": "Samir Trindade, Cara de Macaco, Fabrício Sena Pereira, Felipe Pereira, Jeiffer Almeida, João Eduardo e Deiny Leite",
+        "interpretacao": "Alessandro Tiganá"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Cobra-coral, Papagaio Vintém, #VestirRubroNegro não Tem pra Ninguém",
+        "compositores": "",
+        "interpretacao": "Serginho do Porto"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Cobra-coral, Papagaio Vintém vesti Rubro Negro não tem pra ninguém!",
+        "compositores": "",
+        "interpretacao": "Serginho do Porto"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Pedra",
+        "compositores": "Edson Marinho, Jorge Xavier, Júlio Alves, Jailton Russo, Ivan Ribeiro e Dudu Miller",
+        "interpretacao": "Serginho do Porto"
+      },
+      {
+        "ano": 2019,
+        "titulo": "A Fé Que Emerge das Águas",
+        "compositores": "Alexandre Naval, Edson Marinho, Tinga, Jorge Xavier, Luiz Sapatinho, Cláudio, Álvaro Roberto, Alexandre Moraes, Hugo Bruno e Julio Alves",
+        "interpretacao": "Serginho do Porto"
+      },
+      {
+        "ano": 2018,
+        "titulo": "No Pregão da Folia, Sou Comerciante da Alegria com a Estácio Boto Banca na Avenida",
+        "compositores": "Alexandre Naval, Filipe Medrado, Luiz Sapatinho, Pelé, Thiago Sousa, Rodrigo Armani e Diego Tavares",
+        "interpretacao": "Serginho do Porto"
+      },
+      {
+        "ano": 2017,
+        "titulo": "É! O Moleque Desceu o São Carlos , Pegou um Sonho e Partiu com a Estácio!",
+        "compositores": "Daniel Gonzaga, Edson Marinho, Claudio Russo, Lequinho, Igor Ferreira, Jorge Xavier, Salviano, Júlio Alves, Alexandre Moraes, Marquinhos, Hugo Bruno, Tinga, Gabriel Martins",
+        "interpretacao": "Thiago Brito"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Salve Jorge! O Guerreiro na Fé",
+        "compositores": "Edson Marinho, Adilson Alves, Jorge Xavier, André Felix, JB e Salviano",
+        "interpretacao": "Dominguinhos do Estácio e Wander Pires"
+      },
+      {
+        "ano": 2015,
+        "titulo": "De Braços Abertos, de Janeiro a Janeiro, Sorrio, Sou Rio, sou Estácio de Sá!",
+        "compositores": "Dominguinhos do Estácio, Tinga, Merica, Adriano Ganso, Dani Maroneze e Eduardo Martins",
+        "interpretacao": "Leandro Santos e Dominguinhos do Estácio"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Um Rio à Beira Mar: Ventos do Passado em Direção ao Futuro!",
+        "compositores": "China do Estácio, Thiago Daniel, Jorge Lopa, Guto Smuk, Filipe Medrado, Renato Pinto, Eduardo Moreira e Ricardo Basile",
+        "interpretacao": "Leandro Santos e Dominguinhos do Estácio"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Rildo Hora: A Ópera de um Menino... O Toque do Realejo Rege o Seu Destino!",
+        "compositores": "Igor Ferreira, Claudinho MS, JL Escafura, Tinga, Adriano Ganso, Tião e Fadico",
+        "interpretacao": "Leandro Santos"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Luma de Oliveira: Coração de Um País em Festa!",
+        "compositores": "Wilsinho Paz, Alexandre Moraes, Osmar, Hugo Bruno, Comendador Eloi e Zé Luiz",
+        "interpretacao": "Leandro Santos"
+      },
+      {
+        "ano": 2011,
+        "titulo": "Rosas",
+        "compositores": "Luiz Sapatinho, Paulinho Pintor, Regina, Fábio Bomba e Cesar Nascimento",
+        "interpretacao": "Leandro Santos"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Deixa Falar. A Estácio É isso ai! Eu Visto Esse Manto e Vou por ai...",
+        "compositores": "Gusttavo Clarão, Thiago Daniel, Da Latinha, Igor  e Claudinho Vagareza",
+        "interpretacao": "Sérgio da Silva (Serginho do Porto)"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Que Chita Bacana",
+        "compositores": "Osmar, Marcelo Buda, Antonio da Conceição, Magu, Neneu, Hugo Bruno e Lúcio Moraes",
+        "interpretacao": "Sérgio da Silva (Serginho do Porto)"
+      },
+      {
+        "ano": 2008,
+        "titulo": "A História do Futuro",
+        "compositores": "Edson Marinho, Alexandre D'Mendes, Marechal, Luizinho do Goró e Zé Luiz",
+        "interpretacao": "Sérgio da Silva (Serginho do Porto)"
+      },
+      {
+        "ano": 2007,
+        "titulo": "O Ti-ti-ti do Sapoti",
+        "compositores": "Darcy do Nascimento, Djalma Branco e Dominguinhos do Estácio",
+        "interpretacao": "Anderson Fernandes da Silva (Anderson Paz)"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Quem É Você?",
+        "compositores": "Darcy do Nascimento, Jangada e Dominguinhos do Estácio",
+        "interpretacao": "Ivan Talarico"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Arte Negra na Legendária Bahia",
+        "compositores": "Caruso, Caramba e Dominguinhos do Estácio",
+        "interpretacao": "Ivan Talarico e Da Latinha"
+      },
+      {
+        "ano": 2004,
+        "titulo": "A Estácio é Dez, o Brasil é Mil e a Fome é Zero",
+        "compositores": "Marquinhos, Da Latinha, Pedrinho, Julinho e Pinto",
+        "interpretacao": "Sérgio da Silva (Serginho do Porto)"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Um Banho da Natureza - Cachoeiras de Macacu",
+        "compositores": "Reginaldo, Tião Larrieu, Magrão, Arthur 104, Gê de Ogum e Batista Coqueiral",
+        "interpretacao": "Sérgio da Silva (Serginho do Porto)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Nos Braços do Povo, na Passarela do Samba... Cinqüenta Anos de O Dia",
+        "compositores": "Edyr Carvalho, Zé Pezão, Zé Carlos e Fabinho Paz",
+        "interpretacao": "Sérgio da Silva (Serginho do Porto)"
+      },
+      {
+        "ano": 2001,
+        "titulo": "E Aí Tem Patrocínio? Tenho, José",
+        "compositores": "Edyr Carvalho, Zé Pezão, Zé Carlos e Fernando de Lima",
+        "interpretacao": "Nego Martins"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Envergo, mas não Quebro",
+        "compositores": "Gílio, Ricardo, Russo, Carlinhos Tizil, J. Araújo e Dominguinhos do Estácio",
+        "interpretacao": "Nego Martins e Ivan Talarico"
+      },
+      {
+        "ano": 1999,
+        "titulo": "No Passo do Compasso, a Estácio no Sapatinho",
+        "compositores": "Roberto Eloy, Wagner Cristal e Cacá",
+        "interpretacao": "Edmilton di Bem"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Cem Anos de Cultura - Academia Brasileira de Letras",
+        "compositores": "Elcy, Marcelinho, Roberto e Eduardo Martins",
+        "interpretacao": "Edmilton di Bem"
+      },
+      {
+        "ano": 1997,
+        "titulo": "Através da Fumaça, o Mágico Cheiro do Carnaval",
+        "compositores": "Basilio, Zé Luiz, Gabrielzinho do Pandeiro e Baby",
+        "interpretacao": "David do Pandeiro"
+      },
+      {
+        "ano": 1996,
+        "titulo": "De Um Novo Mundo Eu Sou e Uma Nova Cidade Será",
+        "compositores": "Adilson Gavião, Déo, Orlando Landào e Caruso",
+        "interpretacao": "David do Pandeiro"
+      },
+      {
+        "ano": 1995,
+        "titulo": "Uma Vez Flamengo...",
+        "compositores": "David Correa, Adilson Torres, Déo e Caruso",
+        "interpretacao": "Dominguinhos do Estácio e Wantuir"
+      },
+      {
+        "ano": 1994,
+        "titulo": "S.A.A.R.A. A Estácio Chegou no iê iê iê de Alalaô",
+        "compositores": "Fininho, Pereira, Edmilson e Marinho",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1993,
+        "titulo": "A Dança da Lua",
+        "compositores": "Wilsinho Paz e Luciano Primo",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Paulicéia Desvairada - 70 Anos de Modernismo no Brasil",
+        "compositores": "Djalma Branco, Déo, Maneco e Caruso",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1991,
+        "titulo": "Brasil, Brega e Kitsch",
+        "compositores": "Maneco, Orlando e Jangada",
+        "interpretacao": "Rixxa"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Langsdorff, Delírio na Sapucaí",
+        "compositores": "Jorge Magalhães, Adalto Magalha, Adilson Gavião e Maneco",
+        "interpretacao": "Rixxa"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Um, Dois, Feijão com Arroz",
+        "compositores": "Djalma das Mercês, Déo, Gustavo, Bajão, Marinho e Pereira",
+        "interpretacao": "Bira Havaí"
+      },
+      {
+        "ano": 1988,
+        "titulo": "O Boi Dá Bode",
+        "compositores": "Djalma Branco e Hércules Caruso",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1987,
+        "titulo": "O tititi do sapoti",
+        "compositores": "Darcy do Nascimento, Djalma Branco e Dominguinhos do Estácio",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1986,
+        "titulo": "Prata da Noite - Homenagem a Grande Otelo",
+        "compositores": "Darcy do Nascimento e Dominguinhos do Estácio",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Chora, Chorões",
+        "compositores": "Djalma Branco, Caruso, Jangada e Djalma das Mercês",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Quem É Você?",
+        "compositores": "Darcy do Nascimento, Jangada e Dominguinhos do Estácio",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1983,
+        "titulo": "Orfeu do Carnaval",
+        "compositores": "Djalma Branco e Caruso",
+        "interpretacao": "Fernando do \"Peter Thomaz\""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Onde há rede há renda",
+        "compositores": "Djalma Branco e Caruso",
+        "interpretacao": "Abílio Martins"
+      },
+      {
+        "ano": 1981,
+        "titulo": "Quem diria, da monarquia à boemia ao esplendor da Praça Tiradentes",
+        "compositores": "Caruso e Oliviel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Deixa falar",
+        "compositores": "Elinto Pires e Sidney da Conceição",
+        "interpretacao": "Zaira"
+      },
+      {
+        "ano": 1979,
+        "titulo": "Das trevas ao sol, uma odisséia dos Karajás",
+        "compositores": "Elinto Pires e Leleco",
+        "interpretacao": "Elza Soares"
+      },
+      {
+        "ano": 1978,
+        "titulo": "Céu de Orestes no chão de estrelas",
+        "compositores": "Augusto Nunes, Darcir Branco e Oswaldo Guedes",
+        "interpretacao": "Darcir Branco"
+      },
+      {
+        "ano": 1977,
+        "titulo": "Alô, alô, Brasil, 40 anos de Rádio Nacional",
+        "compositores": "Dominguinhos do Estácio",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1976,
+        "titulo": "Arte negra na legendária Bahia",
+        "compositores": "Caruso, Caramba e Dominguinhos do Estácio",
+        "interpretacao": "Dominguinhos, Aroldo, Leleco e Marly"
+      },
+      {
+        "ano": 1975,
+        "titulo": "A festa do Círio de Nazaré",
+        "compositores": "Dario Marciano, Aderbal Moreira e Nilo Mendes (Esmera)",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "Heroínas dos romances brasileiros",
+        "compositores": "Djalma das Mercês e Maneca",
+        "interpretacao": "Delmo"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Trá, lá, lá, um hino ao carnaval brasileiro de Lamartine Babo",
+        "compositores": "Oliviel e Darcy do Nascimento",
+        "interpretacao": "Oliviel e Darcy do Nascimento"
+      },
+      {
+        "ano": 1972,
+        "titulo": "O Rio Grande do Sul na festa do Preto Forro",
+        "compositores": "Nilo Mendes e Dário Marciano",
+        "interpretacao": "Jorge de Oliveira, Dário Marciano e Beth Carvalho"
+      },
+      {
+        "ano": 1971,
+        "titulo": "Roteiro turístico através do Brasil",
+        "compositores": "Darci do Nascimento, Olivieli Oliveira e Nilo Mendes",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1970,
+        "titulo": "Terra de Caruaru",
+        "compositores": "Sidney da Conceição e Jorge Curvina",
+        "interpretacao": "Sidney da Conceição e Celso Landrini"
+      },
+      {
+        "ano": 1969,
+        "titulo": "Gabriela, cravo e canela",
+        "compositores": "Sidney da Conceição, Velha e Geninho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1968,
+        "titulo": "Uma visita ao Museu Imperial",
+        "compositores": "Jorge Cabo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1967,
+        "titulo": "Lendas e costumes do Brasil",
+        "compositores": "Mago e Canário",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1966,
+        "titulo": "História da Escola Nacional de Belas Artes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1965,
+        "titulo": "História do Teatro Municipal",
+        "compositores": "Tisil e Geninho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "História da música brasileira",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1963,
+        "titulo": "Bahia, quatro séculos em desfile",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1962,
+        "titulo": "História da música brasileira",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1961,
+        "titulo": "Música, poesia e arte",
+        "compositores": "Sidney da Conceição e Tisiu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1960,
+        "titulo": "Páginas da história do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1959,
+        "titulo": "Marechal Rondon",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1958,
+        "titulo": "Homenagem a Alberto Santos Dumont",
+        "compositores": "Sidney da Conceição e Tisiu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1956,
+        "titulo": "Glória aos imortais do samba",
+        "compositores": "",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Série Ouro",
+        "posicao": 6,
+        "pontos": 268.6,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Série Ouro",
+        "posicao": 2,
+        "pontos": 269.3,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro",
+        "posicao": 3,
+        "pontos": 269.6,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Série Ouro",
+        "posicao": 8,
+        "pontos": 268.9,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Série Ouro",
+        "posicao": 8,
+        "pontos": 269.1,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 264.7,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Série A",
+        "posicao": 1,
+        "pontos": 270.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Série A",
+        "posicao": 6,
+        "pontos": 267.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Série A",
+        "posicao": 3,
+        "pontos": 269.1,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 265.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Série A",
+        "posicao": 1,
+        "pontos": 299.7,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Série A",
+        "posicao": 2,
+        "pontos": 299.4,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Série A",
+        "posicao": 4,
+        "pontos": 299.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo A",
+        "posicao": 7,
+        "pontos": 297.2,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo A",
+        "posicao": 3,
+        "pontos": 298.7,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo A",
+        "posicao": 3,
+        "pontos": 268.6,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo A",
+        "posicao": 5,
+        "pontos": 238.1,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo A",
+        "posicao": 7,
+        "pontos": 237.7,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 386.5,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo A",
+        "posicao": 1,
+        "pontos": 240.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo B",
+        "posicao": 1,
+        "pontos": 179.9,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo A",
+        "posicao": 9,
+        "pontos": 177.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo A",
+        "posicao": 5,
+        "pontos": 175.4,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo A",
+        "posicao": 8,
+        "pontos": 190.3,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo A",
+        "posicao": 7,
+        "pontos": 188.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo A",
+        "posicao": 8,
+        "pontos": 191.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo A",
+        "posicao": 3,
+        "pontos": 166.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo A",
+        "posicao": 8,
+        "pontos": 166.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 163.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 287.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 296.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 274.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 289.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 298.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 290.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 561.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 200.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 204.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-A",
+        "posicao": 10,
+        "pontos": 187.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 10,
+        "pontos": 190.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Desfile de segunda-feira",
+        "posicao": 6,
+        "pontos": 173.0,
+        "resultado": "6º Lugar"
+      }
+    ]
   }
 }

@@ -1,0 +1,210 @@
+{
+  "ano": 1982,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1-A": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 187.0,
+        "enredo": "Bum Bum Paticumbum Prugurundum"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 185.0,
+        "enredo": "Meu Brasil Brasileiro"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 183.0,
+        "enredo": "Onde Canta o Sabiá"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 180.0,
+        "enredo": "As Mil e Uma Noites Cariocas"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 180.0,
+        "enredo": "É Hoje"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 179.0,
+        "enredo": "O Olho Azul da Serpente"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 176.0,
+        "enredo": "O Velho Chico"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 170.0,
+        "enredo": "No Reino do Faz de Conta"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 158.0,
+        "enredo": "Noel Rosa e os Poetas da Vila nas Batalhas do Boulevard"
+      }
+    ],
+    "RJ - Grupo 1-B": [
+      {
+        "posicao": 10,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 152.0,
+        "enredo": "Você Sabe como É"
+      }
+    ],
+    "RJ - Grupo 2-A": [
+      {
+        "posicao": 2,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 183.0,
+        "enredo": "Alegria"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 181.0,
+        "enredo": "As Intocáveis Tempestades de Dam"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 152.0,
+        "enredo": "Apoteose com Flores"
+      }
+    ],
+    "RJ - Grupo 2-B": [
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 152.0,
+        "enredo": "Ari Barroso, o Gênio Imortal"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 95.0,
+        "enredo": "Orun-Ayê - O Eterno Amanhecer"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 92.0,
+        "enredo": "Palmares, Raízes da Liberdade"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 90.0,
+        "enredo": "Negros Maravilhosos \"Mutuo Mundo Kitoko\""
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 89.0,
+        "enredo": "Ainá, no Reino de Baobá"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 82.0,
+        "enredo": "Malungos \"Guerreiros Negros\""
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 81.0,
+        "enredo": "Futebol e Carnaval"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 75.0,
+        "enredo": "No Reino da Mãe D'Água"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 91.0,
+        "enredo": "No Reino de Mãos de Cabelo e da Negra Pisadeira"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 89.0,
+        "enredo": "Primeira Dama da Caricatura - Nair de Teffé"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 87.0,
+        "enredo": "Adoniran Barbosa"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 86.0,
+        "enredo": "Viagem Encantada ao Reino da Natureza"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 63.0,
+        "enredo": "Titulares do Ritmo - 30 Anos de União"
+      }
+    ],
+    "SP - Grupo 4": [
+      {
+        "posicao": 5,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 68.0,
+        "enredo": "A Tenda dos Milagres"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

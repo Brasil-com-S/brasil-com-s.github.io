@@ -1,0 +1,201 @@
+{
+  "ano": 1977,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 86.0,
+        "enredo": "Vovó e o Rei da Saturnália na Corte Egipciana"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 85.0,
+        "enredo": "Festa da Aclamação"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 85.0,
+        "enredo": "Domingo"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 85.0,
+        "enredo": "Do Cauim ao Efó, com Moça Branca, Branquinha"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 82.0,
+        "enredo": "Ai que Saudades que Eu Tenho"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 79.0,
+        "enredo": "Brasil, Berço dos Imigrantes"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 76.0,
+        "enredo": "Parapanã, o Segredo do Amor"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 74.0,
+        "enredo": "Samba Marca Registrada"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 71.0,
+        "enredo": "Viagens Fantásticas às Terras de Ibirapitanga"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 10,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 46.0,
+        "enredo": "Acredite Se Quiser"
+      },
+      {
+        "posicao": 15,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 38.0,
+        "enredo": "Os Precursores"
+      },
+      {
+        "posicao": 17,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 37.0,
+        "enredo": "Brasil Caboclo"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 48.0,
+        "enredo": "Madame Satã"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 44.0,
+        "enredo": "Ginga, a Rainha da Congada"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 94.0,
+        "enredo": "Narainã, a Alvorada dos Passáros"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 90.0,
+        "enredo": "José Maurício, Músico do Brasil Colonial"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 90.0,
+        "enredo": "Uma Vida no Palco - Procópio Ferreira"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 87.0,
+        "enredo": "Àtaulfo Alves, \"o Poeta de Miraí\""
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 77.0,
+        "enredo": "Zequinha de Abreu - Sonho de Uma Época"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 76.0,
+        "enredo": "Folclore em Passarela"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 61.0,
+        "enredo": "Cordões e Gafieiras (homenagem a Pato N'Água"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 58.0,
+        "enredo": "Eternos Vigilantes - Homenagem ao Corpo de Bombeiros"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 20.0,
+        "enredo": "Noite de Festa"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 12,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 58.0,
+        "enredo": "Stanislaw Ponte Preta e o Samba do Criolo Doido"
+      }
+    ],
+    "SP - Grupo 4": [
+      {
+        "posicao": 2,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 79.0,
+        "enredo": "A Bahia de Jorge Amado"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 47.0,
+        "enredo": "Gafanhoto Verde, \"Glórias ao Samba\""
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

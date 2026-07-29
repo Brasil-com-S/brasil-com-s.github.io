@@ -1,0 +1,46 @@
+{
+  "ano": 1954,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Campeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 122.0,
+        "enredo": "O Caçador de Esmeraldas"
+      }
+    ],
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 180.0,
+        "enredo": "Rio Antigo e Moderno"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 177.0,
+        "enredo": "O Guarani"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 167.0,
+        "enredo": "Uma Romaria na Bahia"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 161.0,
+        "enredo": "São Paulo Quatrocentão (O Despertar do Gigante)"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

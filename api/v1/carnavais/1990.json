@@ -1,0 +1,233 @@
+{
+  "ano": 1990,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "mocidade-independente",
+      "escola_nome": "Mocidade Independente de Padre Miguel",
+      "pontos": 565.0
+    },
+    "SP": {
+      "escola_slug": "camisa-verde-e-branco",
+      "escola_nome": "Camisa Verde e Branco",
+      "pontos": 294.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 226.0,
+        "enredo": "Só Vale o Escrito"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 222.0,
+        "enredo": "Porque Sou Carioca?"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 188.0,
+        "enredo": "Eneida, o Pierrô Está de Volta"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 152.0,
+        "enredo": "O Encanto da Vida É Recordar"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 565.0,
+        "enredo": "Vira, Virou, a Mocidade Chegou"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 564.0,
+        "enredo": "Todo Mundo Nasceu Nu"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 564.0,
+        "enredo": "Sou Amigo do Rei"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 562.0,
+        "enredo": "Terra Brasilis, o Que Se Plantou Deu"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 561.0,
+        "enredo": "Langsdorff, Delírio na Sapucaí"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 559.0,
+        "enredo": "E o Samba Sambou"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 551.0,
+        "enredo": "Sonhar com Rei Dá João"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 550.0,
+        "enredo": "E Deu a Louca no Barroco"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 546.0,
+        "enredo": "É de Ouro e Prata Esse Chão"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 540.0,
+        "enredo": "História da Nossa História"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 529.0,
+        "enredo": "Se Esta Terra, Se Esta Terra Fosse Minha"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 2,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Casais da Era"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Pintando o Sete - Aquarela Brasileira"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Paulinho da Viola"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Com o Chico na Avenida"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 6,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 190.0,
+        "enredo": "Magia da Vila - Ruas de Vila Madalena"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 294.0,
+        "enredo": "Dos Barões do Café a Sarney , Onde Foi que Errei"
+      },
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 294.0,
+        "enredo": "Até Que Enfim... \"O Sábado \""
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 293.0,
+        "enredo": "De Roma Pagã ao Esplendor da Paulicéia"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 291.0,
+        "enredo": "60 anos no Reino das Bananas"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 278.0,
+        "enredo": "Os Segredos do Amor"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 277.0,
+        "enredo": "A Nossa Pré-História . Quem Sou Eu?"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 263.0,
+        "enredo": "Respeito é Bom e eu Gosto"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 261.0,
+        "enredo": "O Homem Nasceu Para Voar"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 221.0,
+        "enredo": "Shangri-lá Tupiniquin, Sonho, Fartura e Milagres"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

@@ -1,0 +1,210 @@
+{
+  "ano": 1981,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1-A": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 167.0,
+        "enredo": "O Teu Cabelo Não Nega"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 161.0,
+        "enredo": "Carnaval do Brasil, a Oitava das Sete Maravilhas do Mundo"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 158.0,
+        "enredo": "Das Maravilhas do Mar, Fez-se o Esplendor de Uma Noite"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 147.0,
+        "enredo": "De Nonô a JK"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 140.0,
+        "enredo": "Rio de Janeiro"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 139.0,
+        "enredo": "Abram Alas para a Folia, aí Vem a Mocidade"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 138.0,
+        "enredo": "1910, Burro na Cabeça"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 130.0,
+        "enredo": "Dos Jardins do Éden à Era de Aquárius"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 127.0,
+        "enredo": "Na Terra do Pau-brasil, nem Tudo Caminha Viu"
+      }
+    ],
+    "RJ - Grupo 1-B": [
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 152.0,
+        "enredo": "É Hoje, a História do Carnaval"
+      }
+    ],
+    "RJ - Grupo 2-A": [
+      {
+        "posicao": 3,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 88.0,
+        "enredo": "Assim Dança o Brasil"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 75.0,
+        "enredo": "Exaltação a Vinícius de Moraes"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 73.0,
+        "enredo": "As Grandes Festas do Rio nas Quatro Estações do Ano"
+      }
+    ],
+    "RJ - Grupo 2-B": [
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 137.0,
+        "enredo": "Aí Vem Dezembro"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 99.0,
+        "enredo": "Acredite se quiser"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 97.5,
+        "enredo": "Visungo \"Canto de Riqueza\""
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 97.0,
+        "enredo": "Amor, Sublime Amor"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 95.5,
+        "enredo": "Axé - Sonho de Candeia"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 95.5,
+        "enredo": "Do Caminho do Mar à Ilha do Tesouro"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 93.0,
+        "enredo": "Uma Hora na Amazônia"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 79.5,
+        "enredo": "Quem Não Pode, Pode No 1º de Abril ou A Visita do Reino de Mentira ao País da Verdade"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 91.0,
+        "enredo": "Moço de Prata, Vitória-régia no Carnaval"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 83.0,
+        "enredo": "Revista Musicada"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 78.0,
+        "enredo": "No País do Carnaval, um Carnaval de Fantasias"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 72.0,
+        "enredo": "Dorival Caymmi, \"O Cancioneiro da Bahia\""
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 67.0,
+        "enredo": "O Nosso Calendário"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 10,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 59.0,
+        "enredo": "Rosalina, \"a Nossa Costureira\""
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

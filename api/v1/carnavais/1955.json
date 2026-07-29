@@ -1,0 +1,53 @@
+{
+  "ano": 1955,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Campeonato": [
+      {
+        "posicao": 11,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 85.0,
+        "enredo": "Obras da Natureza"
+      }
+    ],
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 174.0,
+        "enredo": "Exaltação a Caxias"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 172.0,
+        "enredo": "As Quatro Estações do Ano ou Cânticos à Natureza"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 163.0,
+        "enredo": "Uma Festa Junina no Mês de Fevereiro"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 152.0,
+        "enredo": "Epopeia do Samba"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 122.0,
+        "enredo": "Páginas de Ouro da Poesia Brasileira"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

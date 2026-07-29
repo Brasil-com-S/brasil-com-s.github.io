@@ -1,0 +1,219 @@
+{
+  "ano": 1986,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1-A": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 214.0,
+        "enredo": "Caymmi Mostra ao Mundo o que a Bahia e a Mangueira Têm"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 211.0,
+        "enredo": "O Mundo É Uma Bola"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 209.0,
+        "enredo": "Eu Quero"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 207.0,
+        "enredo": "Morfeu no Carnaval, a Utopia Brasileira"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 205.0,
+        "enredo": "Assombrações"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 204.0,
+        "enredo": "Tem que se Tirar da Cabeça Aquilo que não se Tem no Bolso - Tributo a Fernando Pamplona"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 201.0,
+        "enredo": "Bruxarias e Histórias do Arco da Velha"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 197.0,
+        "enredo": "Um Jeito pra Ninguém Botar Defeito"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 187.0,
+        "enredo": "Prata da Noite - Homenagem a Grande Otelo"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 186.0,
+        "enredo": "De Alegria Cantei, de Alegria Pulei, de Três em Três, pelo Mundo Rodei"
+      }
+    ],
+    "RJ - Grupo 1-B": [
+      {
+        "posicao": 2,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 198.0,
+        "enredo": "Pouca Saúde, Muita Saúva, os Males do Brasil São"
+      }
+    ],
+    "RJ - Grupo 2-A": [
+      {
+        "posicao": 4,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 196.0,
+        "enredo": "A Neta de Chiquita Bacana"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 170.0,
+        "enredo": "E aí o Homem Entrou na Guerra com a Natureza"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 167.0,
+        "enredo": "A Procissão dos Navegantes"
+      }
+    ],
+    "RJ - Grupo 2-B": [
+      {
+        "posicao": 2,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 198.0,
+        "enredo": "Ui, que Medo. Crenças e Crendices Brasileiras Através dos Tempos"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 95.0,
+        "enredo": "Do Jeito que a Gente Gosta"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 92.0,
+        "enredo": "Fantasia Sonho Sem Fim"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 91.0,
+        "enredo": "Rabo de Foguete"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 86.0,
+        "enredo": "Apesar de Tudo, é Isso Aí"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 84.0,
+        "enredo": "Benjamin de Oliveira, \"o Palhaço Negro\""
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 82.0,
+        "enredo": "Cem anos depois"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 72.0,
+        "enredo": "Ah!, Se eu fosse Noé"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 66.0,
+        "enredo": "Foi Assim e aí Vem Mais"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 89.0,
+        "enredo": "Carnaval, Alegria do Povo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 83.0,
+        "enredo": "Assim Falou Juca Pato"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 71.0,
+        "enredo": "Falando de Amor, Perfume e Beleza"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 5,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 82.0,
+        "enredo": "Esta Noite Sonhamos"
+      }
+    ],
+    "SP - Grupo 4": [
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 68.0,
+        "enredo": "Meu Chic Tatuapé, De Brás Cubas ao Pequeno Polegar"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

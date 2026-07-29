@@ -7,9 +7,7 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos do Salgueiro",
     "fundacao": "1953-03-05",
     "fundadores": [
-      "Jorge de Oliveira (Seu Neném)",
-      "Nelson de Andrade",
-      "Joaquim Casemiro"
+      "Fusão das escolas Depois Eu Digo e Azul e Branco (Morro do Salgueiro)"
     ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
@@ -20,10 +18,10 @@
       "Branco"
     ],
     "cores_hex": [
-      "#D32F2F",
-      "#FFFFFF"
+      "#FF0000",
+      "#FFF"
     ],
-    "simbolo": "Tambor e Tocha",
+    "simbolo": "Pandeiro, surdo de barrica, tamborim quadrado, afoxé de cabaça e uma baqueta Sabiá (mascote)",
     "titulos": 9,
     "anos_titulos": [
       1960,
@@ -38,9 +36,944 @@
     ],
     "logo_url": "assets/logos/original/salgueiro.png",
     "logo_original_url": "assets/logos/original/salgueiro.png",
-    "logo_gemini_png_url": "assets/logos/gemini/salgueiro.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/salgueiro.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "A Delirante Jornada Carnavalesca da Professora que não Tinha Medo de Bruxa, de Bacalhau e nem do Pirata da Perna-de-pau",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Salgueiro de Corpo Fechado",
+        "compositores": "",
+        "interpretacao": "Igor Sorriso"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Hutukara",
+        "compositores": "",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2023,
+        "titulo": "Delírios de Um Paraíso Vermelho",
+        "compositores": "Moisés Santiago, Líbero, Serginho do Porto, Celino Dias, Aldir Senna, Orlando Ambrósio, Gilmar L. Silva e Marquinho Bombeiro",
+        "interpretacao": "Emerson Dias"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Resistência",
+        "compositores": "Demá Chagas, Pedrinho da Flor, Leonardo Gallo, Zeca do Cavaco, Gladiador e Renato Galante",
+        "interpretacao": "Emerson Dias e Quinho"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Resistência",
+        "compositores": "",
+        "interpretacao": "Emerson Dias e Quinho"
+      },
+      {
+        "ano": 2020,
+        "titulo": "O Rei Negro do Picadeiro",
+        "compositores": "Marcelo Motta, Fred Camacho, Guinga do Salguueiro, Getúlio Coelho, Ricardo Neves e Francisco Aquino",
+        "interpretacao": "Emerson Dias e Quinho"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Xangô",
+        "compositores": "Demá Chagas, Marcelo Motta, Renato Galante, Fred Camacho, Leonnardo Gallo, Getúlio Coelho, Vanderlei Sena e Francisco Aquino",
+        "interpretacao": "Emerson Dias e Quinho"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Senhoras do Ventre do Mundo",
+        "compositores": "Xande de Pilares, Demá Chagas, Dudu Botelho, Renato Galante, Jassa, Leonardo Gallo, Betinho de Pilares, Vanderley Sena, Ralfe Ribeiro e W Corrêa",
+        "interpretacao": "Leonardo Bessa, Hudson Luiz e Tuninho Junior"
+      },
+      {
+        "ano": 2017,
+        "titulo": "A Divina Comédia do Carnaval",
+        "compositores": "Marcelo Motta, Fred Camacho, Guinga do Salgueiro, Getúlio Coelho, Ricardo Neves, Francisco Aquino",
+        "interpretacao": "Serginho do Porto e Leonardo Bessa"
+      },
+      {
+        "ano": 2016,
+        "titulo": "A Ópera dos Malandros",
+        "compositores": "Marcelo Motta, Fred Camacho, Guinga, Getúlio Coelho, Ricardo Fernandes e Francisco Aquino",
+        "interpretacao": "Serginho do Porto e Leonardo Bessa"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Do Fundo do Quintal, Saberes e Sabores na Sapucaí",
+        "compositores": "Xande de Pilares, Jassa, Betinho de Pilares, Miudinho, Luiz Pião e W. Correa",
+        "interpretacao": "Serginho do Porto e Leonardo Bessa"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Gaia - A Vida em Nossas Mãos",
+        "compositores": "Xande de Pilares, Dudu Botelho, Miudinho, Betinho de Pilares, Rodrigo Raposo e Jassa",
+        "interpretacao": "Quinho, Serginho do Porto, Leonardo Bessa e Xande de Pilares"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Fama",
+        "compositores": "Marcelo Motta, João Ferreira, Ge Lopes e Thiago Daniel",
+        "interpretacao": "Quinho, Serginho do Porto, Leonardo Bessa e Xande de Pilares"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Cordel Branco e Encarnado",
+        "compositores": "Marcelo Motta, Tico do Gato, Ribeirinho, Dilson Marimba, Domingos PS e Diego Tavares",
+        "interpretacao": "Quinho, Serginho do Porto e Leonardo Bessa"
+      },
+      {
+        "ano": 2011,
+        "titulo": "Salgueiro Apresenta: O Rio no Cinema",
+        "compositores": "Dudu Botelho, Miudinho, Anderson Benson e Luiz Pião",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Histórias Sem Fim",
+        "compositores": "Josemar Manfredini, Brasil do Quintal, Jassa, Betinho do Ponto e Fernando Magaça",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Tambor",
+        "compositores": "Moisés Santiago, Paulo Shell, Leandro Costa e Tatiana Leite",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2008,
+        "titulo": "O Rio de Janeiro Continua Sendo...",
+        "compositores": "Dudu Botelho, Marcelo Motta, Luiz Pião, Josemar Manfredini e João Conga",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Candaces",
+        "compositores": "Dudu Botelho, Marcelo Motta, Zé Paulo e Luiz Pião",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Microcosmos o que os Olhos não Vêem, o Coração Sente",
+        "compositores": "Moisés, Waltinho, Fernando, Paulo, Tiãozinho, ABS, Leonel, Luizinho e Quinho",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Do Fogo que Ilumina a Vida, Salgueiro É Chama que Não se Apaga",
+        "compositores": "Moisés Santiago, Waltinho Honorato, Fernando Magaça e Luiz Antonio",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2004,
+        "titulo": "A Cana que Aqui se Planta, Tudo Dá... Até Energia! Álcool, o Combustível do Futuro",
+        "compositores": "Leonel, Luizinho Professor, Serginho 20, Sidney Sã e Professor Newtão",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Salgueiro, Minha Paixão, Minha Raiz - 50 Anos de Glórias",
+        "compositores": "Leonel, Luizinho Professor, Serginho 20, Sidney Sã e Claudinho",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Asas de Um Sonho. Viajando com o Salgueiro, o Orgulho de Ser Brasileiro...",
+        "compositores": "Leonel, Luizinho Professor, Serginho 20, Sidney Sã, Claudinho e Nêgo",
+        "interpretacao": "Edson Feliciano Marconde (Nêgo)"
+      },
+      {
+        "ano": 2001,
+        "titulo": "Salgueiro no Mar de Xarayés, É Pantanal, é Carnaval",
+        "compositores": "Augusto, José Carlos da Saara, Rocco Filho e Nêgo",
+        "interpretacao": "Edson Feliciano Marconde (Nêgo)"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Sou Rei, Sou Salgueiro, Meu Reinado É Brasileiro",
+        "compositores": "Fernando Baster, J. C. Couto, João da Valsa, Touro e Wander Pires",
+        "interpretacao": "Wander Pires, Celino Dias e Emerson Dias"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Salgueiro É Sol e Sal nos Quatrocentos Anos de Natal",
+        "compositores": "Celso Trindade, Demá Chagas Líbero e Eduardo Dias",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Parintins , a Ilha do Boi-Bumbá : Garantido X Caprichoso , Caprichoso X Garantido",
+        "compositores": "Paulo Onça, Mestre Louro e Quinho",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1997,
+        "titulo": "De Poeta, Carnavalesco e Louco... Todo Mundo Tem Um Pouco",
+        "compositores": "Márcio Paiva, Adalto Magalha, Eduardo Dias, Tico do Gato, Guaracy e Quinho",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Anarquistas Sim, mas Nem Todos",
+        "compositores": "Márcio Paiva, Adalto Magalha, Eduardo Dias e Quinho",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1995,
+        "titulo": "O Caso do Por Acaso",
+        "compositores": "Márcio Paiva, Adalto Magalha e Quinho",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Rio de Lá pra Cá",
+        "compositores": "Celso Trindade, Demá Chagas, Bala, Arizão, Guaracy  e Quinzinho",
+        "interpretacao": "Quinzinho"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Peguei Um Ita no Norte",
+        "compositores": "Demá Chagas, Arizão, Celso Trindade, Bala, Guaracy, Quinho.",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1992,
+        "titulo": "O Negro que Virou Ouro nas Terras do Salgueiro",
+        "compositores": "Bala, Efealves, Preto Velho, Sobral e Tiãzinho do Salgueiro",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1991,
+        "titulo": "Me Masso Se não Passo pela Rua do Ouvidor",
+        "compositores": "Sereno, Luiz Fernando e Diogo",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Sou Amigo do Rei",
+        "compositores": "Alaor Macedo, Arizão, Demá Chagas, Pedrinho da Flor e Fernando Baster",
+        "interpretacao": "Nilzo (Rico) Medeiros"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Templo Negro em Tempo de Consciência Negra",
+        "compositores": "Alaor Macedo, Helinho do Salgueiro, Arizão, Demá Chagas, Rubinho do Afro",
+        "interpretacao": "Antônio Ricardo de Souza (Rixxa)"
+      },
+      {
+        "ano": 1988,
+        "titulo": "Em Busca do Ouro",
+        "compositores": "Arizão, Alaor Macedo, Rolando Medeiros, Jorginho, Gilberto Tobias, Buguinho, Henrique, Mauro Torrão e Rixxa",
+        "interpretacao": "Antônio Ricardo de Souza (Rixxa)"
+      },
+      {
+        "ano": 1987,
+        "titulo": "E por que não?",
+        "compositores": "Didi, Bala e Cezar Veneno",
+        "interpretacao": "Rixxa e Dalmir"
+      },
+      {
+        "ano": 1986,
+        "titulo": "Tem que se Tirar da Cabeça Aquilo que não se Tem no Bolso - Tributo a Fernando Pamplona",
+        "compositores": "Jorge Melodia, Paulo Emílio, Bicho de Pena e Marcelo Lessa",
+        "interpretacao": "Nilzo (Rico) Medeiros"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Anos Trinta, Vento Sul - Vargas",
+        "compositores": "Bala, Jorge Melodia e Jorge Moreira",
+        "interpretacao": "Rico Medeiros e Paulinho"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Skindô, Skindô",
+        "compositores": "David Corrêa e Jorge Macedo",
+        "interpretacao": "David Corrêa"
+      },
+      {
+        "ano": 1983,
+        "titulo": "Traços e Troças",
+        "compositores": "Bala e Celso Trindade",
+        "interpretacao": "Nilzo (Rico) Medeiros"
+      },
+      {
+        "ano": 1982,
+        "titulo": "No Reino do Faz de Conta",
+        "compositores": "Zé Di e Cezar Veneno",
+        "interpretacao": "Paulo Valente, Lourenço Lúcio e e Zé Di"
+      },
+      {
+        "ano": 1981,
+        "titulo": "Rio de Janeiro",
+        "compositores": "Buguinho, Henrique Rodrigues Filho e Mário Torrão",
+        "interpretacao": "Nilzo (Rico) Medeiros"
+      },
+      {
+        "ano": 1980,
+        "titulo": "O Bailar dos Ventos, Relampejou, mas não Choveu",
+        "compositores": "Ala dos Compositores (Zé Di, Zuzuca, Edinho, Haydée, Moacir Arantes e Pompeu)",
+        "interpretacao": "Nilzo (Rico) Medeiros"
+      },
+      {
+        "ano": 1979,
+        "titulo": "O Reino Encantado da Mãe Natureza Contra o Reino do Mal",
+        "compositores": "Bala, Cuíca e Luís Marinheiro",
+        "interpretacao": "Nilzo (Rico) Medeiros"
+      },
+      {
+        "ano": 1978,
+        "titulo": "Do Yorubá à Luz, a Aurora dos Deuses",
+        "compositores": "Renato de Verdade",
+        "interpretacao": "Nilzo (Rico) Medeiros"
+      },
+      {
+        "ano": 1977,
+        "titulo": "Do Cauim ao Efó, com Moça Branca, Branquinha",
+        "compositores": "Geraldo Babão e Renato de Verdade",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Valongo",
+        "compositores": "Djalma Sabiá",
+        "interpretacao": "Noel Rosa de Oliveira e Dinalva"
+      },
+      {
+        "ano": 1975,
+        "titulo": "O Segredo das Minas do Rei Salomão",
+        "compositores": "Nininha Rossi, Dauro Ribeiro, Zé Pinto e Mário Pedra",
+        "interpretacao": "Sônia Santos e Noel Rosa de O."
+      },
+      {
+        "ano": 1974,
+        "titulo": "O Rei de França na Ilha da Assombração",
+        "compositores": "Zé Di e Malandro",
+        "interpretacao": "Zé Di e Laila"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Eneida, Amor e Fantasia",
+        "compositores": "Geraldo Babão",
+        "interpretacao": "Alaíde Costa e Zé Di"
+      },
+      {
+        "ano": 1972,
+        "titulo": "Nossa Madrinha, Mangueira Querida",
+        "compositores": "Zuzuca",
+        "interpretacao": "Zuzuca, Noel Rosa de Oliveira e Laíla"
+      },
+      {
+        "ano": 1971,
+        "titulo": "Festa Para Um Rei Negro",
+        "compositores": "Zuzuca",
+        "interpretacao": "Noel Rosa de Oliveira e Zuzuca"
+      },
+      {
+        "ano": 1970,
+        "titulo": "Praça Onze, Carioca da Gema",
+        "compositores": "Miro, Silvio, Duduca e Omildo",
+        "interpretacao": "Noel Rosa de Oliveira"
+      },
+      {
+        "ano": 1969,
+        "titulo": "Bahia de Todos os Deuses",
+        "compositores": "Bala e Manuel Rosa",
+        "interpretacao": "Elza Soares"
+      },
+      {
+        "ano": 1968,
+        "titulo": "Dona Beja, a Feiticeira de Araxá",
+        "compositores": "Áureo Campagnac de Souza - Aurinho da Ilha",
+        "interpretacao": "Jorge Goulart"
+      },
+      {
+        "ano": 1967,
+        "titulo": "História da Liberdade no Brasil",
+        "compositores": "Áureo Campagnac de Souza - Aurinho da Ilha",
+        "interpretacao": "Jorge Goulart"
+      },
+      {
+        "ano": 1966,
+        "titulo": "Os Amores Célebres do Brasil",
+        "compositores": "Bala, Zuzuca e Nilo",
+        "interpretacao": "Jorge Goulart"
+      },
+      {
+        "ano": 1965,
+        "titulo": "História do Carnaval Carioca - Eneida",
+        "compositores": "Geraldo Babão e Valdevino Rosa",
+        "interpretacao": "Jorge Goulart"
+      },
+      {
+        "ano": 1964,
+        "titulo": "Chico-Rei",
+        "compositores": "Geraldo Babão, Djalma Sabiá e Binha",
+        "interpretacao": "Noel Rosa de Oliviera"
+      },
+      {
+        "ano": 1963,
+        "titulo": "Chica da Silva",
+        "compositores": "Noel Rosa de Oliveira e Anescarzinho",
+        "interpretacao": "Noel Rosa de Oliviera"
+      },
+      {
+        "ano": 1962,
+        "titulo": "O Descobrimento do Brasil",
+        "compositores": "Geraldo Babão e Walter Moreira",
+        "interpretacao": "Noel Rosa de Oliviera"
+      },
+      {
+        "ano": 1961,
+        "titulo": "Vida e Obra de Aleijadinho",
+        "compositores": "Juca, Duduca e Bala",
+        "interpretacao": "Noel Rosa de Oliviera"
+      },
+      {
+        "ano": 1960,
+        "titulo": "Quilombo dos Palmares",
+        "compositores": "Noel Rosa de Oliveira, Anescar e Walter Moreira",
+        "interpretacao": "Noel Rosa de Oliveira"
+      },
+      {
+        "ano": 1959,
+        "titulo": "Viagem Pitoresca Através do Brasil - Debret",
+        "compositores": "Djalma Sabiá e Duduca",
+        "interpretacao": "Djalma de Oliveira Costa (Djalma Sabiá)"
+      },
+      {
+        "ano": 1958,
+        "titulo": "Um Século e Meio de Progresso a Serviço do Brasil - Homenagem ao Corpo de Fuzileiros Navais",
+        "compositores": "Djalma Sabiá, Carivaldo da Mota e Graciano Campos",
+        "interpretacao": "Raul Moreno"
+      },
+      {
+        "ano": 1957,
+        "titulo": "Navio Negreiro",
+        "compositores": "Djalma Sabiá e Amado Régis",
+        "interpretacao": "Djalma de Oliveira Costa (Djalma Sabiá)"
+      },
+      {
+        "ano": 1956,
+        "titulo": "Brasil, Fonte das Artes ou A Riqueza das Artes no Brasil",
+        "compositores": "Djalma Sabiá, Eden Silva (Caxiné) e Nilo Moreira",
+        "interpretacao": "Djalma de Oliveira Costa (Djalma Sabiá)"
+      },
+      {
+        "ano": 1955,
+        "titulo": "Epopeia do Samba",
+        "compositores": "Bala, Duduca e José Ernesto Aguiar",
+        "interpretacao": "Pastoras da Escola"
+      },
+      {
+        "ano": 1954,
+        "titulo": "Uma Romaria na Bahia",
+        "compositores": "Abelardo Silva, Duduca e Ernesto José Aguiar",
+        "interpretacao": "Pastoras da Escola"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.7,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 269.2,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 268.3,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.3,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.7,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.3,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 297.9,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.7,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 296.2,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 297.9,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 399.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 398.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 396.4,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 388.9,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 397.9,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 386.2,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 390.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 392.9,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 296.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 290.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 265.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 261.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 177.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 297.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 298.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 295.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 299.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 294.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 295.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 564.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 207.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 219.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 216.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-A",
+        "posicao": 6,
+        "pontos": 204.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 6,
+        "pontos": 204.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Desfile de domingo",
+        "posicao": 4,
+        "pontos": 192.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-A",
+        "posicao": 8,
+        "pontos": 188.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1-A",
+        "posicao": 8,
+        "pontos": 170.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1-A",
+        "posicao": 5,
+        "pontos": 140.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1-A",
+        "posicao": 3,
+        "pontos": 87.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1-A",
+        "posicao": 6,
+        "pontos": 151.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 147.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 85.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 106.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 108.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 94.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 56.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 56.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 128.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 83.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 129.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 112.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 109.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 120.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 132.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 58.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 93.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 112.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Supercampeonato",
+        "posicao": 2,
+        "pontos": 98.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1959,
+        "grupo": "Supercampeonato",
+        "posicao": 2,
+        "pontos": 101.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1958,
+        "grupo": "Supercampeonato",
+        "posicao": 4,
+        "pontos": 99.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1957,
+        "grupo": "Supercampeonato",
+        "posicao": 4,
+        "pontos": 87.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1956,
+        "grupo": "Supercampeonato",
+        "posicao": 4,
+        "pontos": 90.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1955,
+        "grupo": "Supercampeonato",
+        "posicao": 4,
+        "pontos": 152.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1954,
+        "grupo": "Supercampeonato",
+        "posicao": 3,
+        "pontos": 167.0,
+        "resultado": "3º Lugar"
+      }
+    ]
   }
 }

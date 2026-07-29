@@ -1,0 +1,97 @@
+{
+  "ano": 1967,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 113.0,
+        "enredo": "O Mundo Encantado de Monteiro Lobato"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 109.0,
+        "enredo": "São Paulo, Chapadão de Glórias"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 109.0,
+        "enredo": "História da Liberdade no Brasil"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 99.0,
+        "enredo": "Carnaval das Ilusões"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 83.0,
+        "enredo": "Tal Dia É o Batizado"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 66.0,
+        "enredo": "O Teatro Brasileiro Através dos Tempos"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 49.0,
+        "enredo": "A Vida Poética de Olavo Bilac"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 48.0,
+        "enredo": "Festas e Tradições Populares do Brasil"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 4,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 75.0,
+        "enredo": "O Penacho do Capitão-mor"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 105.0,
+        "enredo": "A Queda da Monarquia"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 95.0,
+        "enredo": "Princesa Isabel e Marechal Hermes"
+      },
+      {
+        "posicao": 19,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 69.0,
+        "enredo": "Os Precursores da Abolição"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

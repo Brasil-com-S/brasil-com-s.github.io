@@ -4,10 +4,10 @@
     "id": "academicos-do-tucuruvi",
     "slug": "academicos-do-tucuruvi",
     "nome": "Acadêmicos do Tucuruvi",
-    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Acadêmicos do Tucuruvi",
+    "nome_completo": "O Grêmio Recreativo Cultural Social Escola de Samba Acadêmicos do Tucuruvi",
     "fundacao": "1976-02-01",
     "fundadores": [
-      "Comunidade do Tucuruvi"
+      "Grupo de moradores do bairro do Tucuruvi"
     ],
     "estado": "SP",
     "cidade": "São Paulo",
@@ -20,26 +20,649 @@
       "Branco"
     ],
     "cores_hex": [
-      "#1976D2",
-      "#FFEB3B",
-      "#D32F2F",
+      "#0000FF",
+      "#FFFF00",
+      "#FF0000",
       "#FFFFFF"
     ],
-    "simbolo": "Galo Cantando",
+    "simbolo": "Diamante (na bandeira) Gafanhoto (mascote)<Ref name=\"SASP - História\"/>",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/academicos-do-tucuruvi.png",
     "logo_original_url": "assets/logos/original/academicos-do-tucuruvi.png",
-    "logo_gemini_png_url": "assets/logos/gemini/academicos-do-tucuruvi.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/academicos-do-tucuruvi.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Ogbódirin, Ògbóni",
         "compositores": "Nícolas Gonçalves (Carnavalesco)",
         "interpretacao": "Hudson Luiz"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Anti-Herói Brasil",
+        "compositores": "Fábio Jelleya, Maurício Pito, Felipe Mendonça, Matheus Nassar e Newtinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Assojaba - A Busca pelo Manto",
+        "compositores": "Macaco Branco, Carlos Bebeto, Djalma Santos, Chiquinho Gomes, Dr. Marcello Medeiros, Denis Moraes e Marcelo Faria",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Ifá",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Da Silva, Bezerra. A Voz do Povo!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Carnavais: de lá pra cá, o que mudou? daqui pra lá, o que será?",
+        "compositores": "Leonardo Bessa, Rodrigo Minueto, Diego Nicolau, Rodolfo Minueto, Marcelo Casanossa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Faces de Anysio, o eterno Chico. Sorrir é… e sempre será o melhor remédio",
+        "compositores": "Abílio Jr, Digo, Edu Borel, Fábio Jelleya, Henrique Barba, JC Castilho, Leonardo Bessa, Myngal, Newtinho e Wlad",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Liberdade. O canto retumbante de um povo heroico",
+        "compositores": "Fábio Jelleya, Henrique Barba, JC Castilho, Edu Borel, Marcelo Nunes, Newtinho, Igor Soró, Tim Peixoto, Brunão Govetri, Leandro Augusto e Leonardo Bessa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Eu sou a Arte: Meu palco é a rua",
+        "compositores": "Carlos Júnior, Fabiano Sorriso, Márcio André, Marcos Vinicius, Wellington da Padaria, Beto Rocha e Biel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Celebrando a religiosidade , Tucuruvi canta as festas de fé",
+        "compositores": "Carlos Júnior, Arlindo Neto, Bruno Govetri, Igor Soró, João Batucada, Leandro Augusto, Marcelo 77 e Tim Peixoto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Entre confetes e serpentinas, Tucuruvi relembra as marchinhas do seu, do meu, do nosso carnaval",
+        "compositores": "Fábio Jelleya, Henrique Barba, Leandro Franja, Serginho Moura, Gabriel, Fabinho Chaves, Edu Borel e JC Castilho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Uma fantástica viagem ao mundo da imaginação infantil",
+        "compositores": "Fábio Jelleya, Henrique Barba, Leandro Franja, Serginho Moura, Gabriel, Fabinho Chaves, Edu Borel e JC Castilho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Mazzaropi , o adorável caipira - 100 anos de alegria!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "O esplendor da África no reinado da folia",
+        "compositores": "Fábio Jelleya, Henrique Barba, Leandro Franja, Serginho Moura, Gabriel, Fabinho Chaves, Edu Borel e JC Castilho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Oxente, o que seria dessa gente, sem essa gente? São Paulo, capital do Nordeste",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "São Luis do Maranhão - Um Universo de Encantos e Magias",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Ouro Preto - O esplendor barroco de uma Vila Rica, relicário da Pátria, patrimônio da humanidade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Hummm... É tempo de sorvete, do oriente ao ocidente o alimento refrescante e nutritivo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Renovar é Preciso...Pra que o viver seja possível",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "A Fé do Homem do Campo em Cultivar, Ensinar e Aprender",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Samba, Sombra e Água Fresca - Cantareira, o Pulmão Verde de São Paulo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Tá na Mesa! CEAGESP é Fome Zero",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Não Calem Minha Voz",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "História, Cultura, Progressos Mil - Uberlândia Faz Pulsar o Coração do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "São Paulo dá Samba, Olha aí o Nosso Carnaval!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "90 milhões em Ação, na Tristeza e na Felicidade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Santa Catarina - o Circuito da Alegria",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Na Trilha do Tesouro, Nem Todo Mar é Azul, Nem Todo Amarelo é Ouro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Arte e Manhas Brasileiras",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Água Viva",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Alô, Alô Responde",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Calçadas Musicais",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Da Fruta que Você Gosta",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "O Samba Pede Passagem",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Cinco Ases e um Coringa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Pintando o Sete - Aquarela Brasileira",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Esperança de um Povo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "No Reino da Fantasia Fui Rei Por Um Dia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Brasil em Aquarela",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Carnaval, Alegria do Povo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Miscigenação das Raças (De Onde Vem)",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "Maurício de Nassau em terras de Santa Cruz",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Bahia de Encantos e Magia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Primeira Dama da Caricatura - Nair de Teffé",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Revista Musicada",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Gigante das Artes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Viagem nas Cores (Cecília Meireles)",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Sonho de Carnaval",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Gafanhoto Verde, \"Glórias ao Samba\"",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 269.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": null,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": null,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": null,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.1,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 268.3,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 159.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.25,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.25,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 354.75,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 87.25,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 291.25,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 292.75,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 295.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 198.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 196.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 197.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 192.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 196.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 287.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 269.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 292.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 277.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 94.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 240.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 92.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 227.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 168.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 226.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 89.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": 172.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": 279.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 89.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 83.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 90.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 74.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 4",
+        "posicao": 1,
+        "pontos": 78.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 4",
+        "posicao": 5,
+        "pontos": 47.0,
+        "resultado": "5º Lugar"
+      }
+    ]
   }
 }

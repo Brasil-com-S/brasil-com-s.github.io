@@ -1,0 +1,30 @@
+{
+  "ano": 1947,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Escolas de samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 39.0,
+        "enredo": "Honra ao Mérito"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 37.2,
+        "enredo": "Brasil, Ciências e Artes"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": null,
+        "enredo": "De Escrava a Rainha"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

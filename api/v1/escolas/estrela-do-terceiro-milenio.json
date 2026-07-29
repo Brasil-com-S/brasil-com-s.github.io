@@ -4,42 +4,310 @@
     "id": "estrela-do-terceiro-milenio",
     "slug": "estrela-do-terceiro-milenio",
     "nome": "Estrela do Terceiro Milênio",
-    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Estrela do Terceiro Milênio",
+    "nome_completo": "O Grêmio Recreativo Cultural Escola de Samba Estrela do Terceiro Milênio",
     "fundacao": "1998-05-05",
-    "fundadores": [
-      "Silvão"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Grajaú",
     "grupo": "Especial",
     "cores": [
-      "Vermelho",
       "Azul",
-      "Verde",
+      "Vermelho",
       "Branco"
     ],
     "cores_hex": [
-      "#D32F2F",
-      "#1976D2",
-      "#388E3C",
+      "#0000FF",
+      "#FF0000",
       "#FFFFFF"
     ],
-    "simbolo": "Estrela Guia de Ouro",
+    "simbolo": "Coruja",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/estrela-do-terceiro-milenio.png",
     "logo_original_url": "assets/logos/original/estrela-do-terceiro-milenio.png",
-    "logo_gemini_png_url": "assets/logos/gemini/estrela-do-terceiro-milenio.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/estrela-do-terceiro-milenio.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Incrível, Fantástico, Extraordinário",
         "compositores": "Murilo Lobo (Carnavalesco)",
         "interpretacao": "Grazzi Brasil"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Hoje a Poesia vem ao nosso encontro: Paulo César Pinheiro, uma viagem pela vida e obra do poeta das canções",
+        "compositores": "Rodrigo Shumacker, Thiago Meiners, Freddy Vianna, Pitty de Menezes, Claudio Mattos, Morganti Tubino, Ítalo Pires, Herval Neto, Beto Savanna, Wilson Mineiro e Anderson Lemos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Muito Além do Arco-Íris! Tire o preconceito do caminho que nós vamos passar com o amor",
+        "compositores": "Rodrigo Minuetto, Rodolfo Minuetto, Gui Cruz, Portuga, Imperial, Reinaldo Marques, Willian Tadeu e Vitor Gabriel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Vovó Cici Conta e o Grajaú Canta: O Mito da Criação",
+        "compositores": "Thiago Meiners, Darlan Alves, Rodrigo Schumacker, Pitty de Menezes e Claudio Mattos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Me dê sua tristeza que eu transformo em alegria! Um tributo à arte de fazer rir",
+        "compositores": "Pitty de Menezes, Thiago Meiners, Claudio Mattos, Wilson Mineiro e Marquinhos Bonsucesso",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Ô abre alas que elas vão passar!",
+        "compositores": "Grazzi Brasil, Fredy Vianna, Felipe Mendonça, Maurício Pito, Matheus Nassar E Rodrigo Schumaker",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "No coração da floresta nascem estrelas que brilham no meu carnaval",
+        "compositores": "Rodrigo Schumaker, Maurício Pito, Felipe Mendonça, Matheus Nassar e Fredy Vianna",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Coragem! Somos nós que fazemos a vida",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Na força da Coruja. Deixe a lenda te guiar",
+        "compositores": "Marcelo Casa Nossa e Darlan Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Para bom entendedor um pingo é letra e o símbolo uma palavra",
+        "compositores": "Ricardo Neto, Maradona, Turko, Rafa do Cavaco, Leandro flecha e Lucas Mascarenhas",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Na alegria e na tristeza, na saúde e na doença amando-te e respeitando-te!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Deus aponta a Estrela que vai brilhar!",
+        "compositores": "Netto SP, Ricardo, Maradona, Turko, Paulinho Miranda e Rodrigo Stabel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Xirê! Louvação aos orixás",
+        "compositores": "Edimar do Salgueiro, Wesley Rios, Cássio de Oliveira, Ronaldo Brás, Edson Salim, Wagninho Sempre Soube e Lucas Mascarenhas",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Reluz na constelação da Terceiro Milênio uma maravilha de estrela chamada Elke",
+        "compositores": "Chitão, Silvinho, Biro, Manoel Duarte e Bira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Quem sabe muitas vezes não diz, quem diz muitas vezes não sabe. Sabedoria é o segredo da vida",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Óxente Cabra da Peste, São Paulo Capital do Nordeste",
+        "compositores": "Baianinho do Cavaco, Dodô e Léco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "1,2,3... Abracadabra! Além da Mágica",
+        "compositores": "Wagnão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Feijoada, Das Sobras ao Prato Principal",
+        "compositores": "Silas Augusto, Edu Montanha e Ramon Lima",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Guarapiranga 100 Anos",
+        "compositores": "Edinho Gomes, Nando do Cavaco, Eliseu e Nilson Nassa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Ainda Há Tempo... E Se Chover Vai Melhorar",
+        "compositores": "Edinho Gomes, Nando do Cavaco e Eliseu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Ó Pátria Amada, Idolatrada, SOS...",
+        "compositores": "Edson JP, Nilson Nassa, Edinho Madureira e Toninho Penteado",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Boanoite.com",
+        "compositores": "Marcão Companhia, Edson JP, Nilson Nassa e Edinho Madureira",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 269.1,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 269.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": null,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo de acesso 2",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo de Acesso",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo 1-UESP",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo 1-UESP",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo de acesso",
+        "posicao": 8,
+        "pontos": 264.7,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo de acesso",
+        "posicao": 3,
+        "pontos": 269.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": 179.1,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 259.25,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 260.75,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 199.25,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 197.75,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo de Espera",
+        "posicao": 2,
+        "pontos": 99.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo 3 Oeste",
+        "posicao": 10,
+        "pontos": 177.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo de Espera",
+        "posicao": 4,
+        "pontos": 98.0,
+        "resultado": "4º Lugar"
+      }
+    ]
   }
 }

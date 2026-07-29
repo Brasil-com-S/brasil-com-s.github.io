@@ -4,16 +4,14 @@
     "id": "vai-vai",
     "slug": "vai-vai",
     "nome": "Vai-Vai",
-    "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Vai-Vai",
+    "nome_completo": "O Grêmio Recreativo Cultural e Social Escola de Samba Vai-Vai",
     "fundacao": "1930-01-01",
     "fundadores": [
-      "Ananias de Oliveira",
-      "Sebastião Eduardo (Tchê)",
-      "Frederico Rangel (Chiclé)"
+      "Grupo de sambistas do Bixiga"
     ],
     "estado": "SP",
     "cidade": "São Paulo",
-    "bairro": "Bela Vista",
+    "bairro": "Bixiga",
     "grupo": "Especial",
     "cores": [
       "Preto",
@@ -23,7 +21,7 @@
       "#000000",
       "#FFFFFF"
     ],
-    "simbolo": "Harpa e Coroa",
+    "simbolo": "Coroa com Ramo de café abaixo",
     "titulos": 15,
     "anos_titulos": [
       1978,
@@ -37,15 +35,731 @@
       1998,
       1999,
       2000,
+      2001,
       2008,
       2011,
       2015
     ],
     "logo_url": "assets/logos/original/vai-vai.png",
     "logo_original_url": "assets/logos/original/vai-vai.png",
-    "logo_gemini_png_url": "assets/logos/gemini/vai-vai.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/vai-vai.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Em cartaz: A saga vencedora de um povo heróico no apogeu da vedete da Paulicéia",
+        "compositores": "Danni Almeida, Vagner Almeida, Marcinho Z. Sul, Anderson Bueno, Thiago de Xangô, Mário Lúcio, Vinícius Marques, Luciano Bicudo, João 10, Xavier, Cris Viana e Tião",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "O Xamã devorado y a deglutição bacante de quem ousou sonhar desordem",
+        "compositores": "Naio Denay e Francis Gabriel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Capítulo 4, Versículo 3 – Da Rua e do Povo, o Hip Hop: Um Manifesto Paulistano",
+        "compositores": "Danni Almeida, Vagner Almeida, Marcinho Z.Sul, Clayton Dias, Luciano Bicudo, Claiton Asca, Rodrigo Atração, Edson Liz, Anderson Bueno, Bira Moreno, Mario Lucio, Leandro Martins e Reinaldo Papum",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Eu Também Sou Imortal",
+        "compositores": "Danilo Alves, Marquito, Estevan, Vagner Almeida, Mineiro, Régis, Frá e Japole",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Sankofa",
+        "compositores": "Xande de Pilares, Peu, Claudio Russo, Junior Gigante, Jairo Limozini e Bruno Giannelli",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Vai-Vai de corpo & Álamo",
+        "compositores": "Afonsinho, Ronaldinho, Koke, Damatta, Dani Almeida e KZ",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Vai-Vai: o quilombo do futuro",
+        "compositores": "Edegar Cirillo, Marcelo Casa Nossa, André Ricardo, Dema, Gui Cruz, Rodolfo Minuetto, Rodrigo Minuetto e KZ",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Sambar com fé eu vou",
+        "compositores": "Edegar Cirillo, Marcelo Casa Nossa, André Ricardo, Dema, Gui Cruz, Rodolfo Minuetto, Rodrigo Minuetto e Kz",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "No Xirê do Anhembi, a Oxum mais bonita surgiu... Menininha , mãe da Bahia - Ialorixá do Brasil",
+        "compositores": "Edegar Cirillo, Marcelo Casa Nossa, André Ricardo, Dema, Leonardo Rocha e Rodolfo Minuetto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Je Suis Vai-Vai - Bem-vindos à França",
+        "compositores": "Zeca do Cavaco, Zé Carlinhos, Ronaldinho FDQ e Dodo Monteiro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Simplesmente Elis. A fábula de uma voz na transversal do tempo!",
+        "compositores": "Zeca do Cavaco, Zé Carlinhos e Ronaldinho FQD",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Nas chamas da Vai-Vai , 50 anos de Paulínia",
+        "compositores": "Vagner Almeida, Mineiro, Marcinho Zona Sul, Loirinho e Edinho Gomes",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Sangue da terra, videira da vida: Um brinde de amor em plena avenida - vinhos do Brasil!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Mulheres Que Brilham – A força feminina no progresso social e cultural do país",
+        "compositores": "Afonsinho BV, Evaldo Sean Connory, Ronaldinho FDQ, Valter Camargo e Zeca do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "A Música Venceu!",
+        "compositores": "Zeca do Cavaco, Ronaldinho FQ, Fábio Henrique e Afonsinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "80 Anos de Arte e Euforia, “É Bom no Samba, É Bom no Couro” Salve o Duplo Jubileu de Carvalho",
+        "compositores": "Zeca do Cavaco, Afonsinho Bv, Fábio Henrique e Ronaldinho FDQ",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Mens sana et corpore sano – O milênio da superação",
+        "compositores": "Zé Carlinhos, Naio Denay, Danilo Alves e Vagner Almeida",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Acorda Brasil! A saída é ter esperança",
+        "compositores": "Zé Carlinhos, Naio Denay, Vagner Almeida, Dalino Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "O 4º Reino - O Reino do Absurdo",
+        "compositores": "Zé Carlinhos, Nayo Denai, Vagner Almeida e Danilo Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "São Vicente. Aqui Começou o Brasil.",
+        "compositores": "Zé Carlinhos, Naio Denay, Benson, Wagner Almeida, Marcinho Z.S. e Loirinho do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Eu Também Sou Imortal",
+        "compositores": "Danilo Alves, Marquito, Estevan, Vagner Almeida, Mineiro, Régis, Frá e Japole",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Quer Conhecer São Paulo? Vem no Bixiga Pra Ver...",
+        "compositores": "Zeca do Cavaco, Zé Carlinhos e Naio Denay",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Entre Marchas, Galopes e Cavalgadas",
+        "compositores": "Danilo Alves, Régis, Vágner Almeida",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Guardado à Sete Chaves",
+        "compositores": "Zeca, Zé Carlinhos, Naio Denay, Ronaldinho FDQ",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "O Caminho da Luz - A Paz Universal",
+        "compositores": "Zeca, Zé Carlinhos, Naio Denay e Ronaldinho FDQ",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Vai-Vai Brasil",
+        "compositores": "Zeca, Zé Carlinhos e Naio Denay",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Nostradamus",
+        "compositores": "Zeca, Zé Carlinhos e Afonsinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Banzai! Vai-Vai",
+        "compositores": "Zeca, Zé Carlinhos e Afonsinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Liberdade Ainda que Vai-Vai",
+        "compositores": "Vilma Correia e Washington da Mangueira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "A Rainha, a Noite Tudo Transforma",
+        "compositores": "Wagner Santos e Borrão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Deu Poesia na Terra da Garoa",
+        "compositores": "Wagner Santos, Edson Silva e Amauri",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Inã Gbe: Pegando Fogo",
+        "compositores": "Tadeu da Mazzei, Jacó da Carolina e André",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Nem Tudo que Reluz é Ouro",
+        "compositores": "Zeca do Cavaco, Nayo Denay, Marquito e Afonsinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Por Mares Nunca Dantes Navegados",
+        "compositores": "Naio Denay",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "O Negro em Forma de Arte",
+        "compositores": "Mariano, Showxão, Afonsinho e Sorriso",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "60 anos no Reino das Bananas",
+        "compositores": "Ademir, Neck's e Showxão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Escreveu Não Leu o Palco é Meu",
+        "compositores": "Oswaldinho da Cuíca, Namur, Macalé do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "Amado Jorge, a História de uma Raça Brasileira",
+        "compositores": "Oswaldinho da Cuíca, Namur e Macalé do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "A Volta ao Mundo em 80 Minutos",
+        "compositores": "Nadão, Ademir e Marino",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Do Jeito que a Gente Gosta",
+        "compositores": "Walter Babu, Alemão e Chuveiro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Água de Cheiro",
+        "compositores": "Turquinho e Nadão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "Ao Sol da Onça Caetana Miragens do Sertão",
+        "compositores": "Tadeu da Mazzei, Mario Sérgio, Jacó da Carolina, Penteado e Elisbão do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Se a Moda Pega",
+        "compositores": "Namur e Macalé do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Orun-Ayê - O Eterno Amanhecer",
+        "compositores": "Oswaldinho da Cuíca e Serginho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Acredite se quiser",
+        "compositores": "Arouche e Pinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Orgulho da Saracura",
+        "compositores": "Almir e Luverci",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Festa de um Povo em Sonho e Fantasia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Na Arca de Noel Quem Entrou não Saiu Mais",
+        "compositores": "Oswaldinho da Cuíca",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "José Maurício, Músico do Brasil Colonial",
+        "compositores": "Odair Fala Macio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Solano Trindade - O Menino do Recife",
+        "compositores": "Geraldo Filme",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "O Guarani",
+        "compositores": "Oswaldinho da Cuíca e Papete",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "Samba, Frevo e Maracatu",
+        "compositores": "Dominguinhos do Estácio, Theo da Cuíca e Bulau",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1973,
+        "titulo": "Lamartine Babo - Hino ao Carnaval Brasileiro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "Passeando Pelo Brasil o Samba Mostra o que é Seu",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "Princesa Leopoldina",
+        "compositores": "",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 268.6,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 269.4,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": null,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": null,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 268.2,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.1,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 159.7,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.25,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 358.75,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 90.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 297.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 298.25,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 296.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 196.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 197.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 198.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 199.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 299.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 298.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 295.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 288.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 265.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 100.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 291.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 262.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 291.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 270.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 196.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 287.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 95.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 96.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 192.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 286.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 95.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 99.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 94.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 93.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 86.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 90.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 85.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 67.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 92.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 84.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 105.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Cordões",
+        "posicao": 1,
+        "pontos": 111.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

@@ -4,40 +4,676 @@
     "id": "aguia-de-ouro",
     "slug": "aguia-de-ouro",
     "nome": "Águia de Ouro",
-    "nome_completo": "Grêmio Recreativo Cultural Social Escola de Samba Águia de Ouro",
+    "nome_completo": "O Grêmio Recreativo Cultural Social Escola de Samba Águia de Ouro",
     "fundacao": "1976-05-09",
-    "fundadores": [
-      "José Mário da Silva"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
-    "bairro": "Pompeia",
+    "bairro": "Pompéia",
     "grupo": "Especial",
     "cores": [
       "Azul",
-      "Branco"
+      "Branco",
+      "Dourado"
     ],
     "cores_hex": [
-      "#1976D2",
-      "#FFFFFF"
+      "#0099FF",
+      "#FFFFFF",
+      "#FFD700"
     ],
-    "simbolo": "Águia Dourada",
+    "simbolo": "Águia Dourada carregando um Surdo nas patas",
     "titulos": 1,
     "anos_titulos": [
       2020
     ],
     "logo_url": "assets/logos/original/aguia-de-ouro.png",
     "logo_original_url": "assets/logos/original/aguia-de-ouro.png",
-    "logo_gemini_png_url": "assets/logos/gemini/aguia-de-ouro.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/aguia-de-ouro.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Águia na Encantaria de Fés, Folguedos e Milagres que Deságuam no Sertão",
         "compositores": "Leandro Barboza (Carnavalesco)",
         "interpretacao": "Douglani"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Mokum Amsterdã — O voo da Águia à cidade libertária",
+        "compositores": "Aquiles da Vila, Fabiano Sorriso, Salgado Luz, Lucas Donato, Marcos Vinícius, PH do Cavaco, Duda Juarez, Leandro Flecha, Fábio Gonçalves, Wagner Forte, Cabide e Chico Maia",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Em retalhos de cetim, a Águia de Ouro do jeito que a vida quer",
+        "compositores": "Rapha SP, Marcus Boldrini e Marcelo Nunes",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Águia de Ouro nas Ondas do Rádio",
+        "compositores": "Tales Queralt, Aquiles Da Vila, Lucas Queralt, Chanel, Marcelo Dores, Salgado Luz, Luccas Barroso, Abílio Jr., André Ricardo, Bruno Ribas, Nando Do Cavaco, Ivanzinho, André Filosofia, Caio Ricci, Cauê Ricci e Edson",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Um Pedaço do Céu",
+        "compositores": "Aquiles Da Vila, Boldrini, Chanel, Lucas Queralt, Luccas Barroso, Marcelo Dores, Salgado Luz e Tales Queralt",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Afoxé de Oxalá – No ‘Cortejo de Babá’, Um Canto de Luz em Tempo de Trevas",
+        "compositores": "Dominguinhos do Estácio, Jorginho Moreira, João Perigo, Lico Monteiro, Leandro Thomaz, Telmo Augusto, Lucas Valentin, JotaPê, Lanza RafaBerê, Araken Kaoma, Solano Laranjo, Serginho Rocco, Rosali Ahumada Carvalho, Lequinho, Júnior Fionda, Dedé, Rafael Santos, Chocolate, W. Corrêa, Vieira e Rafa Machado",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "O Poder do Saber - Se Saber é Poder… Quem Sabe Faz a Hora, Não Espera Acontecer",
+        "compositores": "Armênio Poesia, Chanel, Darlan Alves, Freddy Viana, Marcelo Casa Nossa e Xandinho Nocera",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Brasil, eu quero falar de você! Que país é esse?",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Mercadores de Sonhos",
+        "compositores": "Andre Luís, Cíntia Camarotto, Digo Sá, Douglas Chocolate, Guga Pacheco, Marcelo Garcia Leal (Tchelo)",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Amor com amor se paga. Uma história animal !",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Ave Maria cheia de faces",
+        "compositores": "Douglinhas, Juca , Izanzinho, Cuca e Pelezinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Brasil e Japão: 120 anos de união!",
+        "compositores": "Chanel Da Vila, Douglinhas, Ivanzinho, Pelezinho Aha e Serginho Do Porto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "A Velha Bahia apresenta o centenário do poeta cancioneiro Dorival Caymmi .",
+        "compositores": "Vitor Gabriel, Rodolfo Minuetto, Rodrigo Minuetto, Cruz, Bruno Tomegeski, Pelezinho, W. Corrêa e Jr. Silva",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Minha missão. O canto do povo. João Nogueira",
+        "compositores": "Diogo Nogueira, Ciraninho, Rafinha, Leandro e Serginho Castro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Tropicália! Da paz e do amor! O movimento que não acabou",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Com todo gás, Águia de Ouro é fogo!",
+        "compositores": "Marcio Pessi, Marco Antônio Pessi, Serginho do Porto, Serginho Castro, Andre Fulggaz, Sérgio Alan, Didi Pinheiro, Anísio, Wal e Íris",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Ribeirão Preto - Região à Frente do Seu Tempo: Da Abolição ao Agronegócio, Terra de Liberdade e Riqueza!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "No Swing da Pompéia, Águia de Ouro Te Convida Pra Dançar",
+        "compositores": "Serginho do Porto, R. Alves, André Fullgaz, Serginho Castro e Serginho Sumaré",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "A taça da felicidade, uma viagem pelos sentidos, a delícia do sorvete",
+        "compositores": "Ronaldinho, Marcio Pessi e Serginho Do Porto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Deus fez o Homem de barro e a Águia de ouro....o Brasil feito a mão",
+        "compositores": "Ala De Compositores",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Não Tem Desculpa",
+        "compositores": "Marcio Pessi, Rubinho, Ivanzinho e Ronaldo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "O Pão Nosso de Cada Dia Nos Dai Hoje",
+        "compositores": "Ala De Compositores",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Sou Mais São Paulo... Ana Maria Braga Conta 450 Anos da Culinária Paulistana",
+        "compositores": "Anderson, Borracha, Douglinhas, Mariazinha, Mauro Pirata, Michel, Regiano, Serginho Do Porto e Xuxa do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Quem Tem Olho Grande Já Entra na China",
+        "compositores": "Ala De Compositores",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Vou à Luta Sem Pedir Licença... Tupy or Not Tupy? Samba é a Resposta!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "De Salém à Brasília o Que Vale é a Bruxaria",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "A Formação do Povo Brasileiro",
+        "compositores": "Regianno, Edu Chaves e Almir Espinola",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "À Criação do Terceiro Dia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Assim Caminha a Humanidade",
+        "compositores": "Pindaia, Ivan, Hermes, Paulinho, Osvaldinho, Andozinho e Cabelo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Siyau Yu - Do Grão Sagrado do Passado à Esperança do Futuro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Paulista, Eu Te Amo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Voa, Voa Minha Liberdade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Sonhos de um Sambista",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Identidade Brasil (Resgate da Identidade Cultural)",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Felicidade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "São Paulo, Pátria Mia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Casais da Era",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Astrologia, Ciência e Arte",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "Menino da Lapa (Sargentelli)",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Para Viver um Grande Amor (Vinícius de Moraes)",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Assim Falou Juca Pato",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Vadico, \"o Parceiro Esquecido\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "Mil vidas, \"o Teatro Através dos Tempos\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Na Ilusão da Fantasia à Fantasia da Ilusão",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Viagem Encantada ao Reino da Natureza",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Dorival Caymmi, \"O Cancioneiro da Bahia\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Raízes da Amizade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Brasil, Paraíso Original",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Cem anos de Chorinho",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "A Bahia de Jorge Amado",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 268.2,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 269.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": null,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.3,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 268.7,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 158.6,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 268.25,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 265.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 358.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 87.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 297.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 294.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 290.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 197.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 195.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 198.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 196.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 195.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 277.5,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 293.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 277.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 290.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 96.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 229.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 185.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 167.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 216.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 83.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 183.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 162.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 2",
+        "posicao": 5,
+        "pontos": 86.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 72.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 69.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 3",
+        "posicao": 2,
+        "pontos": 75.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 3",
+        "posicao": 8,
+        "pontos": 61.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 4",
+        "posicao": 2,
+        "pontos": 79.0,
+        "resultado": "2º Lugar"
+      }
+    ]
   }
 }

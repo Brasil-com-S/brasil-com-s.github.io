@@ -1,0 +1,23 @@
+{
+  "ano": 1934,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Desfile organizado pelo Jornal O País": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": null,
+        "enredo": "República da Orgia ou Divina Dama"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": null,
+        "enredo": "Academia do Samba"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

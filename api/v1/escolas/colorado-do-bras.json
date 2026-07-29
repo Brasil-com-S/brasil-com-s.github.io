@@ -4,11 +4,9 @@
     "id": "colorado-do-bras",
     "slug": "colorado-do-bras",
     "nome": "Colorado do Brás",
-    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Colorado do Brás",
+    "nome_completo": "O Grêmio Recreativo Escola de Samba Colorado do Brás",
     "fundacao": "1975-10-01",
-    "fundadores": [
-      "Comunidade do Brás"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Brás",
@@ -18,24 +16,673 @@
       "Branco"
     ],
     "cores_hex": [
-      "#D32F2F",
-      "#FFFFFF"
+      "#FF0000",
+      "#FFF"
     ],
-    "simbolo": "Urso Vermelho",
+    "simbolo": "Pandeiro com um desenho de uma bola de futebol dentro",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/colorado-do-bras.png",
     "logo_original_url": "assets/logos/original/colorado-do-bras.png",
-    "logo_gemini_png_url": "assets/logos/gemini/colorado-do-bras.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/colorado-do-bras.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Ojuara — O Homem que Desafiou o Diabo",
         "compositores": "David Eslavick (Carnavalesco)",
         "interpretacao": "Léo Reis"
+      },
+      {
+        "ano": 2026,
+        "titulo": "A Bruxa está Solta - Senhoras do Saber Renascem na Colorado",
+        "compositores": "Léo do Cavaco, Thiago Meiners, Cláudio Mattos, Sukata, André Valencio, Vitor Roblanco e Tubino",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Afoxé Filhos de Gandhy no ritmo da fé",
+        "compositores": "Leo Do Cavaco, Thiago Meiners, Sukata, Claudio Mattos e Rafael Tubino",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Os Encantos da Raiz do Mandacaru",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "A Ópera de Um Pierrot",
+        "compositores": "Claudio Russo, Silas Augusto, Edson Daffeh, Hermes Sobral, Rodrigo Xará, Jadson Fraga, Fadico e Rafael Tubino",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Carolina, a Cinderela Negra do Canindé",
+        "compositores": "Thiago Morganti, Sukata, Turko, Rafa do Cavaco, Claudio Mattos, Maradona, Luan, Valêncio e Thiago Meiners",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Que rei sou eu?",
+        "compositores": "Márcio Pessi, Edson Dafféh, Evandro Bocão, Moisés Santiago, Marcelo Valença e André Diniz",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Hakuna Matata – Isso é viver",
+        "compositores": "Márcio Pessi, Edson Dafféh, Evandro Bocão, André Diniz Pereira e Marcelo Valência",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Axé! Caminhos que levam à fé",
+        "compositores": "Marcio Pessi, Edson Dafféh, Gilson Caffé, Magrão da Caprichosos e Hermes Sobral",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Luz, câmera, ação... a Colorado apresenta: a 'Roliúde' no Sertão",
+        "compositores": "Thiago Morganti, Ronny Potolski, Sukata, Igor Vianna, Michel Mammoccio, Tubino, Willian Tadeu, Luís Butti, Walter Jr, Lo Robson, André Valêncio, Diley, André Filosofia, Victor Alves e Meiners",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Transformando a Química Da Vida",
+        "compositores": "Marcos Thiago, Rapha Maslionis e Cacá Camargo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Maktub : Estória de mil e uma histórias",
+        "compositores": "V. Gabriel, Minuetto, Gui Cruz, F. Segal, Portuga, Luciano, Marçal, Reinaldo, César, Lucas Mascarenhas",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "De onde vem a alegria dessa gente?",
+        "compositores": "Vitor Gabriel, Rodrigo Minuetto, Rodolfo Minuetto e Guilherme Cruz",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "O trabalho enobrece o homem... Lutas,Direitos e Conquistas de um povo vencedor!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Quem sonha não desiste de lutar",
+        "compositores": "Márcio Pessi, Edson Dafféh, Chitão Martins, Sidney Melodia e Calado",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Deu a louca no planeta",
+        "compositores": "Marcio Pessi, Edson Dafféh e Calado",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Da Descoberta à Chama da Razão a Colorado Descobre o Fogo",
+        "compositores": "Pê Santana, Animal e Rafael Pínah",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "De Janeiro a Janeiro, a Colorado faz a festa o ano inteiro.",
+        "compositores": "Pê Santana, Rafael Pínah e Paulinho Sorriso",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Catopês do milho verde - De escravo à rei da festa",
+        "compositores": "Dom Marcos, Roná Gonzaguinha, Edinho, Xixa e Minho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Negro, o grande ventre que gerou seus filhos, atravessando o mar aqui chegou. No esplendor de uma raça, essa cultura germinou",
+        "compositores": "Vitor Gabriel, Celsinho, Imperial e Biel Carioca",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Tempo e o Vento, Suas Causas e Efeitos",
+        "compositores": "Turco, Maradona, Luís Ferracini, Fredy Vianna e Didi Sensação",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Xavante! Guerreiro Gigante",
+        "compositores": "Deco, Márcio Pessi e Vitor Gabriel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Da Nobreza ao Popular, São Paulo dá Uma Colher de Chá",
+        "compositores": "Toninho 21, Xina, Dom Marcos, Beto Góis, André de Paula, Ronny, Digão e Serginho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Metamorfose Banto",
+        "compositores": "Jorge Chocolate e Rodrigo Mota",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Passo a Passo da Seda, O Caminhar",
+        "compositores": "Paulinho 21, Edson Lis, Fábio Matos e Luís",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Brás , Um Bairro, Um Mundo",
+        "compositores": "Neco Paulicéia, Luis Ferracini, Pagodinho do Cavaco e André Sanches",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "As Amazonas, Guerreiras no Mito, Guerreiras na Vida",
+        "compositores": "Maurinho da Mazzei, Tchello Lima, Fredy Vianna e Anderson Salgadinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Em Busca da Verdade e do Equilíbrio Surge uma Nova Era",
+        "compositores": "Cagoba, Ivan, Benson e André Luiz",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Pirapora Pirou",
+        "compositores": "Paulinho Nagô, Carlinhos, Ton Canindé e Adriano F. Cor",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Goaió - Um Sonho de Liberdade",
+        "compositores": "Dedé do Cavaco e César Ribeiro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Ao Mestre com Carinho, \"Geraldo Filme\"",
+        "compositores": "Giba Chalé, Paulinho de Nagô, Serjão da Colorado, Zé Luiz e Everson SONN",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Deu a Louca no Xingu",
+        "compositores": "Wagner, Rubão, Toninho e Aílton",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Quilombrás",
+        "compositores": "Paulinho de Nagô e Murilo Gimenez (De Nassau)",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Mascaradas, Ilusões da Vida",
+        "compositores": "Léo, Hugo Bispo, Joel, Wagner, Toninho, Odair e Edilson",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "A Cara do Pai, a Cara da Mãe",
+        "compositores": "Nilton da Flôr e Filipin",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Do Jeito que o Diabo Gosta",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Com o Chico na Avenida",
+        "compositores": "Toninho Sereno, Vitché e Nelson Dalla Rosa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Ilha Bela, \"Lendas e Mistérios\"",
+        "compositores": "Armando da Mangueira, Miltão e Wagner",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "Catopes do Milho Verde, de Escravo a Rei da Festa",
+        "compositores": "Dom Marcos, Roná Gonzaguinha, Edinho, Xixa e Minho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Apocalipse Carnaval",
+        "compositores": "Dom Marcos, Roná Gonzaguinha e Xixa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Ah!, Se eu fosse Noé",
+        "compositores": "Dom Marcos, Roná Gonzaguinha e Xixa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Raízes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "Revolta da Chibata",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Conversa de Botequim",
+        "compositores": "Rubão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Adoniran Barbosa",
+        "compositores": "Rubão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "O Nosso Calendário",
+        "compositores": "Gengo e Odair Fala Macio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "O Circo Chegou",
+        "compositores": "Rubão e Naur",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Esse Brás Menino",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Sítio do Pica-Pau Amarelo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Stanislaw Ponte Preta e o Samba do Criolo Doido",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Canudos: Seu Povo, Sua História",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 268.7,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 269.3,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": null,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": null,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo de Acesso",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo de Acesso",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo de acesso",
+        "posicao": 5,
+        "pontos": 266.8,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo 1-UESP",
+        "posicao": 1,
+        "pontos": 269.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo 2 - UESP",
+        "posicao": 2,
+        "pontos": 160.1,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo 3 - UESP",
+        "posicao": 1,
+        "pontos": 180.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo 2",
+        "posicao": 12,
+        "pontos": 99.75,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo 1",
+        "posicao": 12,
+        "pontos": 110.5,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 291.75,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 291.25,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 291.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 293.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo de Acesso",
+        "posicao": 8,
+        "pontos": 178.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo 1A",
+        "posicao": 2,
+        "pontos": 296.6,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo de Acesso",
+        "posicao": 8,
+        "pontos": 279.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": 281.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo 1A",
+        "posicao": 1,
+        "pontos": 201.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 272.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 278.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 260.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 282.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": null,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 80.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 255.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 182.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 168.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 233.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 72.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 186.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 280.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": 87.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 2",
+        "posicao": 8,
+        "pontos": 67.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 2",
+        "posicao": 4,
+        "pontos": 78.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 78.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 75.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 3",
+        "posicao": 12,
+        "pontos": 58.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 3",
+        "posicao": 12,
+        "pontos": 53.0,
+        "resultado": "12º Lugar"
+      }
+    ]
   }
 }

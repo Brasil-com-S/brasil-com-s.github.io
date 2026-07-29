@@ -1,0 +1,296 @@
+{
+  "ano": 2020,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "viradouro",
+      "escola_nome": "Unidos do Viradouro",
+      "pontos": 269.6
+    },
+    "SP": {
+      "escola_slug": "aguia-de-ouro",
+      "escola_nome": "Águia de Ouro",
+      "pontos": null
+    }
+  },
+  "grupos": {
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 269.6,
+        "enredo": "Viradouro de Alma Lavada"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 269.6,
+        "enredo": "Tata Londirá - O Canto do Caboclo no Quilombo de Caxias"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 269.4,
+        "enredo": "Elza Deusa Soares"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 269.4,
+        "enredo": "Se Essa Rua Fosse Minha"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 269.0,
+        "enredo": "O Rei Negro do Picadeiro"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 268.9,
+        "enredo": "A Verdade Vos Fará Livre"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 268.8,
+        "enredo": "Guajupiá, Terra Sem Males"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 268.6,
+        "enredo": "Gigante Pela Própria Natureza: Jaçanã e Um Índio Chamado Brasil"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 267.0,
+        "enredo": "O Conto do Vigário"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 266.2,
+        "enredo": "O Santo e o Rei : Encantarias de Sebastião"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 264.7,
+        "enredo": "Pedra"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 264.2,
+        "enredo": "Nas Encruzilhadas da Vida, Entre Becos, Ruas e Vielas; a Sorte Está Lançada: Salve-se Quem Puder!"
+      }
+    ],
+    "RJ - Grupo Especial da Intendente Magalhães (LIESB)": [
+      {
+        "posicao": 13,
+        "escola_slug": "uniao-de-marica",
+        "escola_nome": "União de Maricá",
+        "pontos": 268.2,
+        "enredo": "Nos Tempos Idos"
+      }
+    ],
+    "RJ - Série A": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 270.0,
+        "enredo": "Só Dá Lalá"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 269.6,
+        "enredo": "Ginga"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 268.8,
+        "enredo": "Marta do Brasil - Chorar no Começo Para Sorrir no Fim"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 267.4,
+        "enredo": "Lugar de Mulher É Onde Ela Quiser!"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 267.1,
+        "enredo": "Memórias de Um Griô: a Diáspora Africana Numa Idade Nada Moderna e Muito Menos Contemporânea"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 266.8,
+        "enredo": "O Conto do Vigário"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "O Poder do Saber - Se Saber é Poder… Quem Sabe Faz a Hora, Não Espera Acontecer"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": null,
+        "enredo": "Pai! Perdoai, eles não sabem o que fazem!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": null,
+        "enredo": "Do canto das Yabás renasce uma nova Morada"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": null,
+        "enredo": "O ponteio da viola encanta… Sou fruto da terra, raiz desse chão… Canto Atibaia do meu coração"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": null,
+        "enredo": "A Revolução do Riso: A arte de subverter o mundo pelo divino poder da alegria"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": null,
+        "enredo": "Tempos Modernos"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "É coisa de preto"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": null,
+        "enredo": "Marhaba Lubnãn"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": null,
+        "enredo": "Benguela... A Barroca clama a ti, Tereza!"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": null,
+        "enredo": "Um não sei que, que nasce não sei onde, vem não sei como e explode não sei porquê..."
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Que rei sou eu?"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Batuques para um rei coroado"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Bartali Tcherain – A estrela cigana brilha na Pérola Negra!"
+      }
+    ],
+    "SP - Grupo de Acesso 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": null,
+        "enredo": "Vai-Vai de corpo & Álamo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Faces de Anysio, o eterno Chico. Sorrir é… e sempre será o melhor remédio"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": null,
+        "enredo": "No coração da floresta nascem estrelas que brilham no meu carnaval"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": null,
+        "enredo": "Ajayô: Carlinhos Brown, candombléss, tambores e batuques ancestrais"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "O Presente da Deusa e o brinde da Águia"
+      }
+    ],
+    "SP - Grupo de Acesso 2": [
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": null,
+        "enredo": "Ubuntu - Por um Mundo Novo."
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

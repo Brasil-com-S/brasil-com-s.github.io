@@ -1,0 +1,104 @@
+{
+  "ano": 1964,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 59.0,
+        "enredo": "O Segundo Casamento de D. Pedro I"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 58.0,
+        "enredo": "Chico-Rei"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 49.0,
+        "enredo": "Histórias de Um Preto Velho"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 44.0,
+        "enredo": "Aquarela Brasileira"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 34.0,
+        "enredo": "O Cacho de Banana"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 27.0,
+        "enredo": "Feira na Bahia"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 63.0,
+        "enredo": "A Favorita do Imperador, Marquesa de Santos"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 62.0,
+        "enredo": "Exaltação à Bahia"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 35.0,
+        "enredo": "Café, Riqueza do Brasil"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 34.0,
+        "enredo": "Jóias da Poesia"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 1,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 63.0,
+        "enredo": "Rio dos Vices Reis"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 50.0,
+        "enredo": "Uma Formatura nas Agulhas Negras"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": null,
+        "enredo": "Riquezas do Brasil"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

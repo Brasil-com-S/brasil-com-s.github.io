@@ -6,9 +6,7 @@
     "nome": "Unidos do Viradouro",
     "nome_completo": "Grêmio Recreativo Escola de Samba Unidos do Viradouro",
     "fundacao": "1946-06-24",
-    "fundadores": [
-      "Nelson dos Santos (Jangada)"
-    ],
+    "fundadores": [],
     "estado": "RJ",
     "cidade": "Niterói",
     "bairro": "Barreto",
@@ -18,21 +16,554 @@
       "Branco"
     ],
     "cores_hex": [
-      "#C62828",
-      "#FFFFFF"
+      "#FF0000",
+      "#FFF"
     ],
-    "simbolo": "Coroa e Aperto de Mãos",
-    "titulos": 3,
+    "simbolo": "Coroa e um aperto de mãos inter-racial",
+    "titulos": 4,
     "anos_titulos": [
       1997,
       2020,
-      2024
+      2024,
+      2026
     ],
     "logo_url": "assets/logos/original/viradouro.png",
     "logo_original_url": "assets/logos/original/viradouro.png",
-    "logo_gemini_png_url": "assets/logos/gemini/viradouro.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/viradouro.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Pra Cima, Ciça!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Malunguinho : O Mensageiro de Três Mundos",
+        "compositores": "",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Arroboboi, Dangbé",
+        "compositores": "",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2023,
+        "titulo": "Rosa Maria Egipcíaca",
+        "compositores": "Cláudio Mattos, Dan Passos, Marco Moreno, Victor Rangel, Lucas Neves, Deco, Thiago Meiners, El Toro, Luis Anderson e Jefferson Oliveira",
+        "interpretacao": "José Paulo Ferreira Sierra"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Não Há Tristeza que Possa Suportar Tanta Alegria",
+        "compositores": "Felipe Filósofo, Fábio Borges, Ademir Ribeiro, Devid Gonçalves, Lucas Marques e Porkinho",
+        "interpretacao": "José Paulo Ferreira Sierra"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Não há tristeza que possa superar tanta alegria",
+        "compositores": "",
+        "interpretacao": "José Paulo Ferreira Sierra"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Viradouro de Alma Lavada",
+        "compositores": "Dadinho, Lair Machado, Rildo Seixas, Manolo, Anderson Lemos Carlinhos Fionda e Alves",
+        "interpretacao": "José Paulo Ferreira Sierra"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Viraviradouro!",
+        "compositores": "Renan Gêmeo, Bebeto Maneiro, Thiago Carvalhal, Ludson Areia, Jr. Filhão, Raphael Richaid, Ricardo Neves e Carlinhos Viradouro",
+        "interpretacao": "José Paulo Ferreira Sierra"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Vira a Cabeça, Pira o Coração - Loucos Gênios da Criação",
+        "compositores": "Zé Glória, Lucas Macedo, William Lima, Gugu Psi, Lico Monteiro, Lucas Neves e Matheus Gaúcho",
+        "interpretacao": "José Paulo Ferreira Sierra"
+      },
+      {
+        "ano": 2017,
+        "titulo": "E Todo Menino É Um Rei...",
+        "compositores": "Claudio Mattos, Felipe Filósofo, Diego Nicolau, Fabio Borges, Manolo, Renan Gêmeo, Bertolo, Rodrigo Gêmeo e Anderson Lemos",
+        "interpretacao": "José Paulo Ferreira Sierra e Dominguinhos do Estácio"
+      },
+      {
+        "ano": 2016,
+        "titulo": "O Alabê de Jerusalém: A Saga de Ogundana",
+        "compositores": "Paulo César Feital, Zé Gloria, Felipe Filósofo, Maria Preta, Fabio Borges , William, Zé Augusto e Bertolo",
+        "interpretacao": "José Paulo Ferreira Sierra (Zé Paulo)"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Nas Veias do Brasil, É a Viradouro em Um Dia de Graça",
+        "compositores": "Luiz Carlos da Vila - Adaptação: Gusttavo Clarão",
+        "interpretacao": "José Paulo Ferreira Sierra (Zé Paulo)"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Sou a Terra de Ismael, 'Guanabaran' Eu Vou Cruzar... Pra Você Tiro o Chapéu, Rio Eu Vim Te Abraçar",
+        "compositores": "Dudu Nobre, Diego Tavares, Zé Glória, Paulo Oliveira, Dílson Marimba e Junior Fragga",
+        "interpretacao": "José Paulo Ferreira Sierra (Zé Paulo)"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Nem Melhor nem Pior, que não Sai da Minha Mente. Inspiração para o Meu Samba, Eu Também Sou Diferente!",
+        "compositores": "Gilberto Gomes, Floriano do Carangueijo, Sacadura Cabral, Dadinho, J. Lambreta, Zé Gloria e Manolo",
+        "interpretacao": "David do Pandeiro, Diego Nicolau, Gilberto Gomes e Niu Souza"
+      },
+      {
+        "ano": 2012,
+        "titulo": "A Vida como Ela É, Bonitinha, mas Ordinária... Assim Falou Nelson Rodrigues",
+        "compositores": "* ver abaixo",
+        "interpretacao": "Leléu, Diego Nicolau, Gilberto Gomes, Niu Souza"
+      },
+      {
+        "ano": 2011,
+        "titulo": "Quem Sou Eu Sem Você?",
+        "compositores": "Renan Gêmeo, P.C. Portugal, Rodrigo, Fernando Johara, Diego Moura e Jeferson Lima",
+        "interpretacao": "Leléu, Diego Nicolau, Gilberto Gomes, Niu"
+      },
+      {
+        "ano": 2010,
+        "titulo": "México , o Paraíso das Cores, Sob o Signo do Sol",
+        "compositores": "Floriano, Gustavo da Marbela e Sacadura Cabral",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Vira-Bahia, Pura Energia",
+        "compositores": "Heraldo Faria, Flavinho Machado, Edu, Rafael e Floriano",
+        "interpretacao": "David do Pandeiro"
+      },
+      {
+        "ano": 2008,
+        "titulo": "É de Arrepiar",
+        "compositores": "Paulo César Portugal, Evaldo, Tamiro e Lima Andrade",
+        "interpretacao": "Edson Feliciano Marcondes (Negô)"
+      },
+      {
+        "ano": 2007,
+        "titulo": "A Viradouro Vira o Jogo",
+        "compositores": "Gusttavo Clarão, Gilberto Gomes, Nando, Pablo e PC Portugal",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Arquitetando Folias",
+        "compositores": "Waldeir Melodia, Dadinho, Evaldo, Tamiro e Peralta",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2005,
+        "titulo": "A Viradouro É Só Sorriso!",
+        "compositores": "Gusttavo, Gilberto Gomes, P. C. Portugal, José Antonio e Dominguinhos do Estácio",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Pediu pra Pará, Parou! Com a Viradouro Eu Vou pro Círio de Nazaré",
+        "compositores": "Dario Marciano, Aderbal Moreira e Nilo Mendes (Esmera)",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2003,
+        "titulo": "A Viradouro Canta e Conta Bibi - Uma Homenagem ao Teatro Brasileiro",
+        "compositores": "Gustavo, Gilberto Gomes, Heraldo Faria e Gelson",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Viradouro, Viramundo, Rei do Mundo",
+        "compositores": "Gilberto Gomes, Dadinho, Mocotó, Gustavo e Paulo César Portugal",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2001,
+        "titulo": "Os Sete Pecados Capitais",
+        "compositores": "Gilberto Gomes, Gustavo, Dadinho, PC Portugal e Mocotó",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Brasil: Visões de Paraísos e Infernos",
+        "compositores": "Gilberto Gomes, Gustavo, Dadinho, PC Portugal e Mocotó",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Anita Garibaldi, Heroína das Sete Magias",
+        "compositores": "Gilberto Gomes, Gustavo, R. Mocotó, PC Portugual e Dadinho",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Orfeu , o Negro do Carnaval",
+        "compositores": "Gilberto Gomes, Mocotó, Gustavo, P.C. Portugal, Dadinho",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1997,
+        "titulo": "Trevas! Luz! A Explosão do Universo",
+        "compositores": "Dominguinhos do Estácio, Mocotó, Flavinho Machado e Heraldo Faria",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Aquarela do Brasil Ano 2000",
+        "compositores": "Heraldo Faria, Jorge Baiano, Mocotó e Flavinho Machado",
+        "interpretacao": "Nego Martins"
+      },
+      {
+        "ano": 1995,
+        "titulo": "O Rei e os Três Espantos de Debret",
+        "compositores": "José Antonio, Gonzaga, Olivério, Rico Medeiros, Wilsinho, Fabrino, Portugal, etc",
+        "interpretacao": "Rico Medeiros"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Tereza de Benguela, Uma Rainha Negra no Pantanal",
+        "compositores": "Cláudio Fabrino, Paulo César Portugal, Jorge Baiano e Rico Medeiros",
+        "interpretacao": "Rico Medeiros"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Amor , Sublime Amor",
+        "compositores": "Heraldo Faria, Flavinho Machado e Gelson",
+        "interpretacao": "Quinzinho"
+      },
+      {
+        "ano": 1992,
+        "titulo": "E a Magia da Sorte Chegou",
+        "compositores": "Gelson, Heraldo Faria, Flavinho Machado",
+        "interpretacao": "Quinzinho"
+      },
+      {
+        "ano": 1991,
+        "titulo": "Bravo, Bravíssimo - Dercy , o Retrato de Um Povo",
+        "compositores": "Gelson, Rubinho, Odir Sereno, Aldir",
+        "interpretacao": "Quinzinho"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Só Vale o Escrito",
+        "compositores": "Adir, Odir, Sereno, Gélson e Gilberto Barros",
+        "interpretacao": "Quinzinho"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Mercadores e Mascates",
+        "compositores": "Gilberto, Mário, Odar, Nilo, Charuto, Carlos, Japona e Delfim",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "A Contribuição do Negro ao Folclore Brasileiro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Na Boca e na Ponta da Língua... É Carnaval",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1965,
+        "titulo": "Rio Quarto Centenário",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "Maria Quitéria",
+        "compositores": "",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 270.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.4,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 270.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.7,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.6,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.7,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Série A",
+        "posicao": 1,
+        "pontos": 269.7,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Série A",
+        "posicao": 2,
+        "pontos": 269.3,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Série A",
+        "posicao": 3,
+        "pontos": 268.3,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 263.7,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Série A",
+        "posicao": 1,
+        "pontos": 299.9,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Série A",
+        "posicao": 2,
+        "pontos": 299.6,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo A",
+        "posicao": 5,
+        "pontos": 297.8,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo A",
+        "posicao": 2,
+        "pontos": 299.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 290.5,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 395.1,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 396.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 397.3,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 397.2,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 393.4,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 386.9,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 393.3,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 394.1,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 293.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 298.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 267.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 262.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 180.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 284.5,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 294.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 294.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 289.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 281.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 290.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 226.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 214.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 4",
+        "posicao": 2,
+        "pontos": 208.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 4",
+        "posicao": 5,
+        "pontos": 206.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 3",
+        "posicao": 26,
+        "pontos": 40.0,
+        "resultado": "26º Lugar"
+      }
+    ]
   }
 }

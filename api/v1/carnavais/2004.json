@@ -1,0 +1,279 @@
+{
+  "ano": 2004,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "beija-flor",
+      "escola_nome": "Beija-Flor de Nilópolis",
+      "pontos": 388.7
+    },
+    "SP": {
+      "escola_slug": "mocidade-alegre",
+      "escola_nome": "Mocidade Alegre",
+      "pontos": 200.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 1,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 180.0,
+        "enredo": "A Vila É Para Ti..."
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 177.9,
+        "enredo": "Com Pandeiro ou sem Pandeiro... Eu Brinco. Com Dinheiro ou sem Dinheiro... Eu Também Brinco!"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 177.9,
+        "enredo": "Olha que Coisa Mais Linda, o Poeta Está no Paraíso"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 177.0,
+        "enredo": "A Estácio é Dez, o Brasil é Mil e a Fome é Zero"
+      }
+    ],
+    "RJ - Grupo D": [
+      {
+        "posicao": 10,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 169.5,
+        "enredo": "Arlênio Lívio, a Bandeira do Samba"
+      }
+    ],
+    "RJ - Grupo E": [
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 183.1,
+        "enredo": "Bangu, Glória em Séculos de História"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 388.7,
+        "enredo": "Manõa, Manaus, Amazônia, Terra Santa: Alimenta o Corpo, Equilibra a Alma e Transmite a Paz"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 387.9,
+        "enredo": "Mangueira Redescobre a Estrada Real... E Deste Eldorado Faz Seu Carnaval"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 386.9,
+        "enredo": "Pediu pra Pará, Parou! Com a Viradouro Eu Vou pro Círio de Nazaré"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 386.5,
+        "enredo": "Breazail"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 386.2,
+        "enredo": "A Cana que Aqui se Planta, Tudo Dá... Até Energia! Álcool, o Combustível do Futuro"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 384.9,
+        "enredo": "Lendas e Mistérios da Amazônia"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 381.2,
+        "enredo": "Não Corra, não Mate, não Morra. Pegue Carona com a Mocidade!"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 380.9,
+        "enredo": "Aquarela Brasileira"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 380.5,
+        "enredo": "Vamos Vestir a Camisinha, Meu Amor!"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 367.8,
+        "enredo": "Boi Voador Sobre o Recife: Cordel da Galhofa Nacional"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 197.5,
+        "enredo": "São Paulo Cosmopolita – A Cidade do Mundo"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 200.0,
+        "enredo": "Do Além-Mar à Terra da Garoa... Salve Esta Gente Boa"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 199.5,
+        "enredo": "Se Vens a Minha Casa Com Deus no Coração. Senta-te à Mesa e Come do Meu Pão"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 199.5,
+        "enredo": "O Novo Espelho de Narciso. Um Delírio Sobre os Heróis da Mitologia Paulistana"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 199.0,
+        "enredo": "A Águia Voa Para o Futuro, que Legal! É Bienal no Carnaval"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 199.0,
+        "enredo": "Dos Campos de Piratininga à Grande Metrópole. A História de São Paulo em Monumentos"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 198.0,
+        "enredo": "Tá na Mesa! CEAGESP é Fome Zero"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 197.5,
+        "enredo": "Sou Mais São Paulo... Ana Maria Braga Conta 450 Anos da Culinária Paulistana"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 196.5,
+        "enredo": "Agradeço ao Índio que Cuidou, a Você que Desbravou e a Todos que Fizeram Crescer - Tatuapé, Minha Vida, Meu Amor"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 196.5,
+        "enredo": "No Reinado da Folia o Povo Quer Ver: Minha História, 50 Anos de Glórias Brindando a São Paulo da Garoa com você"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 196.0,
+        "enredo": "Quer Conhecer São Paulo? Vem no Bixiga Pra Ver..."
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 190.0,
+        "enredo": "\"450 Anos de Fé\". Um Encontro no Coração do Brasil"
+      },
+      {
+        "posicao": 15,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 186.5,
+        "enredo": "São Paulo é Como Coração de Mãe... Sempre Cabe Mais Um"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 185.5,
+        "enredo": "Idéias e Paixões - Combustíveis das Revoluções"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 200.0,
+        "enredo": "A Saga Italiana em Terra Paulistana"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 199.0,
+        "enredo": "Deus Ajuda Quem Cedo Madruga Nesta Cidade que Nunca Para"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 194.5,
+        "enredo": "Oh! Mada... Oh! Madalena. Das Suas Tribos, Pérola Negra Faz Seu Canto"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 178.5,
+        "enredo": "Da Nobreza ao Popular, São Paulo dá Uma Colher de Chá"
+      }
+    ],
+    "SP - Grupo de Espera": [
+      {
+        "posicao": 4,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 98.0,
+        "enredo": "Boanoite.com"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

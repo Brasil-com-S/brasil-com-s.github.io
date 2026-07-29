@@ -1,0 +1,97 @@
+{
+  "ano": 1961,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Desfile intermediário": [
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 82.0,
+        "enredo": "Os Bandeirantes"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 80.0,
+        "enredo": "A Imprensa Através dos Tempos"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 74.0,
+        "enredo": "Homenagem à Brasília"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 59.0,
+        "enredo": "Exaltação a Pedro Américo, Castro Alves e Rui Barbosa"
+      }
+    ],
+    "RJ - Desfile preliminar": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 103.5,
+        "enredo": "Riquezas e Maravilhas do Brasil"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 102.0,
+        "enredo": "Rio Sempre Rio"
+      }
+    ],
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 102.5,
+        "enredo": "Reminiscências do Rio Antigo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 98.5,
+        "enredo": "Vida e Obra de Aleijadinho"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 95.5,
+        "enredo": "Jóias das Lendas Brasileiras"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 87.0,
+        "enredo": "Movimentos Revolucionários e Independência do Brasil - Inconfidência Mineira"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 53.5,
+        "enredo": "Carnaval Carioca"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 49.5,
+        "enredo": "Exaltação aos Ex-combatentes"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

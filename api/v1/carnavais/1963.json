@@ -1,0 +1,104 @@
+{
+  "ano": 1963,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 93.0,
+        "enredo": "Chica da Silva"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 85.0,
+        "enredo": "Exaltação à Bahia"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 80.0,
+        "enredo": "Rio de Ontem e de Hoje ou Exaltação a Mem de Sá"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 80.0,
+        "enredo": "Barão de Mauá e Suas Realizações ou Barão de Mauá e Sua Época"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 55.0,
+        "enredo": "As Minas Gerais"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 44.0,
+        "enredo": "Brasil, Pátria Universal"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 39.0,
+        "enredo": "O Guarani"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 50.0,
+        "enredo": "Costumes e Tradição do Rio Grande do Sul"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 50.0,
+        "enredo": "As Três Capitais"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 47.0,
+        "enredo": "Três Acontecimentos Históricos"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 55.0,
+        "enredo": "Rio de Antanho"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 42.0,
+        "enredo": "Garimpeiros do Araguaia"
+      },
+      {
+        "posicao": 18,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 36.0,
+        "enredo": "Glória a Villa-Lobos"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

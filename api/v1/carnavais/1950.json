@@ -1,0 +1,41 @@
+{
+  "ano": 1950,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Federação Brasileira de Escolas de Samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 320.0,
+        "enredo": "Batalha Naval do Riachuelo"
+      }
+    ],
+    "RJ - União Cívica de Escolas de Samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": null,
+        "enredo": "Plano Salte - Saúde, Lavoura, Transporte e Educação"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": null,
+        "enredo": "Riquezas do Brasil"
+      }
+    ],
+    "RJ - União Geral das Escolas de Samba do Brasil": [
+      {
+        "posicao": 4,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": null,
+        "enredo": "Baía de Guanabara"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

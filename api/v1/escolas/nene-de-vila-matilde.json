@@ -4,10 +4,10 @@
     "id": "nene-de-vila-matilde",
     "slug": "nene-de-vila-matilde",
     "nome": "Nenê de Vila Matilde",
-    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Nenê de Vila Matilde",
-    "fundacao": "1949-05-03",
+    "nome_completo": "O Grêmio Recreativo Cultural Escola de Samba Nenê de Vila Matilde",
+    "fundacao": "1949-01-01",
     "fundadores": [
-      "Nenê (Alberto Alves da Silva)"
+      "Alberto Alves da Silva"
     ],
     "estado": "SP",
     "cidade": "São Paulo",
@@ -18,17 +18,17 @@
       "Branco"
     ],
     "cores_hex": [
-      "#1565C0",
+      "#0000FF",
       "#FFFFFF"
     ],
-    "simbolo": "Águia e Árvore",
+    "simbolo": "Águia carregando um pandeiro nas garras",
     "titulos": 11,
     "anos_titulos": [
       1956,
       1958,
       1959,
       1960,
-      1963,
+      1962,
       1965,
       1968,
       1969,
@@ -38,16 +38,743 @@
     ],
     "logo_url": "assets/logos/original/nene-de-vila-matilde.png",
     "logo_original_url": "assets/logos/original/nene-de-vila-matilde.png",
-    "logo_gemini_png_url": "assets/logos/gemini/nene-de-vila-matilde.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/nene-de-vila-matilde.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Mulheres de Palmares — A Liberdade tem Rosto de Mulher",
         "compositores": "Chico Ângelo (Carnavalesco)",
         "interpretacao": "Agnaldo Amaral"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Encruzas - Nenê de corpo e alma no coração de São Paulo",
+        "compositores": "Leandro Neguinho, Victor Rangel, Guerra, Deco, Herval Neto, Daniel Paixão, Jonathan Tenório, Gigi da Estiva e Rene Barbosa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Um quê de poesia e um tanto de magia, nessa arte de encantar o imaginário popular…",
+        "compositores": "Adauto Alves, Dadô Poeta, China, Akash, Samuel Bussunda e Marcio Pessi",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Cirandando a Vida pra Lá e pra Cá. Sou Lia, Sou Nenê, Sou de Itamaracá",
+        "compositores": "Kaska, Léo Do Cavaco, Silas Augusto, Luí Mancha, Dr. Élio, Vitão e Bruno Gianelli",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Faraó Bahia",
+        "compositores": "MV Angelo, Maurício Rocha Jr., Kauê Rodrigues, Rodrigo Aita, Gabriel Simões, Raphael Gravino, Rafael Faustino, Maykon Rodrigues, Gustavo Martins, Juninho da Vila, André Ricardo, Jacopetti, Douglas Chocolate, Luciano Godoi, Dr. Elio, Serginho Engenheiro, Gui Leste e Godoi",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Narciso Negro",
+        "compositores": "Dom Marcos, Marco Antônio, Nilton da Flor, Mikal,Vado e Zé Carlos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "O Presente da Deusa e o brinde da Águia",
+        "compositores": "Adauto Alves, Dadô Poeta, China, Akash, Samuel Bussunda e Marcio Pessi",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "A majestade do samba chegou! Corri pra ver... pra ver quem era. Chegando lá, era a Nenê e a Portela",
+        "compositores": "Kaska, Turko, Luis Mancha, Zé Paulo Sierra, Vitão, Maradona, Léo do Cavaco, Fran da Vila, Rafa do Cavaco e Silas Augusto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "A Epopeia de uma Deusa Africana",
+        "compositores": "Kaska, Silas Augusto, Vitão, Zé Paulo Sierra, Léo do Cavaco e Luis Jorge",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "\" Coré Etuba . A ópera de todos os povos, terra de todas as gentes, Curitiba de todos os sonhos.\"",
+        "compositores": "Kaska, Silas Augusto, Zé Paulo Sierra, Vitão, Juninho da Vila, Léo do Cavaco, Sandrinho e Luís Jorge",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Nenê apresenta seu musical: Rainha Raia nas Asas do Carnaval",
+        "compositores": "KasKa, Silas Augusto, Zé Paulo Sierra, Vitão, Sandrinho, Juninho Da Vila e Claudio Mattos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Moçambique: A lendária terra do Baobá sagrado",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Paixão proibidas e outros amores...",
+        "compositores": "Moisés Santiago, Luciano Rosa, Gabriel Cacique, Marcelo Careca e Nilson Feijão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Da Revolta dos Búzios a atualidade. A Nenê canta a igualdade!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Chica convida... No palácio da Nenê, a festa é para você!",
+        "compositores": "Dom Álvaro, Beto do Cartório, Rodrigo Pezão Lucas B e Belão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Salis Sapientiae - Uma história do mundo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "A Água Nossa de Cada Dia. A Pureza da Águia é a Essência de Nossas Vidas!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "60 anos – coração guerreiro, a grande refazenda do samba",
+        "compositores": "Cláudio Russo, J. Velloso, Marquinhos, Ney do Cavaco e Cláudio Tricolor",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Um vôo da águia como nunca se viu! Também somos folclore do nosso Brasil - 110 anos aprendendo com Câmara Cascudo",
+        "compositores": "Adriano Bejar, Nenê e Sulu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "A Águia Radiante com o Pioneiro das Comunicações – João Jorge Saad – 70 Anos de Conquistas e Realizações",
+        "compositores": "Santaninha, Fabiano Sorriso, Paulinho Sampagode e Gonçalves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Mamma Bahia - Ópera Negra Lídia de Oxum",
+        "compositores": "Santaninha, Rubens Gordinho, Rafael, Renato, Teco, Juninho, Clóvis e Baby",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Um Voo da Águia Entre Dois Mundos",
+        "compositores": "Marco Antônio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "A Águia Voa Para o Futuro, que Legal! É Bienal no Carnaval",
+        "compositores": "Santaninha, Baby, Rubens Gordinho e Marcelo Abreu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "É Melhor ler... O Mundo Colorido de Um Maluco Genial",
+        "compositores": "Paulinho Sampagode, Fabiano Sorriso, Pedrinho Sem Braço e Edy",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Em Não Se Plantando, Tudo Nos Dão? Não",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Voei, voei, na Vila aportei, onde me deram uma coroa de rei",
+        "compositores": "Santaninha, Baby, Clóvis Pe e Rubens Gordinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Porque me Orgulho de ser Brasileiro - A Era Vargas",
+        "compositores": "Santaninha, Baby, Clóvis Pê e Rubens Gordinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Voa Águia, que Sampa é Toda Tua",
+        "compositores": "Santaninha, Baby, Clóvis Pê e Rubens Gordinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Sementes do Samba, União de Gente Bamba",
+        "compositores": "Santaninha, Baby, Clóvis Pê, Rubens Gordinho e Barbosinha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Narciso Negro",
+        "compositores": "Dom Marcos, Marco Antônio, Nilton da Flor, Mikal,Vado e Zé Carlos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Comunicação - Taí a Informação",
+        "compositores": "Elzo e Canuto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Eu Te Amo",
+        "compositores": "Dom Marcos, Adelson, Rubinho, Marcão, Cizão,Edinho, J.Reis, Panda, Wagner, Mosquitinho, Adil, Rose e Eduardo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Pira-ique, Mistério e Magia",
+        "compositores": "Panda, Mosquitinho, J.Reis e Juarez",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Primeiro Desejo",
+        "compositores": "Santaninha, Baby, Clóvis, Rubens Gordinho e Barbosinha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Luz, Divina Luz",
+        "compositores": "Santaninha, Baby, Clóvis, Rubens Gordinho e Barbosinha",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Tudo Mentira... Será que é",
+        "compositores": "Wagner Santos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Respeito é Bom e eu Gosto",
+        "compositores": "Ney do Cavaco, Filé, Ricardo e Jovilson",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Eu Tenho Origem",
+        "compositores": "Ney do Cavaco, Filé e Ricardo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "O Poeta Falou Zona Leste Somos Nós",
+        "compositores": "Marco Antônio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Pernambuco, Leão do Norte",
+        "compositores": "Armando da Mangueira, Miguelzinho da Vila, Pilica, Filé, Lume e Ricardo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Rabo de Foguete",
+        "compositores": "Armando da Mangueira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "O Dia em que o Cacique Rodou a Baiana, Aí ó!",
+        "compositores": "Marco Antônio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "Sagração dos Deuses",
+        "compositores": "Armando da Mangueira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Gosto é Gosto e Não se Discute",
+        "compositores": "Armando da Mangueira, Oswaldo Arouche e Biguinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Palmares, Raízes da Liberdade",
+        "compositores": "Armando da Mangueira e Jangada",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Axé - Sonho de Candeia",
+        "compositores": "Armando da Mangueira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Magnitude de uma Raça",
+        "compositores": "Osvaldinho Babão, Coquinho e Pirulito",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Treze, Rei, Patuá",
+        "compositores": "Armando da Mangueira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Sonho de um Rei Negro",
+        "compositores": "João Dionísio e Bom Cabelo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "As Carrancas do Rio São Francisco",
+        "compositores": "Clarim",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Exaltação às Raças de um Brasil Gigante",
+        "compositores": "Armando da Mangueira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "Samba, Carnaval e Flores",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1973,
+        "titulo": "São Paulo na Academia Brasileira de Letras",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "Olhai o Progresso de São Paulo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1971,
+        "titulo": "O Brasil em festa no sonho de Aladino",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "Paulicéia Desvairada",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1969,
+        "titulo": "Com Recife Antigo no Coração",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo de acesso 2",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": null,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": null,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 267.5,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 179.8,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 262.5,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 268.25,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 342.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 88.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 294.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 287.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 291.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 199.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 198.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 199.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 198.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 297.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 292.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 298.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 283.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 286.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 278.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 96.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 287.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 248.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 263.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 264.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 192.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 263.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 91.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 97.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 192.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 284.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 92.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 95.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 95.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 70.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 63.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 76.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 77.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 73.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 91.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 94.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 102.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 91.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

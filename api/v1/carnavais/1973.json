@@ -1,0 +1,164 @@
+{
+  "ano": 1973,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 59.0,
+        "enredo": "Lendas do Abaeté"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 58.0,
+        "enredo": "Viagem Encantada Pindorama Adentro"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 56.0,
+        "enredo": "Eneida, Amor e Fantasia"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 53.0,
+        "enredo": "Pasárgada, o Amigo do Rei"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 51.0,
+        "enredo": "ABC do Carnaval à Maneira da Literatura de Cordel"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 45.0,
+        "enredo": "Rio Zé Pereira"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 42.0,
+        "enredo": "Zodíaco no Samba"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 56.0,
+        "enredo": "Educação para o Desenvolvimento"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 48.0,
+        "enredo": "Os Imortais da Música Brasileira"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 47.0,
+        "enredo": "Momentos Inesquecíveis de Tapoagipe"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 43.0,
+        "enredo": "Y-Juca Pirama"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 31.0,
+        "enredo": "Cazuza"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 51.0,
+        "enredo": "Prodígio de Café na Economia Brasileira"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 40.0,
+        "enredo": "Riquezas do Brasil"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 103.0,
+        "enredo": "Ode de um Povo - Odisséia de um Povo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 100.0,
+        "enredo": "As quatro Estações do Ano"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 84.0,
+        "enredo": "Lamartine Babo - Hino ao Carnaval Brasileiro"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 74.0,
+        "enredo": "Brasilidade"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 73.0,
+        "enredo": "São Paulo na Academia Brasileira de Letras"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 64.0,
+        "enredo": "O Brasil Recebe a África"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 84.0,
+        "enredo": "Formação Étnica"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

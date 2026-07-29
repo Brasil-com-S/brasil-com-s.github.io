@@ -4,49 +4,786 @@
     "id": "unidos-do-peruche",
     "slug": "unidos-do-peruche",
     "nome": "Unidos do Peruche",
-    "nome_completo": "Grêmio Recreativo Cultural Escola de Samba Unidos do Peruche",
+    "nome_completo": "O Grêmio Recreativo Cultural Social Escola de Samba Unidos do Peruche",
     "fundacao": "1956-01-04",
-    "fundadores": [
-      "Seu Carlão do Peruche",
-      "Biguá"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
-    "bairro": "Parque Peruche",
+    "bairro": "Parque Peruche (Dist. Casa Verde)",
     "grupo": "Acesso",
     "cores": [
       "Verde",
       "Amarelo",
-      "Preto",
+      "Azul",
       "Branco"
     ],
     "cores_hex": [
-      "#388E3C",
-      "#FFEB3B",
-      "#000000",
+      "#008000",
+      "#FFFF00",
+      "#0000FF",
       "#FFFFFF"
     ],
-    "simbolo": "Vovó do Peruche",
+    "simbolo": "Cruzeiro do Sul e Peruchinho",
     "titulos": 5,
     "anos_titulos": [
+      1957,
       1962,
       1965,
       1966,
-      1967,
-      1973
+      1967
     ],
     "logo_url": "assets/logos/original/unidos-do-peruche.png",
     "logo_original_url": "assets/logos/original/unidos-do-peruche.png",
-    "logo_gemini_png_url": "assets/logos/gemini/unidos-do-peruche.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/unidos-do-peruche.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Filhos de Mãe Preta",
         "compositores": "Mauro Pegoraro / Xuxa (Carnavalesco)",
         "interpretacao": "Toninho Penteado"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Oi... Esse Peruche Lindo e Trigueiro... Terra de Samba e Pandeiro",
+        "compositores": "Dennis Patolino, Victor 7, Parcio Anselmo e Jamelão Neto",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Axé Griô! Carlão do Peruche, o Cardeal Preto do Samba",
+        "compositores": "Pablo Sousa, Fabiano Garcia, Walmir Tchuca, Jonathan Martins, Mauricio Oliveira e Buiu MT",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Da Cultura do Reino de Ifê ao Legado da Rainha Ronke",
+        "compositores": "Freddy Vianna, Jorge Alckmista, Ronny Potolski, Nando Do Cavaco, Dr. Edson, André Filosofia, Rodrigo Atração, Alcides Junior, Edson Liz, Dema, Everton Barbosa e Xandinho Nocera",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "A Essência Que Me Seduz",
+        "compositores": "Luiz Henrique, Luiz Jacaré, Paula Azzam, Pixulé, Rapha Maslionis e Vinicius Marques",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Água… Divinas Bençãos!",
+        "compositores": "Arnaldo Luz, Karina Sales, Celsinho Mody, Juliano. Thiago de Xangô, Marcio Zanato, Douglas Chocolate, Paulinho Sorriso, Tio Do, Guga Pacheco e Leo Reis",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Ubuntu - Por um Mundo Novo.",
+        "compositores": "Tio Do, Juliano, Thiago de Xangô, Douglas Chocolate e Arnaldo Luz",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Nascem do ventre africano os valores do mundo. África, um passado presente no futuro da humanidade",
+        "compositores": "Tio Do, Paulinho Sorriso, Juliano, Marcio Zanato, Thiago de Xangô, Arnaldo Luz e Douglas Chocolate",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Peruche celebra Martinho: 80 anos do Dikamba da Vila",
+        "compositores": "Toninho Penteado, Émerson Brasa, Nando do Cavaco, André Filosofia, Diley Machado, Alcides Júnior, Sérgio VJS, Marcelo Vila Isa, Leandro Bata´s, Jairo Roizen, Ronny Potolski, Sukata, Morganti, Claudinho, Tavares, Valêncio, Butti, Evandro Malandro, Tubino, Alberjan, Jr Fragga, Leo Rodrigues, Rogério Acioli, Meiners e Victor Alves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "A Peruche no maior axé exalta Salvador , cidade da Bahia , caldeirão de raças, cultura, fé e alegria",
+        "compositores": "Thiago de Xangô, Douglas Chocolate, Leo Reis, Juliano, Celsinho Mody, Guga Pacheco, Tio Do, Paulinho Sorriso e Marcio Zanato",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Ponha um pouco de amor numa cadência e vai ver que ninguém no mundo vence a beleza que tem o samba ... 100 anos de samba, minha vida, minha raiz",
+        "compositores": "Jairo Roizen, Ronny Potolski, Madureira, Marcelo Madureira, Alex Barbosa, Sukatinha, Bagé, Tubino, Igor Vianna, Thiago Sousa, Gilson, Kaballa, Victor e Meiners",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Karabá, e a lenda do menino do coração de ouro",
+        "compositores": "Shumacker, Bola, Mydras Schmidt, Fabiano Pires e Dhall",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "A Beleza é imperfeita, e a loucura é genial",
+        "compositores": "Toninho Penteado, André, Mineiro, Denis Patolino, Lucas Santiago e Luiz Bento",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "O povo da floresta está em festa. A tribo da Peruche vai passa",
+        "compositores": "Toninho Penteado, Claudinho, Denis Patolino, Luiz Bento, Zico Oliveira, Emerson Brasa e Denis Santiago Intérprete: Toninho Penteado",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Vamos fugir do juízo final... Ainda há tempo, vamos ter juízo afinal",
+        "compositores": "Fernando Bom Cabelo, Fadico, Cesinha, Madu, Vadinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Abram as cortinas, o espetáculo vai começar! 100 anos do Teatro Municipal de São Paulo, Peruche vai apresentar. Bravo, Bravíssimo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "São Paulo, olhai por nós!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Do ventre da Terra à indomável cobiça do homem",
+        "compositores": "Rodrigo Atração, Tuca Maia, Mineiro, Gordinho e Digão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Quilombos, Quilombolas, Kizomba, Meu Quilombo é Peruche!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Com Mauricio de Sousa, a Unidos do Peruche, Abre-Alas, Abre-Livros, Abre-Mentes e Faz Sonhar",
+        "compositores": "Maurício de Jesus, Maurinho de Jesus, Kaxitu, Geraldinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Santos Dumont - Brasil e França Navegando Pelos Ares",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Na Terra, no Mar, no Infinito, Somos Todos Irmãos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "São Paulo é Como Coração de Mãe... Sempre Cabe Mais Um",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Sou Caipira e Caiçara, da Terra Encantada e do Rio Sagrado, Sou Cone Leste Paulista, Com a Benção da Senhora Aparecida",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Guarujá, A Pérola do Atlântico",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Raça Pura, Mistura Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Cara e Coroa, as Duas Faces de um Império",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Bill Gates - o Cérebro do Futuro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Mamma África",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Todo Brasileiro é um Rei com a Coroa Sideral",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "A Cor do Pecado - O Chocolate",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Não Deixe o Samba Sambar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "O Reino de Oyó Visto Pelos Olhos de Xangô",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Mercado, Mercador, Mercadoria",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "O Brasil Mostra Suas Cores",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Quem não Arrisca não Petisca",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "De Roma Pagã ao Esplendor da Paulicéia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Os Sete Tronos dos Divinos Orixás",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "Filhos da Mãe Preta",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "O Rei do Dia Numa Noite de Carnaval - o Sol, a Luz da Vida",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Benjamin de Oliveira, \"o Palhaço Negro\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Água Cristalina",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "No Reino da Carochinha",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "O Criador de Ilusões",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "No Reino da Mãe D'Água",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Moço de Prata, Vitória-régia no Carnaval",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Fábulas Fabulosas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Abertura dos Portos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Di Cavalcanti \"Dos Carnavais e das Mulatas\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Eternos Vigilantes - Homenagem ao Corpo de Bombeiros",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Afoxé da Bahia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Felipe Mina, o Senhor dos Diamantes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "Quatro Festas do Folclore Brasileiro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1973,
+        "titulo": "Brasilidade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "Chamada aos Heróis da Independência",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1971,
+        "titulo": "Festa da Pirapora",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "O Rei Café",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1969,
+        "titulo": "História da Casa Verde",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo de acesso 2",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": null,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": null,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo de acesso",
+        "posicao": 7,
+        "pontos": 266.7,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo de acesso",
+        "posicao": 6,
+        "pontos": 265.6,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": 178.6,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 247.25,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 268.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 339.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 89.75,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 285.25,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 287.75,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 294.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 15,
+        "pontos": 186.5,
+        "resultado": "15º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 192.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 193.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 298.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 189.5,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 282.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 287.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 288.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 284.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 282.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 272.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 89.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 287.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 260.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 293.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 283.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 190.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 269.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 84.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 91.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 166.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 250.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 75.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 91.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 64.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 79.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 59.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 58.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 60.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 56.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 76.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 74.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 78.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 95.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 98.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 88.0,
+        "resultado": "2º Lugar"
+      }
+    ]
   }
 }

@@ -5,30 +5,863 @@
     "slug": "sao-clemente",
     "nome": "São Clemente",
     "nome_completo": "Grêmio Recreativo Escola de Samba São Clemente",
-    "fundacao": "1951-10-25",
+    "fundacao": "1961-10-25",
     "fundadores": [
-      "Ivo da Rocha"
+      "Ivo da Rocha Gomes",
+      "João Marinho",
+      "Aílton Teixeira"
     ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
-    "bairro": "Botafogo",
+    "bairro": "Cidade Nova",
     "grupo": "Acesso",
     "cores": [
       "Preto",
       "Amarelo"
     ],
     "cores_hex": [
-      "#000000",
-      "#FFEB3B"
+      "#000",
+      "#FFFF00"
     ],
-    "simbolo": "Pássaro de Botafogo",
+    "simbolo": "Pandeiro, Enseada de Botafogo e o Pão de Açúcar",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/sao-clemente.png",
     "logo_original_url": "assets/logos/original/sao-clemente.png",
-    "logo_gemini_png_url": "assets/logos/gemini/sao-clemente.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/sao-clemente.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Na Tamarineira, é Pagode, é Carioca, é São Clemente",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "A São Clemente Dá Voz a Quem não Tem",
+        "compositores": "",
+        "interpretacao": "Leolzinho"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Que Grande Destino Reservaram pra Você",
+        "compositores": "",
+        "interpretacao": "Leolzinho"
+      },
+      {
+        "ano": 2023,
+        "titulo": "O Achamento do Velho Mundo",
+        "compositores": "Marcelo Adnet, André Carvalho, Gustavo Albuquerque, Pedro Machado, Fabiano Paiva, Luizinho do Méier, Gabriel Machado, Baby do Cavaco e/and Hamilton Fofão",
+        "interpretacao": "Leozinho Nunes"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Minha Vida É Uma Peça",
+        "compositores": "Cláudio Filé, Arlindinho Neto, Igor Leal, James Bernardes, Braguinha, Colaço, Marcus Lopes, Caio Tinguinha, Danilo Gustavinho e Kaike Vinícius",
+        "interpretacao": "Maninho e Leozinho Nunes"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Minha vida é uma peça",
+        "compositores": "",
+        "interpretacao": "Maninho e Leozinho Nunes"
+      },
+      {
+        "ano": 2020,
+        "titulo": "O Conto do Vigário",
+        "compositores": "Marcelo Adnet, André Carvalho, Pedro Machado, Gustavo Albuquerque, Camilo Jorge, Luiz Carlos França, Gabriel Machado e Raphael Candela",
+        "interpretacao": "Léozinho Nunes, Bruno Ribas e Grazzi Brasil"
+      },
+      {
+        "ano": 2019,
+        "titulo": "E o Samba Sambou",
+        "compositores": "Helinho 107, Mais Velho, Nino e Chocolate",
+        "interpretacao": "Léozinho Nunes e Bruno Ribas"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Academicamente Popular",
+        "compositores": "Ricardo Góes, Flavinho Segal, Naldo, Serginho Machado, Fabiano Paiva, Igor Marinho e Gustavo Clarão",
+        "interpretacao": "Léozinho Nunes"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Onisuáquimalipanse",
+        "compositores": "Toninho Nascimento, Luis Carlos Máximo, Anderson Paz, Gustavo Albuquerque, Marelão da Ilha e Camilo Jorge",
+        "interpretacao": "Léozinho Nunes"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Mais de Mil Palhaços no Salão",
+        "compositores": "Rodrigo Índio, Alexandre Araújo, Fabio Rossi, Vinícius Nagem, Amado Osman, Armando Daltro, Rodrigo Telles e Davi Dias",
+        "interpretacao": "Léozinho Nunes"
+      },
+      {
+        "ano": 2015,
+        "titulo": "A Incrível História do Homem que Só Tinha Medo da Matinta Perera, da Tocandira e da Onça Pé de Boi",
+        "compositores": "Leozinho Nunes, W.Machado, Hugo Bruno, Diego Estrela, Ronni Costa e Victor Alves",
+        "interpretacao": "Igor da Silva Moreira (Igor Sorriso)"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Favela",
+        "compositores": "Ricardo Góes, Serginho Machado, Grey, Anderson, FM e Flavinho Segal",
+        "interpretacao": "Igor da Silva Moreira (Igor Sorriso)"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Horário Nobre",
+        "compositores": "Nelson Amatuzzi, Victor Alves, Floriano do Caranguejo, Beto Savana, Guguinha, Fábio Portugal e Gabrielzinho Poeta",
+        "interpretacao": "Igor da Silva Moreira (Igor Sorriso)"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Uma Aventura Musical na Sapucaí",
+        "compositores": "Ricardo Góes, Serginho Machado, Marcos Antunes, FM, Guguinha, Vânia e Flavinho Segal",
+        "interpretacao": "Igor da Silva Moreira (Igor Sorriso)"
+      },
+      {
+        "ano": 2011,
+        "titulo": "O Seu, o Meu, o Nosso Rio, Abençoado por Deus e Bonito por Natureza!",
+        "compositores": "Compositores (*)",
+        "interpretacao": "Igor da Silva Moreira (Igor Sorriso)"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Choque de Ordem na Folia",
+        "compositores": "Luiz Carlos Ribeiro, Marquinhos Gravino, Alex Jouber, Rubinho Salomão e Marcelo D. Noite",
+        "interpretacao": "Igor da Silva Moreira (Igor Sorriso)"
+      },
+      {
+        "ano": 2009,
+        "titulo": "O Beijo Moleque da São Clemente",
+        "compositores": "Rodrigo Indio, Alexandre Araujo, Fabio Rossi, Rodrigo Telles e Armando Daltro",
+        "interpretacao": "Leonardo Bessa"
+      },
+      {
+        "ano": 2008,
+        "titulo": "O Clemente João VI no Rio: A Redescoberta do Brasil...",
+        "compositores": "Helinho 107, Ricardo, Naldo, Cláudio, Marcelo Santa Clara e Armandinho do Cavaco",
+        "interpretacao": "Leonardo Bessa"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Barrados no Baile",
+        "compositores": "Alemão do Táxi, Carlinhos da Penha, Maninho, Gil Melodia e Jassa",
+        "interpretacao": "Leonardo Bessa"
+      },
+      {
+        "ano": 2006,
+        "titulo": "De Gonzagão a Gonzaguinha: em Vida de Viajante",
+        "compositores": "Rodrigo Índio, Naldo, Ricardo Góes,  Fabio Rossi e Cláudio Filé",
+        "interpretacao": "Leonardo Bessa"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Velha É a Vovozinha: a São Clemente Enrugadinha e Gostosinha",
+        "compositores": "Diego, Alexandre, Rodrigo, Júnior Duarte, Armandinho do Cavaco e Eugênio Leal",
+        "interpretacao": "Clóvis Pê, Leonardo Bessa e Bruno Ribas"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Boi Voador Sobre o Recife: Cordel da Galhofa Nacional",
+        "compositores": "Jorge Melodia, Noronha, Marcos Zero e César Ouro",
+        "interpretacao": "Anderson Fernandes da Silva (Anderson Paz)"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Mangaratiba, Uma História de Lutas para Todos que Amam a Terra e a Liberdade",
+        "compositores": "Diego Mendes, Alexandre Araújo e Rodrigo Telles",
+        "interpretacao": "Anderson Fernandes da Silva (Anderson Paz)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Guapimirim, Paraíso Ecológico Abençoado pelo Dedo de Deus",
+        "compositores": "Rodrigo Índio, Eugênio Leal, Fabinho, Paulo Renato e Anderson Paz",
+        "interpretacao": "Anderson Fernandes da Silva (Anderson Paz)"
+      },
+      {
+        "ano": 2001,
+        "titulo": "A São Clemente Mostrou, e Nada Mudou Nesse Brasil Gigante",
+        "compositores": "Paulo Renato, Eugênio Leal, Fábio Chrispim e Rodrigo Índio",
+        "interpretacao": "Anderson Fernandes da Silva (Anderson Paz)"
+      },
+      {
+        "ano": 2000,
+        "titulo": "No Ano 2000, a São Clemente É Tupi com Sergipe na Sapucaí",
+        "compositores": "Helinho 107, Cláudio Filé, Reginaldo Bessa e Leonardo Alegria",
+        "interpretacao": "Rixxa, Nego Lindo e Ronaldo"
+      },
+      {
+        "ano": 1999,
+        "titulo": "A São Clemente Comemora e Traz Rui Barbosa para os Braços do Povo",
+        "compositores": "Ricardo Góes, Ronaldo Soares, Chocolate e Antônio",
+        "interpretacao": "Sérgio da Silva (Serginho do Porto)"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Maiores São os Poderes do Povo! Se Liga na São Clemente!",
+        "compositores": "Ricardo Góes, Ronaldo Soares, Chocolate e Fernando de Lima",
+        "interpretacao": "David do Pandeiro"
+      },
+      {
+        "ano": 1997,
+        "titulo": "A São Clemente Botafogo na Sapucaí",
+        "compositores": "Ricardo Góes, Ronaldo Soares, Chocolate,  Nivaldo e Fernando de Lima",
+        "interpretacao": "Márcio Souto"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Se a Canoa não Virar, a São Clemente Chega Lá",
+        "compositores": "Henrique Damião, Maurílio Faria e Flávio Oliveira",
+        "interpretacao": "Nego Lindo"
+      },
+      {
+        "ano": 1995,
+        "titulo": "O que É que não É, mas Será?",
+        "compositores": "Helinho 107, Cláudio Filé, Leonardo Alegria e Vaguinho",
+        "interpretacao": "Vaguinho, Nego Lindo, Ronaldo e Helinho"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Uma Andorinha Só não Faz Verão ou Aonde Vai a Corda Vai a Caçamba",
+        "compositores": "Dedeco, Cesar Neguinho e Buda",
+        "interpretacao": "Vaguinho"
+      },
+      {
+        "ano": 1993,
+        "titulo": "O Pão Nosso de Cada Dia",
+        "compositores": "Helinho 107, Chocolate, Ricardo, Ronaldo e Maurício",
+        "interpretacao": "Melquisedeque Marins Marques (Quinho)"
+      },
+      {
+        "ano": 1992,
+        "titulo": "E o Salário, ó!",
+        "compositores": "Chocolate, Helinho 107, Maurício, Ricardo e Ronaldo",
+        "interpretacao": "Sidney Moreno"
+      },
+      {
+        "ano": 1991,
+        "titulo": "Já Vi Este Filme",
+        "compositores": "Manoelzinho Poeta, Jorge Moreira, Severo, Jorge Melodia e HaroldoPereira",
+        "interpretacao": "Sidney Moreno"
+      },
+      {
+        "ano": 1990,
+        "titulo": "E o Samba Sambou",
+        "compositores": "Helinho 107, Mais Velho, Nino e Chocolate",
+        "interpretacao": "Izaias de Paula"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Made in Brazil, Yes Nós Temos Banana",
+        "compositores": "João Carlos Grilo, Ricardo Góes, Ronaldo Soares e Sérgio Fernandes",
+        "interpretacao": "Geraldão"
+      },
+      {
+        "ano": 1988,
+        "titulo": "Quem Avisa Amigo É",
+        "compositores": "Izaias de Paula, Helinho 107 e Chocolate",
+        "interpretacao": "Izaias de Paula"
+      },
+      {
+        "ano": 1987,
+        "titulo": "Capitães do Asfalto",
+        "compositores": "Isaías de Paula, Jorge Moreira e Manuelzinho Poeta",
+        "interpretacao": "Izaias de Paula"
+      },
+      {
+        "ano": 1986,
+        "titulo": "Pouca Saúde, Muita Saúva, os Males do Brasil São",
+        "compositores": "Pouca saúde, muita saúva, os males do Brasil são",
+        "interpretacao": "Geraldão"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Quem Casa, Quer Casa",
+        "compositores": "Rodrigo, Izaías de Paulo e Helinho 107",
+        "interpretacao": "Isaías de Paula"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Não Corra, não Mate, não Morra - O Diabo Está Solto no Asfalto",
+        "compositores": "Rodrigo e Geraldão",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "A Criação da Noite",
+        "compositores": "João Carlos Grilo, Serginho e Chocolate",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "As Intocáveis Tempestades de Dam",
+        "compositores": "Wilson Magnata, Marino e Ivanildo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Assim Dança o Brasil",
+        "compositores": "Dario Marciano, Lorival Boa Memória e João Carlos Grilo",
+        "interpretacao": "Nando"
+      },
+      {
+        "ano": 1980,
+        "titulo": "A Doce Ilusão do Sambista",
+        "compositores": "Ivo da Rocha Gomes e João Carlos Grilo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Louvação às Três Rainhas",
+        "compositores": "Ivo da Rocha Gomes e Izaías de Paula",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Apoteose ao Teatro de Revista",
+        "compositores": "Chocolate",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Acredite Se Quiser",
+        "compositores": "Chocolate, Zé Prego e Siri",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Recife, Nosso Amor Distante",
+        "compositores": "Sidney da Conceição, Natal e Ouvídio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Quem Quebrou Meu Violão - Tra-Lá-Lá",
+        "compositores": "Carlinhos Boca Rica, Wanderley Caramba, Risada e Jorge Canário",
+        "interpretacao": "Cardoso"
+      },
+      {
+        "ano": 1974,
+        "titulo": "Sonhos Fascinantes de Um Jovem Adolescente",
+        "compositores": "Ouvídio e Filinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1973,
+        "titulo": "Momentos Inesquecíveis de Tapoagipe",
+        "compositores": "Sidney da Conceição e Natal",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "Dança de Um Povo Livre",
+        "compositores": "Ivo da Rocha Gomes e João Carlos Grilo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1971,
+        "titulo": "O Beijo de Três Saudades",
+        "compositores": "Ivo da Rocha Gomes e João Carlos Grilo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "Histórias Fantásticas",
+        "compositores": "Dario Marciano e Lorival Boa Memória",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1969,
+        "titulo": "Assim dança o Brasil - Desfile foi suspenso por problemas no som",
+        "compositores": "Lourival Boa Memória e João Carlos Grilo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1968,
+        "titulo": "Vultos da Cultura Imperial",
+        "compositores": "Chocolate e Zezinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1967,
+        "titulo": "Festas e Tradições Populares do Brasil",
+        "compositores": "Paulo Granada, Leônidas de Araújo, Barata e Chocolate",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1966,
+        "titulo": "Apoteose ao Folclore Brasileiro",
+        "compositores": "Carlos Correa Lopes e Robertinho Devagar",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1965,
+        "titulo": "Relíquias e Memórias do Rio",
+        "compositores": "Adilton Luz, Zezinho e Walter",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "Rio dos Vices Reis",
+        "compositores": "Adilton Luz, Zezinho e Walter",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1963,
+        "titulo": "Rio de Antanho",
+        "compositores": "Carlos Correa Lopes e Robertinho Devagar",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1962,
+        "titulo": "Riquezas do Brasil",
+        "compositores": "Carlos Correa Lopes",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Classificação da noite",
+        "posicao": 2,
+        "pontos": 268.7,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Série Ouro",
+        "posicao": 12,
+        "pontos": 266.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro",
+        "posicao": 5,
+        "pontos": 269.4,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Série Ouro",
+        "posicao": 7,
+        "pontos": 269.1,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 263.7,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 267.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 267.4,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 266.9,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 267.4,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 267.8,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.4,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 294.3,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 293.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 294.7,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 290.9,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo A",
+        "posicao": 1,
+        "pontos": 270.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo A",
+        "posicao": 4,
+        "pontos": 238.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 387.5,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo A",
+        "posicao": 1,
+        "pontos": 239.7,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo A",
+        "posicao": 2,
+        "pontos": 239.8,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo A",
+        "posicao": 3,
+        "pontos": 178.4,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 367.8,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo A",
+        "posicao": 1,
+        "pontos": 180.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 356.2,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo A",
+        "posicao": 2,
+        "pontos": 193.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo A",
+        "posicao": 4,
+        "pontos": 194.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 233.5,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo A",
+        "posicao": 2,
+        "pontos": 178.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo A",
+        "posicao": 3,
+        "pontos": 178.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo A",
+        "posicao": 3,
+        "pontos": 298.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 17,
+        "pontos": 261.5,
+        "resultado": "17º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 344.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 285.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 291.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 265.5,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 559.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 13,
+        "pontos": 189.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 197.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 197.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-B",
+        "posicao": 2,
+        "pontos": 198.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 15,
+        "pontos": 169.0,
+        "resultado": "15º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1-B",
+        "posicao": 4,
+        "pontos": 187.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 2-A",
+        "posicao": 2,
+        "pontos": 193.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 2-A",
+        "posicao": 3,
+        "pontos": 181.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 2-A",
+        "posicao": 3,
+        "pontos": 88.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1-B",
+        "posicao": 11,
+        "pontos": 74.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 2-A",
+        "posicao": 5,
+        "pontos": 88.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 2",
+        "posicao": 9,
+        "pontos": 74.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 2",
+        "posicao": 10,
+        "pontos": 46.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 2",
+        "posicao": 10,
+        "pontos": 80.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 2",
+        "posicao": 5,
+        "pontos": 97.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 2",
+        "posicao": 11,
+        "pontos": 74.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 47.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 2",
+        "posicao": 5,
+        "pontos": 60.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 2",
+        "posicao": 5,
+        "pontos": 106.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 2",
+        "posicao": 9,
+        "pontos": 64.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 75.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 48.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 126.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 97.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 63.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 55.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 3",
+        "posicao": 4,
+        "pontos": 86.0,
+        "resultado": "4º Lugar"
+      }
+    ]
   }
 }

@@ -4,12 +4,9 @@
     "id": "gavioes-da-fiel",
     "slug": "gavioes-da-fiel",
     "nome": "Gaviões da Fiel",
-    "nome_completo": "Grêmio Gaviões da Fiel Torcida",
+    "nome_completo": "Grêmio Recreativo Cultural e Escola de Samba Gaviões da Fiel Torcida",
     "fundacao": "1969-07-01",
-    "fundadores": [
-      "Flávio La Selva",
-      "Chico de Paula"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Bom Retiro",
@@ -22,7 +19,7 @@
       "#000000",
       "#FFFFFF"
     ],
-    "simbolo": "Gavião em Voo",
+    "simbolo": "Gavião",
     "titulos": 4,
     "anos_titulos": [
       1995,
@@ -32,9 +29,490 @@
     ],
     "logo_url": "assets/logos/original/gavioes-da-fiel.png",
     "logo_original_url": "assets/logos/original/gavioes-da-fiel.png",
-    "logo_gemini_png_url": "assets/logos/gemini/gavioes-da-fiel.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/gavioes-da-fiel.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Vozes Ancestrais para um Novo Amanhã",
+        "compositores": "Renato do Pandeiro, Rica Leite, Luciano Rosa, Cacá, Vini, Beto Cabeça, Don Souza, Portuga, Alves, Willian Tadeu e Biro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Irin Ajó Emi Ojisé",
+        "compositores": "Grandão, Sukata, José Rifai, Ovelha JB, Juliano, Guga Pacheco, Gabriel Lima, Japa Mooca, Wesley, Morganti, Andrezinho, B. Cardoso, Gladzik, Renne Rocha e Dentinho do Morro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Vou Te Levar Pro Infinito",
+        "compositores": "Grandão Sukata, Guga Pacheco, Claudio Mattos, Juliano Souza da Cuíca, Japa Ovelha JB",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Em nome do Pai, dos Filhos, dos Espíritos e dos Santos… Amém!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Basta!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Um não sei que, que nasce não sei onde, vem não sei como e explode não sei porquê...",
+        "compositores": "Rafael Falanga, Luciano Rosa, Biro-Biro, Portugal e William Tadeu",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "A Saliva do Santo e o Veneno da Serpente",
+        "compositores": "Grego e Magal",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Guarus – Na aurora da criação, a profecia Tupi…Prosperidade e paz aos mensageiros de Rudá",
+        "compositores": "Luciano Costa, Bruno Muleki, Totonho, Alex, Fabio Palácio, Neto, Reinaldo Jr. e Fadico",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Com as mãos e a garra de um povo sonhador, surge o contraste de uma nova metrópole - Sampa, lugar de sonhos, oportunidades e esperança",
+        "compositores": "Moraes, Lubé LK, Renato do Pandeiro, Edmílson, Rogério, Maurição, Gledão e Vini",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "É Fantástico ! Imagine, admire e sinta!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "No jogo enigmático das cartas, desvendem os mistérios e façam suas apostas, pois a sorte está lançada",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "R9, o voo real do fenômeno",
+        "compositores": "José Rifai, Ernesto Teixeira, Grandão, Preto, Cainã, Sukata, Netinho da Carioca e Max",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "Ser Fiel é a alma do negócio",
+        "compositores": "José Rifai, Ernesto Teixeira, André União, Fadico, Murillo, Alex, Bruno Muleki",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Verás que o filho fiel não foge a luta: Lula, o retrato de uma nação",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Do mar das pérolas e das areias, do deserto à cidade do futuro-Dubai, o sonho do rei Maktoum",
+        "compositores": "Luciano Costa, Araken Fadico, Flávio Rocha, Tité e Wellington Gonçalves",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Corinthians... minha vida, minha história, meu amor!",
+        "compositores": "Luciano Costa, Fadico, Araken, Flávio Rocha, Gustavo Henrique e Júnior Fionda",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "O sonho comanda a vida, quando o homem sonha o mundo avança. A fantástica velocidade da roda para a evolução humana. É pura adrenalina !",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Nas asas dos Gaviões, rumo ao portal dos Sertões - Santana de Parnaíba: berço de bandeirantes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Anchieta, José do Brasil",
+        "compositores": "Binho e Claudinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Asas da Fascinação",
+        "compositores": "Ernesto Teixeira e Alemão do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Renasce, Sacode a Poeira e dá a Volta por Cima",
+        "compositores": "José Rifai, Ernesto Teixeira, Alemão do Cavaco e Grego",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Idéias e Paixões - Combustíveis das Revoluções",
+        "compositores": "Binho e Claudinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "As Cinco Deusas Encantadas na Corte do Rei Gavião",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Xeque-Mate",
+        "compositores": "José Rifai e Alemão do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Mitos e Magias na Triunfante Odisséia da Criação",
+        "compositores": "José Rifai, Alemão do Cavaco e Ernesto Teixeira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Um Voo Para a Liberdade",
+        "compositores": "Zé Rifai, Alemão do Cavaco, Ernesto Teixeira e Armando da Mangueira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "O Príncipe Encoberto ou a Busca de São Sebastião na Ilha de São Luís do Maranhão",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Corinthians Meu Mundo é Você",
+        "compositores": "Alemão do Cavaco, José Rifai e Ernesto Teixeira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Mundo da Rua",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Quem Viver Verá o Vinte Virar",
+        "compositores": "Alemão do Cavaco, Luis Carlos Lopes e Luis Eduardo Gomes",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Coisa Boa é Pra Sempre",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "A Saliva do Santo e o Veneno da Serpente",
+        "compositores": "Grego e Magal",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "A Chave do Tempo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Cidade Aquariana",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "A Dança das Horas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "O Homem Nasceu Para Voar",
+        "compositores": "Pantera e Rogério PC",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Preto e Branco na Avenida",
+        "compositores": "Biro, Xavier, Frutuoso, Deolindo e Baixinho Do Banjo",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.7,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.7,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": null,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": null,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": null,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": null,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": null,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": null,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 268.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 268.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 159.3,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 268.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 268.75,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 358.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 87.5,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 298.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 16,
+        "pontos": 283.25,
+        "resultado": "16º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 298.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 16,
+        "pontos": 185.5,
+        "resultado": "16º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 200.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 198.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 199.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 299.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 289.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 295.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 284.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 293.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 285.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 95.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 270.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 261.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 189.0,
+        "resultado": "2º Lugar"
+      }
+    ]
   }
 }

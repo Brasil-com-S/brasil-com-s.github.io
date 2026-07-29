@@ -1,0 +1,203 @@
+{
+  "ano": 1984,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Desfile de domingo": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 203.0,
+        "enredo": "Contos de Areia"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 201.0,
+        "enredo": "Foi Malandro, É"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 192.0,
+        "enredo": "Skindô, Skindô"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 188.0,
+        "enredo": "Quem Pode, Pode, Quem não Pode..."
+      }
+    ],
+    "RJ - Desfile de segunda-feira": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 208.0,
+        "enredo": "Yes, Nós Temos Braguinha"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 201.0,
+        "enredo": "Mamãe Eu Quero Manaus"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 193.0,
+        "enredo": "O Gigante em Berço Esplêndido"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 189.0,
+        "enredo": "Alô Mamãe"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 183.0,
+        "enredo": "Pra Tudo Se Acabar na Quarta-feira"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 173.0,
+        "enredo": "Quem É Você?"
+      }
+    ],
+    "RJ - Grupo 1-B": [
+      {
+        "posicao": 4,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 187.0,
+        "enredo": "Não Corra, não Mate, não Morra - O Diabo Está Solto no Asfalto"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 182.0,
+        "enredo": "Atrás do Trio Elétrico"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 152.0,
+        "enredo": "1984 - Um Ano de Otimismo"
+      }
+    ],
+    "RJ - Grupo 2-B": [
+      {
+        "posicao": 4,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 169.0,
+        "enredo": "De Roma Pagã ao Esplendor da Cidade Maravilhosa"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 198.0,
+        "enredo": "A Velha Academia Berço de Heróis"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 197.0,
+        "enredo": "Os Três Encantos do Rei"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 192.0,
+        "enredo": "Sagração dos Deuses"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 192.0,
+        "enredo": "Ao Sol da Onça Caetana Miragens do Sertão"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 181.0,
+        "enredo": "Império das Artes - Missão Artística Francesa"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 177.0,
+        "enredo": "O Novo Paraíso"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 166.0,
+        "enredo": "No Reino da Carochinha"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 162.0,
+        "enredo": "Mil vidas, \"o Teatro Através dos Tempos\""
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 3,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 280.0,
+        "enredo": "Revolta da Chibata"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 279.0,
+        "enredo": "Maurício de Nassau em terras de Santa Cruz"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 278.0,
+        "enredo": "10 Anos de Samba"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 4,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 166.0,
+        "enredo": "A Festa do Tropeiro em Sorocaba"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

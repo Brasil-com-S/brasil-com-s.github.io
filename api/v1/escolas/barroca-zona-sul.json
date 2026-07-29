@@ -4,10 +4,11 @@
     "id": "barroca-zona-sul",
     "slug": "barroca-zona-sul",
     "nome": "Barroca Zona Sul",
-    "nome_completo": "Faculdade do Samba Barroca Zona Sul",
+    "nome_completo": "A Sociedade Recreativa Cultural Social Esportiva Beneficente Faculdade do Samba Barroca Zona Sul",
     "fundacao": "1974-08-07",
     "fundadores": [
-      "Sebastião Eduardo"
+      "Sebastião Eduardo do Amaral (Pé Rachado)",
+      "sambistas da Vila Mariana"
     ],
     "estado": "SP",
     "cidade": "São Paulo",
@@ -18,24 +19,686 @@
       "Rosa"
     ],
     "cores_hex": [
-      "#008000",
-      "#FF69B4"
+      "#006400",
+      "#FF1493"
     ],
-    "simbolo": "Coroa e Rosas",
+    "simbolo": "Crioulinho",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/barroca-zona-sul.png",
     "logo_original_url": "assets/logos/original/barroca-zona-sul.png",
-    "logo_gemini_png_url": "assets/logos/gemini/barroca-zona-sul.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/barroca-zona-sul.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Elekô Obá Xirê — A Força da Mulher que Não se Curva",
         "compositores": "Pedro Alexandre Alves de Lacerda / Magoo (Carnavalesco)",
         "interpretacao": "Pixulé"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Oro Mi Maió Oxum",
+        "compositores": "Thiago Meiners, Sukata, Claudinho, Fernando Negão, Morganti, Shumacker, Valêncio, L. Santos, Daniel Paixão, Léo PZ, Beto Savanna, Wilson Mineiro e Tubino",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Os Nove Oruns de Iansã",
+        "compositores": "Thiago Meiners, Sukata, Claudinho, Cacá Camargo, Fernando Negão, Morganti, Jairo Roizen, Léo do Cavaco, André Valencio, Mineiro, Júlio Alves e Marco Moreno",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Nós Nascemos e Crescemos no Meio de Gente Bamba. Por isso, que Somos a Faculdade do Samba. 50 Anos de Barroca Zona Sul",
+        "compositores": "Thiago Meiners, Cláudio Mattos, Sukata, Cacá Camargo, Fernando Negão, Pixulé, Turko, Rafa do Cavaco, Júlio Alves, Rodrigo Alves, Wilson Mineiro e Dilson Marimba",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Guaicurus",
+        "compositores": "Andre Mattos, Claudio Mattos, Fernando Negão, Julio Alves, Mikaia, Morganti, Pixulé, Rodrigo Alves, Sukata, Thiago Meiners, Thiago Savanna, Tubino e Wilson Mineiro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "A Evolução Está na Sua Fé… Saravá Seu Zé!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Benguela... A Barroca clama a ti, Tereza!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Okê Arô",
+        "compositores": "Sukata, Morganti, Jairo Roizen, André Valêncio, Robson Cezar, Tubino Meiners e Marcos Thiago",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Carnevale... A Magia da Folia",
+        "compositores": "Sukata, Morganti, Jairo Roizen, Willian Tadeu, André Filosofia, André Valêncio, Robson Cezar, Rafael Tubino e Thiago Meiners",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Da riqueza das águas à multiplicação do amor. A maravilha da pesca",
+        "compositores": "Sukata, Thiago Morganti, Evandro Malandro, André Filosofia, André Valêncio, Róbson DC, Wilson Bizzar e Tubino Meiners",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Bakhita",
+        "compositores": "Vagner Almeida, Vermelho, Ney Nunes, Zeca e Kike Toledo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Estou de volta pro meu aconchego",
+        "compositores": "Sukata, Thiago Morganti, Wilson Bizzar, Evandro Malandro, Lo Rosas, Bruno Giannelli e Thiago Meiners",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Em um canto de fé e devoção, Barroca celebra as religiões nos seus 40 anos de samba e tradição",
+        "compositores": "Imperial, J. Jorge, Juninho Berim, Rafa Do Cavaco e Thiago de Xangô",
+        "interpretacao": "Tito Amorim"
+      },
+      {
+        "ano": 2013,
+        "titulo": "No caminho do progresso, Yababa kuara. Templo de Quilombo... Jabaquara , Raízes de um Povo Guerreiro!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "Triunfante marrom, Alcione em verde e rosa!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "O menino de 74",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "O beijo",
+        "compositores": "Lello Garoto, Mydras, Ramos e Marquinhos Quebra Corda",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Alô São Paulo! Eis a fantástica e fabulosa história desse paraíso do pecado... Um verdadeiro jardim das delícias. A selva de pedra da América Latina que ama Gregos e Troianos... Aqui tudo acontece",
+        "compositores": "Wagner, Júnior ABC, Leonardo Trindade e Fumaça",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "Artistas Viajantes num País Romântico",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Cana de Açúcar - O Doce Sabor do Prazer",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "No Balançar dos Balangandãs",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Participei da Criação, Colaborei Para o Progresso, às Vezes Me Utilizam Para Destruição, Quando Me Uno a Outra, Selo a Paz e a União! Mãos!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "\"450 Anos de Fé\". Um Encontro no Coração do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "De Três Corações a Coroação. Quem Sou Eu? Rei Pelé",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "A Magia dos Jardins da Verde e Rosa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "Maravilhas e Mistérios do Fundo do Mar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Saga de Reis em Terras Brasileiras",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Viagens Extraordinárias",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Ibirapuera, a Felicidade se Disfarçou de Parque",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Quem Não Samba Dança",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "O Pão Nosso de Cada Dia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Eu Sou Boy e Chego Lá",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Nas Ocas da Barroca o Índio Viu Quem Invadiu",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "O Senhor dos Elementos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Roma Negra",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Vestindo a Moda",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Os Segredos do Amor",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Um Novo Sol Para a América do Sul",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "Nova Mente",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Asas Para a Liberdade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Foi Assim e aí Vem Mais",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Chico Rei, \"o Esplendor de Uma Raça",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "O Novo Paraíso",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "75 anos de Imigração Japonesa ou Reino do Sol Nascente",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "Futebol e Carnaval",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Uma Hora na Amazônia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Monomotapa - Reino Bantu",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Do jeito que o Rei mandou",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Cantos e Danças de um Povo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Folclore em Passarela",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "O Sonho de Palmares",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "Primeira Chegada dos Escravos",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.4,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 269.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": null,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": null,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo de Acesso",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo 1-UESP",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo 2-UESP",
+        "posicao": 2,
+        "pontos": 179.7,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo 1-UESP",
+        "posicao": 12,
+        "pontos": 263.7,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo 1 - UESP",
+        "posicao": 4,
+        "pontos": 258.6,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo 1 - UESP",
+        "posicao": 4,
+        "pontos": 266.25,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo de Acesso",
+        "posicao": 7,
+        "pontos": 259.25,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": 343.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 87.75,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": 292.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 296.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 16,
+        "pontos": 272.5,
+        "resultado": "16º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 190.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 187.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 298.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 291.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": 196.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 289.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 286.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 281.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 96.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 264.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 84.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 264.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 251.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 278.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 242.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 175.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 89.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 66.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 90.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 177.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 272.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 81.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 93.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 65.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 80.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 61.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 76.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 89.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 71.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

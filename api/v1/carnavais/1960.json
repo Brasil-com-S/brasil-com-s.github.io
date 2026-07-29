@@ -1,0 +1,76 @@
+{
+  "ano": 1960,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Campeonato Câmara do DF": [
+      {
+        "posicao": 11,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 65.0,
+        "enredo": "Exaltação a Villa Lobos"
+      }
+    ],
+    "RJ - Campeonato Dep. de Turismo e Certames": [
+      {
+        "posicao": 1,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 78.0,
+        "enredo": "Poeta dos Escravos"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 70.0,
+        "enredo": "Homenagem às Forças Armadas"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 61.0,
+        "enredo": "Homenagem à Academia Brasileira de Letras"
+      }
+    ],
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 100.0,
+        "enredo": "Rio, Capital Eterna do Samba ou Rio, Cidade Eterna"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 68.0,
+        "enredo": "Frases Célebres da História"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 59.0,
+        "enredo": "Ato da Aclamação"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 58.0,
+        "enredo": "Regência Prima"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 51.0,
+        "enredo": "Jóias da Primavera"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

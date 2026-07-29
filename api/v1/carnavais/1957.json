@@ -1,0 +1,74 @@
+{
+  "ano": 1957,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Campeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 93.0,
+        "enredo": "Homenagem à Aviação Brasileira"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 77.0,
+        "enredo": "O Baile das Rosas"
+      }
+    ],
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 103.0,
+        "enredo": "Legados de D. João VI"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 100.0,
+        "enredo": "D. João VI ou Brasil Império"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 89.0,
+        "enredo": "Brasil Rumo ao Progresso"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 87.0,
+        "enredo": "Navio Negreiro"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 50.0,
+        "enredo": "Riquezas Áureas do Brasil"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 41.5,
+        "enredo": "O Último Baile da Ilha Fiscal"
+      },
+      {
+        "posicao": 17,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 40.0,
+        "enredo": "Meus Sonhos de Criança"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

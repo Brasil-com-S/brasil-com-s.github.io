@@ -1,0 +1,23 @@
+{
+  "ano": 1940,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Escolas de samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 111.0,
+        "enredo": "Prantos, Pretos e Poetas"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 83.0,
+        "enredo": "Homenagem à Justiça"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

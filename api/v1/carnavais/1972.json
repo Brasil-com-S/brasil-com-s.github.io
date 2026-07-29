@@ -1,0 +1,155 @@
+{
+  "ano": 1972,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 68.0,
+        "enredo": "Alô, Alô, Taí Carmen Miranda"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 65.0,
+        "enredo": "Carnaval dos Carnavais"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 63.0,
+        "enredo": "Ilu Ayê, a Terra da Vida"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 57.0,
+        "enredo": "Martim Cererê"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 56.0,
+        "enredo": "Nossa Madrinha, Mangueira Querida"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 52.0,
+        "enredo": "Onde o Brasil Aprendeu a Liberdade"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 49.0,
+        "enredo": "Rainha Mestiça em Tempo de Lundu"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 39.0,
+        "enredo": "Madureira, Seu Samba, Sua História"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 3,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 61.0,
+        "enredo": "Sempre Brasil (Brasil de Ponta a Ponta)"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 60.0,
+        "enredo": "Dança de Um Povo Livre"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 59.0,
+        "enredo": "Bahia dos Meus Amores"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 59.0,
+        "enredo": "A Festa da Cavalhada"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 51.0,
+        "enredo": "A Outra Força do Brasil"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 106.0,
+        "enredo": "São Paulo, Trabalho, Seresta e Samba"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 105.0,
+        "enredo": "Passeando Pelo Brasil o Samba Mostra o que é Seu"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 95.0,
+        "enredo": "Literatura de Cordel"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 91.0,
+        "enredo": "Olhai o Progresso de São Paulo"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 78.0,
+        "enredo": "Chamada aos Heróis da Independência"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 76.0,
+        "enredo": "Festas Tradicionais do Brasil"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 5,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 46.0,
+        "enredo": "Brasil de Ontem, Brasil de Hoje"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

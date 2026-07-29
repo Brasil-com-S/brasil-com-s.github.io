@@ -5,10 +5,8 @@
     "slug": "academicos-de-vigario-geral",
     "nome": "Acadêmicos de Vigário Geral",
     "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos de Vigário Geral",
-    "fundacao": "1966-03-21",
-    "fundadores": [
-      "Comunidade de Vigário Geral"
-    ],
+    "fundacao": "1991-03-13",
+    "fundadores": [],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Vigário Geral",
@@ -19,18 +17,466 @@
       "Branco"
     ],
     "cores_hex": [
-      "#1565C0",
-      "#D32F2F",
+      "#0000FF",
+      "#FF0000",
       "#FFFFFF"
     ],
-    "simbolo": "Cavalo alado",
+    "simbolo": "Coração, Pomba e Aperto de mãos",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/academicos-de-vigario-geral.png",
     "logo_original_url": "assets/logos/original/academicos-de-vigario-geral.png",
-    "logo_gemini_png_url": "assets/logos/gemini/academicos-de-vigario-geral.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/academicos-de-vigario-geral.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Brasil Incógnito - O Que Os Seus Olhos Não Veem, A Minha Imaginação Reinventa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Ecos de Um Vagalume",
+        "compositores": "",
+        "interpretacao": "Danilo Cezar"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Maracanaú - Bem-Vindos ao Maior São João do Planeta",
+        "compositores": "",
+        "interpretacao": "Danilo Cezar"
+      },
+      {
+        "ano": 2023,
+        "titulo": "A Fantástica Fábrica da Alegria",
+        "compositores": "Junior Fionda, Tem-Tem Sampaio, Marcelinho Santos, Marcelo Adnet, Orlando Ambrósio, Romeu Almeida, Fabio Turko, Kelly Grande Rio, Silvana Aleixo e David Rei das Cestas",
+        "interpretacao": "Tem Tem Jr."
+      },
+      {
+        "ano": 2022,
+        "titulo": "Pequena África : da Escravidão ao Pertencimento - Camadas de Memórias entre o Mar e o Morro",
+        "compositores": "",
+        "interpretacao": "Tem Tem Jr"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Pequena África: da escravidão ao pertencimento, camadas de memórias entre o mar e o morro",
+        "compositores": "",
+        "interpretacao": "Tem Tem Jr"
+      },
+      {
+        "ano": 2020,
+        "titulo": "O Conto do Vigário",
+        "compositores": "Domenil, Renan Diniz, Orlando Ambrosio, Richard Valença, Jefferson Oliveira, Professor Laranjo, Serginho Rocco, Denis Moraes, Rodrigo Sampaio, Gigi da Estiva e Carlinhos Ousadia",
+        "interpretacao": "Tem Tem Jr"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Mwene Kongo: O Reino Europeu na África que se Tornou Folclore no Brasil",
+        "compositores": "Carlinhos do Cavaco, Paulo Martins, Professor Aluisio, Antônio Amaral, Tadeuzinho, Luiz Carlos D’Avenida, Gigi da Estiva, Carlinhos Ousadia, Ivan Bueno e Betinha",
+        "interpretacao": "Marcelo Riva"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Dos Tambores Africanos ao Bandoneón - Tango, Um Sentimento Que Se Dança",
+        "compositores": "Carlinhos do Cavaco, Professor Aluísio, Antonio Amaral, Coelho, Paulo Martins, Beto Melodia e Fernando Vasconcelos",
+        "interpretacao": "Digu's Silva"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Contos do Vigário - Nasce um Trouxa a Cada Minuto",
+        "compositores": "Serginho Aguiar, Samir Trindade, Neyzinho do Cavaco, Carlinho Ousadia, Girão, Gigi da Estiva, Nino Smith, Tadeuzinho e Luiz Carlos D’Avenida",
+        "interpretacao": "Digu's Silva"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Maracanã-Guaçu e o Ninho dos Deuses!",
+        "compositores": "",
+        "interpretacao": "Digu's Silva"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Aos Olhos do Redentor a Delícia de Ser Carioca",
+        "compositores": "Rô Barcellos, Tuninho da Telma, Antonio Amaral, Prof. Aluísio, Clebinho Show, Edmilson, Betinha De Vigário e João Bororó",
+        "interpretacao": "Digu's Silva"
+      },
+      {
+        "ano": 2014,
+        "titulo": "A Mais Doce Maravilha do Rio: Pão de Açúcar",
+        "compositores": "Carlinhos do Cavaco, Denner, Thiago Pereira e Franco Cava",
+        "interpretacao": "Digus Sivla"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Vigário Te Convida a Ser Criança Novamente. Vem Brincar com a Gente na Intendente!",
+        "compositores": "",
+        "interpretacao": "Ademir de São Miguel"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Abdias Nascimento: Uma Vida de Lutas",
+        "compositores": "Carlinhos do Cavaco, Dener, Joãozinho e Pablo",
+        "interpretacao": "Ademir de São Miguel"
+      },
+      {
+        "ano": 2011,
+        "titulo": "Amor, Um Sentimento Universal",
+        "compositores": "* (ver abaixo)",
+        "interpretacao": "Ademir de São Miguel"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Mitos, Mistérios e Magias do Oculto e do Sagrado",
+        "compositores": "Edmar G.S., Jorge Moreira, Nei do Pagode, Ricardinho e Soneca",
+        "interpretacao": "Dario Lima"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Água, Fonte de Vida. Um Grito de Alerta ao Patrimônio da Terra",
+        "compositores": "Lúcio PDF, Catoim, Dimi Barbosa e Alessandro Basílio",
+        "interpretacao": "Catoim"
+      },
+      {
+        "ano": 2008,
+        "titulo": "Itam - A Saga dos Guerreiros da Terra",
+        "compositores": "Lucinha, Jorge Moreira, Nei do Pagode, Marcelo e Dario Lima",
+        "interpretacao": "Dario Lima"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Signos, Sonhos do Imaginário? Ou Conto do Vigário?",
+        "compositores": "Amaral, Alzair, Emanuel e Henrique",
+        "interpretacao": "Serginho Leonel"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Cantos e Encantos, Um Acalanto para Uiara",
+        "compositores": "Vadinho de Vigário, Quinzinho, Lúcio PDF e Farinha da FM",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Respeitável Público, o Circo Chegou",
+        "compositores": "Vadinho e Lúcio PDF",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Arlênio Lívio, a Bandeira do Samba",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "Ari Barroso, Mister Samba",
+        "compositores": "Leonel, Budica, Beto Professor e Rubem Moreno",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 2002,
+        "titulo": "A Metamorfose da Vida",
+        "compositores": "",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 2001,
+        "titulo": "África, Glória e Êxtase",
+        "compositores": "Toninho da Telma, Suel Paiva, Dom Mosquito e Fofão",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Nessa Terra Brasil",
+        "compositores": "",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Vigário, Um Sonho de Liberdade",
+        "compositores": "",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Conto Dourado de Um Povo Sonhador",
+        "compositores": "",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 1997,
+        "titulo": "Rio de Janeiro a Janeiro, Uma Sinfonia Apoteótica",
+        "compositores": "",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Fica o Dito pelo não Dito",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Ontem, Hoje e Sempre Mestre Marçal",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Ah! Que Saudades que Eu Tenho",
+        "compositores": "",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Respeitável Público, o Circo Chegou",
+        "compositores": "",
+        "interpretacao": "Leonel"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Cem Anos nas Ondas de Copacabana",
+        "compositores": "Manoelzinho Poeta, Jorge Moreira e Edu",
+        "interpretacao": "Leonel"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Série Ouro",
+        "posicao": 8,
+        "pontos": 268.3,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Série Ouro",
+        "posicao": 6,
+        "pontos": 268.6,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro",
+        "posicao": 9,
+        "pontos": 269.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Série Ouro",
+        "posicao": 10,
+        "pontos": 268.7,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Série Ouro",
+        "posicao": 10,
+        "pontos": 268.9,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Série A",
+        "posicao": 11,
+        "pontos": 266.8,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Série B",
+        "posicao": 1,
+        "pontos": 269.4,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Série B",
+        "posicao": 9,
+        "pontos": 268.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Série C",
+        "posicao": 3,
+        "pontos": 269.2,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Série D",
+        "posicao": 2,
+        "pontos": 269.1,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Série D",
+        "posicao": 7,
+        "pontos": 296.3,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo D",
+        "posicao": 8,
+        "pontos": 298.3,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo C",
+        "posicao": 8,
+        "pontos": 296.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo D",
+        "posicao": 3,
+        "pontos": 299.1,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo D",
+        "posicao": 5,
+        "pontos": 298.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Rio de Janeiro 3",
+        "posicao": 11,
+        "pontos": 174.2,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Rio de Janeiro 2",
+        "posicao": 14,
+        "pontos": 150.7,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo C",
+        "posicao": 11,
+        "pontos": 152.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo C",
+        "posicao": 11,
+        "pontos": 148.6,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo C",
+        "posicao": 7,
+        "pontos": 151.8,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo D",
+        "posicao": 3,
+        "pontos": 177.6,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo D",
+        "posicao": 10,
+        "pontos": 169.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo D",
+        "posicao": 5,
+        "pontos": 176.8,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo D",
+        "posicao": 3,
+        "pontos": 195.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo D",
+        "posicao": 10,
+        "pontos": 190.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo C",
+        "posicao": 12,
+        "pontos": 170.5,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo B",
+        "posicao": 11,
+        "pontos": 141.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo B",
+        "posicao": 10,
+        "pontos": 149.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo B",
+        "posicao": 6,
+        "pontos": 167.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo B",
+        "posicao": 8,
+        "pontos": 251.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo B",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 2",
+        "posicao": 12,
+        "pontos": 144.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 3",
+        "posicao": 2,
+        "pontos": 205.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Desfile de Avaliação",
+        "posicao": 1,
+        "pontos": 117.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

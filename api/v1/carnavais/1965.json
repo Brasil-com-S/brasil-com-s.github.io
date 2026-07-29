@@ -1,0 +1,111 @@
+{
+  "ano": 1965,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 132.0,
+        "enredo": "História do Carnaval Carioca - Eneida"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 122.0,
+        "enredo": "Cinco Bailes Tradicionais na História do Rio"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 122.0,
+        "enredo": "Histórias e Tradições do Rio Quatrocentão, do Morro Cara de Cão à Praça Onze"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 117.0,
+        "enredo": "Rio Através dos Séculos"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 95.0,
+        "enredo": "Parabéns pra Você, Rio (4.º Centenário)"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 53.0,
+        "enredo": "Homenagem ao Brasil no IV Centenário do Rio de Janeiro"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 101.0,
+        "enredo": "Epopéia do Teatro Municipal"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 97.0,
+        "enredo": "Relíquias e Memórias do Rio"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 93.0,
+        "enredo": "Quatro Séculos de Glória"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 66.0,
+        "enredo": "Viagem Através do Rio"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 97.0,
+        "enredo": "Lei do Ventre Livre"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 76.0,
+        "enredo": "De Estácio a Lacerda"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 76.0,
+        "enredo": "4.° Centenário"
+      },
+      {
+        "posicao": 26,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 40.0,
+        "enredo": "Rio Quarto Centenário"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

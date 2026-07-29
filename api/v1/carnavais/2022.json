@@ -1,0 +1,296 @@
+{
+  "ano": 2022,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "grande-rio",
+      "escola_nome": "Acadêmicos do Grande Rio",
+      "pontos": 269.9
+    },
+    "SP": {
+      "escola_slug": "mancha-verde",
+      "escola_nome": "Mancha Verde",
+      "pontos": null
+    }
+  },
+  "grupos": {
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 269.9,
+        "enredo": "Fala, Majeté! Sete Chaves de Exu"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 269.6,
+        "enredo": "Empretecer o Pensamento É Ouvir a Voz da Beija-Flor"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 269.5,
+        "enredo": "Não Há Tristeza que Possa Suportar Tanta Alegria"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 269.3,
+        "enredo": "Canta, Canta, Minha Gente! A Vila É de Martinho"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 269.2,
+        "enredo": "Igi Osè Baobá"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 268.3,
+        "enredo": "Resistência"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 268.2,
+        "enredo": "Angenor , José & Laurindo"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 268.2,
+        "enredo": "Batuque ao Caçador"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 266.9,
+        "enredo": "Meninos, Eu Vivi... Onde Canta o Sabiá, Onde Cantam Dalva e Lamartine"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 266.4,
+        "enredo": "Ka Ríba Tí Ye – Que Nossos Caminhos Se Abram. O Tuiuti Canta Histórias de Luta, Sabedoria e Resistência Negra"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 263.7,
+        "enredo": "Minha Vida É Uma Peça"
+      }
+    ],
+    "RJ - Segunda noite": [
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-de-marica",
+        "escola_nome": "União de Maricá",
+        "pontos": 269.0,
+        "enredo": "A Revolução pela Alegria... Uma Ópera Popular"
+      }
+    ],
+    "RJ - Série Ouro": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 269.9,
+        "enredo": "Mangangá"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 269.4,
+        "enredo": "O Vendedor de Orações"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 269.4,
+        "enredo": "A Meia-Noite dos Tambores Silenciosos"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 269.3,
+        "enredo": "Iroko - É Tempo de Xirê"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 269.1,
+        "enredo": "Deu Castor na Cabeça"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 269.1,
+        "enredo": "Cobra-coral, Papagaio Vintém, #VestirRubroNegro não Tem pra Ninguém"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 268.9,
+        "enredo": "Pequena África : da Escravidão ao Pertencimento - Camadas de Memórias entre o Mar e o Morro"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": null,
+        "enredo": "Planeta Água"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": null,
+        "enredo": "Quelémentina, Cadê Você?"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": null,
+        "enredo": "O Poder da Comunicação - Império, O Mensageiro das Emoções"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": null,
+        "enredo": "O Pequeno Príncipe no Sertão"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": null,
+        "enredo": "Afoxé de Oxalá – No ‘Cortejo de Babá’, Um Canto de Luz em Tempo de Trevas"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": null,
+        "enredo": "Adoniran"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": null,
+        "enredo": "Basta!"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": null,
+        "enredo": "Sanitatem"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": null,
+        "enredo": "A Evolução Está na Sua Fé… Saravá Seu Zé!"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": null,
+        "enredo": "Carnavais: de lá pra cá, o que mudou? daqui pra lá, o que será?"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": null,
+        "enredo": "Preto Velho Conta a Saga do Café num Canto de Fé"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": null,
+        "enredo": "Carolina, a Cinderela Negra do Canindé"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": null,
+        "enredo": "Sankofa"
+      }
+    ],
+    "SP - Grupo de acesso 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": null,
+        "enredo": "Ô abre alas que elas vão passar!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": null,
+        "enredo": "Um Mergulho nos Rios Sagrados, em Busca da Cura para o Corpo e a Alma"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": null,
+        "enredo": "Rezadeiras: Na Fé do Trevo, Te Benzo! Na Fé do Trevo, Te Curo!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": null,
+        "enredo": "Arapuca-Tupi: a Reconquista de uma Terra sem Dono"
+      }
+    ],
+    "SP - Grupo de acesso 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "Narciso Negro"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": null,
+        "enredo": "Água… Divinas Bençãos!"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

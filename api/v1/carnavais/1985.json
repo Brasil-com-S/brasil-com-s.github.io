@@ -1,0 +1,219 @@
+{
+  "ano": 1985,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1-A": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 218.0,
+        "enredo": "Ziriguidum 2001, Um Carnaval nas Estrelas"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 212.0,
+        "enredo": "A Lapa de Adão e Eva"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 207.0,
+        "enredo": "Parece que Foi Ontem"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 206.0,
+        "enredo": "Recordar É Viver"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 204.0,
+        "enredo": "Anos Trinta, Vento Sul - Vargas"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 204.0,
+        "enredo": "Samba, Suor e Cerveja, o Combustível da Ilusão"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 200.0,
+        "enredo": "Adolã, a Cidade Mistério"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 197.0,
+        "enredo": "Abram Alas que Eu Quero Passar"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 190.0,
+        "enredo": "Chora, Chorões"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 176.0,
+        "enredo": "Um Herói, Um Enredo, Uma Canção"
+      },
+      {
+        "posicao": 15,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 169.0,
+        "enredo": "Quem Casa, Quer Casa"
+      }
+    ],
+    "RJ - Grupo 1-B": [
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 210.0,
+        "enredo": "É Hoje Só, Amanhã não Tem Mais"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 197.0,
+        "enredo": "Folia, Amor e Fantasia"
+      }
+    ],
+    "RJ - Grupo 2-A": [
+      {
+        "posicao": 3,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 208.0,
+        "enredo": "Axé Raça Negra"
+      }
+    ],
+    "RJ - Grupo 2-B": [
+      {
+        "posicao": 3,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 193.0,
+        "enredo": "Brasil, Onde o Verde É Mais Verde e o Azul É Mais Azul"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 97.0,
+        "enredo": "O Dia em que o Cacique Rodou a Baiana, Aí ó!"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 96.0,
+        "enredo": "Uma Boa Ideia"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 96.0,
+        "enredo": "Água de Cheiro"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 93.0,
+        "enredo": "Ginga Brasil Moreno ou Menino Cor de Canela"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 91.0,
+        "enredo": "Água Cristalina"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 90.0,
+        "enredo": "Chico Rei, \"o Esplendor de Uma Raça"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 88.0,
+        "enredo": "Brasil, Menino Gigante"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 186.0,
+        "enredo": "Raízes"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 183.0,
+        "enredo": "Vadico, \"o Parceiro Esquecido\""
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 172.0,
+        "enredo": "Miscigenação das Raças (De Onde Vem)"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 170.0,
+        "enredo": "Terra de Todos, Terra de Ninguém"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 6,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 160.0,
+        "enredo": "Abram Alas à Chiquinha Gonzaga"
+      }
+    ],
+    "SP - Vaga aberta": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 93.0,
+        "enredo": "Eternas Batucadas"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

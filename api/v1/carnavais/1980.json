@@ -1,0 +1,175 @@
+{
+  "ano": 1980,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1-A": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 93.0,
+        "enredo": "O Sol da Meia-Noite, Uma Viagem ao País das Maravilhas"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 88.0,
+        "enredo": "Tropicália Maravilha"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 87.0,
+        "enredo": "O Bailar dos Ventos, Relampejou, mas não Choveu"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 82.0,
+        "enredo": "Coisas Nossas"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 80.0,
+        "enredo": "Império das Ilusões - Atlântida, Eldorado, Sonho e Aventura"
+      }
+    ],
+    "RJ - Grupo 1-B": [
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 80.0,
+        "enredo": "A Lenda de Juparanã, a Lagoa Encantada"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 74.0,
+        "enredo": "A Doce Ilusão do Sambista"
+      }
+    ],
+    "RJ - Grupo 2-A": [
+      {
+        "posicao": 6,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 74.0,
+        "enredo": "Místico, Mágico e Divino"
+      }
+    ],
+    "RJ - Grupo 2-B": [
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 77.0,
+        "enredo": "As Riquezas de Minas Gerais"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 95.0,
+        "enredo": "Embaixada de Sonho e Bamba"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 95.0,
+        "enredo": "Acima de Tudo Mulher"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 94.0,
+        "enredo": "Orgulho da Saracura"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 81.0,
+        "enredo": "Tudo é Brasil"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": null,
+        "enredo": "Magnitude de uma Raça"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 76.0,
+        "enredo": "Século da Paz"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 65.0,
+        "enredo": "Monomotapa - Reino Bantu"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 64.0,
+        "enredo": "Fábulas Fabulosas"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 4,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 78.0,
+        "enredo": "O Circo Chegou"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 69.0,
+        "enredo": "Brasil, Sua Moda, Seu Costume em Quatro Séculos"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 69.0,
+        "enredo": "Raízes da Amizade"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": null,
+        "enredo": "Cidadão Samba"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 90.0,
+        "enredo": "Gigante das Artes"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

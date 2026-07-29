@@ -1,0 +1,289 @@
+{
+  "ano": 2013,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "vila-isabel",
+      "escola_nome": "Unidos de Vila Isabel",
+      "pontos": 299.7
+    },
+    "SP": {
+      "escola_slug": "mocidade-alegre",
+      "escola_nome": "Mocidade Alegre",
+      "pontos": 268.9
+    }
+  },
+  "grupos": {
+    "RJ - Grupo C": [
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 299.0,
+        "enredo": "Nas Lembranças da Infância, Um Carnaval de Esperança"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 296.5,
+        "enredo": "Vigário Te Convida a Ser Criança Novamente. Vem Brincar com a Gente na Intendente!"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 299.7,
+        "enredo": "A Vila Canta o Brasil Celeiro do Mundo - Água no Feijão que Chegou Mais Um..."
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 299.4,
+        "enredo": "Amigo Fiel - Do Cavalo do Amanhecer ao Mangalarga Marchador"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 298.3,
+        "enredo": "Pará - O Muiraquitã do Brasil - Sob a Nudez Forte da Verdade, o Manto Diáfano da Fantasia"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 297.9,
+        "enredo": "Fama"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 297.2,
+        "enredo": "Amo o Rio e Vou à Luta... Ouro Negro sem Disputa!"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 296.6,
+        "enredo": "Madureira ... Onde o Meu Coração Se Deixou Levar"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 296.5,
+        "enredo": "Cuiabá : Um Paraíso no Centro da América"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 294.9,
+        "enredo": "Vinicius , no Plural. Paixão, Poesia e Carnaval"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 293.5,
+        "enredo": "Horário Nobre"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 293.5,
+        "enredo": "Eu Vou de Mocidade com Samba e Rock in Rio - Por Um Mundo Melhor"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 291.1,
+        "enredo": "As Sete Confluências do Rio Han - 50 Anos de Imigração da Coreia do Sul no Brasil"
+      }
+    ],
+    "RJ - Série A": [
+      {
+        "posicao": 2,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 299.6,
+        "enredo": "Nem Melhor nem Pior, que não Sai da Minha Mente. Inspiração para o Meu Samba, Eu Também Sou Diferente!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 299.5,
+        "enredo": "Caxambu - O Milagre das Águas na Fonte do Samba"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 299.5,
+        "enredo": "Rildo Hora: A Ópera de um Menino... O Toque do Realejo Rege o Seu Destino!"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 298.2,
+        "enredo": "O Reencontro entre o Céu e a Terra no Reino de Aláàfin Óyo"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 296.7,
+        "enredo": "Ao Mestre do Riso com Carinho: As Caras do Brasil"
+      }
+    ],
+    "SP - Grupo 1-UESP": [
+      {
+        "posicao": 1,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 269.5,
+        "enredo": "O trabalho enobrece o homem... Lutas,Direitos e Conquistas de um povo vencedor!"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 263.7,
+        "enredo": "No caminho do progresso, Yababa kuara. Templo de Quilombo... Jabaquara , Raízes de um Povo Guerreiro!"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 268.9,
+        "enredo": "A Sedução me fez provar, me entregar à Tentação... Da Versão Original, qual será o final"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 268.9,
+        "enredo": "Os condutores da alegria numa fantástica viagem aos Reinos da Folia"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 268.7,
+        "enredo": "Minha missão. O canto do povo. João Nogueira"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 268.5,
+        "enredo": "Dragão , guardião real, mostra seu poder e soberania na corte do Carnaval!"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 268.5,
+        "enredo": "Pra todo mal, a cura. Quem canta seus males espanta!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 268.3,
+        "enredo": "Mazzaropi , o adorável caipira - 100 anos de alegria!"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 268.1,
+        "enredo": "Sangue da terra, videira da vida: Um brinde de amor em plena avenida - vinhos do Brasil!"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 268.0,
+        "enredo": "Da Revolta dos Búzios a atualidade. A Nenê canta a igualdade!"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 268.0,
+        "enredo": "Ser Fiel é a alma do negócio"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 268.0,
+        "enredo": "Se pra ter diversidade basta viver com alegria: Sorria! Pois São Paulo hoje é só harmonia!"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 267.7,
+        "enredo": "Beth Carvalho , a madrinha do samba"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 267.7,
+        "enredo": "Parque dos desejos - O seu passaporte para o prazer!"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 267.6,
+        "enredo": "Mário Lago - Um homem do Século XX"
+      }
+    ],
+    "SP - Grupo de acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 269.6,
+        "enredo": "O espetáculo vai começar, Pérola Negra apresenta: O Auto da Compadecida"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 269.0,
+        "enredo": "Reluz na constelação da Terceiro Milênio uma maravilha de estrela chamada Elke"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 268.5,
+        "enredo": "Era uma vez, outra vez!"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 265.6,
+        "enredo": "O povo da floresta está em festa. A tribo da Peruche vai passa"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

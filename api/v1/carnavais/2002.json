@@ -1,0 +1,270 @@
+{
+  "ano": 2002,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "mangueira",
+      "escola_nome": "Estação Primeira de Mangueira",
+      "pontos": 399.5
+    },
+    "SP": {
+      "escola_slug": "gavioes-da-fiel",
+      "escola_nome": "Gaviões da Fiel",
+      "pontos": 200.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 2,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 199.3,
+        "enredo": "O Glorioso Nilton Santos... Sua Bola, Sua Vida, Nossa Vila..."
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 197.4,
+        "enredo": "Folias de Caxias: de João a João... É o Carnaval da União"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 196.6,
+        "enredo": "Arlindo, Arlequins e Querubins: Um Carnaval no Paraíso"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 190.3,
+        "enredo": "Nos Braços do Povo, na Passarela do Samba... Cinqüenta Anos de O Dia"
+      }
+    ],
+    "RJ - Grupo D": [
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 195.0,
+        "enredo": "A Metamorfose da Vida"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 173.7,
+        "enredo": "Brasil de Ouro, Cinco Séculos de Tesouro"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 399.5,
+        "enredo": "Brazil com Z É pra Cabra da Peste, Brasil com S É Nação do Nordeste"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 399.4,
+        "enredo": "O Brasil Dá o Ar da Sua Graça. De Ícaro a Rubem Berta, o Ímpeto de Voar"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 396.1,
+        "enredo": "Goitacazes... Tupi or not Tupi in a South American Way"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 395.0,
+        "enredo": "O Grande Circo Místico"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 394.1,
+        "enredo": "Viradouro, Viramundo, Rei do Mundo"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 392.9,
+        "enredo": "Asas de Um Sonho. Viajando com o Salgueiro, o Orgulho de Ser Brasileiro..."
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 391.0,
+        "enredo": "Os Papagaios Amarelos nas Terras Encantadas do Maranhão"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 388.9,
+        "enredo": "Amazonas, Esse Desconhecido. Delírios e Verdades do Eldorado Verde"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 384.7,
+        "enredo": "Aclamação e Coroação do Imperador da Pedra do Reino: Ariano Suassuna"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 356.2,
+        "enredo": "Guapimirim, Paraíso Ecológico Abençoado pelo Dedo de Deus"
+      }
+    ],
+    "SP - Grupo 1A": [
+      {
+        "posicao": 1,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 295.5,
+        "enredo": "De Lutas e Solidariedade - A Força do Trabalhador"
+      }
+    ],
+    "SP - Grupo 3 Oeste": [
+      {
+        "posicao": 5,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 97.5,
+        "enredo": "Uni-Dune-Tê Um Sorvete Colorê"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 200.0,
+        "enredo": "Xeque-Mate"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 199.5,
+        "enredo": "4, Vamos Pensar... Isso Vai Dar o Que Falar!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 199.5,
+        "enredo": "O Pão Nosso de Cada Dia"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 199.0,
+        "enredo": "Em Não Se Plantando, Tudo Nos Dão? Não"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 198.5,
+        "enredo": "Guardado à Sete Chaves"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 198.0,
+        "enredo": "Vou à Luta Sem Pedir Licença... Tupy or Not Tupy? Samba é a Resposta!"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 197.5,
+        "enredo": "Do Néctar dos Deuses ao Alimento de Homens e Feras, \"Deleite-se ao Sabor do Leite\""
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 197.0,
+        "enredo": "História, Cultura, Progressos Mil - Uberlândia Faz Pulsar o Coração do Brasil"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 194.0,
+        "enredo": "Aceito Tudo, Quem Sou Eu?... O Papel"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 193.0,
+        "enredo": "Guarujá, A Pérola do Atlântico"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 298.0,
+        "enredo": "A Magia dos Jardins da Verde e Rosa"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 296.0,
+        "enredo": "A Verde Guerrilha da Paz"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 295.0,
+        "enredo": "Monteiro Lobato, Da Fazenda Buquira (Taubaté-SP) Para o Mundo \"Um Homem Além do Seu Tempo\""
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 290.5,
+        "enredo": "Automóvel \"A Máquina do Tempo\""
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 290.0,
+        "enredo": "Baiana Guia: Festa, Lenda e Magia. Salvador Capital da Alegria"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 279.5,
+        "enredo": "Passo a Passo da Seda, O Caminhar"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

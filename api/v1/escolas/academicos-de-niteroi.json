@@ -5,30 +5,80 @@
     "slug": "academicos-de-niteroi",
     "nome": "Acadêmicos de Niterói",
     "nome_completo": "Grêmio Recreativo Escola de Samba Acadêmicos de Niterói",
-    "fundacao": "2022-09-07",
-    "fundadores": [
-      "Comunidade de Niterói"
-    ],
+    "fundacao": "2018-03-26",
+    "fundadores": [],
     "estado": "RJ",
     "cidade": "Niterói",
-    "bairro": "Centro",
+    "bairro": "Centro de Niterói",
     "grupo": "Acesso",
     "cores": [
       "Azul",
       "Branco"
     ],
     "cores_hex": [
-      "#0288D1",
-      "#FFFFFF"
+      "#0000CF",
+      "#FFF"
     ],
-    "simbolo": "Ponte Rio-Niterói",
+    "simbolo": "Lira",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/academicos-de-niteroi.png",
     "logo_original_url": "assets/logos/original/academicos-de-niteroi.png",
-    "logo_gemini_png_url": "assets/logos/gemini/academicos-de-niteroi.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/academicos-de-niteroi.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Do Alto do Mulungu Surge a Esperança: Lula, o Operário do Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Vixe Maria",
+        "compositores": "",
+        "interpretacao": "Guto Silva"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Catopês - Um Céu de Fitas",
+        "compositores": "",
+        "interpretacao": "Guto Silva"
+      },
+      {
+        "ano": 2023,
+        "titulo": "O Carnaval da Vitória",
+        "compositores": "Marcelo Adnet, Tem-Tem Jr, Júnior Fionda, Anderson Lemos, Diego Nogueira, Fábio Barbosa, James Bernardes, Thiago Oliveira, Marcus Lopes e Ronie Oliveira",
+        "interpretacao": "Danilo Cezar"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 264.6,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Série Ouro",
+        "posicao": 1,
+        "pontos": 269.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro",
+        "posicao": 8,
+        "pontos": 269.2,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Série Ouro",
+        "posicao": 5,
+        "pontos": 269.2,
+        "resultado": "5º Lugar"
+      }
+    ]
   }
 }

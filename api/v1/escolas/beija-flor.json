@@ -7,28 +7,35 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Beija-Flor de Nilópolis",
     "fundacao": "1948-12-25",
     "fundadores": [
-      "Milton de Oliveira (Mazingola)",
-      "Edson Menezes",
-      "Neguinho da Beija-Flor"
+      "Milton de Oliveira (Negão da Cuíca)",
+      "Edson Vieira Rodrigues (Edinho do Ferro Velho)",
+      "Valentim Lemos",
+      "Helles Ferreira da Silva",
+      "Hamilton Floriano",
+      "José Fernandes da Silva",
+      "Mário Silva",
+      "Walter da Silva",
+      "Dona Eulália"
     ],
     "estado": "RJ",
     "cidade": "Nilópolis",
-    "bairro": "Centro",
+    "bairro": "Centro de Nilópolis",
     "grupo": "Especial",
     "cores": [
       "Azul",
       "Branco"
     ],
     "cores_hex": [
-      "#002366",
-      "#FFFFFF"
+      "#0000FF",
+      "#FFF"
     ],
-    "simbolo": "Beija-Flor em Voo",
-    "titulos": 14,
+    "simbolo": "Beija-Flor",
+    "titulos": 15,
     "anos_titulos": [
       1976,
       1977,
       1978,
+      1980,
       1983,
       1998,
       2003,
@@ -38,13 +45,956 @@
       2008,
       2011,
       2015,
-      2018
+      2018,
+      2025
     ],
     "logo_url": "assets/logos/original/beija-flor.png",
     "logo_original_url": "assets/logos/original/beija-flor.png",
-    "logo_gemini_png_url": "assets/logos/gemini/beija-flor.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/beija-flor.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Bembé",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Laíla de Todos os Santos, Laíla de Todos os Sambas",
+        "compositores": "",
+        "interpretacao": "Neguinho da Beija-Flor"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Um Delírio de Carnaval na Maceió de Rás Gonguila",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Brava Gente! O Grito dos Excluídos no Bicentenário da Independência",
+        "compositores": "Léo do Piso, Beto Nega, Manolo, Diego Oliveira, Julio Assis e Diogo Rosa",
+        "interpretacao": "Luiz Antônio Feliciano Marcondes (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Empretecer o Pensamento É Ouvir a Voz da Beija-Flor",
+        "compositores": "J. Velloso (in memoriam), Léo do Piso, Beto Nega, Júlio Assis, Manolo, Diego Rosa e Jr Fionda",
+        "interpretacao": "Luiz Antônio Feliciano Marcondes (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Empretecer o pensamento é ouvir a voz da Beija-Flor",
+        "compositores": "",
+        "interpretacao": "Luiz Antônio Feliciano Marcondes (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Se Essa Rua Fosse Minha",
+        "compositores": "Magal Clareou, Diogo Rosa, Julio Assis, Jean Costa, Dario Jr, Thiago Soares e Junior Fionda",
+        "interpretacao": "Luiz Antônio Feliciano Marcondes (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Quem Não Viu, Vai Ver... As Fábulas do Beija-Flor",
+        "compositores": "Di Menor BF, Julio Assis, Kirraizinho, Diego Oliveira, Fabinho Ferreira, Diogo Rosa, Rogério Coutinho, Marcio França, Carlinhos Ousadia, Kaká Kalmão, Jorge Ayla e Serginho Aguiar",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Monstro É Aquele que não Sabe Amar. Os Filhos Abandonados da Pátria que os Pariu",
+        "compositores": "Di Menor BF, Kiraizinho, Diego Oliveira, Bakaninha Beija Flor, JJ Santos, Julio Assis e Diogo Rosa",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2017,
+        "titulo": "A Virgem dos Lábios de Mel - Iracema",
+        "compositores": "Claudemir, Maurição, Ronaldo Barcellos, Bruno Ribas, Fábio Alemão, Wilson Tatá, Alan Vinicius, Betinho Santos",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Mineirinho Genial! Nova Lima - Cidade Natal. Marquês de Sapucaí - O Poeta Imortal!",
+        "compositores": "Marcelo Guimarães, Sidney de Pilares, Manolo, Jorginho Moreira, Kirraizinho e Diogo Rosa",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Um Griô Conta a História: Um Olhar Sobre a África e o Despontar da Guiné Equatorial. Caminhemos Sobre a Trilha de Nossa Felicidade",
+        "compositores": "J.Velloso, Samir Trindade, JR Beija-Flor, Marquinhos Beija-Flor, Gilberto Oliveira, Elson Ramires, Dílson Marimba e Sílvio Romai",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2014,
+        "titulo": "O Astro Iluminado da Comunicação Brasileira",
+        "compositores": "J. Beija-Flor, Sidney de Pilares, Júnior Trindade, Adilson Brandão,  Zé Carlos, Diogo Rosa, Carlinhos e Samir Trindade",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Amigo Fiel - Do Cavalo do Amanhecer ao Mangalarga Marchador",
+        "compositores": "J Veloso, Ribeirinho, Marquinho Beija-Flor, Gilberto, Silvio Romai e Dilson Marimba",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2012,
+        "titulo": "São Luís - O Poema Encantado do Maranhão",
+        "compositores": "* ver abaixo",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2011,
+        "titulo": "A Simplicidade de Um Rei",
+        "compositores": "Samir Trindade, Serginho Aguiar, JR. Beija-Flor, Sidney de Pilares, Jorginho Moreira, Théo M. Netto, Mourão e Cleber",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Brilhante ao Sol do Novo Mundo, Brasília : do Sonho à Realidade, a Capital da Esperança",
+        "compositores": "Picolé da Beija Flor, Serginho Sumaré, Samir Trindade, Serginho Aguiar, Dilson Marimba e André do Cavaco",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2009,
+        "titulo": "No Chuveiro da Alegria, quem Banha o Corpo Lava a Alma na Folia",
+        "compositores": "Tom Tom, Marcelo Guimarães, Lopita, Jorge Augusto e Veni Vieira",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2008,
+        "titulo": "Macapaba: Equinócio Solar, Viagens Fantásticas ao Meio do Mundo",
+        "compositores": "Cláudio Russo, Carlinhos Detran, J. Veloso, Gilson Dr., Kid e Marquinhos",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Áfricas - Do Berço Real à Corte Brasiliana",
+        "compositores": "Cláudio Russo, J. Velloso, Gilson Dr e Carlinhos do Detran",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Poços de Caldas Derrama Sobre a Terra Suas Águas Milagrosas - Do Caos Inicial à Explosão da Vida",
+        "compositores": "Wilsinho Paz, Noel Costa, Alexandre Moraes e Silvio Romai",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2005,
+        "titulo": "O Vento Corta as Terras dos Pampas. Em Nome do Pai, do Filho e do Espírito Guarani, Sete Povos na Fé e na Dor... Sete Missões de Amor",
+        "compositores": "J.C. Coelho, Ribeirinha, Adilson China, Serginho Sumaré, Domingos PS, R. Alves, Sidney de Pilares, Zequinha do Cavaco",
+        "interpretacao": "Neguinho da Beija-Flor"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Manõa, Manaus, Amazônia, Terra Santa: Alimenta o Corpo, Equilibra a Alma e Transmite a Paz",
+        "compositores": "Cláudio Russo, José Luis, Marquinhos e Jessey",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2003,
+        "titulo": "O Povo Conta a Sua História: Saco Vazio não Para em Pé, a Mão que Faz a Guerra, Faz a Paz",
+        "compositores": "Betinho, JC Coelho, Ribeirinho, Glyvaldo, Luis, Manoel, Serginho e Vinicius",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "O Brasil Dá o Ar da Sua Graça. De Ícaro a Rubem Berta, o Ímpeto de Voar",
+        "compositores": "Wilsinho Paz, Elcy, Gil das Flores, Alexandre Moraes, Tamir, Tom-Tom e Igor Leal",
+        "interpretacao": "Neguinho da Beija-Flor e Gilson Bacana"
+      },
+      {
+        "ano": 2001,
+        "titulo": "A Saga de Agotime, Maria Mineira Naê",
+        "compositores": "Déo, Caruso, Cleber e Osmar",
+        "interpretacao": "Neguinho da Beija-Flor e Gilson Bacana"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Brasil, Um Coração que Pulsa Forte, Pátria de Todos ou Terra de Ninguém?",
+        "compositores": "Igor Leal e Amendoim",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Araxá, Lugar Alto Onde Primeiro Se Avista o Sol",
+        "compositores": "Wilsinho Paz, Noel Costa e Serginho do Porto",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1998,
+        "titulo": "O Mundo Místico dos Caruanas nas Águas do Patu-Anu",
+        "compositores": "Alencar de Oliveira, Wilsinho Paz, Noel Costa, Baby e Marcão",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1997,
+        "titulo": "A Beija-Flor É Festa na Sapucaí",
+        "compositores": "Wilson Bombeiro, J. Santos, Arnaldo Matheus e Almir Sereno",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Aurora do Povo Brasileiro",
+        "compositores": "Miro Barbosa",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1995,
+        "titulo": "Bidu Sayão e o Canto de Cristal",
+        "compositores": "Bira, Zé Carlos do Cavaco, Tião Barbudo, Dequinha Pottier e Jorginho",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Margareth Mee, a Dama das Bromélias",
+        "compositores": "Arnaldo Matheus, J. Santos e Almir Moreira",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Uni-duni-tê, a Beija-Flor Escolheu: É Você",
+        "compositores": "Wilson Bombeiro, Edeor de Paula e Sérgio Fonseca",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Há Um Ponto de Luz na Imensidão",
+        "compositores": "Dinoel Sampaio, Itinho e Neguinho da Beija-Flor",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1991,
+        "titulo": "Alice no Brasil das Maravilhas",
+        "compositores": "Pelé, Cláudio Inspiração, Tonho Magrinho e Paulo Roberto",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Todo Mundo Nasceu Nu",
+        "compositores": "Betinho, Jorginho, Bira e Aparecida",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Ratos e Urubus, Larguem Minha Fantasia",
+        "compositores": "Betinho, Glyvaldo, Zé Maria e Osmar",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1988,
+        "titulo": "Sou Negro, do Egito à Liberdade",
+        "compositores": "Ivancué, Cláudio Inspiração, Marcelo Guimarães e Aloísio Santos",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1987,
+        "titulo": "As Mágicas Luzes da Ribalta",
+        "compositores": "Mazinho e Gilson Dr.",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1986,
+        "titulo": "O Mundo É Uma Bola",
+        "compositores": "Betinho e Jorge Canuto",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1985,
+        "titulo": "A Lapa de Adão e Eva",
+        "compositores": "Zé do Cavaco, Carlinhos Bagunça, Carnaval, H.O. e Patrício",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1984,
+        "titulo": "O Gigante em Berço Esplêndido",
+        "compositores": "Neguinho da Beija-Flor e Nêgo",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1983,
+        "titulo": "A Grande Constelação das Estrelas Negras",
+        "compositores": "Neguinho da Beija-Flor e Nêgo",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1982,
+        "titulo": "O Olho Azul da Serpente",
+        "compositores": "Wilson Bombeiro, Carlinhos Bagunça e Joel Menezes",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1981,
+        "titulo": "Carnaval do Brasil, a Oitava das Sete Maravilhas do Mundo",
+        "compositores": "Neguinho da Beija-Flor, Dicró e Picolé",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1980,
+        "titulo": "O Sol da Meia-Noite, Uma Viagem ao País das Maravilhas",
+        "compositores": "Zé Maranhão, Wilson Bombeiro e Alceu",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1979,
+        "titulo": "O Paraíso da Loucura",
+        "compositores": "Savinho, Luciano e Walter de Oliveira",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1978,
+        "titulo": "A Criação do Mundo na Tradição Nagô",
+        "compositores": "Neguinho da Beija-Flor, Gilson Dr. e Mazinho",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1977,
+        "titulo": "Vovó e o Rei da Saturnália na Corte Egipciana",
+        "compositores": "Savinho da Beija-Flor e Luciano da Beija-Flor",
+        "interpretacao": "Luiz Antônio Feliciano Marconde (Neguinho da Beija-Flor)"
+      },
+      {
+        "ano": 1976,
+        "titulo": "Sonhar com Rei Dá Leão",
+        "compositores": "Neguinho da Beija-Flor (Neguinho da Vala)",
+        "interpretacao": "Neguinho da Beija-Flor e Zamba"
+      },
+      {
+        "ano": 1975,
+        "titulo": "O Grande Decênio",
+        "compositores": "Bira Quininho",
+        "interpretacao": "Bira Quininho"
+      },
+      {
+        "ano": 1974,
+        "titulo": "Brasil Ano 2000",
+        "compositores": "Walter de Oliveira e João Rosa",
+        "interpretacao": "Zamba"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Educação para o Desenvolvimento",
+        "compositores": "César Roberto Neves e Darvin",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "Bahia dos Meus Amores",
+        "compositores": "Isaias Pereira, Sebastião Adilson e Adeson",
+        "interpretacao": "Sílvio"
+      },
+      {
+        "ano": 1971,
+        "titulo": "Carnaval, Sublime Ilusão",
+        "compositores": "Walter de Oliveira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "Rio, Quatro Séculos de Glórias",
+        "compositores": "Walter de Oliveira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1969,
+        "titulo": "O Paquete do Exílio",
+        "compositores": "Ivancué e Aloísio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1968,
+        "titulo": "Exaltação a José de Alencar",
+        "compositores": "Anézio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1967,
+        "titulo": "A Queda da Monarquia",
+        "compositores": "Anésio Tavares da Silva",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1966,
+        "titulo": "Fatos que Culminaram com a Independência do Brasil",
+        "compositores": "Timbó e Jair",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1965,
+        "titulo": "Lei do Ventre Livre",
+        "compositores": "Nicanor de Oliveira - Timbó",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "Café, Riqueza do Brasil",
+        "compositores": "Cabana",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1963,
+        "titulo": "O Guarani",
+        "compositores": "Cabana",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1962,
+        "titulo": "Dia do Fico",
+        "compositores": "Cabana",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1961,
+        "titulo": "Homenagem à Brasília",
+        "compositores": "Cabana",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1960,
+        "titulo": "Regência Prima",
+        "compositores": "Cabana",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1959,
+        "titulo": "Copa do Mundo",
+        "compositores": "Pardal",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1958,
+        "titulo": "Tomada de Monte Castelo ou Exaltação às Forças Armadas",
+        "compositores": "Vacele",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1957,
+        "titulo": "Riquezas Áureas do Brasil",
+        "compositores": "Cabana",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1956,
+        "titulo": "O Gaúcho",
+        "compositores": "Cabana",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1955,
+        "titulo": "Páginas de Ouro da Poesia Brasileira",
+        "compositores": "Ozório de Lima",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1954,
+        "titulo": "O Caçador de Esmeraldas",
+        "compositores": "Ozório de Lima",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.9,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 270.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.2,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.6,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.4,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 267.6,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.6,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 269.2,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.3,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.9,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 296.4,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.4,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 298.9,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 299.8,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 299.2,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 398.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 399.3,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 399.3,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 397.1,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 399.4,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 388.7,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 399.6,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 399.4,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 270.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 178.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 299.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 299.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 291.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 296.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 288.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 290.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 564.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 210.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 222.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 219.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-A",
+        "posicao": 2,
+        "pontos": 211.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 2,
+        "pontos": 212.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Desfile de segunda-feira",
+        "posicao": 3,
+        "pontos": 193.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-A",
+        "posicao": 1,
+        "pontos": 204.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1-A",
+        "posicao": 6,
+        "pontos": 179.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1-A",
+        "posicao": 2,
+        "pontos": 161.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1-A",
+        "posicao": 1,
+        "pontos": 93.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1-A",
+        "posicao": 2,
+        "pontos": 161.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 166.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 86.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 122.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 90.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 72.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 56.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 59.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 2",
+        "posicao": 7,
+        "pontos": 100.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 68.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 2",
+        "posicao": 9,
+        "pontos": 83.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 2",
+        "posicao": 9,
+        "pontos": 65.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 3",
+        "posicao": 2,
+        "pontos": 105.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 98.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 97.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 2",
+        "posicao": 12,
+        "pontos": 35.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 39.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 101.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Desfile intermediário",
+        "posicao": 8,
+        "pontos": 74.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1960,
+        "grupo": "Supercampeonato",
+        "posicao": 6,
+        "pontos": 58.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1959,
+        "grupo": "Supercampeonato",
+        "posicao": 9,
+        "pontos": 82.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1958,
+        "grupo": "Supercampeonato",
+        "posicao": 10,
+        "pontos": 80.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1957,
+        "grupo": "Supercampeonato",
+        "posicao": 10,
+        "pontos": 50.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1956,
+        "grupo": "Supercampeonato",
+        "posicao": 12,
+        "pontos": 54.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1955,
+        "grupo": "Supercampeonato",
+        "posicao": 6,
+        "pontos": 122.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1954,
+        "grupo": "Campeonato",
+        "posicao": 1,
+        "pontos": 122.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

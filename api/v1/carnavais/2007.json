@@ -1,0 +1,286 @@
+{
+  "ano": 2007,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "beija-flor",
+      "escola_nome": "Beija-Flor de Nilópolis",
+      "pontos": 399.3
+    },
+    "SP": {
+      "escola_slug": "mocidade-alegre",
+      "escola_nome": "Mocidade Alegre",
+      "pontos": 298.5
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 1,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 239.7,
+        "enredo": "Barrados no Baile"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 238.8,
+        "enredo": "Ripa na Tulipa, Ilha!"
+      }
+    ],
+    "RJ - Grupo B": [
+      {
+        "posicao": 2,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 239.7,
+        "enredo": "Chatô - A Fanfarra do Homem Mais Sério e Engraçado do Brasil"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 239.6,
+        "enredo": "Vamos Falar de Amor"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 238.7,
+        "enredo": "Unidos pelos Caminhos da Fé, Desbravando os Carnavais"
+      }
+    ],
+    "RJ - Grupo C": [
+      {
+        "posicao": 11,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 148.6,
+        "enredo": "Signos, Sonhos do Imaginário? Ou Conto do Vigário?"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 399.3,
+        "enredo": "Áfricas - Do Berço Real à Corte Brasiliana"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 397.9,
+        "enredo": "Caxias, dos Caminhos de Passagem ao Caminho do Progresso, Um Retrato do Brasil"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 397.4,
+        "enredo": "Minha Língua É Minha Pátria, Mangueira, Meu Grande Amor. Meu Samba Vai ao Lácio e Colhe a Última Flor"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 397.3,
+        "enredo": "A Viradouro Vira o Jogo"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 396.6,
+        "enredo": "Metamorfoses: Do Reino Natural à Corte Popular do Carnaval - As Transformações da Vida"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 396.4,
+        "enredo": "Candaces"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 394.8,
+        "enredo": "Os Deuses do Olimpo na Terra do Carnaval: Uma Festa dos Esportes, da Saúde e da Beleza"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 392.0,
+        "enredo": "Teresinhaaa, Uhuhuuu!!! Vocês Querem Bacalhau?"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 391.1,
+        "enredo": "O Futuro no Pretérito - Uma História Feita à Mão"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 389.6,
+        "enredo": "Ser Diferente É Normal: o Império Serrano Faz a Diferença no Carnaval"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 386.5,
+        "enredo": "O Ti-ti-ti do Sapoti"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 5,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 291.25,
+        "enredo": "Negro, o grande ventre que gerou seus filhos, atravessando o mar aqui chegou. No esplendor de uma raça, essa cultura germinou"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 1,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 197.75,
+        "enredo": "Guarapiranga 100 Anos"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 298.5,
+        "enredo": "Posso ser Inocente, Debochado e Irreverente... Afinal, Sou o Riso Dessa Gente!!!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 297.5,
+        "enredo": "O 4º Reino - O Reino do Absurdo"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 297.0,
+        "enredo": "Deus fez o Homem de barro e a Águia de ouro....o Brasil feito a mão"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 297.0,
+        "enredo": "Glórias e Conquistas - A Força do Império está no salto do Tigre"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 296.75,
+        "enredo": "Tellus Matter - O cio da Terra"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 294.0,
+        "enredo": "A Águia Radiante com o Pioneiro das Comunicações – João Jorge Saad – 70 Anos de Conquistas e Realizações"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 294.0,
+        "enredo": "Com licença, eu vou à luta!"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 291.25,
+        "enredo": "Renovar é Preciso...Pra que o viver seja possível"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 290.5,
+        "enredo": "Força Brasil - O país que surge da tinta, delira num carnaval de cores"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 287.5,
+        "enredo": "Decifra-me ou Devoro-te. Apocalipse: 4 cavalheiros, 3 profecias e 4 segredos !"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 287.5,
+        "enredo": "Venda como arte, comércio como sua principal representação"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 285.25,
+        "enredo": "Com Mauricio de Sousa, a Unidos do Peruche, Abre-Alas, Abre-Livros, Abre-Mentes e Faz Sonhar"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 298.0,
+        "enredo": "Anchieta, José do Brasil"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 295.75,
+        "enredo": "Das sete curvas de um rio nasce a rua da cultura, religião, comércio e festas populares: 25 de Março, isso é Brasil!"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 292.0,
+        "enredo": "Cana de Açúcar - O Doce Sabor do Prazer"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 288.25,
+        "enredo": "Aportei nesta avenida em busca do nosso seguro"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 286.75,
+        "enredo": "Uirapuru, Deus do Mundo Alado, Pássaro Encantado"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

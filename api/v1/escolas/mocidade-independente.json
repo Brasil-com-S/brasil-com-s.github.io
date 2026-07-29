@@ -7,7 +7,17 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Mocidade Independente de Padre Miguel",
     "fundacao": "1955-11-10",
     "fundadores": [
-      "Tia Chica"
+      "Sílvio Trindade",
+      "Renato da Silva",
+      "Djalma Rosa",
+      "Olímpio Bonifácio (Bronquinha)",
+      "Ary de Lima",
+      "Jorge Avelino da Silva",
+      "Orozimbo de Oliveira (Seu Orozimbo)",
+      "Garibaldi F. Lima",
+      "Felipe de Souza (Pavão)",
+      "José Pereira da Silva (Mestre André)",
+      "Alfredo Briggs"
     ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
@@ -19,9 +29,9 @@
     ],
     "cores_hex": [
       "#008000",
-      "#FFFFFF"
+      "#FFF"
     ],
-    "simbolo": "Estrela Guia",
+    "simbolo": "Estrela de cinco pontas Castor (mascote)",
     "titulos": 6,
     "anos_titulos": [
       1979,
@@ -33,9 +43,905 @@
     ],
     "logo_url": "assets/logos/original/mocidade-independente.png",
     "logo_original_url": "assets/logos/original/mocidade-independente.png",
-    "logo_gemini_png_url": "assets/logos/gemini/mocidade-independente.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/mocidade-independente.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Rita Lee , A Padroeira da Liberdade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Voltando Para o Futuro - Não Há Limites pra Sonhar",
+        "compositores": "Paulo Cesar Feital, Cláudio Russo, Alex Saraiça, Denilson Rozario, Carlinhos da Chácara, Marcelo Casanossa, Rogerinho, Nito de Souza, Dr Castilho e Léo Peres",
+        "interpretacao": "Zé Paulo Sierra"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Pede Caju Que Dou... Pé de Caju Que Dá!",
+        "compositores": "",
+        "interpretacao": "Zé Paulo Sierra"
+      },
+      {
+        "ano": 2023,
+        "titulo": "Terra de Meu Céu, Estrelas de Meu Chão",
+        "compositores": "Diego Nicolau, Richard Valença, Orlando Ambrosio, Gigi da Estiva, W Correa, Leandro Budegas e Cabeça do Ajax",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Batuque ao Caçador",
+        "compositores": "Carlinhos Brown, Diego Nicolau, Richard Valença, Orlando Ambrosio, Gigi da Estiva, Nattan Lopes, J.J. Santos e Cabeça do Ajax",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Batuque ao caçador",
+        "compositores": "",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Elza Deusa Soares",
+        "compositores": "Sandra de Sá, Igor Vianna, Dr. Márcio, Solano Santos, Renan Diniz, Jefferson Oliveira, Professor Laranjo e Telmo Augusto",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Eu Sou o Tempo. Tempo É Vida",
+        "compositores": "Jefinho Rodrigues, Diego Nicolau, Marquinho Índio, Jonas Marques, Richard Valença, Roni Pit'Stop, Orlando Ambrosio e Cabeça do Ajax",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Namastê: a Estrela que Habita em Mim, Saúda a que Existe em Você",
+        "compositores": "Altay Veloso, Paulo Cesar Feital, Zé Glória, J. Giovanni, Denilson do Rosário, Carlinhos da Chácara, Alex Saraiça e Leo Peres",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2017,
+        "titulo": "As Mil e Uma Noites de Uma Mocidade Pra Lá de Marrakesh",
+        "compositores": "Altay Veloso, Paulo César Feital, Zé Glória, J. Giovanni, Dadinho, Zé Paulo Sierra, Gustavo, Fábio Borges, André Baiacú, Thiago Meiners",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2016,
+        "titulo": "O Brasil de La Mancha - Sou Miguel, Padre Miguel. Sou Cervantes, Sou Quixote Cavaleiro, Pixote Brasileiro",
+        "compositores": "Wander Pires, Jefinho Rodrigues, Marquinho Índio, J. Medeiros, Domingos Pressão, Jonas Marques, Paulo Ferraz, Lauro Silva e Lero Pires",
+        "interpretacao": "Bruno Ribas"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Se o Mundo Fosse Acabar, Me Diz o que Você Faria se só lhe Restasse Um Dia?",
+        "compositores": "Ricardo Mendonça, Tio Bira, Anderson Viana e Lúcio Naval",
+        "interpretacao": "Bruno Ribas e Dudu Nobre"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Pernambucópolis",
+        "compositores": "Dudu Nobre, Jefinho Rodrigues, Marquinho Índio, Jorginho Medeiros, Gabriel Teixeira e Diego Nicolau",
+        "interpretacao": "Bruno Ribas e Dudu Nobre"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Eu Vou de Mocidade com Samba e Rock in Rio - Por Um Mundo Melhor",
+        "compositores": "Jefinho Rodrigues, Jorginho Medeiros, Marquinho Indio, Domingos PS, Moleque Silveira e Gustavo Henrique",
+        "interpretacao": "Luís Fernando Guaglianone dos Santos (Luizinho Andanças)"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Por Ti, Portinari , Rompendo a Tela, a Realidade",
+        "compositores": "Diego Nicolau, Gabriel Teixeira e Gustavo Soares",
+        "interpretacao": "Luís Fernando Guaglianone dos Santos (Luizinho Andanças)"
+      },
+      {
+        "ano": 2011,
+        "titulo": "Parábola dos Divinos Semeadores",
+        "compositores": "J. Giovanni, Zé Glória e Hugo Reis",
+        "interpretacao": "Nêgo e  Richahs"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Do Paraíso de Deus ao Paraíso da Loucura, Cada Um Sabe o que Procura",
+        "compositores": "J. Giovanni, Zé Glória e Hugo Reis",
+        "interpretacao": "David do Pandeiro"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Mocidade Apresenta: Clube Literário Machado de Assis e Guimarães Rosa ... Estrelas em Poesia!",
+        "compositores": "Jefinho, Santana, Ricardo Simpatia, Marquinho Índio e Diego Rodrigues",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 2008,
+        "titulo": "O Quinto Império: de Portugal ao Brasil, Uma Utopia na História",
+        "compositores": "Marquinho Marino, Gustavo Henrique e Igor Leal",
+        "interpretacao": "Bruno Ribas"
+      },
+      {
+        "ano": 2007,
+        "titulo": "O Futuro no Pretérito - Uma História Feita à Mão",
+        "compositores": "Toco, Rafael Só e Marquinho Marino",
+        "interpretacao": "Bruno Ribas"
+      },
+      {
+        "ano": 2006,
+        "titulo": "A Vida que Pedi a Deus",
+        "compositores": "Toco, Rafael Só e Marquinho Marino",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Buon Mangiare, Mocidade! A Arte Está na Mesa",
+        "compositores": "Inácio Rios, Nilton Mello e Jorginho Valle",
+        "interpretacao": "Roger Linhares"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Não Corra, não Mate, não Morra. Pegue Carona com a Mocidade!",
+        "compositores": "Santana e Ricardo Simpatia",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Para Sempre no Seu Coração, Carnaval da Doação",
+        "compositores": "Santana e Ricardo Simpatia",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "O Grande Circo Místico",
+        "compositores": "Beto Corrêa, Dico da Viola, Jefinho e Marquinhos Índio",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 2001,
+        "titulo": "Paz e Harmonia - A Mocidade É Alegria",
+        "compositores": "Joãozinho, Marcelo do RAP, Domenil e J. Brito",
+        "interpretacao": "David do Pandeiro"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Verde, Amarelo, Branco, Anil, Colorem o Brasil no Ano 2000",
+        "compositores": "Dico da Viola, Jefinho, Marquinho Índio e Marquinho PQD",
+        "interpretacao": "Paulo Henrique, Nego Martins e Tiãozinho"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Villa-Lobos e a Apoteose Brasileira",
+        "compositores": "Santana, Nascimento e Ricardo Simpatia",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Brilha no Céu a Estrela que Me Faz Sonhar",
+        "compositores": "Joãozinho, Guinna, Muca e J. Brito",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 1997,
+        "titulo": "De Corpo e Alma na Avenida",
+        "compositores": "Chico Cabeleira, Joãozinho, Muca e J. Brito",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Criador e Criatura",
+        "compositores": "Beto Corrêa, Dico da Viola, Jefinho e Joãozinho",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 1995,
+        "titulo": "Padre Miguel, Olhai por Nós",
+        "compositores": "Marquinhos PQD, Santana, Wanderley Marcação e Cardoso do Cavaco",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Avenida Brasil, Tudo Passa, Quem não Viu?",
+        "compositores": "Jefinho, Dico da Viola e Jorge Gannen",
+        "interpretacao": "Wander Pires Nunes"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Marraio Feridô Sou Rei",
+        "compositores": "Serafim Adriano, Edu Ferreira e Antonio Andrade",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Sonhar não Custa Nada, ou Quase Nada",
+        "compositores": "Paulinho Mocidade, Dico da Viola e Moleque Silveira",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 1991,
+        "titulo": "Chuê, Chuá, as Águas Vão Rolar",
+        "compositores": "Toco, Jorginho Medeiros e Tiãozinho",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Vira, Virou, a Mocidade Chegou",
+        "compositores": "Toco, Jorginho Medeiros e Tiãozinho",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Elis, Um Trem Chamado Emoção",
+        "compositores": "Paulinho Mocidade, Dico da Viola e Cadinho",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1988,
+        "titulo": "Beijim, beijim, bye bye Brasil",
+        "compositores": "Ferreia, J. Muinhos e João das Rosas",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1987,
+        "titulo": "Tupinicópolis",
+        "compositores": "Gibi, Chico Cabeleira, Nino Batera e J. Muinhos",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1986,
+        "titulo": "Bruxarias e Histórias do Arco da Velha",
+        "compositores": "Dudu, Jorginho Medeiros e Tiãozinho",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Ziriguidum 2001, Um Carnaval nas Estrelas",
+        "compositores": "Gibi, Tiãozinho e Arsênio",
+        "interpretacao": "Ney Vianna e David do Pandeiro"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Mamãe Eu Quero Manaus",
+        "compositores": "Edson Show e Romildo",
+        "interpretacao": "Aroldo Forde (Aroldo Melodia)"
+      },
+      {
+        "ano": 1983,
+        "titulo": "Como Era Verde Meu Xingu",
+        "compositores": "Dico da Viola, Paulinho Mocidade, Tiãozinho da Mocidade e Adil",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1982,
+        "titulo": "O Velho Chico",
+        "compositores": "Adil, Dico da Viola e Roça",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1981,
+        "titulo": "Abram Alas para a Folia, aí Vem a Mocidade",
+        "compositores": "Ney Vianna e Zezinho",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1980,
+        "titulo": "Tropicália Maravilha",
+        "compositores": "Djalma Santos, Arsenio e Domenil",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1979,
+        "titulo": "O Descobrimento do Brasil",
+        "compositores": "Toco e Djalma Crill",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1978,
+        "titulo": "Brasiliana",
+        "compositores": "Djalma Santos, Loiola e Domeniu",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1977,
+        "titulo": "Samba Marca Registrada",
+        "compositores": "Dico da Viola e Jurandir Pacheco",
+        "interpretacao": "José da Rocha Vianna (Ney Vianna)"
+      },
+      {
+        "ano": 1976,
+        "titulo": "Mãe Menininha do Gantois",
+        "compositores": "Toco e Djalma Crill",
+        "interpretacao": "Elza Soares e Ney Vianna"
+      },
+      {
+        "ano": 1975,
+        "titulo": "O Mundo Fantástico do Uirapurú",
+        "compositores": "Tatu, Nezinho e Campo Grande",
+        "interpretacao": "Elza Soares e Ney Vianna"
+      },
+      {
+        "ano": 1974,
+        "titulo": "A Festa do Divino",
+        "compositores": "Tatu, Nezinho e Campo Grande",
+        "interpretacao": "Elza Soares e Ney Vianna"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Rio Zé Pereira",
+        "compositores": "Tião da Roça e Edu",
+        "interpretacao": "Elza Soares e Tião da Roça"
+      },
+      {
+        "ano": 1972,
+        "titulo": "Rainha Mestiça em Tempo de Lundu",
+        "compositores": "Serafim da Silva e Jurandir Candido Melo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1971,
+        "titulo": "Rapsódia de Saudade",
+        "compositores": "Toco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "O Meu Pé de Laranja Lima",
+        "compositores": "Arsênio e Gibi",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1969,
+        "titulo": "Vida e Glória de Francisco Adolfo Varnhagen",
+        "compositores": "Claudino da Costa (Volta Seca)",
+        "interpretacao": "Márcia (A voz da Portela)"
+      },
+      {
+        "ano": 1968,
+        "titulo": "Viagem Pitoresca Através do Brasil",
+        "compositores": "Djalma Santos e Da Roça",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1967,
+        "titulo": "O Teatro Brasileiro Através dos Tempos",
+        "compositores": "Astrogildo e Agenor",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1966,
+        "titulo": "Exaltação à Academia Brasileira de Letras",
+        "compositores": "Gibi, Aloísio Vieira, Dengo, André, Volta Seca, Nezinho, Rubens Cossich, Ari de Lima e Vadinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1965,
+        "titulo": "Parabéns pra Você, Rio (4.º Centenário)",
+        "compositores": "Tio Dengo e Aloísio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "O Cacho de Banana",
+        "compositores": "Toco e Cleber",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1963,
+        "titulo": "As Minas Gerais",
+        "compositores": "Wilson Moreira e Davolta",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1962,
+        "titulo": "Brasil no Campo Cultural",
+        "compositores": "Wilson, Jurandir e Arsênio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1961,
+        "titulo": "Carnaval Carioca",
+        "compositores": "Eurico e Batista (Ala Compositores) ou Tio Dengo e Aloísio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1960,
+        "titulo": "Frases Célebres da História",
+        "compositores": "Toco, Cleber, Tio Dengo e Aloísio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1959,
+        "titulo": "Os Vultos que Ficaram na História",
+        "compositores": "Toco e Cleber",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1958,
+        "titulo": "Apoteose do Samba",
+        "compositores": "Toco e Cleber",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1957,
+        "titulo": "O Baile das Rosas",
+        "compositores": "Toco e Cleber",
+        "interpretacao": "Tião Marino"
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 267.4,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 267.9,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 267.2,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 266.6,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.2,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.4,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 269.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 269.3,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.8,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 266.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 296.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 293.5,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 295.8,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 295.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 296.1,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 391.5,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 395.1,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 391.1,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 390.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 388.7,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 381.2,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 394.3,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 395.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 287.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 297.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 266.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 261.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 179.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 300.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 299.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 290.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 295.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 297.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 297.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 565.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 203.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 223.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-A",
+        "posicao": 7,
+        "pontos": 201.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 1,
+        "pontos": 218.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Desfile de segunda-feira",
+        "posicao": 2,
+        "pontos": 201.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-A",
+        "posicao": 6,
+        "pontos": 193.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1-A",
+        "posicao": 7,
+        "pontos": 176.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1-A",
+        "posicao": 6,
+        "pontos": 139.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1-A",
+        "posicao": 2,
+        "pontos": 88.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1-A",
+        "posicao": 1,
+        "pontos": 163.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 152.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 74.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 116.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 105.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 90.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 45.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 49.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 86.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 78.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 96.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 82.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 66.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 103.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 95.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 34.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 55.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 84.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Supercampeonato",
+        "posicao": 7,
+        "pontos": 53.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1960,
+        "grupo": "Supercampeonato",
+        "posicao": 3,
+        "pontos": 68.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1959,
+        "grupo": "Supercampeonato",
+        "posicao": 5,
+        "pontos": 93.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1958,
+        "grupo": "Campeonato",
+        "posicao": 1,
+        "pontos": 70.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1957,
+        "grupo": "Campeonato",
+        "posicao": 5,
+        "pontos": 77.0,
+        "resultado": "5º Lugar"
+      }
+    ]
   }
 }

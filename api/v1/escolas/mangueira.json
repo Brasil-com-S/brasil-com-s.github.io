@@ -7,12 +7,14 @@
     "nome_completo": "Grêmio Recreativo Escola de Samba Estação Primeira de Mangueira",
     "fundacao": "1928-04-28",
     "fundadores": [
-      "Cartola (Angenor de Oliveira)",
+      "Cartola",
       "Carlos Cachaça",
       "Zé Espinguela",
       "Saturnino Gonçalves",
-      "Euclides da Silva (Lica)",
-      "Pedro Caim"
+      "Euclides Roberto dos Santos (Seu Euclides)",
+      "Marcelino José Claudino (Maçu da Mangueira)",
+      "Pedro Caim (Paquetá)",
+      "Abelardo da Bolinha"
     ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
@@ -23,10 +25,10 @@
       "Rosa"
     ],
     "cores_hex": [
-      "#008000",
-      "#FF69B4"
+      "#006400",
+      "#FF1493"
     ],
-    "simbolo": "Surdo de Primeira e Coroa Imperial",
+    "simbolo": "Tambor surdo encimado por uma coroa e com ramos de louro em volta",
     "titulos": 20,
     "anos_titulos": [
       1932,
@@ -51,9 +53,1196 @@
     ],
     "logo_url": "assets/logos/original/mangueira.png",
     "logo_original_url": "assets/logos/original/mangueira.png",
-    "logo_gemini_png_url": "assets/logos/gemini/mangueira.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/mangueira.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Mestre Sacaca do Encanto Tucuju - O Guardião da Amazônia Negra",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "À Flor da Terra - No Rio da Negritude Entre Dores e Paixões",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "A Negra Voz do Amanhã",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "As Áfricas que a Bahia Canta",
+        "compositores": "Lequinho, Junior Fionda, Gabriel Machado, Guilherme Sá e Paulinho Bandolim",
+        "interpretacao": "Marquinho Art'Samba e Dowglas Diniz"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Angenor , José & Laurindo",
+        "compositores": "Moacyr Luz, Pedro Terra, Bruno Souza e Leandro Almeida",
+        "interpretacao": "Marquinho Art'Samba"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Angenor, José e Laurindo",
+        "compositores": "",
+        "interpretacao": "Marquinho Art'Samba"
+      },
+      {
+        "ano": 2020,
+        "titulo": "A Verdade Vos Fará Livre",
+        "compositores": "Manu da Cuíca e Luiz Carlos Máximo",
+        "interpretacao": "Marquinho Art'Samba"
+      },
+      {
+        "ano": 2019,
+        "titulo": "História pra Ninar Gente Grande",
+        "compositores": "Deivid Domênico, Tomaz Miranda, Mama, Marcio Bola, Ronie Oliveira e Danilo Firmino",
+        "interpretacao": "Marquinho Art'Samba"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Com Dinheiro ou Sem Dinheiro, Eu Brinco!",
+        "compositores": "Lequinho, Júnior Fionda, Alemão do Cavaco, Gabriel Machado, Wagner Santos, Gabriel Martins e Igor Leal",
+        "interpretacao": "Ciganerei"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Só Com a Ajuda do Santo",
+        "compositores": "Lequinho, Júnior Fionda, Flavinho Horta, Gabriel Martins e Igor Leal",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2016,
+        "titulo": "Maria Bethânia: A Menina dos Olhos de Oyá",
+        "compositores": "Alemão do Cavaco, Almyr, Cadu, Lacyr D Mangueira, Paulinho Bandolim e Renan Brandão",
+        "interpretacao": "Ciganerey"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Agora Chegou a Vez Vou Cantar: Mulher de Mangueira, Mulher Brasileira em Primeiro Lugar!",
+        "compositores": "Renan Brandão, Cadu, Alemão do Cavaco, Paulinho Bandolim, Deivid Domênico e Almy",
+        "interpretacao": "José Luiz Couto Pereira da Silva (Luizito)"
+      },
+      {
+        "ano": 2014,
+        "titulo": "A Festança Brasileira Cai no Samba da Mangueira",
+        "compositores": "Lequinho, Júnior Fionda, Igor Leal, Paulinho Carvalho e Flavinho Horta",
+        "interpretacao": "José Luiz Couto Pereira da Silva (Luizito)"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Cuiabá : Um Paraíso no Centro da América",
+        "compositores": "Júnior Fionda, Lequinho, Igor Leal e Paulo Carvalho",
+        "interpretacao": "Luizito, Zé Paulo Sierra e Ciganerey"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Vou Festejar! Sou Cacique , Sou Mangueira!",
+        "compositores": "Igor Leal, Lequinho e Jr. Fionda e Paulinho Carvalho",
+        "interpretacao": "Luizito, Zé Paulo Sierra e Ciganerey"
+      },
+      {
+        "ano": 2011,
+        "titulo": "O Filho Fiel, Sempre Mangueira",
+        "compositores": "Aílton, Cesinha Maluco, Alemão Xavier, Te e Baiano",
+        "interpretacao": "Luizito, Zé Paulo Sierra e Ciganerey"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Mangueira É Música do Brasil",
+        "compositores": "Renan Brandão, Machado, Paulinho Bandolim e Rodrigo Carioca",
+        "interpretacao": "Luizito, Richahs, Zé Paulo Sierra e Ciganerey"
+      },
+      {
+        "ano": 2009,
+        "titulo": "A Mangueira Traz os Brasis do Brasil Mostrando a Formação do Povo Brasileiro",
+        "compositores": "Lequinho, Gilson Bernini, Junior Fionda e Gusttavo",
+        "interpretacao": "José Luiz Couto Pereira da Silva (Luizito)"
+      },
+      {
+        "ano": 2008,
+        "titulo": "100 Anos do Frevo, É de Perder o Sapato. Recife Mandou Me Chamar...",
+        "compositores": "Lequinho, Jr. Fionda, Francisco do Pagode, Silvão e Aníbal",
+        "interpretacao": "José Luiz Couto Pereira da Silva (Luizito)"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Minha Língua É Minha Pátria, Mangueira, Meu Grande Amor. Meu Samba Vai ao Lácio e Colhe a Última Flor",
+        "compositores": "Lequinho, Junior Fionda, Aníbal e Amendoím",
+        "interpretacao": "José Luiz Couto Pereira da Silva (Luizito)"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Das Águas do São Francisco, Nasce Um Rio de Esperança",
+        "compositores": "Henrique Gomes, Gilson Bernini e Cosminho",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Mangueira Energiza a Avenida. O Carnaval É Pura Energia e a Energia É o Nosso Desafio",
+        "compositores": "Lequinho, Junior Fionda e Amendoim",
+        "interpretacao": "Jamelão"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Mangueira Redescobre a Estrada Real... E Deste Eldorado Faz Seu Carnaval",
+        "compositores": "Cadu, Gabriel, Almyr e Guilherme",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Os Dez Mandamentos: O Samba da Paz Canta a Saga da Liberdade",
+        "compositores": "Marcelo Dáguiã, Bizuca, Gilson Bernini e Clovis Pê",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Brazil com Z É pra Cabra da Peste, Brasil com S É Nação do Nordeste",
+        "compositores": "Lequinho e Amendoim",
+        "interpretacao": "Jamelão e Clóvis Pê"
+      },
+      {
+        "ano": 2001,
+        "titulo": "A Seiva da Vida",
+        "compositores": "Marcelo D'Aguiã, Bizuca, Gilson Bernini e Clóvis Pê",
+        "interpretacao": "Jamelão e Clóvis Pê"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Dom Obá II - Rei dos Esfarrapados, Príncipe do Povo",
+        "compositores": "Marcelo D´Aguiã, Bizuca, Gilson Bernini e Valter Veneno",
+        "interpretacao": "Jamelão, Clóvis Pê e Eraldo Caê"
+      },
+      {
+        "ano": 1999,
+        "titulo": "O Século do Samba",
+        "compositores": "Adalberto, Jocelino e Jerônimo",
+        "interpretacao": "Jamelão e Luizito"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Chico Buarque da Mangueira",
+        "compositores": "Nelson Dalla Rosa, Vila Boas, Carlinhos das Camisas e Nelson Csipai",
+        "interpretacao": "Jamelão e Eraldo Caê"
+      },
+      {
+        "ano": 1997,
+        "titulo": "O Olimpo É Verde e Rosa",
+        "compositores": "Chiquinho Campo Grande, Leque e Jorge Magalhãe",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Os Tambores da Mangueira na Terra da Encantaria",
+        "compositores": "Chiquinho Campo Grande e Marcondes",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1995,
+        "titulo": "A Esmeralda do Atlântico",
+        "compositores": "Rody, Verinha, Paulinho de Carvalho e Fernando de Lima",
+        "interpretacao": "Jamelão e Eraldo Caê"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Atrás da Verde e Rosa Só não Vai Quem Já Morreu",
+        "compositores": "Femando de Lima, David Corrêa, Carlos Sena e Paulinho de Carvalho",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Dessa Fruta Eu Como até o Caroço",
+        "compositores": "Bira do Ponto, Eraldo Caê, Carlos Sena, Dirceu, Verinha, Preto e Gustavo",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Se Todos Fossem Iguais a Você - Tom Jobim",
+        "compositores": "Hélio Turco, Jurandir e Alvinho",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1991,
+        "titulo": "As Três Rendeiras do Universo",
+        "compositores": "Hélio Turco, Jurandir e Alvinho",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "E Deu a Louca no Barroco",
+        "compositores": "Hélio Turco, Jurandir e Alvinho",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Trinca de Reis",
+        "compositores": "Fandinho, Ney e Adilson do Violão",
+        "interpretacao": "Jamelão e Sobrinho"
+      },
+      {
+        "ano": 1988,
+        "titulo": "100 Anos de Liberdade, Realidade ou Ilusão?",
+        "compositores": "Hélio Turco, Jurandir e Alvinho",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1987,
+        "titulo": "No Reino das Palavras, Carlos Drummond de Andrade",
+        "compositores": "Rody, Verinha e Bira do Ponto",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1986,
+        "titulo": "Caymmi Mostra ao Mundo o que a Bahia e a Mangueira Têm",
+        "compositores": "lvo Meirelles, Paulinho e Lula",
+        "interpretacao": "Jamelão e Lula"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Abram Alas que Eu Quero Passar",
+        "compositores": "Jurandir, Hélio Turco e Darci",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Yes, Nós Temos Braguinha",
+        "compositores": "Jurandir, Hélio Turco, Comprido, Arroz e Jajá",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1983,
+        "titulo": "Verde que Te Quero Rosa, Semente Viva do Samba",
+        "compositores": "Heraldo Faria, Geraldo Neves e Flavinho Machado",
+        "interpretacao": "Flavinho Machado"
+      },
+      {
+        "ano": 1982,
+        "titulo": "As Mil e Uma Noites Cariocas",
+        "compositores": "Flavinho Machado, Heraldo Faria e Tolito",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1981,
+        "titulo": "De Nonô a JK",
+        "compositores": "Jurandir, Comprido e Arroz",
+        "interpretacao": "Dirceu da Mangueira"
+      },
+      {
+        "ano": 1980,
+        "titulo": "Coisas Nossas",
+        "compositores": "Carlos Roberto, Ney da Mangueira e Aylton da Mangueira",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1979,
+        "titulo": "Avatar e a Selva Transformou-se em Ouro",
+        "compositores": "Tolito, Ananias e Elmo José dos Santos (Rato do Tamborim)",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1978,
+        "titulo": "Dos Carroceiros do Imperador ao Palácio do Samba",
+        "compositores": "Rubem da Mangueira e Jurandir",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1977,
+        "titulo": "Parapanã, o Segredo do Amor",
+        "compositores": "Jajá e Tantinho",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1976,
+        "titulo": "No Reino da Mãe do Ouro",
+        "compositores": "Tolito e Rubem da Mangueira",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1975,
+        "titulo": "Imagens Poéticas de Jorge de Lima",
+        "compositores": "Tolito, Mozart e Delson",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1974,
+        "titulo": "Mangueira em Tempo de Folclore",
+        "compositores": "Jajá, Preto Rico e Manuel",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Lendas do Abaeté",
+        "compositores": "Jajá, Preto Rico e Manuel",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1972,
+        "titulo": "Carnaval dos Carnavais",
+        "compositores": "Padeirinho, Nílton Russo e Moacir",
+        "interpretacao": "Jamelão e Jorge Zagaia"
+      },
+      {
+        "ano": 1971,
+        "titulo": "Os Modernos Bandeirantes",
+        "compositores": "Darcy da Mangueira, Hélio Turco e Jurandir",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1970,
+        "titulo": "Um Cântico à Natureza",
+        "compositores": "Nei, Aílton e Dilmo",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1969,
+        "titulo": "Mercadores e Suas Tradições",
+        "compositores": "Hélio Turco, Darci e Jurandir",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1968,
+        "titulo": "Samba, Festa de Um Povo",
+        "compositores": "Hélio Turco, Darci, Batista e Dico",
+        "interpretacao": "Jamelão e Darci"
+      },
+      {
+        "ano": 1967,
+        "titulo": "O Mundo Encantado de Monteiro Lobato",
+        "compositores": "Luiz, Batista da Mangueira e Darci da Mangueira",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1966,
+        "titulo": "Exaltação a Villa-Lobos",
+        "compositores": "Jurandir e Cláudio",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1965,
+        "titulo": "Rio Através dos Séculos",
+        "compositores": "Hélio Turco, Pelado e Comprido",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1964,
+        "titulo": "Histórias de Um Preto Velho",
+        "compositores": "Hélio Turco, Pelado e Comprido",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1963,
+        "titulo": "Exaltação à Bahia",
+        "compositores": "Hélio Turco, Cícero e Pelado",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1962,
+        "titulo": "Casa Grande e Senzala",
+        "compositores": "Jorge Zagaia, Leléo e Comprido",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1961,
+        "titulo": "Reminiscências do Rio Antigo",
+        "compositores": "Hélio Turco, Pelado e Cícero",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1960,
+        "titulo": "Carnaval de Todos os Tempos ou Glória ao Samba",
+        "compositores": "Hélio Turco, Pelado e Cícero",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1959,
+        "titulo": "O Brasil Através dos Tempos",
+        "compositores": "Jorge Pelado, Cícero e Hélio Turco",
+        "interpretacao": "Cícero e Pelado"
+      },
+      {
+        "ano": 1958,
+        "titulo": "Poema Inolvidável ou Canção do Exílio",
+        "compositores": "Zagaia e Leléo",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1957,
+        "titulo": "Brasil Rumo ao Progresso",
+        "compositores": "Jorge Zagaia e Leléo",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1956,
+        "titulo": "Exaltação a Getúlio Vargas - Emancipação Nacional Brasil",
+        "compositores": "Oswaldo Vitalino (Padeirinho)",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1955,
+        "titulo": "As Quatro Estações do Ano ou Cânticos à Natureza",
+        "compositores": "Nelson Sargento, Alfredo Português e Jamelão",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1954,
+        "titulo": "Rio Antigo e Moderno",
+        "compositores": "Cícero dos Santos e Pelado da Mangueira",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1953,
+        "titulo": "Unidade do Brasil",
+        "compositores": "",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1952,
+        "titulo": "Sonhos de um poeta - visões de Gonçalves Dias",
+        "compositores": "Padeirinho, Cícero e Pelado",
+        "interpretacao": "José Bispo Clementino dos Santos (Jamelão)"
+      },
+      {
+        "ano": 1951,
+        "titulo": "Unidade Nacional",
+        "compositores": "Cícero dos Santos e Pelado da Mangueira",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1950,
+        "titulo": "Plano Salte - Saúde, Lavoura, Transporte e Educação",
+        "compositores": "Nelson Sargento e Alfredo Português",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1949,
+        "titulo": "Apologia ao Mestre",
+        "compositores": "Nelson Sargento e Alfredo Português",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1948,
+        "titulo": "Vale de São Francisco",
+        "compositores": "Cartola e Carlos Cachaça",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1947,
+        "titulo": "Brasil, Ciências e Artes",
+        "compositores": "Carlos Cachaça e Cartola",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1946,
+        "titulo": "Carnaval da Vitória",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1945,
+        "titulo": "A Nossa História",
+        "compositores": "José Ramos e Geraldo da Pedra",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1944,
+        "titulo": "Glória ao Samba",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1943,
+        "titulo": "Samba no Palácio Itamarati",
+        "compositores": "Cartola",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1942,
+        "titulo": "A Vitória do Samba nas Américas",
+        "compositores": "Gradim",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1941,
+        "titulo": "Pedro Ernesto",
+        "compositores": "Cartola",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1940,
+        "titulo": "Prantos, Pretos e Poetas",
+        "compositores": "Carlos Cachaça",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1939,
+        "titulo": "No Jardim",
+        "compositores": "Zé Com Fome",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1938,
+        "titulo": "Homenagem",
+        "compositores": "Carlos Cachaça",
+        "interpretacao": "Carlos Cachaça"
+      },
+      {
+        "ano": 1936,
+        "titulo": "*",
+        "compositores": "Cartola, Carlos Cachaça e Zé da Zilda",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1935,
+        "titulo": "O Regresso de Uma Colheita na Primavera",
+        "compositores": "Carlos Cachaça, Cartola e Arthur Faria / Zé Com Fome",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1934,
+        "titulo": "República da Orgia ou Divina Dama",
+        "compositores": "Cartola",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1933,
+        "titulo": "Uma Segunda-feira do Bonfim, na Ribeira",
+        "compositores": "Cartola e Carlos Cachaça",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1932,
+        "titulo": "Sorrindo / Na Floresta / A Floresta",
+        "compositores": "1. Carlos Cachaça e Cartola / 2. Gradim",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 269.2,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 269.4,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.8,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.1,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.2,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 268.9,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 270.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.3,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 269.6,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.8,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 267.1,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 296.2,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 296.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 297.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 297.2,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 297.6,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 396.8,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 393.9,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 397.4,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 397.1,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 393.8,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 387.9,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 398.6,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 399.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 298.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 289.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 264.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 178.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 297.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 297.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 287.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 292.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 292.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 269.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 550.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 11,
+        "pontos": 197.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 223.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 224.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-A",
+        "posicao": 1,
+        "pontos": 214.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 9,
+        "pontos": 197.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Desfile de segunda-feira",
+        "posicao": 1,
+        "pontos": 208.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-A",
+        "posicao": 5,
+        "pontos": 193.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1-A",
+        "posicao": 4,
+        "pontos": 180.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1-A",
+        "posicao": 4,
+        "pontos": 147.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1-A",
+        "posicao": 4,
+        "pontos": 82.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1-A",
+        "posicao": 4,
+        "pontos": 159.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 163.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 76.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 116.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 106.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 92.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 59.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 65.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 108.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 79.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 126.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 125.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 113.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 129.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 117.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 49.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 85.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 110.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Supercampeonato",
+        "posicao": 1,
+        "pontos": 102.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1959,
+        "grupo": "Supercampeonato",
+        "posicao": 4,
+        "pontos": 94.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1958,
+        "grupo": "Supercampeonato",
+        "posicao": 3,
+        "pontos": 102.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1957,
+        "grupo": "Supercampeonato",
+        "posicao": 3,
+        "pontos": 89.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1956,
+        "grupo": "Supercampeonato",
+        "posicao": 3,
+        "pontos": 93.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1955,
+        "grupo": "Supercampeonato",
+        "posicao": 2,
+        "pontos": 172.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1954,
+        "grupo": "Supercampeonato",
+        "posicao": 1,
+        "pontos": 180.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1953,
+        "grupo": "Supercampeonato",
+        "posicao": 3,
+        "pontos": 341.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1951,
+        "grupo": "União Geral das Escolas de Samba do Brasil",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1950,
+        "grupo": "União Cívica de Escolas de Samba",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1949,
+        "grupo": "União Geral das Escolas de Samba do Brasil",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1948,
+        "grupo": "Escolas de samba",
+        "posicao": 4,
+        "pontos": 125.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1947,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": 37.2,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1946,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": 72.4,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1945,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1944,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1943,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1942,
+        "grupo": "Escolas de samba",
+        "posicao": 3,
+        "pontos": 141.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1941,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": 393.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1940,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": 111.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1939,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1936,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": 38.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1935,
+        "grupo": "Escolas de samba",
+        "posicao": 2,
+        "pontos": 148.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1934,
+        "grupo": "Desfile organizado pelo Jornal O País",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1933,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1932,
+        "grupo": "Escolas de samba",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

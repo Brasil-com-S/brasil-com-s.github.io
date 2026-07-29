@@ -1,0 +1,256 @@
+{
+  "ano": 1995,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "imperatriz",
+      "escola_nome": "Imperatriz Leopoldinense",
+      "pontos": 300.0
+    },
+    "SP": {
+      "escola_slug": "gavioes-da-fiel",
+      "escola_nome": "Gaviões da Fiel",
+      "pontos": 293.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": null,
+        "enredo": "Rosa, Uma Flor Mulher"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": null,
+        "enredo": "Tahira-Can, o Homem Estrela"
+      }
+    ],
+    "RJ - Grupo B": [
+      {
+        "posicao": 2,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": null,
+        "enredo": "Ontem, Hoje e Sempre Mestre Marçal"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": null,
+        "enredo": "Recicla Brasil, o Lixo É Um Luxo"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 300.0,
+        "enredo": "Mais Vale Um Jegue que Me Carregue, que Um Camelo que Me Derrube lá no Ceará"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 299.5,
+        "enredo": "Gosto que Me Enrosco"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 299.0,
+        "enredo": "Bidu Sayão e o Canto de Cristal"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 299.0,
+        "enredo": "Padre Miguel, Olhai por Nós"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 298.5,
+        "enredo": "O Caso do Por Acaso"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 297.0,
+        "enredo": "A Esmeralda do Atlântico"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 296.5,
+        "enredo": "Uma Vez Flamengo..."
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 294.5,
+        "enredo": "O Rei e os Três Espantos de Debret"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 294.0,
+        "enredo": "Cara ou Coroa, as Duas Faces da Moeda"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 288.5,
+        "enredo": "Todo Dia É Dia de Índio"
+      },
+      {
+        "posicao": 15,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 275.0,
+        "enredo": "O Tempo não Pára"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 268.0,
+        "enredo": "Estória para Ninar Um Povo Patriota"
+      },
+      {
+        "posicao": 17,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 261.5,
+        "enredo": "O que É que não É, mas Será?"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 99.0,
+        "enredo": "Made in China - o Papel do Papel"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 98.0,
+        "enredo": "Origem e Evolução do Roda"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 96.5,
+        "enredo": "Eu Sou Boy e Chego Lá"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 96.0,
+        "enredo": "Voa, Voa Minha Liberdade"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 94.5,
+        "enredo": "Alô, Alô Responde"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 282.0,
+        "enredo": "Deu a Louca no Xingu"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 256.0,
+        "enredo": "Tá Na Mão"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 293.0,
+        "enredo": "Coisa Boa é Pra Sempre"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 288.0,
+        "enredo": "Paixão Nacional"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 288.0,
+        "enredo": "Do Palco ao Asfalto, \"O Resumo da Ópera\""
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 288.0,
+        "enredo": "Deu Poesia na Terra da Garoa"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 287.5,
+        "enredo": "Arco-íris da Ilusão"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 286.5,
+        "enredo": "Eu Te Amo"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 284.5,
+        "enredo": "Do Rock ao Samba - Todo Mundo Maluco Beleza"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 282.5,
+        "enredo": "Não Deixe o Samba Sambar"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

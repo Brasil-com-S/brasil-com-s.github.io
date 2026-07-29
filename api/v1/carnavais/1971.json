@@ -1,0 +1,143 @@
+{
+  "ano": 1971,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 128.0,
+        "enredo": "Festa Para Um Rei Negro"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 116.0,
+        "enredo": "Lapa em Três Tempos"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 111.0,
+        "enredo": "Nordeste, Seu Povo, Seu Canto, Sua Gente"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 108.0,
+        "enredo": "Os Modernos Bandeirantes"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 103.0,
+        "enredo": "Ouro Mascavo"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 97.0,
+        "enredo": "Barra de Ouro, Barra de Rio, Barra de Saia"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 86.0,
+        "enredo": "Rapsódia de Saudade"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 77.0,
+        "enredo": "O Samba do Crioulo Doido - Homenagem a Sérgio Porto"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 5,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 106.0,
+        "enredo": "O Beijo de Três Saudades"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 105.0,
+        "enredo": "Rio, Carnaval e Batucada"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 100.0,
+        "enredo": "Carnaval, Sublime Ilusão"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 92.0,
+        "enredo": "Ritual Afro-Brasileiro"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 102.0,
+        "enredo": "O Guarani de José de Alencar"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 105.0,
+        "enredo": "São Paulo e Seus Carnavais"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 95.0,
+        "enredo": "Festa da Pirapora"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 94.0,
+        "enredo": "O Brasil em festa no sonho de Aladino"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 67.0,
+        "enredo": "Amador Bueno, Rei Por Um Dia"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 9,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 39.0,
+        "enredo": "História de Vila Brasilândia"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

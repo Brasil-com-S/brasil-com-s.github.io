@@ -8,8 +8,7 @@
     "fundacao": "1959-03-06",
     "fundadores": [
       "Amaury Jório",
-      "Oswaldo Pereira",
-      "Nazaré"
+      "sambistas da Zona da Leopoldina e remanescentes da Recreio de Ramos"
     ],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
@@ -21,11 +20,11 @@
       "Ouro"
     ],
     "cores_hex": [
-      "#2E7D32",
-      "#FFFFFF",
+      "#064",
+      "#FFF",
       "#FFD700"
     ],
-    "simbolo": "Coroa da Imperatriz",
+    "simbolo": "Coroa",
     "titulos": 9,
     "anos_titulos": [
       1980,
@@ -40,9 +39,866 @@
     ],
     "logo_url": "assets/logos/original/imperatriz.png",
     "logo_original_url": "assets/logos/original/imperatriz.png",
-    "logo_gemini_png_url": "assets/logos/gemini/imperatriz.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/imperatriz.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "Camaleônico",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Ómi Tútú ao Olúfon - Água Fresca para o Senhor de Ifón",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Com a Sorte Virada Pra Lua, Segundo o Testamento da Cigana Esmeralda",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "O Aperreio do Cabra que o Excomungado Tratou com Má-Querença e o Santíssimo não Deu Guarida",
+        "compositores": "Me Leva, Gabriel Coelho, Miguel da Imperatriz, Luiz Brinquinho, Antonio Crescente e Renne Barbosa",
+        "interpretacao": "Pitty de Menezes"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Meninos, Eu Vivi... Onde Canta o Sabiá, Onde Cantam Dalva e Lamartine",
+        "compositores": "Gabriel Melo",
+        "interpretacao": "Arthur Franco e Bruno Ribas"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Meninos eu vivi... Onde canta o sabiá, onde cantam Dalva e Lamartine",
+        "compositores": "",
+        "interpretacao": "Arthur Franco e Preto Joia"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Só Dá Lalá",
+        "compositores": "Gibi, Serjão e Zé Catimba",
+        "interpretacao": "Arthur Franco e Preto Joia"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Me Dá Um Dinheiro Aí",
+        "compositores": "Elymar Santos, Maninho do Ponto, Julinho Maestro, Dudu Miler, Márcio Pessi e Jorge Arthur",
+        "interpretacao": "Arthur Franco"
+      },
+      {
+        "ano": 2018,
+        "titulo": "Uma Noite Real no Museu Nacional",
+        "compositores": "Jorge Arthur, Maninho do Ponto, Julinho Maestro, Marcio Pessi e Piu das Casinhas",
+        "interpretacao": "Arthur Franco"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Xingu , o Clamor Que Vem da Floresta",
+        "compositores": "Moisés Santiago, Adriano Ganso, Jorge do Finge e Aldir Senna",
+        "interpretacao": "Arthur Franco"
+      },
+      {
+        "ano": 2016,
+        "titulo": "É o Amor... Que Mexe com a Minha Cabeça e Me Deixa Assim... - Do Sonho de um Caipira Nascem os Filhos do Brasil",
+        "compositores": "Zé Katimba, Adriano Ganso, Jorge do Finge, Moisés Santiago e Aldir Sena",
+        "interpretacao": "Marquinho Art'Samba"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Axé-Nkenda - Um Ritual de Liberdade - E que a Voz da Liberdade Seja Sempre a Nossa Voz",
+        "compositores": "Marquinho Lessa, Zé Katimba, Adriano Ganso, Jorge do Finge e Audir Senna",
+        "interpretacao": "Nêgo"
+      },
+      {
+        "ano": 2014,
+        "titulo": "Arthur X - O Reino do Galinho de Ouro na Corte da Imperatriz",
+        "compositores": "Elymar Santos, Guga, Tião Pinheiro, Gil Branco e Me Leva",
+        "interpretacao": "Wander Pires"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Pará - O Muiraquitã do Brasil - Sob a Nudez Forte da Verdade, o Manto Diáfano da Fantasia",
+        "compositores": "Me Leva, Gil Branco, Tião Pinheiro, Drummond e Maninho do Ponto",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2012,
+        "titulo": "Jorge, Amado Jorge",
+        "compositores": "Jeferson Lima, Ribamar, Alexandre D'Mendes, Cristóvão Luiz e Tuninho Professor",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2011,
+        "titulo": "Imperatriz Adverte: Sambar Faz Bem à Saúde!",
+        "compositores": "Flavinho, Me leva, Gil Branco, Tião Pinheiro e Drummond",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2010,
+        "titulo": "Brasil de Todos os Deuses",
+        "compositores": "Jeferson Lima, Flavinho, Gil Branco, Me Leva e Guga",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 2009,
+        "titulo": "Imperatriz... Só Quer Mostrar que Faz Samba Também!",
+        "compositores": "Josimar, Jorge Arthur, Valtenci, Di Andrade e Carlos Kind",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 2008,
+        "titulo": "João e Marias",
+        "compositores": "Josimar, Di Andrade, Carlos Kind, Valtencir e Jorge Arthur",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 2007,
+        "titulo": "Teresinhaaa, Uhuhuuu!!! Vocês Querem Bacalhau?",
+        "compositores": "Merrenga, Xande, Sobrinho, Lula Inspiração, Bill Amizade e Aliomar",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 2006,
+        "titulo": "Um por Todos e Todos por Um",
+        "compositores": "Niltinho Tristeza, Amaurizão, Maninho do Ponto e Tuninho Professor",
+        "interpretacao": "Ronaldo Ilê"
+      },
+      {
+        "ano": 2005,
+        "titulo": "Uma Delirante Confusão Fabulística",
+        "compositores": "Josimar, Evaldo Ruy, Jorge Artur, Jorginho e PC",
+        "interpretacao": "Ronaldo Ilê e Tiãozinho Cruz"
+      },
+      {
+        "ano": 2004,
+        "titulo": "Breazail",
+        "compositores": "Jeferson, Veneza, Carlos de Olaria, Me Leva e Guga",
+        "interpretacao": "Ronaldo Ilê"
+      },
+      {
+        "ano": 2003,
+        "titulo": "Nem Todo Pirata Tem Perna de Pau, o Olho de Vidro e a Cara de Mau",
+        "compositores": "Darcy do Nascimento, Brandãozinho, Rubens Napoleão e Jorge Rita",
+        "interpretacao": "David do Pandeiro, Ronaldo e Meio-Dia"
+      },
+      {
+        "ano": 2002,
+        "titulo": "Goitacazes... Tupi or not Tupi in a South American Way",
+        "compositores": "Marquinhos Lessa, Guga e Tuninho Professor",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 2001,
+        "titulo": "Cana-Caiana, Cana Roxa, Cana Fita, Cana Preta, Amarela, Pernambuco... Quero Vê Descê o Suco, na Pancada do Ganzá",
+        "compositores": "Guga, Tuninho Professor e Marquinho Lessa",
+        "interpretacao": "Paulo Costa Alves (Paulinho Mocidade)"
+      },
+      {
+        "ano": 2000,
+        "titulo": "Quem Descobriu o Brasil, Foi Seu Cabral, no Dia 22 de Abril, Dois Meses Depois do Carnaval",
+        "compositores": "Marquinhos Lessa, Guga, Tuninho Professor, Amaurizão e Chopinho",
+        "interpretacao": "Paulinho Mocidade, Ronaldo e Braguinha"
+      },
+      {
+        "ano": 1999,
+        "titulo": "Brasil, Mostra a Sua Cara em... Theatrum Rerum Naturalium Brasiliae",
+        "compositores": "César Som Livre, Waltinho Honorato, João Estevam e Eduardo Medrado",
+        "interpretacao": "Preto Jóia e Rixxa"
+      },
+      {
+        "ano": 1998,
+        "titulo": "Quase no Ano 2000...",
+        "compositores": "Preto Jóia, Flavinho, Darcy do Nascimento e Guga",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 1997,
+        "titulo": "Eu Sou da Lira, não Posso Negar",
+        "compositores": "Zé Katimba, Chopinho, Amaurizão e Tuninho Professor",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 1996,
+        "titulo": "Imperatriz Leopoldinense Honrosamente Apresenta: Leopoldina, a Imperatriz do Brasil",
+        "compositores": "Jurandir, Dominguinhos do Estácio, Demarco e Carlinhos China",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 1995,
+        "titulo": "Mais Vale Um Jegue que Me Carregue, que Um Camelo que Me Derrube lá no Ceará",
+        "compositores": "Eduardo Medrado, João Estevam, Waltinho Honorato e César Som Livre",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 1994,
+        "titulo": "Catarina de Médicis na Corte dos Tupinambôs e Tabajeres",
+        "compositores": "Marcio André, Alvinho, Aranha e Alexandre da Imperatriz",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 1993,
+        "titulo": "Marquês Que É Marquês do Sassarico É Freguês",
+        "compositores": "Marcio André, Alvinho, Aranha e Alexandre da Imperatriz",
+        "interpretacao": "Preto Jóia e Rixxa"
+      },
+      {
+        "ano": 1992,
+        "titulo": "Não Existe Pecado do Lado de Baixo do Equador",
+        "compositores": "Tuninho Professor, Jurandir, Edinho e Nilson Melodia",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 1991,
+        "titulo": "O quê É que a Banana Tem?",
+        "compositores": "Preto Jóia, Niltinho Tristeza, Tuninho, Guga, Guará da Empresa e Flavinho",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 1990,
+        "titulo": "Terra Brasilis, o Que Se Plantou Deu",
+        "compositores": "Zé Catimba, Preto Jóia, Tuninho Petróleo, Baianinho e Jorginho da Barreira",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1989,
+        "titulo": "Liberdade, Liberdade, Abre as Asas sobre Nós",
+        "compositores": "Niltinho Tristeza, Preto Jóia, Vicentinho e Jurandir",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1988,
+        "titulo": "Conta Outra que Essa Foi Boa",
+        "compositores": "Zeca Catimba, Gabi, David Corrêa e Guga",
+        "interpretacao": "Alexandre da Imperatriz"
+      },
+      {
+        "ano": 1987,
+        "titulo": "Estrela Dalva",
+        "compositores": "Zé Catimba, Guga, Niltinho Tristeza e Bil Amizade",
+        "interpretacao": "Alexandre da Imperatriz e Rico Medeiros"
+      },
+      {
+        "ano": 1986,
+        "titulo": "Um Jeito pra Ninguém Botar Defeito",
+        "compositores": "Niltinho Tristeza, Guga, Jurandir e Tuninho",
+        "interpretacao": "Tuninho, Guga e Alexandre"
+      },
+      {
+        "ano": 1985,
+        "titulo": "Adolã, a Cidade Mistério",
+        "compositores": "Carlinhos Sideral, Doutor, Amaurizão e Guga",
+        "interpretacao": "Amauri de Paula (Preto Jóia)"
+      },
+      {
+        "ano": 1984,
+        "titulo": "Alô Mamãe",
+        "compositores": "Velha, Guga, Tuninho e Alvinho",
+        "interpretacao": "Antonio Sérgio Ramos Teixeira (Tuninho Professor)"
+      },
+      {
+        "ano": 1983,
+        "titulo": "O Rei da Costa do Marfim Visita Chica da Silva em Diamantina",
+        "compositores": "Matias de Freitas, Carlinhos Boemia e Nelson Lima",
+        "interpretacao": "Gera"
+      },
+      {
+        "ano": 1982,
+        "titulo": "Onde Canta o Sabiá",
+        "compositores": "Tuninho, Dominguinhos do Estácio e Darci Nascimento",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1981,
+        "titulo": "O Teu Cabelo Não Nega",
+        "compositores": "Gibi, Serjão e Zé Catimba",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1980,
+        "titulo": "O Que é Que a Bahia Tem",
+        "compositores": "Darci Nascimento e Dominguinhos do Estácio",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1979,
+        "titulo": "Oxumaré, a Lenda do Arco-íris",
+        "compositores": "Gibi, Darci Nascimento e Dominguinhos do Estácio",
+        "interpretacao": "Domingos da Costa Ferreira (Dominguinhos do Estácio)"
+      },
+      {
+        "ano": 1978,
+        "titulo": "Vamos Brincar de Ser Criança",
+        "compositores": "Guga, Tuninho, Aranha, Zé Catimba e Sereno",
+        "interpretacao": "Antonio Sérgio Ramos Teixeira (Tuninho Professor)"
+      },
+      {
+        "ano": 1977,
+        "titulo": "Viagens Fantásticas às Terras de Ibirapitanga",
+        "compositores": "Wálter da Imperatriz, Carlinhos Madrugada e Nélson Lima",
+        "interpretacao": "Sônia Lemos e Juninho"
+      },
+      {
+        "ano": 1976,
+        "titulo": "Por Mares Nunca Dantes Navegados",
+        "compositores": "Gibi, Sereno e Guga",
+        "interpretacao": "Jeremias Ferraz"
+      },
+      {
+        "ano": 1975,
+        "titulo": "A Morte da Porta-Estandarte",
+        "compositores": "Wálter da Imperatriz, Nélson Lima, Caxambu e Denir Lobo",
+        "interpretacao": "Jorge Goulart e Tuninho"
+      },
+      {
+        "ano": 1974,
+        "titulo": "Réquiem por Um Sambista, Silas de Oliveira",
+        "compositores": "Cosme, Damião e Guga",
+        "interpretacao": "Jorge Goulart e Wilson Corrêa"
+      },
+      {
+        "ano": 1973,
+        "titulo": "ABC do Carnaval à Maneira da Literatura de Cordel",
+        "compositores": "Nelson Lima, Caxambu e G.R.E.S. Imperatriz Leopoldinense",
+        "interpretacao": "Dom Barbosa e Júlia"
+      },
+      {
+        "ano": 1972,
+        "titulo": "Martim Cererê",
+        "compositores": "Zé Catimba e Gibi",
+        "interpretacao": "Júlia e Conjunto Nosso Samba"
+      },
+      {
+        "ano": 1971,
+        "titulo": "Barra de Ouro, Barra de Rio, Barra de Saia",
+        "compositores": "Niltinho Tristeza e Zé Catimba",
+        "interpretacao": "Mathias de Freitas"
+      },
+      {
+        "ano": 1970,
+        "titulo": "Oropa, França e Bahia",
+        "compositores": "Carlinhos Sideral e Mathias de Freitas",
+        "interpretacao": "Mathias de Freitas"
+      },
+      {
+        "ano": 1969,
+        "titulo": "Brasil, Flor Amorosa de Três Raças",
+        "compositores": "Carlinhos Sideral e Mathias de Freitas",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1968,
+        "titulo": "Bahia em Festa",
+        "compositores": "Maurílio da Penha Aparecida e Silva (Bidi)",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1967,
+        "titulo": "A Vida Poética de Olavo Bilac",
+        "compositores": "Maurílio da Penha Aparecida e Silva (Bidi)",
+        "interpretacao": "Dom Barbosa"
+      },
+      {
+        "ano": 1966,
+        "titulo": "Monarquia e Esplendor da História",
+        "compositores": "Mathias de Freitas",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1965,
+        "titulo": "Homenagem ao Brasil no IV Centenário do Rio de Janeiro",
+        "compositores": "Mathias de Freitas",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "A Favorita do Imperador, Marquesa de Santos",
+        "compositores": "Maurílio da Penha Aparecida e Silva (Bidi)",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1963,
+        "titulo": "As Três Capitais",
+        "compositores": "Maurílio da Penha Aparecida e Silva (Bidi)",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1962,
+        "titulo": "Rio no Século XVIII, Apoteose a Carlos Gomes de Andrade, o Conde de Bobadela",
+        "compositores": "Raymundo dos Santos Martins",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1961,
+        "titulo": "Riquezas e Maravilhas do Brasil",
+        "compositores": "Riquezas e maravilhas do Brasil",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1960,
+        "titulo": "Homenagem à Academia Brasileira de Letras",
+        "compositores": "Raymundo dos Santos Martins",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 269.4,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.8,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 269.3,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.8,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 266.9,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Série A",
+        "posicao": 1,
+        "pontos": 270.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 266.6,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 268.8,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 268.5,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 269.2,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 268.9,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 297.6,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 298.3,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 295.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 295.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 8,
+        "pontos": 295.8,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 7,
+        "pontos": 396.4,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 396.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 392.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 391.9,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 398.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo Especial",
+        "posicao": 5,
+        "pontos": 386.5,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 395.8,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 396.1,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 300.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 299.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 269.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 269.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo Especial",
+        "posicao": 6,
+        "pontos": 177.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 299.5,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 300.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo Especial",
+        "posicao": 1,
+        "pontos": 298.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo Especial",
+        "posicao": 2,
+        "pontos": 298.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 294.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo Especial",
+        "posicao": 3,
+        "pontos": 293.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 4,
+        "pontos": 562.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 210.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 1",
+        "posicao": 14,
+        "pontos": 186.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 203.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 1-A",
+        "posicao": 8,
+        "pontos": 197.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-A",
+        "posicao": 8,
+        "pontos": 200.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Desfile de segunda-feira",
+        "posicao": 4,
+        "pontos": 189.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-A",
+        "posicao": 4,
+        "pontos": 198.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1-A",
+        "posicao": 3,
+        "pontos": 183.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1-A",
+        "posicao": 1,
+        "pontos": 167.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1-A",
+        "posicao": 7,
+        "pontos": 140.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 93.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 71.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 93.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 87.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 73.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 51.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1972,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": 57.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 1",
+        "posicao": 7,
+        "pontos": 97.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 74.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 1",
+        "posicao": 8,
+        "pontos": 95.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 100.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 49.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 110.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 53.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 63.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 2",
+        "posicao": 3,
+        "pontos": 50.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 2",
+        "posicao": 5,
+        "pontos": 96.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Desfile preliminar",
+        "posicao": 1,
+        "pontos": 103.5,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1960,
+        "grupo": "Campeonato Dep. de Turismo e Certames",
+        "posicao": 6,
+        "pontos": 61.0,
+        "resultado": "6º Lugar"
+      }
+    ]
   }
 }

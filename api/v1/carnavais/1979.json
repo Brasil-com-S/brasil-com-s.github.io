@@ -1,0 +1,210 @@
+{
+  "ano": 1979,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1-A": [
+      {
+        "posicao": 1,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 163.0,
+        "enredo": "O Descobrimento do Brasil"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 161.0,
+        "enredo": "O Paraíso da Loucura"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 160.0,
+        "enredo": "Incrível, Fantástico, Extraordinário"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 159.0,
+        "enredo": "Avatar e a Selva Transformou-se em Ouro"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 154.0,
+        "enredo": "O que Será?"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 151.0,
+        "enredo": "O Reino Encantado da Mãe Natureza Contra o Reino do Mal"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 140.0,
+        "enredo": "Oxumaré, a Lenda do Arco-íris"
+      }
+    ],
+    "RJ - Grupo 1-B": [
+      {
+        "posicao": 1,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 163.0,
+        "enredo": "Os Dourados Anos de Carlos Machado"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 162.0,
+        "enredo": "Municipal Maravilhoso, 70 Anos de Glória"
+      }
+    ],
+    "RJ - Grupo 2-A": [
+      {
+        "posicao": 5,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 88.0,
+        "enredo": "Louvação às Três Rainhas"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 85.0,
+        "enredo": "Brasil, Batucai Vossos Pandeiros"
+      }
+    ],
+    "RJ - Grupo 2-B": [
+      {
+        "posicao": 3,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 86.0,
+        "enredo": "Imagens do Nordeste Místico"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 76.0,
+        "enredo": "Orlando Silva"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 72.0,
+        "enredo": "Orlando Silva"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 96.0,
+        "enredo": "Almôndegas de Ouro"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 96.0,
+        "enredo": "A Revolta dos Malês"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 95.0,
+        "enredo": "Treze, Rei, Patuá"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 93.0,
+        "enredo": "Festa de um Povo em Sonho e Fantasia"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 88.0,
+        "enredo": "Carnaval, Intrigas e Opiniões"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 84.0,
+        "enredo": "Conversando Com as Flores"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 80.0,
+        "enredo": "Do jeito que o Rei mandou"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 79.0,
+        "enredo": "Abertura dos Portos"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 4,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 72.0,
+        "enredo": "A Lavagem do Bonfim - a Maior Festa Baiana"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 63.0,
+        "enredo": "Embu no Tempo da Assombração"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 1,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 78.0,
+        "enredo": "Esse Brás Menino"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 75.0,
+        "enredo": "Brasil, Paraíso Original"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 74.0,
+        "enredo": "Viagem nas Cores (Cecília Meireles)"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

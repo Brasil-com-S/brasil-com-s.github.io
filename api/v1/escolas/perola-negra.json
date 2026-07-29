@@ -4,40 +4,715 @@
     "id": "perola-negra",
     "slug": "perola-negra",
     "nome": "Pérola Negra",
-    "nome_completo": "Grêmio Recreativo Escola de Samba Pérola Negra",
+    "nome_completo": "O Grêmio Recreativo Social Cultural Escola de Samba Pérola Negra",
     "fundacao": "1973-08-07",
-    "fundadores": [
-      "Comunidade da Vila Madalena"
-    ],
+    "fundadores": [],
     "estado": "SP",
     "cidade": "São Paulo",
     "bairro": "Vila Madalena",
     "grupo": "Acesso",
     "cores": [
+      "Azul",
       "Vermelho",
       "Preto",
       "Branco"
     ],
     "cores_hex": [
-      "#D32F2F",
+      "#2B54A4",
+      "#FF0000",
       "#000000",
-      "#FFFFFF"
+      "#FFF"
     ],
-    "simbolo": "Pérola Negra",
+    "simbolo": "Pérola",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/perola-negra.png",
     "logo_original_url": "assets/logos/original/perola-negra.png",
-    "logo_gemini_png_url": "assets/logos/gemini/perola-negra.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/perola-negra.svg",
     "sambas_enredo": [
       {
         "ano": 2027,
         "titulo": "Sem Vacilar, Sem me Exibir: Sou Jovelina, a Pérola Negra",
         "compositores": "André Machado (Carnavalesco)",
         "interpretacao": "Daniel Collete"
+      },
+      {
+        "ano": 2026,
+        "titulo": "Valei-me cangaceira arretada, Maria que abala a gira, valente e bonita que vence demanda",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Exu Mulher",
+        "compositores": "Lucas Donato, Aquiles da Vila, Fabiano Sorriso, Marcos Vinicius, Biel, Mateus Pranto, Clairton Fonseca e Marcel da Cohab",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2024,
+        "titulo": "Pérola no Encanto dos Balaios das Quebradeiras",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2023,
+        "titulo": "Prepare o seu coração: Jair Rodrigues, festa para o Rei Negro",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2022,
+        "titulo": "Um Mergulho nos Rios Sagrados, em Busca da Cura para o Corpo e a Alma",
+        "compositores": "Jairo Roizen, Daniel Collete, Thiago Sukata, Turko, Maradona, Rafa do Cavaco, Luan, Fabio Souza, Tubino Jadson, Claudinho e Meiners",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2020,
+        "titulo": "Bartali Tcherain – A estrela cigana brilha na Pérola Negra!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2019,
+        "titulo": "Da majestosa África, tu és negra mulher guerreira a verdadeira Pérola Negra",
+        "compositores": "Jairo Roizen, Celsinho Mody, Thiago Sukata, Valêncio, Filosofia Nando, Jadson Fraga, Tavares, Tubino e Meiners",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2018,
+        "titulo": "Numa viagem arretada por terras nordestinas, a Joia Rara do Samba embarca no trem do forró rumo ao maior São João do Mundo: Campina Grande",
+        "compositores": "Edilson Casal, Rodrigo Minuetto, Rodolfo Minuetto, Victor Sampaio, Felipe Dingo, Portuga, Gui Cruz, Luciano Rosa e Vitor Gabriel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2017,
+        "titulo": "Pérola Negra levanta as mangas e põe a mão na massa",
+        "compositores": "Tigrão, Juninho Branco, Rodrigo Atração, Marcelo Soares e Thiago SP",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2016,
+        "titulo": "Do Canindé ao samba no pé. A Vila Madalena nos passos do balé",
+        "compositores": "Jairo Roizen, Celsinho Mody, Guga Mercadante, Nando do Cavaco, Marcelo Zola, Sidney Arruda, Filosofia Diley e Xandinho Nocera",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2015,
+        "titulo": "Pérolas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Caminhos a seguir, lugar encontrei... Pérola Negra, a suprema felicidade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2013,
+        "titulo": "O espetáculo vai começar, Pérola Negra apresenta: O Auto da Compadecida",
+        "compositores": "Mydras, Carlinhos, Bola, Michel e Regianno",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2012,
+        "titulo": "A pedra que canta também samba - Itanhaém, hoje a Pérola é você!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2011,
+        "titulo": "Abraão, o patriarca da fé",
+        "compositores": "Carlinhos, Mydras, Bola, Michel e Regianno",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2010,
+        "titulo": "Vamos Tirar o Brasil da Gaveta",
+        "compositores": "Carlinhos, Mydras, Bola, Michel e Regianno",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2009,
+        "titulo": "Guiado por Surya pelos caminhos da India em busca da Pérola sagrada",
+        "compositores": "Mydras, Carlinhos, Bola, Ladislau e Michel",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2008,
+        "titulo": "A onça vai beber água. Jaguariúna, desenvolvimento e qualidade de vida nos trilhos do tempo.",
+        "compositores": "Rogério Morgado, Renne das Lentes, Reinaldo Pajé , Marcelo Papo Doce e Marco Aurélio",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2007,
+        "titulo": "Venda como arte, comércio como sua principal representação",
+        "compositores": "Carlinhos Barbosa, Mydras, Bola",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2006,
+        "titulo": "Deus salve as rainhas!",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2005,
+        "titulo": "Diamantina, Berço da Mineração",
+        "compositores": "Douglinhas, Michel, Serginho Do Porto, Darlan, João Do Mangue, Ronaldo e Quinzinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2004,
+        "titulo": "Oh! Mada... Oh! Madalena. Das Suas Tribos, Pérola Negra Faz Seu Canto",
+        "compositores": "Ladislau (tico), Marcelo Dubau e Maurinho",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2003,
+        "titulo": "A Magia dos Arcanos do Tarô",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2002,
+        "titulo": "Monteiro Lobato, Da Fazenda Buquira (Taubaté-SP) Para o Mundo \"Um Homem Além do Seu Tempo\"",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2001,
+        "titulo": "A Vida Pela Paz . Solidariedade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2000,
+        "titulo": "Canta Brasil... A Tropicália no Ano 2000",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1999,
+        "titulo": "Lua, Luar... Conduza o Meu Caminhar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1998,
+        "titulo": "Inezita Barroso, Uma Trajetória de Sucesso",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Fim de Semana, Alegria é geral",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Navegar é Preciso",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Origem e Evolução do Roda",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Quem Viveu Sabe, Quem não Viu, Vai Sonhar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Os Feios que me Desculpem Mas Beleza é Fundamental",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Mesmo na Folia o Plantão Vai Funcionar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Magias e Travessuras do Número Sete",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "Shangri-lá Tupiniquin, Sonho, Fartura e Milagres",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "Alô, Alô Ilusão, no País das Maravilhas a Sorte é Sua",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "História do Carnaval Através das Marchas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Embu, Suas Artes, Suas Lendas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "Falando de Amor, Perfume e Beleza",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "Terra de Todos, Terra de Ninguém",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "10 Anos de Samba",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1983,
+        "titulo": "Português, Papagaio e Cia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1982,
+        "titulo": "No Reino de Mãos de Cabelo e da Negra Pisadeira",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1981,
+        "titulo": "Quem Não Pode, Pode No 1º de Abril ou A Visita do Reino de Mentira ao País da Verdade",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1980,
+        "titulo": "Século da Paz",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1979,
+        "titulo": "Carnaval, Intrigas e Opiniões",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1978,
+        "titulo": "Dia-a-Dia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Zequinha de Abreu - Sonho de Uma Época",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Portinari, Pintor do Povo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1975,
+        "titulo": "São Paulo de Adoniran Barbosa",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1974,
+        "titulo": "O Mundo Alegre de Piollin",
+        "compositores": "",
+        "interpretacao": ""
       }
     ],
-    "colocacoes": []
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2025,
+        "grupo": "Grupo de Acesso 2",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 8,
+        "pontos": null,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Grupo de Acesso 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": null,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Grupo de acesso 1",
+        "posicao": 1,
+        "pontos": null,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Grupo de Acesso",
+        "posicao": 5,
+        "pontos": null,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": null,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": null,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 267.1,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo de acesso",
+        "posicao": 1,
+        "pontos": 269.6,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2012,
+        "grupo": "Grupo Especial",
+        "posicao": 13,
+        "pontos": 158.1,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 2011,
+        "grupo": "Grupo Especial",
+        "posicao": 11,
+        "pontos": 266.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 2010,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 268.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2009,
+        "grupo": "Grupo Especial",
+        "posicao": 9,
+        "pontos": 353.25,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2008,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 87.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2007,
+        "grupo": "Grupo Especial",
+        "posicao": 12,
+        "pontos": 287.5,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2006,
+        "grupo": "Grupo de Acesso",
+        "posicao": 2,
+        "pontos": 296.75,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 2005,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 291.5,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2004,
+        "grupo": "Grupo de Acesso",
+        "posicao": 4,
+        "pontos": 194.5,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 2003,
+        "grupo": "Grupo de Acesso",
+        "posicao": 6,
+        "pontos": 197.5,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2002,
+        "grupo": "Grupo de Acesso",
+        "posicao": 3,
+        "pontos": 295.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 2001,
+        "grupo": "Grupo Especial",
+        "posicao": 14,
+        "pontos": 180.5,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2000,
+        "grupo": "Grupo de Acesso",
+        "posicao": 1,
+        "pontos": 199.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1999,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 290.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": 287.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 262.5,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo 1",
+        "posicao": 2,
+        "pontos": 98.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 1",
+        "posicao": 3,
+        "pontos": null,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo 1",
+        "posicao": 4,
+        "pontos": null,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo Especial",
+        "posicao": 10,
+        "pontos": 221.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 1",
+        "posicao": 1,
+        "pontos": 193.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 108.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 2",
+        "posicao": 10,
+        "pontos": 67.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 2",
+        "posicao": 8,
+        "pontos": 71.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 2",
+        "posicao": 6,
+        "pontos": 170.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 2",
+        "posicao": 5,
+        "pontos": 278.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1",
+        "posicao": 10,
+        "pontos": 233.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 2",
+        "posicao": 2,
+        "pontos": 91.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 79.5,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 76.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 88.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 67.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": 77.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 1",
+        "posicao": 5,
+        "pontos": 65.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 82.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 3",
+        "posicao": 1,
+        "pontos": 67.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

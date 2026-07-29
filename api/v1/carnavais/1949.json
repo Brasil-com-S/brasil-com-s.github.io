@@ -1,0 +1,39 @@
+{
+  "ano": 1949,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Federação Brasileira de Escolas de Samba": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 150.0,
+        "enredo": "Exaltação a Tiradentes"
+      }
+    ],
+    "RJ - União Geral das Escolas de Samba do Brasil": [
+      {
+        "posicao": 1,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": null,
+        "enredo": "Apologia ao Mestre"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": null,
+        "enredo": "O Despertar de Um Gigante"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": null,
+        "enredo": "Iracema"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

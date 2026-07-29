@@ -1,0 +1,272 @@
+{
+  "ano": 2003,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "beija-flor",
+      "escola_nome": "Beija-Flor de Nilópolis",
+      "pontos": 399.6
+    },
+    "SP": {
+      "escola_slug": "gavioes-da-fiel",
+      "escola_nome": "Gaviões da Fiel",
+      "pontos": 200.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 1,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 180.0,
+        "enredo": "Mangaratiba, Uma História de Lutas para Todos que Amam a Terra e a Liberdade"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 177.9,
+        "enredo": "Chega em Seu Cavalinho Azul Uma Bruxinha Boa. A Ilha Trouxe do Céu Maria Clara Machado"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 176.9,
+        "enredo": "Oscar Niemeyer, o Arquiteto no Recanto da Princesa"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 175.5,
+        "enredo": "Tuiuti Desfila o Brasil nas Telas de Portinari"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 175.4,
+        "enredo": "Um Banho da Natureza - Cachoeiras de Macacu"
+      }
+    ],
+    "RJ - Grupo D": [
+      {
+        "posicao": 5,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 176.8,
+        "enredo": "Ari Barroso, Mister Samba"
+      }
+    ],
+    "RJ - Grupo E": [
+      {
+        "posicao": 6,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 169.3,
+        "enredo": "Unidos pela Preservação, Somos Mensageiros da Floresta"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 399.6,
+        "enredo": "O Povo Conta a Sua História: Saco Vazio não Para em Pé, a Mão que Faz a Guerra, Faz a Paz"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 398.6,
+        "enredo": "Os Dez Mandamentos: O Samba da Paz Canta a Saga da Liberdade"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 396.6,
+        "enredo": "O Nosso Brasil que Vale..."
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 395.8,
+        "enredo": "Nem Todo Pirata Tem Perna de Pau, o Olho de Vidro e a Cara de Mau"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 394.3,
+        "enredo": "Para Sempre no Seu Coração, Carnaval da Doação"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 393.3,
+        "enredo": "A Viradouro Canta e Conta Bibi - Uma Homenagem ao Teatro Brasileiro"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 390.5,
+        "enredo": "Salgueiro, Minha Paixão, Minha Raiz - 50 Anos de Glórias"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 390.4,
+        "enredo": "Ontem, Hoje e Sempre Cinelândia - O Samba Entra em Cena na Broadway Brasileira"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 378.9,
+        "enredo": "E Onde Houver Trevas que Se Faça a Luz"
+      }
+    ],
+    "SP - Grupo 1A": [
+      {
+        "posicao": 2,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 296.6,
+        "enredo": "Metamorfose Banto"
+      }
+    ],
+    "SP - Grupo 3 - Oeste": [
+      {
+        "posicao": 1,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 99.5,
+        "enredo": "O Brilho de Todas as Estrelas"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 200.0,
+        "enredo": "As Cinco Deusas Encantadas na Corte do Rei Gavião"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 199.5,
+        "enredo": "Omi! O Berço da Civilização Iorubá"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 199.0,
+        "enredo": "Pi, Iê, Rê, Jeribatiba ou Pinheiros, A Deusa dos Rios Clama Pela Preservação: Se Ele Muda o Curso, Pode Mudar Sua História"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 198.0,
+        "enredo": "É Melhor ler... O Mundo Colorido de Um Maluco Genial"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 197.5,
+        "enredo": "Entre Marchas, Galopes e Cavalgadas"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 197.0,
+        "enredo": "A Revolta da Chibata: Luta, Coragem e Bravura! João Cândido um Sonho de Liberdade"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 197.0,
+        "enredo": "No Circuito das Frutas, Tô de Bem Com a Vida"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 196.0,
+        "enredo": "Não Calem Minha Voz"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 195.0,
+        "enredo": "Nhô João, Preto Velho Milagreiro e Profeta de Todos os Deuses, Lá Pelas Bandas do Cafundó"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 195.0,
+        "enredo": "Quem Tem Olho Grande Já Entra na China"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 192.0,
+        "enredo": "Sou Caipira e Caiçara, da Terra Encantada e do Rio Sagrado, Sou Cone Leste Paulista, Com a Benção da Senhora Aparecida"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 187.0,
+        "enredo": "De Três Corações a Coroação. Quem Sou Eu? Rei Pelé"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 200.0,
+        "enredo": "Abram Alas Para o Rei Abacaxi"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 199.0,
+        "enredo": "Nuances, Maravilhas da Verde Cor, Um Universo de Esplendor"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 198.5,
+        "enredo": "Uma História Sem Fim... Pois o Mundo Não Se Acabou"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 197.5,
+        "enredo": "A Magia dos Arcanos do Tarô"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

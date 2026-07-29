@@ -1,0 +1,30 @@
+{
+  "ano": 1953,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Supercampeonato": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 400.0,
+        "enredo": "Seis Datas Magnas"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 396.0,
+        "enredo": "O Último Baile da Corte Imperial"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 341.0,
+        "enredo": "Unidade do Brasil"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

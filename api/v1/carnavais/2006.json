@@ -1,0 +1,286 @@
+{
+  "ano": 2006,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "vila-isabel",
+      "escola_nome": "Unidos de Vila Isabel",
+      "pontos": 397.6
+    },
+    "SP": {
+      "escola_slug": "imperio-de-casa-verde",
+      "escola_nome": "Império de Casa Verde",
+      "pontos": 298.25
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 1,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 240.0,
+        "enredo": "Quem É Você?"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 239.8,
+        "enredo": "De Gonzagão a Gonzaguinha: em Vida de Viajante"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 239.8,
+        "enredo": "As Minas Del Rei São João"
+      }
+    ],
+    "RJ - Grupo B": [
+      {
+        "posicao": 2,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 239.6,
+        "enredo": "O Imperador Morava Ali, do Outro Lado do Tuiuti"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 239.2,
+        "enredo": "A Lenda das Sereias, Rainhas do Mar"
+      }
+    ],
+    "RJ - Grupo C": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 160.0,
+        "enredo": "Das Lagrimas de Tupã, Nasce o Fruto Divino: o Guaraná"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 151.8,
+        "enredo": "Cantos e Encantos, Um Acalanto para Uiara"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 397.6,
+        "enredo": "Soy Loco Por Ti América: A Vila Canta a Latinidade"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 397.6,
+        "enredo": "Amazonas, o Eldorado É Aqui"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 397.2,
+        "enredo": "Arquitetando Folias"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 397.1,
+        "enredo": "Das Águas do São Francisco, Nasce Um Rio de Esperança"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 397.1,
+        "enredo": "Poços de Caldas Derrama Sobre a Terra Suas Águas Milagrosas - Do Caos Inicial à Explosão da Vida"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 393.2,
+        "enredo": "Brasil Marca a Tua Cara e Mostra para o Mundo"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 391.9,
+        "enredo": "O Império do Divino"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 391.9,
+        "enredo": "Um por Todos e Todos por Um"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 390.5,
+        "enredo": "A Vida que Pedi a Deus"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 388.9,
+        "enredo": "Microcosmos o que os Olhos não Vêem, o Coração Sente"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 3,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 291.0,
+        "enredo": "Tempo e o Vento, Suas Causas e Efeitos"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 298.25,
+        "enredo": "Do Boi Místico ao Boi Real - De Garcia D´Ávila na Bahia ao Nelore - O Boi que come capim - A Saga pecuária no Brasil para o Mundo"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 298.25,
+        "enredo": "São Vicente. Aqui Começou o Brasil."
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 298.0,
+        "enredo": "Das Lágrimas de Iaty Surge o Rio, do Imaginário Indígena a Saga de Opara. Para os Olhos do Mundo um Símbolo de Integração Nacional: Rio São Francisco"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 297.0,
+        "enredo": "A Diáspora Africana. Um Crime Contra Raça Humana"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 296.75,
+        "enredo": "X da Questão"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 296.5,
+        "enredo": "Bem Aventurados Sejam Os Perseguidos, Por Causa Da Justiça Dos Homens... Porque Deles É O Reino Dos Céus"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 294.0,
+        "enredo": "Não Tem Desculpa"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 292.75,
+        "enredo": "A Fé do Homem do Campo em Cultivar, Ensinar e Aprender"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 289.25,
+        "enredo": "Em grandes sertões veredas, o elo perdido se achou... Piauí a terra do sol me encanto u, com Frank Aguiar o rei do forró eu vou"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 287.75,
+        "enredo": "Santos Dumont - Brasil e França Navegando Pelos Ares"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 287.0,
+        "enredo": "Mamma Bahia - Ópera Negra Lídia de Oxum"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 287.0,
+        "enredo": "Das Vinhas aos Vinhos - Do Profano ao Sagrado, uma Viagem ao Mundo do Prazer com o Néctar dos Deuses"
+      },
+      {
+        "posicao": 15,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 284.5,
+        "enredo": "Cooperativismo, União para o Bem Comum. Uma Grande Nação se Faz com Cooperação"
+      },
+      {
+        "posicao": 16,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 283.25,
+        "enredo": "Asas da Fascinação"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 2,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 296.75,
+        "enredo": "Deus salve as rainhas!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 296.0,
+        "enredo": "No Balançar dos Balangandãs"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 285.0,
+        "enredo": "O Homem Há de Voar - Um Sonho Que Virou Realidade"
+      }
+    ],
+    "SP - Grupo de Espera": [
+      {
+        "posicao": 2,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 99.0,
+        "enredo": "Ainda Há Tempo... E Se Chover Vai Melhorar"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

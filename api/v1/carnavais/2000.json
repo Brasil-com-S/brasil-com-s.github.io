@@ -1,0 +1,270 @@
+{
+  "ano": 2000,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "imperatriz",
+      "escola_nome": "Imperatriz Leopoldinense",
+      "pontos": 299.5
+    },
+    "SP": {
+      "escola_slug": "vai-vai",
+      "escola_nome": "Vai-Vai",
+      "pontos": 199.5
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 200.0,
+        "enredo": "Os Canhões de Guararapes"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 195.5,
+        "enredo": "Um Monarca na Fuzarca"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 194.0,
+        "enredo": "No Ano 2000, a São Clemente É Tupi com Sergipe na Sapucaí"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 194.0,
+        "enredo": "Petrópolis, Roxo de Amor por Você"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 191.0,
+        "enredo": "Envergo, mas não Quebro"
+      }
+    ],
+    "RJ - Grupo C": [
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 188.5,
+        "enredo": "Bahia de Todos os Negros"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 170.5,
+        "enredo": "Nessa Terra Brasil"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 299.5,
+        "enredo": "Quem Descobriu o Brasil, Foi Seu Cabral, no Dia 22 de Abril, Dois Meses Depois do Carnaval"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 299.0,
+        "enredo": "Brasil, Um Coração que Pulsa Forte, Pátria de Todos ou Terra de Ninguém?"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 298.0,
+        "enredo": "Brasil: Visões de Paraísos e Infernos"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 297.5,
+        "enredo": "Verde, Amarelo, Branco, Anil, Colorem o Brasil no Ano 2000"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 290.0,
+        "enredo": "Sou Rei, Sou Salgueiro, Meu Reinado É Brasileiro"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 289.0,
+        "enredo": "Dom Obá II - Rei dos Esfarrapados, Príncipe do Povo"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 286.5,
+        "enredo": "Pra não Dizer que não Falei das Flores"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 284.0,
+        "enredo": "Carnaval à Vista - Não Fomos Catequizados, Fizemos Carnaval"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 276.0,
+        "enredo": "Trabalhadores do Brasil, a Época de Getúlio Vargas"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 272.0,
+        "enredo": "Academia Indígena de Letras - Eu Sou Índio, Eu Também Sou Imortal"
+      }
+    ],
+    "SP - Grupo 1A": [
+      {
+        "posicao": 1,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 201.0,
+        "enredo": "As Amazonas, Guerreiras no Mito, Guerreiras na Vida"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 200.5,
+        "enredo": "Vida. E Tudo Começou Assim!"
+      }
+    ],
+    "SP - Grupo 3 Oeste": [
+      {
+        "posicao": 2,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 98.5,
+        "enredo": "Brasil, Que História é Essa?"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 199.5,
+        "enredo": "Vai-Vai Brasil"
+      },
+      {
+        "posicao": 1,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 199.5,
+        "enredo": "Quem é Você Café!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 199.0,
+        "enredo": "Um Voo Para a Liberdade"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 198.5,
+        "enredo": "Historia Brasiliae, Cultura, Hábitos e Costumes de uma Holanda Tropical"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 198.5,
+        "enredo": "Porque me Orgulho de ser Brasileiro - A Era Vargas"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 198.5,
+        "enredo": "Yes, Nós Temos Mais que Banana"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 198.0,
+        "enredo": "Mare Liberum, Nas Terras de Ibirapitanga"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 196.5,
+        "enredo": "90 milhões em Ação, na Tristeza e na Felicidade"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 195.0,
+        "enredo": "A Formação do Povo Brasileiro"
+      },
+      {
+        "posicao": 13,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 190.0,
+        "enredo": "Brasil... Amor à Primeira Vista"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 189.5,
+        "enredo": "Cara e Coroa, as Duas Faces de um Império"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 199.0,
+        "enredo": "Canta Brasil... A Tropicália no Ano 2000"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 197.5,
+        "enredo": "Descobrimento ou Invasão? Eis a Questão!"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 196.5,
+        "enredo": "Saga de Reis em Terras Brasileiras"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

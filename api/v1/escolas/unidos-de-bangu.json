@@ -6,9 +6,7 @@
     "nome": "Unidos de Bangu",
     "nome_completo": "Grêmio Recreativo Escola de Samba Unidos de Bangu",
     "fundacao": "1937-11-15",
-    "fundadores": [
-      "Comunidade de Bangu"
-    ],
+    "fundadores": [],
     "estado": "RJ",
     "cidade": "Rio de Janeiro",
     "bairro": "Bangu",
@@ -18,17 +16,724 @@
       "Branco"
     ],
     "cores_hex": [
-      "#D32F2F",
+      "#FF0000",
       "#FFFFFF"
     ],
-    "simbolo": "Castelo de Bangu",
+    "simbolo": "Pandeiro",
     "titulos": 0,
     "anos_titulos": [],
     "logo_url": "assets/logos/original/unidos-de-bangu.png",
     "logo_original_url": "assets/logos/original/unidos-de-bangu.png",
-    "logo_gemini_png_url": "assets/logos/gemini/unidos-de-bangu.png",
-    "logo_gemini_svg_url": "assets/logos/gemini/unidos-de-bangu.svg",
-    "sambas_enredo": [],
-    "colocacoes": []
+    "sambas_enredo": [
+      {
+        "ano": 2026,
+        "titulo": "As Coisas que Mamãe me Ensinou",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2025,
+        "titulo": "Maraka’Anandê, Resistência Ancestral",
+        "compositores": "",
+        "interpretacao": "Igor Vianna e Pipa Brasey"
+      },
+      {
+        "ano": 2024,
+        "titulo": "Jorge da Capadócia",
+        "compositores": "",
+        "interpretacao": "Igor Vianna e Pipa Brasey"
+      },
+      {
+        "ano": 2023,
+        "titulo": "Aganjú - A Visão do Fogo, A Voz do Trovão no Reino de Oyó",
+        "compositores": "Júnior Fionda, Tem- Tem Jr, Marcelo Adnet, Marcelinho Santos, Orlando Ambrósio, Domingos PS, Dudu Senna, Fábio Turko e Diego Nogueira",
+        "interpretacao": "Pixulé"
+      },
+      {
+        "ano": 2022,
+        "titulo": "Deu Castor na Cabeça",
+        "compositores": "Dudu Senna, Richard Valença, Renan Diniz, Deodonio Neto, JotaPê, Marquinho BF, Denis Lanza, Kaoma Monteiro, Lepiane, Luizinho das Camisas e Carlitos Bahiano",
+        "interpretacao": "Igor Vianna"
+      },
+      {
+        "ano": 2021,
+        "titulo": "Deu Castor na cabeça!",
+        "compositores": "Dudu Senna, Richard Valença, Renan Diniz, Deodonio Neto, JotaPê, Marquinho BF, Denis Lanza, Kaoma Monteiro, Lepiane, Luizinho das Camisas e Carlitos Bahiano",
+        "interpretacao": "Igor Vianna"
+      },
+      {
+        "ano": 2020,
+        "titulo": "Memórias de Um Griô: a Diáspora Africana Numa Idade Nada Moderna e Muito Menos Contemporânea",
+        "compositores": "Dudu Sena, Diego Nicolau, Richard Valença, Renan Diniz, Orlando Ambrósio, Lucas Donato, Lico Monteiro, Marcio de Deus, Jeferson Oliveira, Domenil, Denilson do Rozário e Telmo Mota",
+        "interpretacao": "Igor Vianna"
+      },
+      {
+        "ano": 2019,
+        "titulo": "Do Ventre da Terra, Raízes Para o Mundo",
+        "compositores": "Samir Trindade, André Kaballa, Marcio de Deus, Wellington Amaro, Paulinho ferreira, Henrique Costa, Fabio Fonseca, Fabio Martins, Neizinho, Julio Assis, Marlon P. e Vinícius Sombra",
+        "interpretacao": "Daniel Collete, Tem-Tem Júnior e Luís Oliveira"
+      },
+      {
+        "ano": 2018,
+        "titulo": "A Travessia da Calunga Grande e a Nobreza Negra no Brasil",
+        "compositores": "Diego Nicolau, Dudu Senna, Richard Valença, Renan Diniz, Orlando Ambrósio, Rafael Tinguinha, Rafael Prates, André Kaballa, Marcio de Deus, Washington Motta e Ivan Câmara",
+        "interpretacao": "Leandro Santos e Thiago Brito"
+      },
+      {
+        "ano": 2017,
+        "titulo": "Onde Há Fumaça, Há Fogo!",
+        "compositores": "Tem-Tem Jr, Richard Valença, Diego Nicolau, Marquinho Art Samba, Dudu Senna, Rafael Prates, André Baiacu, Fernando, Renan Diniz, Rafael Tinguinha, Kevin Sardou, Márcio e Wallace",
+        "interpretacao": "Niu Souza"
+      },
+      {
+        "ano": 2016,
+        "titulo": "60 Anos de Glórias. A Estrela Guia Bangu Rumo à Vitória!",
+        "compositores": "",
+        "interpretacao": "Marcelo Rodrigues"
+      },
+      {
+        "ano": 2015,
+        "titulo": "Imperium",
+        "compositores": "Serginho Aguiar, Dudu Senna, Bruno Ferraz, Muido da Bahia, Walace Harmonia, Diego R., Leozinho Nunes e Allan Santos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 2014,
+        "titulo": "Eternamente Bangu",
+        "compositores": "(*) Ver abaixo",
+        "interpretacao": "Nino do Milênio"
+      },
+      {
+        "ano": 2013,
+        "titulo": "Nas Lembranças da Infância, Um Carnaval de Esperança",
+        "compositores": "Thiago Meiners, Igor Vianna, Evaldo Jr., Arlindo Neto e Carlinhos Piloto",
+        "interpretacao": "Carlinhos Piloto"
+      },
+      {
+        "ano": 1998,
+        "titulo": "História da História de Um Carnaval que Era do Povo, e Será?",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1997,
+        "titulo": "Mocidade Independente, Uma Estrela do Céu para Brilhar em Padre Miguel",
+        "compositores": "China e Amauri",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1996,
+        "titulo": "Oh! Que Saudade Eu Tenho",
+        "compositores": "Jorge Chapéu, Furú, Tuninho, Cheirinho, Edinho Marcação, Márcio Machado, Franklin e Arlindo de Melo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1995,
+        "titulo": "Rosa, Uma Flor Mulher",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1994,
+        "titulo": "Correio Nacional Através dos Tempos",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1993,
+        "titulo": "Alerta, Vamos Sambar, aí Vem a Emilinha",
+        "compositores": "J.Claudio, Luiz Claudio e Jose Carlos",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1992,
+        "titulo": "Troque a Pilha e Aumente o Volume",
+        "compositores": "Ronaldo, Simbora, Cardoso, Chapeú e Bruno",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1991,
+        "titulo": "Ginga, Palmares e Liberdade",
+        "compositores": "Dorado, Sentera e Nelson Cachorro",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1990,
+        "titulo": "O Encanto da Vida É Recordar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1989,
+        "titulo": "As Águas Vão Rolar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1988,
+        "titulo": "Rio que Tem Piranha, Jacaré Nada de Costas",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1987,
+        "titulo": "Tem que Dar Certo",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1986,
+        "titulo": "A Procissão dos Navegantes",
+        "compositores": "Martinho Devaneio, Waldeci e Wanderley",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1985,
+        "titulo": "É Hoje Só, Amanhã não Tem Mais",
+        "compositores": "Carlinhos Batuqueiro e Wilson do Cavaco",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1984,
+        "titulo": "Atrás do Trio Elétrico",
+        "compositores": "Vanildo Lima e Beto",
+        "interpretacao": "Sobrinho"
+      },
+      {
+        "ano": 1983,
+        "titulo": "Obrigado, Brasil",
+        "compositores": "Arlindo Andrade, Dorado e Lucinho da Boina",
+        "interpretacao": "Sobrinho"
+      },
+      {
+        "ano": 1982,
+        "titulo": "Você Sabe como É",
+        "compositores": "Marcos Job, Totonho e Carlinhos Biju",
+        "interpretacao": "Marcos Job"
+      },
+      {
+        "ano": 1981,
+        "titulo": "É Hoje, a História do Carnaval",
+        "compositores": "Batista do Parque, Totonho e Marcos Job",
+        "interpretacao": "Félix Bezerra"
+      },
+      {
+        "ano": 1980,
+        "titulo": "A Lenda de Juparanã, a Lagoa Encantada",
+        "compositores": "Élio, Hildo, Servilho, Wantuil e Wilson",
+        "interpretacao": "Félix Bezerra"
+      },
+      {
+        "ano": 1979,
+        "titulo": "Brasil, Batucai Vossos Pandeiros",
+        "compositores": "",
+        "interpretacao": "Israel do Nascimento - Mestre Jêgo"
+      },
+      {
+        "ano": 1978,
+        "titulo": "Essa Dupla É Uma Parada",
+        "compositores": "Crioulo e Nilo",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1977,
+        "titulo": "Madame Satã",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1976,
+        "titulo": "Festas e Tradições de Nossa Gente",
+        "compositores": "Marujo, Nilton Leal e Walter Melodia",
+        "interpretacao": "Ubirajara Proença"
+      },
+      {
+        "ano": 1975,
+        "titulo": "Emília no País da Gramática",
+        "compositores": "Roberto Rodrigues e Franklin Martins",
+        "interpretacao": "Mestre Gego"
+      },
+      {
+        "ano": 1974,
+        "titulo": "Rio, Pé de Moleque",
+        "compositores": "Devanil Silva",
+        "interpretacao": "Renato Nascimento"
+      },
+      {
+        "ano": 1973,
+        "titulo": "Prodígio de Café na Economia Brasileira",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1972,
+        "titulo": "Um dos motivos da Independência do Brasil",
+        "compositores": "Boina e Dantas",
+        "interpretacao": "Cobrinha"
+      },
+      {
+        "ano": 1971,
+        "titulo": "O Guarani de José de Alencar",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1970,
+        "titulo": "Apóstolo da Ciência e Benfeitor da Humanidade - Dr. Vital Brasil",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1969,
+        "titulo": "Maria Quitéria, Heroína da Independência",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1968,
+        "titulo": "Vida e História de Vitor Meirelles de Lima",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1967,
+        "titulo": "Os Precursores da Abolição",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1966,
+        "titulo": "Viagem Pitoresca à História do Brasil",
+        "compositores": "",
+        "interpretacao": "Renato Nascimento"
+      },
+      {
+        "ano": 1965,
+        "titulo": "4.° Centenário",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1964,
+        "titulo": "Jóias da Poesia",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1963,
+        "titulo": "Brasil, Pátria Universal",
+        "compositores": "Ala dos Compositores",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1962,
+        "titulo": "A Fragata de D. Afonso",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1961,
+        "titulo": "Os Bandeirantes",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1960,
+        "titulo": "Jóias da Primavera",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1959,
+        "titulo": "O Último Baile da Corte Imperial",
+        "compositores": "",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1958,
+        "titulo": "Proclamação da República",
+        "compositores": "Paulo Pires Sampaio e Aristóteles Montenegro de Sousa",
+        "interpretacao": ""
+      },
+      {
+        "ano": 1957,
+        "titulo": "Homenagem à Aviação Brasileira",
+        "compositores": "",
+        "interpretacao": ""
+      }
+    ],
+    "colocacoes": [
+      {
+        "ano": 2026,
+        "grupo": "Série Ouro",
+        "posicao": 12,
+        "pontos": 268.1,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2024,
+        "grupo": "Série Ouro",
+        "posicao": 10,
+        "pontos": 269.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2023,
+        "grupo": "Série Ouro",
+        "posicao": 9,
+        "pontos": 268.8,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 2022,
+        "grupo": "Série Ouro",
+        "posicao": 7,
+        "pontos": 269.1,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 2020,
+        "grupo": "Série A",
+        "posicao": 10,
+        "pontos": 267.1,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 2019,
+        "grupo": "Série A",
+        "posicao": 8,
+        "pontos": 266.3,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 2018,
+        "grupo": "Série A",
+        "posicao": 12,
+        "pontos": 264.3,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 2017,
+        "grupo": "Série B",
+        "posicao": 1,
+        "pontos": 269.1,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2016,
+        "grupo": "Série B",
+        "posicao": 6,
+        "pontos": 268.7,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 2015,
+        "grupo": "Série A",
+        "posicao": 14,
+        "pontos": 291.9,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 2014,
+        "grupo": "Grupo B",
+        "posicao": 1,
+        "pontos": 299.6,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 2013,
+        "grupo": "Grupo C",
+        "posicao": 2,
+        "pontos": 299.0,
+        "resultado": "2º Lugar"
+      },
+      {
+        "ano": 1998,
+        "grupo": "Grupo E",
+        "posicao": 5,
+        "pontos": 130.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1997,
+        "grupo": "Grupo E",
+        "posicao": 6,
+        "pontos": 97.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1996,
+        "grupo": "Grupo E",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1995,
+        "grupo": "Grupo 1",
+        "posicao": 6,
+        "pontos": null,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1994,
+        "grupo": "Grupo 3",
+        "posicao": 7,
+        "pontos": 200.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1993,
+        "grupo": "Grupo 3",
+        "posicao": 5,
+        "pontos": 188.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1992,
+        "grupo": "Grupo 3",
+        "posicao": 4,
+        "pontos": 205.0,
+        "resultado": "4º Lugar"
+      },
+      {
+        "ano": 1991,
+        "grupo": "Grupo 3",
+        "posicao": 5,
+        "pontos": 200.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1990,
+        "grupo": "Grupo 3",
+        "posicao": 7,
+        "pontos": 152.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1989,
+        "grupo": "Grupo 3",
+        "posicao": 9,
+        "pontos": 172.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1988,
+        "grupo": "Grupo 3",
+        "posicao": 6,
+        "pontos": 186.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1987,
+        "grupo": "Grupo 3",
+        "posicao": 8,
+        "pontos": 193.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1986,
+        "grupo": "Grupo 2-A",
+        "posicao": 9,
+        "pontos": 167.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1985,
+        "grupo": "Grupo 1-B",
+        "posicao": 7,
+        "pontos": 210.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1984,
+        "grupo": "Grupo 1-B",
+        "posicao": 6,
+        "pontos": 182.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1983,
+        "grupo": "Grupo 1-B",
+        "posicao": 5,
+        "pontos": 193.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1982,
+        "grupo": "Grupo 1-B",
+        "posicao": 10,
+        "pontos": 152.0,
+        "resultado": "10º Lugar"
+      },
+      {
+        "ano": 1981,
+        "grupo": "Grupo 1-B",
+        "posicao": 7,
+        "pontos": 152.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1980,
+        "grupo": "Grupo 1-B",
+        "posicao": 7,
+        "pontos": 80.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1979,
+        "grupo": "Grupo 2-A",
+        "posicao": 6,
+        "pontos": 85.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1978,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 89.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1977,
+        "grupo": "Grupo 3",
+        "posicao": 5,
+        "pontos": 48.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1976,
+        "grupo": "Grupo 2",
+        "posicao": 16,
+        "pontos": 72.0,
+        "resultado": "16º Lugar"
+      },
+      {
+        "ano": 1975,
+        "grupo": "Grupo 2",
+        "posicao": 11,
+        "pontos": 88.0,
+        "resultado": "11º Lugar"
+      },
+      {
+        "ano": 1974,
+        "grupo": "Grupo 2",
+        "posicao": 14,
+        "pontos": 68.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1973,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 51.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1971,
+        "grupo": "Grupo 3",
+        "posicao": 3,
+        "pontos": 102.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1970,
+        "grupo": "Grupo 3",
+        "posicao": 7,
+        "pontos": 63.0,
+        "resultado": "7º Lugar"
+      },
+      {
+        "ano": 1969,
+        "grupo": "Grupo 3",
+        "posicao": 14,
+        "pontos": 65.0,
+        "resultado": "14º Lugar"
+      },
+      {
+        "ano": 1968,
+        "grupo": "Grupo 3",
+        "posicao": 9,
+        "pontos": 69.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1967,
+        "grupo": "Grupo 3",
+        "posicao": 19,
+        "pontos": 69.0,
+        "resultado": "19º Lugar"
+      },
+      {
+        "ano": 1966,
+        "grupo": "Grupo 3",
+        "posicao": 5,
+        "pontos": 65.0,
+        "resultado": "5º Lugar"
+      },
+      {
+        "ano": 1965,
+        "grupo": "Grupo 3",
+        "posicao": 6,
+        "pontos": 76.0,
+        "resultado": "6º Lugar"
+      },
+      {
+        "ano": 1964,
+        "grupo": "Grupo 2",
+        "posicao": 13,
+        "pontos": 34.0,
+        "resultado": "13º Lugar"
+      },
+      {
+        "ano": 1963,
+        "grupo": "Grupo 1",
+        "posicao": 9,
+        "pontos": 44.0,
+        "resultado": "9º Lugar"
+      },
+      {
+        "ano": 1962,
+        "grupo": "Grupo 2",
+        "posicao": 1,
+        "pontos": 101.0,
+        "resultado": "Campeã"
+      },
+      {
+        "ano": 1961,
+        "grupo": "Desfile intermediário",
+        "posicao": 3,
+        "pontos": 82.0,
+        "resultado": "3º Lugar"
+      },
+      {
+        "ano": 1960,
+        "grupo": "Supercampeonato",
+        "posicao": 8,
+        "pontos": 51.0,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1959,
+        "grupo": "Supercampeonato",
+        "posicao": 8,
+        "pontos": 82.5,
+        "resultado": "8º Lugar"
+      },
+      {
+        "ano": 1958,
+        "grupo": "Supercampeonato",
+        "posicao": 12,
+        "pontos": 80.0,
+        "resultado": "12º Lugar"
+      },
+      {
+        "ano": 1957,
+        "grupo": "Campeonato",
+        "posicao": 1,
+        "pontos": 93.0,
+        "resultado": "Campeã"
+      }
+    ]
   }
 }

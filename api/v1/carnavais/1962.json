@@ -1,0 +1,97 @@
+{
+  "ano": 1962,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 126.5,
+        "enredo": "Rugendas ou Viagens Pitorescas Através do Brasil"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 116.0,
+        "enredo": "Rio dos Vice-Reis"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 112.5,
+        "enredo": "O Descobrimento do Brasil"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 110.5,
+        "enredo": "Casa Grande e Senzala"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 84.5,
+        "enredo": "Brasil no Campo Cultural"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 101.0,
+        "enredo": "A Fragata de D. Afonso"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 101.0,
+        "enredo": "Dia do Fico"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 96.0,
+        "enredo": "Rio no Século XVIII, Apoteose a Carlos Gomes de Andrade, o Conde de Bobadela"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 92.0,
+        "enredo": "Dom João VI"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 88.0,
+        "enredo": "Cinco Fatos Históricos"
+      },
+      {
+        "posicao": 14,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 73.0,
+        "enredo": "Homenagem a Catulo da Paixão Cearense"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 4,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 86.0,
+        "enredo": "Riquezas do Brasil"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

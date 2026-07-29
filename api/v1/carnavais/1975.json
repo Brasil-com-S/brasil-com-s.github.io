@@ -1,0 +1,187 @@
+{
+  "ano": 1975,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 108.0,
+        "enredo": "O Segredo das Minas do Rei Salomão"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 106.0,
+        "enredo": "Imagens Poéticas de Jorge de Lima"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 105.0,
+        "enredo": "Zaquia Jorge, a Vedete do Subúrbio, Estrela de Madureira"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 105.0,
+        "enredo": "O Mundo Fantástico do Uirapurú"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 103.0,
+        "enredo": "Macunaíma, Herói de Nossa Gente"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 102.0,
+        "enredo": "Quatro Séculos de Paixão - História do Teatro Brasileiro"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 90.0,
+        "enredo": "O Grande Decênio"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 87.0,
+        "enredo": "A Morte da Porta-Estandarte"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 83.0,
+        "enredo": "Nos Confins de Vila Monte"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 5,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 97.0,
+        "enredo": "Quem Quebrou Meu Violão - Tra-Lá-Lá"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 92.0,
+        "enredo": "Obra e Vida de Cecília Meireles"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 88.0,
+        "enredo": "Emília no País da Gramática"
+      },
+      {
+        "posicao": 17,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 73.0,
+        "enredo": "Resplendor de Um Grande Festival"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 8,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 87.0,
+        "enredo": "Ubajara, o Eterno Mistério do Ceará"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 88.0,
+        "enredo": "Tropicália"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 78.0,
+        "enredo": "Rosas de Ouro na Rua"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 78.0,
+        "enredo": "No Alto do Caaguaçu - Avenida Paulista Antes e Depois"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 76.0,
+        "enredo": "Exaltação às Raças de um Brasil Gigante"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 67.0,
+        "enredo": "O Guarani"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 56.0,
+        "enredo": "Felipe Mina, o Senhor dos Diamantes"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 1,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 82.0,
+        "enredo": "São Paulo de Adoniran Barbosa"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 52.0,
+        "enredo": "Pirulito que bate-bate na cabeça de um sonhador"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 31.0,
+        "enredo": "Viagem à Hiléia brasileira"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 1,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 71.0,
+        "enredo": "Primeira Chegada dos Escravos"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

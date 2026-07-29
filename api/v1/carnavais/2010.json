@@ -1,0 +1,284 @@
+{
+  "ano": 2010,
+  "campeas_grupo_especial": {
+    "RJ": {
+      "escola_slug": "grande-rio",
+      "escola_nome": "Acadêmicos do Grande Rio",
+      "pontos": 299.4
+    },
+    "SP": {
+      "escola_slug": "rosas-de-ouro",
+      "escola_nome": "Rosas de Ouro",
+      "pontos": 270.0
+    }
+  },
+  "grupos": {
+    "RJ - Grupo A": [
+      {
+        "posicao": 1,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 270.0,
+        "enredo": "Choque de Ordem na Folia"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "inocentes-de-belford-roxo",
+        "escola_nome": "Inocentes de Belford Roxo",
+        "pontos": 268.7,
+        "enredo": "Água para Prover a Vida"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "estacio-de-sa",
+        "escola_nome": "Estácio de Sá",
+        "pontos": 268.6,
+        "enredo": "Deixa Falar. A Estácio É isso ai! Eu Visto Esse Manto e Vou por ai..."
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 267.9,
+        "enredo": "João das Ruas do Rio"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 263.3,
+        "enredo": "Aço - Universo Presente na Riqueza da Terra - O Futuro a Ti Pertence!"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 262.7,
+        "enredo": "Eneida , o Pierrôt Está de Volta!"
+      }
+    ],
+    "RJ - Grupo Especial": [
+      {
+        "posicao": 2,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 299.4,
+        "enredo": "Das Arquibancadas ao Camarote N.º 1. Um \"Grande Rio\" de Emoção na Apoteose do Seu Coração!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 299.2,
+        "enredo": "Brilhante ao Sol do Novo Mundo, Brasília : do Sonho à Realidade, a Capital da Esperança"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 298.1,
+        "enredo": "Noel : A Presença do Poeta da Vila"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 297.9,
+        "enredo": "Histórias Sem Fim"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 297.6,
+        "enredo": "Mangueira É Música do Brasil"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 296.1,
+        "enredo": "Do Paraíso de Deus ao Paraíso da Loucura, Cada Um Sabe o que Procura"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 295.8,
+        "enredo": "Brasil de Todos os Deuses"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 295.2,
+        "enredo": "Derrubando Fronteiras, Conquistando a Liberdade... Rio de Paz, em Estado de Graça!"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 293.8,
+        "enredo": "Dom Quixote de La Mancha , o Cavaleiro dos Sonhos Impossíveis"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "viradouro",
+        "escola_nome": "Unidos do Viradouro",
+        "pontos": 290.5,
+        "enredo": "México , o Paraíso das Cores, Sob o Signo do Sol"
+      }
+    ],
+    "RJ - Grupo Rio de Janeiro 3": [
+      {
+        "posicao": 11,
+        "escola_slug": "academicos-de-vigario-geral",
+        "escola_nome": "Acadêmicos de Vigário Geral",
+        "pontos": 174.2,
+        "enredo": "Mitos, Mistérios e Magias do Oculto e do Sagrado"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 270.25,
+        "enredo": "As Quatro Estações"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "estrela-do-terceiro-milenio",
+        "escola_nome": "Estrela do Terceiro Milênio",
+        "pontos": 259.25,
+        "enredo": "Óxente Cabra da Peste, São Paulo Capital do Nordeste"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 12,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 99.75,
+        "enredo": "Da Descoberta à Chama da Razão a Colorado Descobre o Fogo"
+      }
+    ],
+    "SP - Grupo Especial": [
+      {
+        "posicao": 1,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 270.0,
+        "enredo": "Cacau: um grão precioso que virou chocolate, e sem dúvida. se transformou no melhor presente!"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 269.75,
+        "enredo": "Da criação do Universo ao sonho eterno do Criador... eu sou o espelho e me espelho em quem me criou"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 269.25,
+        "enredo": "80 Anos de Arte e Euforia, “É Bom no Samba, É Bom no Couro” Salve o Duplo Jubileu de Carvalho"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "mancha-verde",
+        "escola_nome": "Mancha Verde",
+        "pontos": 269.0,
+        "enredo": "Aos Mestres com Carinho! Mancha Verde Ensina Como Criar Identidade"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "gavioes-da-fiel",
+        "escola_nome": "Gaviões da Fiel",
+        "pontos": 268.75,
+        "enredo": "Corinthians... minha vida, minha história, meu amor!"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperio-de-casa-verde",
+        "escola_nome": "Império de Casa Verde",
+        "pontos": 268.5,
+        "enredo": "Itu, Fidelíssima Terra de Gigantes"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 268.25,
+        "enredo": "São Luis do Maranhão - Um Universo de Encantos e Magias"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "x-9-paulistana",
+        "escola_nome": "X-9 Paulistana",
+        "pontos": 268.0,
+        "enredo": "Do Além Mar, a Herança Lusitana nos Une. Ora Pois... A X-9 é Portuguesa com Certeza!"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 268.0,
+        "enredo": "Vamos Tirar o Brasil da Gaveta"
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 265.0,
+        "enredo": "Ribeirão Preto - Região à Frente do Seu Tempo: Da Abolição ao Agronegócio, Terra de Liberdade e Riqueza!"
+      },
+      {
+        "posicao": 12,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 259.5,
+        "enredo": "Brasilia, Do Sonho à Realidade... Uma Homenagem de São Paulo aos 50 Anos da Capital Coração do Brasil"
+      }
+    ],
+    "SP - Grupo de Acesso": [
+      {
+        "posicao": 1,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 268.25,
+        "enredo": "A Água Nossa de Cada Dia. A Pureza da Águia é a Essência de Nossas Vidas!"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 268.0,
+        "enredo": "São Paulo, olhai por nós!"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "dragoes-da-real",
+        "escola_nome": "Dragões da Real",
+        "pontos": 268.0,
+        "enredo": "Renovação... Assim Caminha a Humanidade"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 267.25,
+        "enredo": "Tô No Jogo, Me Respeite!"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 259.25,
+        "enredo": "O beijo"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}

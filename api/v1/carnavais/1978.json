@@ -1,0 +1,210 @@
+{
+  "ano": 1978,
+  "campeas_grupo_especial": {},
+  "grupos": {
+    "RJ - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "beija-flor",
+        "escola_nome": "Beija-Flor de Nilópolis",
+        "pontos": 166.0,
+        "enredo": "A Criação do Mundo na Tradição Nagô"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "mangueira",
+        "escola_nome": "Estação Primeira de Mangueira",
+        "pontos": 163.0,
+        "enredo": "Dos Carroceiros do Imperador ao Palácio do Samba"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-independente",
+        "escola_nome": "Mocidade Independente de Padre Miguel",
+        "pontos": 152.0,
+        "enredo": "Brasiliana"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "uniao-da-ilha",
+        "escola_nome": "União da Ilha do Governador",
+        "pontos": 150.0,
+        "enredo": "O Amanhã"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "portela",
+        "escola_nome": "Portela",
+        "pontos": 148.0,
+        "enredo": "Mulher à Brasileira"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "salgueiro",
+        "escola_nome": "Acadêmicos do Salgueiro",
+        "pontos": 147.0,
+        "enredo": "Do Yorubá à Luz, a Aurora dos Deuses"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "imperio-serrano",
+        "escola_nome": "Império Serrano",
+        "pontos": 139.0,
+        "enredo": "Oscarito, Carnaval e Samba, Uma Chanchada no Asfalto"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "vila-isabel",
+        "escola_nome": "Unidos de Vila Isabel",
+        "pontos": 115.0,
+        "enredo": "Dique, Um Mar de Amor"
+      }
+    ],
+    "RJ - Grupo 2": [
+      {
+        "posicao": 2,
+        "escola_slug": "imperatriz",
+        "escola_nome": "Imperatriz Leopoldinense",
+        "pontos": 93.0,
+        "enredo": "Vamos Brincar de Ser Criança"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "sao-clemente",
+        "escola_nome": "São Clemente",
+        "pontos": 74.0,
+        "enredo": "Apoteose ao Teatro de Revista"
+      }
+    ],
+    "RJ - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "unidos-de-bangu",
+        "escola_nome": "Unidos de Bangu",
+        "pontos": 89.0,
+        "enredo": "Essa Dupla É Uma Parada"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "unidos-de-padre-miguel",
+        "escola_nome": "Unidos de Padre Miguel",
+        "pontos": 85.0,
+        "enredo": "Festa de Yemanjá"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "paraiso-do-tuiuti",
+        "escola_nome": "Paraíso do Tuiuti",
+        "pontos": 79.0,
+        "enredo": "Carnaval de Ontem e de Hoje"
+      },
+      {
+        "posicao": 10,
+        "escola_slug": "grande-rio",
+        "escola_nome": "Acadêmicos do Grande Rio",
+        "pontos": 74.0,
+        "enredo": "Devaneios de Um Pierrot"
+      }
+    ],
+    "SP - Grupo 1": [
+      {
+        "posicao": 1,
+        "escola_slug": "vai-vai",
+        "escola_nome": "Vai-Vai",
+        "pontos": 86.0,
+        "enredo": "Na Arca de Noel Quem Entrou não Saiu Mais"
+      },
+      {
+        "posicao": 2,
+        "escola_slug": "camisa-verde-e-branco",
+        "escola_nome": "Camisa Verde e Branco",
+        "pontos": 84.0,
+        "enredo": "Semana de Arte Moderna e os Contemporâneos do Futuro"
+      },
+      {
+        "posicao": 3,
+        "escola_slug": "mocidade-alegre",
+        "escola_nome": "Mocidade Alegre",
+        "pontos": 81.0,
+        "enredo": "Sonhando nos Braços de Morfeu"
+      },
+      {
+        "posicao": 4,
+        "escola_slug": "rosas-de-ouro",
+        "escola_nome": "Rosas de Ouro",
+        "pontos": 79.0,
+        "enredo": "Salamanca do Jarau"
+      },
+      {
+        "posicao": 5,
+        "escola_slug": "nene-de-vila-matilde",
+        "escola_nome": "Nenê de Vila Matilde",
+        "pontos": 70.0,
+        "enredo": "Sonho de um Rei Negro"
+      },
+      {
+        "posicao": 6,
+        "escola_slug": "perola-negra",
+        "escola_nome": "Pérola Negra",
+        "pontos": 67.0,
+        "enredo": "Dia-a-Dia"
+      },
+      {
+        "posicao": 7,
+        "escola_slug": "barroca-zona-sul",
+        "escola_nome": "Barroca Zona Sul",
+        "pontos": 61.0,
+        "enredo": "Cantos e Danças de um Povo"
+      },
+      {
+        "posicao": 9,
+        "escola_slug": "unidos-do-peruche",
+        "escola_nome": "Unidos do Peruche",
+        "pontos": 59.0,
+        "enredo": "Di Cavalcanti \"Dos Carnavais e das Mulatas\""
+      },
+      {
+        "posicao": 11,
+        "escola_slug": "tom-maior",
+        "escola_nome": "Tom Maior",
+        "pontos": 42.0,
+        "enredo": "Um Dia na Praça"
+      }
+    ],
+    "SP - Grupo 2": [
+      {
+        "posicao": 7,
+        "escola_slug": "academicos-do-tatuape",
+        "escola_nome": "Acadêmicos do Tatuapé",
+        "pontos": 62.0,
+        "enredo": "Juca Mulato"
+      }
+    ],
+    "SP - Grupo 3": [
+      {
+        "posicao": 3,
+        "escola_slug": "colorado-do-bras",
+        "escola_nome": "Colorado do Brás",
+        "pontos": 75.0,
+        "enredo": "Sítio do Pica-Pau Amarelo"
+      },
+      {
+        "posicao": 8,
+        "escola_slug": "aguia-de-ouro",
+        "escola_nome": "Águia de Ouro",
+        "pontos": 61.0,
+        "enredo": "Cem anos de Chorinho"
+      }
+    ],
+    "SP - Grupo 4": [
+      {
+        "posicao": 1,
+        "escola_slug": "academicos-do-tucuruvi",
+        "escola_nome": "Acadêmicos do Tucuruvi",
+        "pontos": 78.0,
+        "enredo": "Sonho de Carnaval"
+      }
+    ]
+  },
+  "nota": "Classificação das escolas presentes na base Brasil Com S."
+}
