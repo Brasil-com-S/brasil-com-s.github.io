@@ -4,6 +4,8 @@ Plataforma de consulta aberta e API pública sobre cultura brasileira desenvolvi
 
 O projeto serve simultaneamente como **Landing Page Interativa** e como uma **API REST Estática em JSON** hospedada diretamente no GitHub Pages (`https://brasil-com-s.github.io/`).
 
+📖 **Documentação técnica completa** (deploy, pipeline, schemas dos CSVs, endpoints): [DOCUMENTACAO.md](DOCUMENTACAO.md)
+
 ---
 
 ## ⚙️ Pipeline de Dados (Fontes Oficiais)
